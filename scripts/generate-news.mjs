@@ -4,6 +4,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { promisify } from "node:util";
 
 const execFileAsync = promisify(execFile);
+const userAgent = "Mozilla/5.0 (compatible; BgNews/1.0; +https://github.com/stoimen/BgNews)";
 
 const sources = [
   {
@@ -141,12 +142,22 @@ const fetchSource = async (source) => {
 
   try {
     const response = await fetch(source.feedUrl, {
-      headers: { "user-agent": "BulgarianNewsAggregator/0.1" },
+      headers: {
+        "accept": "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+        "user-agent": userAgent,
+      },
     });
     if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
     xml = await response.text();
   } catch {
-    const { stdout } = await execFileAsync("curl", ["-fsSL", source.feedUrl], {
+    const { stdout } = await execFileAsync("curl", [
+      "-fsSL",
+      "-A",
+      userAgent,
+      "-H",
+      "Accept: application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+      source.feedUrl,
+    ], {
       maxBuffer: 10 * 1024 * 1024,
     });
     xml = stdout;
