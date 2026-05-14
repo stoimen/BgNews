@@ -1,6 +1,6 @@
 import { XMLParser } from "fast-xml-parser";
 import { execFile } from "node:child_process";
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { promisify } from "node:util";
 
 const execFileAsync = promisify(execFile);
@@ -166,15 +166,25 @@ const fetchSource = async (source) => {
   return mapFeed(xml, source);
 };
 
+const previousPayload = await readFile("public/news.json", "utf8")
+  .then((content) => JSON.parse(content))
+  .catch(() => null);
+
 const settled = await Promise.allSettled(sources.map(fetchSource));
 const errors = [];
 const items = [];
 
 settled.forEach((result, index) => {
+  const source = sources[index];
   if (result.status === "fulfilled") {
     items.push(...result.value);
   } else {
-    errors.push({ sourceId: sources[index].id, message: result.reason.message });
+    const cachedItems = previousPayload?.items?.filter((item) => item.sourceId === source.id) ?? [];
+    items.push(...cachedItems);
+    errors.push({
+      sourceId: source.id,
+      message: `${result.reason.message}${cachedItems.length ? `; using ${cachedItems.length} cached items` : ""}`,
+    });
   }
 });
 

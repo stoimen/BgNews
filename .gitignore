@@ -21,4 +21,3 @@ xcuserdata/
 # Web app
 node_modules/
 dist/
-public/news.json
