@@ -1,20 +1,6 @@
 # macOS
 .DS_Store
 
-# Swift Package Manager
-.build/
-.swiftpm/
-
-# Xcode
-DerivedData/
-Derived/
-*.xcuserstate
-xcuserdata/
-
-# Tuist generated projects/workspaces
-*.xcodeproj/
-*.xcworkspace/
-
 # Local tooling
 .claude/
 

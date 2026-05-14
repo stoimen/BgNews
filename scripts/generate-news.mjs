@@ -35,6 +35,13 @@ const sources = [
     color: "#00a7d8",
     feedUrl: "https://nova.bg/rss/latest",
   },
+  {
+    id: "capital",
+    name: "Capital",
+    shortName: "Capital",
+    color: "#0f766e",
+    feedUrl: "https://www.capital.bg/rss/",
+  },
 ];
 
 const parser = new XMLParser({

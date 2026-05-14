@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T06:00:31.513Z",
+  "generatedAt": "2026-05-14T09:40:24.657Z",
   "sources": [
     {
       "id": "mediapool",
@@ -28,15 +28,623 @@
       "shortName": "Nova",
       "color": "#00a7d8",
       "feedUrl": "https://nova.bg/rss/latest"
+    },
+    {
+      "id": "capital",
+      "name": "Capital",
+      "shortName": "Capital",
+      "color": "#0f766e",
+      "feedUrl": "https://www.capital.bg/rss/"
     }
   ],
   "errors": [],
   "items": [
     {
-      "id": "https://news.bnt.bg/news/na-zhivo-promenite-v-zakona-za-zashtita-na-potrebitelite-i-v-zakona-za-sadebnata-vlast-vlizat-na-parvo-chetene-v-ns-1393195news.html",
-      "title": "НА ЖИВО: Промените в Закона за защита на потребителите и в Закона за съдебната власт влизат на първо четене в НС",
+      "id": "https://bntnews.bg/news/prokuraturata-razsledva-ubiystvo-v-montana-1393222news.html",
+      "title": "Прокуратурата разследва убийство в Монтана",
+      "summary": "Скандал на улица в монтанския квартал „Кошарник“ завърши със смъртта на 47-годишен мъж, а трима души са задържани. В Окръжна прокуратура – Монтана вече е образувано досъдебно производство за умишлено...",
+      "link": "https://bntnews.bg/news/prokuraturata-razsledva-ubiystvo-v-montana-1393222news.html",
+      "pubDate": "2026-05-14T09:38:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537108/",
+      "title": "Новият регионален министър се запознава със ситуацията със свлачището край Пампорово",
+      "summary": "Той подчерта, че до седмица ще има окончателно решение кога и как ще започне укрепването на свлачището",
+      "link": "https://nova.bg/news/view/2026/05/14/537108/%D0%BD%D0%BE%D0%B2%D0%B8%D1%8F%D1%82-%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B5%D0%BD-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%8A%D1%80-%D1%81%D0%B5-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0-%D1%81%D1%8A%D1%81-%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D1%8F%D1%82%D0%B0-%D1%81%D1%8A%D1%81-%D1%81%D0%B2%D0%BB%D0%B0%D1%87%D0%B8%D1%89%D0%B5%D1%82%D0%BE-%D0%BA%D1%80%D0%B0%D0%B9-%D0%BF%D0%B0%D0%BC%D0%BF%D0%BE%D1%80%D0%BE%D0%B2%D0%BE/",
+      "pubDate": "2026-05-14T09:37:25.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1777752400.jpg"
+    },
+    {
+      "id": "https://www.capital.bg/4913928",
+      "title": "Си предупреди Тръмп: Отношенията между САЩ и Китай зависят от Тайван",
+      "summary": "Си Цзинпин предупреди Доналд Тръмп, че \"тайванският въпрос\" е от критично значение за отношенията между САЩ и Китай и при неправилно управление може да доведе до \"конфликт\", докато двамата откриваха важна среща на върха в Пекин. Двамата лидери проведоха двучасова среща в четвъртък, а това е първото посещение на американски президент в Китай от 9 години. На нея Си похвали напредъка в търговските преговори и заяви, че в една митническа война \"няма победители\", съобщава Financial Times. Претенциите...",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/05/14/4913928_si_predupredi_trump_otnosheniiata_mejdu_sasht_i_kitai/?ref=rss",
+      "pubDate": "2026-05-14T09:37:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4913929.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537112/",
+      "title": "Спортни новини (14.05.2026 - обедна)",
+      "summary": "Гледайте цялата емисия",
+      "link": "https://nova.bg/news/view/2026/05/14/537112/%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%B8-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8-14052026-%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B0/",
+      "pubDate": "2026-05-14T09:32:33.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778751217.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537111/",
+      "title": "Новините на NOVA (14.05.2026 - обедна)",
+      "summary": "Гледайте цялата емисия",
+      "link": "https://nova.bg/news/view/2026/05/14/537111/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-nova-14052026-%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B0/",
+      "pubDate": "2026-05-14T09:30:32.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778751129.jpg"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383340",
+      "title": "Министър-председателката на Латвия и правителството ѝ подадоха оставка",
+      "summary": "Министър-председателката на Латвия Евика Силиня, която е лидер на десноцентристката партия \"Ново единство\", подаде днес в парламента на страната - Сейма, своята оставка, която означава оттегляне на цялото ѝ коалиционно правителство, съобщи Латвийското радио и телевизия (ЛСМ). ЛСМ отбелязва, че правителството на практика е паднало вчера, когато единият от коалиционните партньори на \"Ново единство\" - партията \"Прогресивните“, обяви, че оттегля подкрепата си за Силиня. Така управляващите загубиха парламентарното си мнозинство.",
+      "link": "https://www.mediapool.bg/ministar-predsedatelkata-na-latviya-i-pravitelstvoto-podadoha-ostavka-news383340.html",
+      "pubDate": "2026-05-14T09:29:32.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_56bd7f94f734bb01bde6a074b49b335e.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537110/",
+      "title": "Обвиненият по делото „Сияна“ поиска по-лека мярка",
+      "summary": "Все още не е готова комплексната експертиза по делото",
+      "link": "https://nova.bg/news/view/2026/05/14/537110/%D0%BE%D0%B1%D0%B2%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D1%82-%D0%BF%D0%BE-%D0%B4%D0%B5%D0%BB%D0%BE%D1%82%D0%BE-%D1%81%D0%B8%D1%8F%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D0%BE-%D0%BB%D0%B5%D0%BA%D0%B0-%D0%BC%D1%8F%D1%80%D0%BA%D0%B0/",
+      "pubDate": "2026-05-14T09:20:00.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778750343.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/vasil-terziev-vrashta-doklada-s-koito-se-pozvolyava-stroitelstvoto-na-22-etazhen-nebostargach-v-mladost-1393231news.html",
+      "title": "Васил Терзиев връща доклада, с който се позволява строителството на 22-етажен небостъргач в \"Младост\"",
+      "summary": "Кметът на София Васил Терзиев обяви, че ще върне доклада, с който се позволява строителството на 22-етажната сграда в столичния квартал \"Младост\". Във вторник се проведе голям протест, на който жители...",
+      "link": "https://bntnews.bg/news/vasil-terziev-vrashta-doklada-s-koito-se-pozvolyava-stroitelstvoto-na-22-etazhen-nebostargach-v-mladost-1393231news.html",
+      "pubDate": "2026-05-14T09:18:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "https://bntnews.bg/news/da-otkriya-tova-shou-e-neveroyatna-vazmozhnost-dara-izliza-pod-№-1-na-vtoriya-polufinal-na-evroviziya-galeriya-1393218news.html",
+      "title": "\"Да открия това шоу е невероятна възможност\": DARA излиза под № 1 на втория полуфинал на \"Евровизия\" (ГАЛЕРИЯ)",
+      "summary": "DARA открива втория полуфинал на песенния конкурс \"Евровизия\" във Виена тази вечер. БНТ1 ще го излъчи на живо. Прякото предаване започва в 22.00 часа.&#13; &#13; От всяка точка на света: Как да подкрепите DAR...",
+      "link": "https://bntnews.bg/news/da-otkriya-tova-shou-e-neveroyatna-vazmozhnost-dara-izliza-pod-№-1-na-vtoriya-polufinal-na-evroviziya-galeriya-1393218news.html",
+      "pubDate": "2026-05-14T09:15:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383339",
+      "title": "Прокуратурата проверява варненския кмет заради 7 отсечени липи",
+      "summary": "Районната прокуратура във Варна е образувала дело заради седем отсечени липи. Дърветата са се намирали в центъра на града, близо до нова сграда, която се строи на мястото на т.нар. Картофена къща.",
+      "link": "https://www.mediapool.bg/prokuraturata-proveryava-varnenskiya-kmet-zaradi-7-otsecheni-lipi-news383339.html",
+      "pubDate": "2026-05-14T09:14:59.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_b82b41206fbc88a9a605be3b853ebd90.jpg"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383329",
+      "title": "Русия атакува Украйна с над 1560 дрона от ранните часове вчера, три жертви тази нощ в Киев",
+      "summary": "Руските сили са атакували Украйна с повече от 1560 дрона от началото на продължителното въздушно нападение, започнало вчера в малките часове на деня, заяви тази сутрин украинският президент Володимир Зеленски, цитиран от Ройтерс. \"От малко след полунощ вчера Русия използва повече от 1560 дрона срещу нашите градове и общини. Това със сигурност не са действия на хора, които вярват, че войната е към края си\", написа той в социалната мрежа Екс.",
+      "link": "https://www.mediapool.bg/rusiya-atakuva-ukraina-s-nad-1560-drona-ot-rannite-chasove-vchera-tri-zhertvi-tazi-nosht-v-kiev-news383329.html",
+      "pubDate": "2026-05-14T09:13:07.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_0a6f0925f28d52b1ee1441c313de6a3d.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/premierat-na-latviya-podade-ostavka-1393228news.html",
+      "title": "Премиерът на Латвия подаде оставка",
+      "summary": "Министър-председателят на Латвия Евика Силиня подаде оставка. Тя загуби подкрепата на ключова партия в управляващата коалиция, след като принуди министъра на отбраната да напусне поста си, смятайки го...",
+      "link": "https://bntnews.bg/news/premierat-na-latviya-podade-ostavka-1393228news.html",
+      "pubDate": "2026-05-14T09:09:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "https://www.capital.bg/4913553",
+      "title": "Случаят \"Ася Панджерова\" вероятно пак ще бъде забравен",
+      "summary": "Назначаването на Ася Панджерова за зам.-министър на образованието почти веднага предизвика скандал, след като излязоха данни, че още през 2019 г. за нейни действия в драстичен конфликт на интереси е имало медийни публикации - като оценител на проекти по \"Еразъм+\" в институция към МОН през 2017 г. и 2018 г. Панджерова е насочила стотици хиляди евро към фирми, свързани с бъдещия ѝ съпруг. В понеделник министърът на образованието Георги Вълчев обяви, че е назначил проверка на случая с Панджерова. В...",
+      "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/05/14/4913553_sluchaiat_asia_pandjerova_veroiatno_pak_shte_bude/?ref=rss",
+      "pubDate": "2026-05-14T09:08:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4913557.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537106/",
+      "title": "„Сами издигаме стените помежду си“: Писателят Радослав Бимбалов за романа „Зид“ като диагноза на разделението",
+      "summary": "В центъра на творбата стои измислен балкански град, чиито жители сами решават да построят физическа стена",
+      "link": "https://nova.bg/news/view/2026/05/14/537106/%D1%81%D0%B0%D0%BC%D0%B8-%D0%B8%D0%B7%D0%B4%D0%B8%D0%B3%D0%B0%D0%BC%D0%B5-%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%82%D0%B5-%D0%BF%D0%BE%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D1%81%D0%B8-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%82-%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D0%B1%D0%B8%D0%BC%D0%B1%D0%B0%D0%BB%D0%BE%D0%B2-%D0%B7%D0%B0-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%B0-%D0%B7%D0%B8%D0%B4-%D0%BA%D0%B0%D1%82%D0%BE-%D0%B4%D0%B8%D0%B0%D0%B3%D0%BD%D0%BE%D0%B7%D0%B0-%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%82%D0%BE/",
+      "pubDate": "2026-05-14T09:07:02.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778749807.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45229",
+      "title": "BAR MASTERS 2026 се завръща с нова визия за бъдещето на коктейлната сцена",
+      "summary": "",
+      "link": "https://boulevardbulgaria.bg/articles/bar-masters-2026-startira-s-nova-viziya-za-badeshteto-na-kokteylnata-stsena",
+      "pubDate": "2026-05-14T09:02:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71340/original_BAR_MASTERS-02.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/na-parvo-chetene-deputatite-prieha-promenite-v-zakona-za-zashtita-na-potrebitelite-1393227news.html",
+      "title": "На първо четене: Депутатите приеха промените в Закона за защита на потребителите",
+      "summary": "Парламентът прие на първо четене промените в Закона за защита на потребителите. 136 депутати от \"Прогресивна България\" и ДПС гласуваха \"за\". Останалите формации бяха \"против\" или \"въздържал се\". &#13; Тер...",
+      "link": "https://bntnews.bg/news/na-parvo-chetene-deputatite-prieha-promenite-v-zakona-za-zashtita-na-potrebitelite-1393227news.html",
+      "pubDate": "2026-05-14T09:00:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537101/",
+      "title": "Ще успеят ли управляващите да изпълнят приоритетите си",
+      "summary": "Кои са ключовите въпроси за решаване",
+      "link": "https://nova.bg/news/view/2026/05/14/537101/%D1%89%D0%B5-%D1%83%D1%81%D0%BF%D0%B5%D1%8F%D1%82-%D0%BB%D0%B8-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B2%D0%B0%D1%89%D0%B8%D1%82%D0%B5-%D0%B4%D0%B0-%D0%B8%D0%B7%D0%BF%D1%8A%D0%BB%D0%BD%D1%8F%D1%82-%D0%BF%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%B8%D1%82%D0%B5-%D1%81%D0%B8/",
+      "pubDate": "2026-05-14T08:59:01.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778747589.jpg"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383338",
+      "title": "Дара открива тази вечер втория полуфинал на песенния конкурс \"Евровизия\"",
+      "summary": "След тригодишно отсъствие България отново ще участва в музикалния конкурс \"Евровизия“, като Дара (DARA) ще представи България с песента \"Bangaranga“, с която ще открие втория полуфинал днес, 14 май, във Виена, съобщават от Българската национална телевизия (БНТ). Финалът на конкурса е на 16 май. \"Bangaranga е поп песен с фолклорни мотиви.",
+      "link": "https://www.mediapool.bg/dara-otkriva-tazi-vecher-vtoriya-polufinal-na-pesenniya-konkurs-evroviziya-news383338.html",
+      "pubDate": "2026-05-14T08:54:58.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_518bb2fcf1eed7532800297c6705a449.jpg"
+    },
+    {
+      "id": "https://www.capital.bg/4912950",
+      "title": "Митът за петродолара",
+      "summary": "Икономистите обичат да проповядват благоразумие, но невинаги го практикуват. Ибрахим Оуайс е млад икономист в египетското министерство на индустрията, когато дава някои доста откровени съвети на началниците си. Той предупреждава за задушаващата свръхконцентрация на промишленост в Кайро и Александрия, а по-късно критикува кухата хвалба на генерал Насър, че Египет произвежда всичко \"от игла до ракета\" (всъщност не произвежда добре нито едното). Тази липса на предпазливост прави напускането на стра...",
+      "link": "https://www.capital.bg/biznes/pazari/2026/05/14/4912950_mitut_za_petrodolara/?ref=rss",
+      "pubDate": "2026-05-14T08:52:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4912986.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537104/",
+      "title": "Пострадалата при катастрофата на \"Хемус\" 23-годишна жена е изписана от \"Пирогов\"",
+      "summary": "Инцидентът се случи при удар между автобус и тежкотоварно превозно средство",
+      "link": "https://nova.bg/news/view/2026/05/14/537104/%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%BB%D0%B0%D1%82%D0%B0-%D0%BF%D1%80%D0%B8-%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D1%85%D0%B5%D0%BC%D1%83%D1%81-23-%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%BD%D0%B0-%D0%B6%D0%B5%D0%BD%D0%B0-%D0%B5-%D0%B8%D0%B7%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82-%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%BE%D0%B2/",
+      "pubDate": "2026-05-14T08:51:11.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778579185.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/golyam-pozhar-gorya-v-zhilishtna-kooperaciya-v-plovdiv-snimki-1393224news.html",
+      "title": "Голям пожар горя в жилищна кооперация в Пловдив (СНИМКИ)",
+      "summary": "Голям пожар в жилищна кооперация в Пловдив. Обгазен е един човек, нанесени са и значителни материални щети в блока на улица \"Петър Стоев\" в район \"Южен\". &#13; &#13; Огънят е тръгнал от последния етаж, като б...",
+      "link": "https://bntnews.bg/news/golyam-pozhar-gorya-v-zhilishtna-kooperaciya-v-plovdiv-snimki-1393224news.html",
+      "pubDate": "2026-05-14T08:51:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383337",
+      "title": "\"Автомобил не се поправя само с отвертка и ключ\". Властта обеща мерки за цените през \"целите 4 години\"",
+      "summary": "Партията на Румен Радев сравни в четвъртък мерките си за цените с автомобил, който трябва да се ремонтира, и обеща „комплексни мерки“ за овладяването им през „всичките 4 години“, защото не ставало само с една „отвертка и ключ“. Тези послания станаха факт по време на дискусията в НС при разискванията за промени в Закона за защита на потребителите, въвеждащ „справедлива цена“ и икономически обоснована цена. Последната на практика разширява забраната за увеличение на цените без икономически причини до 9 август 2027 г.",
+      "link": "https://www.mediapool.bg/avtomobil-ne-se-popravya-samo-s-otvertka-i-klyuch-vlastta-obeshta-merki-za-tsenite-prez-tselite-4-godini-news383337.html",
+      "pubDate": "2026-05-14T08:50:23.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_a49c01c17d7adbbe091db509d207b331.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537105/",
+      "title": "Прокуратурата разследва убийството след жесток побой в Монтана, трима са задържани",
+      "summary": "Извършва се аутопсия, която трябва да установи точната причина за смъртта",
+      "link": "https://nova.bg/news/view/2026/05/14/537105/%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%82%D0%B0-%D1%80%D0%B0%D0%B7%D1%81%D0%BB%D0%B5%D0%B4%D0%B2%D0%B0-%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE-%D1%81%D0%BB%D0%B5%D0%B4-%D0%B6%D0%B5%D1%81%D1%82%D0%BE%D0%BA-%D0%BF%D0%BE%D0%B1%D0%BE%D0%B9-%D0%B2-%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%B0-%D1%82%D1%80%D0%B8%D0%BC%D0%B0-%D1%81%D0%B0-%D0%B7%D0%B0%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8/",
+      "pubDate": "2026-05-14T08:44:43.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778748252.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/ot-vsyaka-tochka-na-sveta-kak-da-podkrepite-dara-v-evroviziya-2026-1393225news.html",
+      "title": "От всяка точка на света: Как да подкрепите DARA в „Евровизия 2026“",
+      "summary": "Гледайте DARA на втория полуфинал тази вечер от 22.00 ч. по БНТ 1",
+      "link": "https://bntnews.bg/news/ot-vsyaka-tochka-na-sveta-kak-da-podkrepite-dara-v-evroviziya-2026-1393225news.html",
+      "pubDate": "2026-05-14T08:44:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "https://bntnews.bg/news/iliyana-yotova-vrachi-pochetniya-znak-na-prezidenta-na-iztaknati-kulturni-deici-1393217news.html",
+      "title": "Илияна Йотова връчи Почетния знак на президента на изтъкнати културни дейци",
+      "summary": "Президентът Илияна Йотова връчи Почетния знак на изтъкнати дейци в областта на културата и образованието.&#13; Сред тях са легендарният композитор и музикант Митко Щерев, Александър Милушев, дългогодишен...",
+      "link": "https://bntnews.bg/news/iliyana-yotova-vrachi-pochetniya-znak-na-prezidenta-na-iztaknati-kulturni-deici-1393217news.html",
+      "pubDate": "2026-05-14T08:42:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383336",
+      "title": "Попълването на постовете за заместник-министри продължава",
+      "summary": "Попълването на втория ешалон на властта продължава. Премиерът Румен Радев е назначил шестима нови заместник-министри в 3 министерства. След като вчера Ася Панджерова беше освободена от длъжността заместник-министър на образованието и науката, след като стана ясно, че в миналото е била проверявана за конфликт на интереси, днес Румен Радев назначи двама заместник-министри.",
+      "link": "https://www.mediapool.bg/popalvaneto-na-postovete-za-zamestnik-ministri-prodalzhava-news383336.html",
+      "pubDate": "2026-05-14T08:41:11.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_9706240788961d650a316889e3e34050.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537102/",
+      "title": "Явор Гечев: Мерките не ограничават цените, а изчистват пазарните изкривявания",
+      "summary": "Фокусираме се срещу нелоялните практики, подчерта депутатът от \"Прогресивна България\"",
+      "link": "https://nova.bg/news/view/2026/05/14/537102/%D1%8F%D0%B2%D0%BE%D1%80-%D0%B3%D0%B5%D1%87%D0%B5%D0%B2-%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%D1%82%D0%B5-%D0%BD%D0%B5-%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B0%D0%B2%D0%B0%D1%82-%D1%86%D0%B5%D0%BD%D0%B8%D1%82%D0%B5-%D0%B0-%D0%B8%D0%B7%D1%87%D0%B8%D1%81%D1%82%D0%B2%D0%B0%D1%82-%D0%BF%D0%B0%D0%B7%D0%B0%D1%80%D0%BD%D0%B8%D1%82%D0%B5-%D0%B8%D0%B7%D0%BA%D1%80%D0%B8%D0%B2%D1%8F%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/",
+      "pubDate": "2026-05-14T08:37:15.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778748418.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/bnt-ima-nai-golyamo-obshtestveno-doverie-po-vreme-na-izborite-1393219news.html",
+      "title": "БНТ има най-голямо обществено доверие по време на изборите",
+      "summary": "Обществената медия изпреварва останалите големи телевизии, сочи проучване на \"Мяра\"",
+      "link": "https://bntnews.bg/news/bnt-ima-nai-golyamo-obshtestveno-doverie-po-vreme-na-izborite-1393219news.html",
+      "pubDate": "2026-05-14T08:32:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537103/",
+      "title": "Асоциацията на търговците на нехранителни стоки: Парламентът не трябва да определя цените",
+      "summary": "Сред най-сериозно критикуваните текстове са за въвеждането на понятия като „съвместно господстващо положение“ и „прекомерно високи цени“",
+      "link": "https://nova.bg/news/view/2026/05/14/537103/%D0%B0%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F%D1%82%D0%B0-%D0%BD%D0%B0-%D1%82%D1%8A%D1%80%D0%B3%D0%BE%D0%B2%D1%86%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-%D0%BD%D0%B5%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B8-%D1%81%D1%82%D0%BE%D0%BA%D0%B8-%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%8A%D1%82-%D0%BD%D0%B5-%D1%82%D1%80%D1%8F%D0%B1%D0%B2%D0%B0-%D0%B4%D0%B0-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-%D1%86%D0%B5%D0%BD%D0%B8%D1%82%D0%B5/",
+      "pubDate": "2026-05-14T08:30:28.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778747676.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45227",
+      "title": "Радев назначи главния си секретар от президентството за зам.-министър на транспорта",
+      "summary": "",
+      "link": "https://boulevardbulgaria.bg/articles/radev-naznachi-glavniya-si-sekretar-kato-prezident-za-zam-ministar-na-transporta",
+      "pubDate": "2026-05-14T08:30:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71280/original_%D0%A0%D1%83%D0%BC%D0%B5%D0%BD_%D0%A0%D0%B0%D0%B4%D0%B5%D0%B2_%D0%9C%D0%A1.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537098/",
+      "title": "Ивайло Шотев: Мерките за овладяване на цените са с добро намерение, но с грешен подход",
+      "summary": "Според депутата работещо решение е инициативата \"Достъпно за вас\"",
+      "link": "https://nova.bg/news/view/2026/05/14/537098/%D0%B8%D0%B2%D0%B0%D0%B9%D0%BB%D0%BE-%D1%88%D0%BE%D1%82%D0%B5%D0%B2-%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%D1%82%D0%B5-%D0%B7%D0%B0-%D0%BE%D0%B2%D0%BB%D0%B0%D0%B4%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D1%86%D0%B5%D0%BD%D0%B8%D1%82%D0%B5-%D1%81%D0%B0-%D1%81-%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%BD%D0%B0%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE-%D1%81-%D0%B3%D1%80%D0%B5%D1%88%D0%B5%D0%BD-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4/",
+      "pubDate": "2026-05-14T08:18:53.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778746826.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/klyuchova-vizita-v-kitai-tramp-i-si-dzinpin-obsadiha-otnosheniyata-mezhdu-dvete-strani-1393214news.html",
+      "title": "Ключова визита в Китай: Тръмп и Си Дзинпин обсъдиха отношенията между двете страни",
+      "summary": "Американският президент определи отношенията между Вашингтон и Пекин по-добри отвсякога",
+      "link": "https://bntnews.bg/news/klyuchova-vizita-v-kitai-tramp-i-si-dzinpin-obsadiha-otnosheniyata-mezhdu-dvete-strani-1393214news.html",
+      "pubDate": "2026-05-14T08:17:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537100/",
+      "title": "Мащабна операция на СДВР срещу имотните измами, има задържани (СНИМКИ)",
+      "summary": "Акцията е проведена на два адреса в столицата",
+      "link": "https://nova.bg/news/view/2026/05/14/537100/%D0%BC%D0%B0%D1%89%D0%B0%D0%B1%D0%BD%D0%B0-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BD%D0%B0-%D1%81%D0%B4%D0%B2%D1%80-%D1%81%D1%80%D0%B5%D1%89%D1%83-%D0%B8%D0%BC%D0%BE%D1%82%D0%BD%D0%B8%D1%82%D0%B5-%D0%B8%D0%B7%D0%BC%D0%B0%D0%BC%D0%B8-%D0%B8%D0%BC%D0%B0-%D0%B7%D0%B0%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8-%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/",
+      "pubDate": "2026-05-14T08:14:56.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778749411.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537099/",
+      "title": "Корабът \"Храбри\" е на тестови изпитания във Варненския залив (СНИМКИ)",
+      "summary": "Към флота ни се очаква да се присъедини и корабът \"Смели\"",
+      "link": "https://nova.bg/news/view/2026/05/14/537099/%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D1%8A%D1%82-%D1%85%D1%80%D0%B0%D0%B1%D1%80%D0%B8-%D0%B5-%D0%BD%D0%B0-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B8-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2%D1%8A%D0%B2-%D0%B2%D0%B0%D1%80%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D1%8F-%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2-%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/",
+      "pubDate": "2026-05-14T08:07:54.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778746087.jpg"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383335",
+      "title": "Първата визита на Радев зад граница е в Германия",
+      "summary": "Първото межднародно посещение на премиера Румен Радев ще бъде в Германия. Новината не дойде от \"Дондукв\" 2 в София, а от Берлин. \"В понеделник следобед (18 май) федералният канцлер Фридрих Мерц ще посрещне новия български министър-председател Румен Радев с военни почести по повод първото му официално посещение във федералното канцлерство\", съобщиха от канцеларията на Мерц.",
+      "link": "https://www.mediapool.bg/parvata-vizita-na-radev-zad-granitsa-e-v-germaniya-news383335.html",
+      "pubDate": "2026-05-14T08:07:11.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_1875fe68d46f18e4792aff698263f3a4.jpg"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383334",
+      "title": "Мъж е осъден за купуване на гласове в кюстендилско село",
+      "summary": "Мъж е осъден за купуване на гласове по време на последните парламентарни избори в кюстендилското село Коняво, съобщи прокуратурата. Той се е признал за виновен и 11 месеца условно с 3 години изпитателен срок. Глобен е и с 2556 евро.",
+      "link": "https://www.mediapool.bg/mazh-e-osaden-za-kupuvane-na-glasove-v-kyustendilsko-selo-news383334.html",
+      "pubDate": "2026-05-14T08:00:45.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_2899ca42cdd071a7a192b9272a0d227e.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/sem-predstavya-prouchvane-za-mediynite-naglasi-na-auditoriyata-po-vreme-na-predizbornata-kampaniya-1393212news.html",
+      "title": "СЕМ представя проучване за медийните нагласи на аудиторията по време на предизборната кампания",
+      "summary": "Резултатите от специализираното наблюдение на Съвета за електронни медии на предизборната кампания за изборите на народни представители, проведени на 19 април 2026 г., както и социологическо проучване...",
+      "link": "https://bntnews.bg/news/sem-predstavya-prouchvane-za-mediynite-naglasi-na-auditoriyata-po-vreme-na-predizbornata-kampaniya-1393212news.html",
+      "pubDate": "2026-05-14T08:00:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537095/",
+      "title": "Иван Христанов: Административно не се овладяват цени в условията на свободен пазар",
+      "summary": "Той посочи необходимостта от изграждане на национална система от събирателни пазари и борси",
+      "link": "https://nova.bg/news/view/2026/05/14/537095/%D0%B8%D0%B2%D0%B0%D0%BD-%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D0%BD%D0%B5-%D1%81%D0%B5-%D0%BE%D0%B2%D0%BB%D0%B0%D0%B4%D1%8F%D0%B2%D0%B0%D1%82-%D1%86%D0%B5%D0%BD%D0%B8-%D0%B2-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%82%D0%B0-%D0%BD%D0%B0-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B5%D0%BD-%D0%BF%D0%B0%D0%B7%D0%B0%D1%80/",
+      "pubDate": "2026-05-14T07:55:11.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778745181.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/udar-sreshtu-imotnata-mafiya-stolichnata-policiya-zadarzha-nai-izvestniya-izmamnik-1393216news.html",
+      "title": "Удар срещу имотната мафия: Столичната полиция задържа най-известния измамник",
+      "summary": "Столичната полиция удари имотната мафия. Най-известният имотен измамник е задържан, научи \"По света и у нас\". &#13; В столичния квартал \"Факултета\" е задържано едно от ключовите лица в имотните измами – Д...",
+      "link": "https://bntnews.bg/news/udar-sreshtu-imotnata-mafiya-stolichnata-policiya-zadarzha-nai-izvestniya-izmamnik-1393216news.html",
+      "pubDate": "2026-05-14T07:55:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "https://bntnews.bg/news/naznacheni-sa-6-novi-zamestnik-ministri-1393213news.html",
+      "title": "Назначени са 6 нови заместник-министри",
+      "summary": "Със заповед на премиера Румен Радев са назначени шестима нови зам.-министри в три министерства, съобщиха от пресслужбата на кабинета.&#13; &#13; Проверяват зам.-министъра на образованието за конфликт на интер...",
+      "link": "https://bntnews.bg/news/naznacheni-sa-6-novi-zamestnik-ministri-1393213news.html",
+      "pubDate": "2026-05-14T07:45:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537097/",
+      "title": "Назначени са шестима нови заместник-министри",
+      "summary": "Те поемат постове в три ведомства",
+      "link": "https://nova.bg/news/view/2026/05/14/537097/%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8-%D1%81%D0%B0-%D1%88%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%B0-%D0%BD%D0%BE%D0%B2%D0%B8-%D0%B7%D0%B0%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8/",
+      "pubDate": "2026-05-14T07:44:43.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x188_1736875339.jpg"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383333",
+      "title": "Кметът на столичния район \"Младост\" е криптомилионер",
+      "summary": "Кметът на столичния район \"Младост\" Ивайло Кукурин призна, че е милионер в криптовалута. Средствата са получени като дарение от неговите родители, написа той в профила си във \"Фейсбук\". Изявлението му идва, за да опровергае разпространяваните неверни твърдения и внушения, че \"през 2024 и 2025 г.",
+      "link": "https://www.mediapool.bg/kmetat-na-stolichniya-raion-mladost-e-kriptomilioner-news383333.html",
+      "pubDate": "2026-05-14T07:43:10.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_070067e68287651f4165fadcfd82d741.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537096/",
+      "title": "Мъж от Кюстендилско беше осъден за купуване на гласове",
+      "summary": "Той е предлагал на двама души по 30 евро",
+      "link": "https://nova.bg/news/view/2026/05/14/537096/%D0%BC%D1%8A%D0%B6-%D0%BE%D1%82-%D0%BA%D1%8E%D1%81%D1%82%D0%B5%D0%BD%D0%B4%D0%B8%D0%BB%D1%81%D0%BA%D0%BE-%D0%B1%D0%B5%D1%88%D0%B5-%D0%BE%D1%81%D1%8A%D0%B4%D0%B5%D0%BD-%D0%B7%D0%B0-%D0%BA%D1%83%D0%BF%D1%83%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B5/",
+      "pubDate": "2026-05-14T07:39:28.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1744222404.jpg"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383332",
+      "title": "Трима от ПБ напуснаха НС. Един става зам.-министър, а другите - областни управители",
+      "summary": "Три оставки на депутати от формацията на Румен Радев “Прогресивна България” бяха приети от Народното събрание в четвъртък. Народните представители, които пожелаха пълномощията им да бъдат прекратени предсрочно, са Илко Илиев, Марио Смърков и Крум Неделков.Поредната рокада в състава на НС идва по-малко от седмица след като новата власт започна да управлява с пълно мнозинство.",
+      "link": "https://www.mediapool.bg/trima-ot-pb-napusnaha-ns-edin-stava-zam-ministar-a-drugite---oblastni-upraviteli-news383332.html",
+      "pubDate": "2026-05-14T07:37:10.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_73565908afdc5dffe21c035889391e36.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45226",
+      "title": "Бившият началник на кабинета на Зеленски влиза в затвора",
+      "summary": "",
+      "link": "https://boulevardbulgaria.bg/articles/bivshiyat-nachalnik-na-kabineta-na-zelenski-vliza-v-zatvora",
+      "pubDate": "2026-05-14T07:36:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71338/original_Andriy_Yermak.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/sedem-ikoni-ot-hilendarskiya-manastir-pristignaha-v-belgrad-1393211news.html",
+      "title": "Седем икони от Хилендарския манастир пристигнаха в Белград",
+      "summary": "Седем безценни реликви от Императорската лавра на Хилендарския манастир, сред които мозаечната икона на Богородица Одигитрия и ръкописният пергаментов свитък на Карелския типик от XII век, бяха достав...",
+      "link": "https://bntnews.bg/news/sedem-ikoni-ot-hilendarskiya-manastir-pristignaha-v-belgrad-1393211news.html",
+      "pubDate": "2026-05-14T07:26:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537093/",
+      "title": "Върховният антикорупционен съд на Украйна издаде заповед за арест на бившия началник на президентската канцелария Андрий Ермак",
+      "summary": "Определена е гаранция от 140 милиона гривни",
+      "link": "https://nova.bg/news/view/2026/05/14/537093/%D0%B2%D1%8A%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D0%B8%D1%8F%D1%82-%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%BE%D1%80%D1%83%D0%BF%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D0%BD-%D1%81%D1%8A%D0%B4-%D0%BD%D0%B0-%D1%83%D0%BA%D1%80%D0%B0%D0%B9%D0%BD%D0%B0-%D0%B8%D0%B7%D0%B4%D0%B0%D0%B4%D0%B5-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4-%D0%B7%D0%B0-%D0%B0%D1%80%D0%B5%D1%81%D1%82-%D0%BD%D0%B0-%D0%B1%D0%B8%D0%B2%D1%88%D0%B8%D1%8F-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B8%D0%BA-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%82%D0%B0-%D0%BA%D0%B0%D0%BD%D1%86%D0%B5%D0%BB%D0%B0%D1%80%D0%B8%D1%8F-%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B9-%D0%B5%D1%80%D0%BC%D0%B0%D0%BA/",
+      "pubDate": "2026-05-14T07:24:50.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778743343.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537087/",
+      "title": "Съдебната реформа на фокус – какви са предложенията и ще бъдат ли ефективни",
+      "summary": "Иван Брегов и Антон Станков коментираха законопроектите на \"Прогресивна България\"",
+      "link": "https://nova.bg/news/view/2026/05/14/537087/%D1%81%D1%8A%D0%B4%D0%B5%D0%B1%D0%BD%D0%B0%D1%82%D0%B0-%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%BD%D0%B0-%D1%84%D0%BE%D0%BA%D1%83%D1%81-%D0%BA%D0%B0%D0%BA%D0%B2%D0%B8-%D1%81%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D1%82%D0%B0-%D0%B8-%D1%89%D0%B5-%D0%B1%D1%8A%D0%B4%D0%B0%D1%82-%D0%BB%D0%B8-%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8/",
+      "pubDate": "2026-05-14T07:16:06.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778740884.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537090/",
+      "title": "Бившият директор на ОП „Гробищни паркове“: Уволнението ми е политически мотивирано и предварително решено",
+      "summary": "Ще защитя правата си по съдебен ред, посочва в становище Румен Димитров",
+      "link": "https://nova.bg/news/view/2026/05/14/537090/%D0%B1%D0%B8%D0%B2%D1%88%D0%B8%D1%8F%D1%82-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%BD%D0%B0-%D0%BE%D0%BF-%D0%B3%D1%80%D0%BE%D0%B1%D0%B8%D1%89%D0%BD%D0%B8-%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B5-%D1%83%D0%B2%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D1%82%D0%BE-%D0%BC%D0%B8-%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8-%D0%BC%D0%BE%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D0%B0%D0%BD%D0%BE-%D0%B8-%D0%BF%D1%80%D0%B5%D0%B4%D0%B2%D0%B0%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%BE-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%BE/",
+      "pubDate": "2026-05-14T07:15:18.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778651393.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537089/",
+      "title": "Задържаха мъж за подаване на фалшиви сигнали за пет бомби в Плевен",
+      "summary": "Незабавно е започнала проверка, а чрез системата на спешния телефон е установена локацията на обаждащия се",
+      "link": "https://nova.bg/news/view/2026/05/14/537089/%D0%B7%D0%B0%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D1%85%D0%B0-%D0%BC%D1%8A%D0%B6-%D0%B7%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D1%84%D0%B0%D0%BB%D1%88%D0%B8%D0%B2%D0%B8-%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8-%D0%B7%D0%B0-%D0%BF%D0%B5%D1%82-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B8-%D0%B2-%D0%BF%D0%BB%D0%B5%D0%B2%D0%B5%D0%BD/",
+      "pubDate": "2026-05-14T07:13:38.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778743034.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537092/",
+      "title": "Поптодорова и Дойчев за срещата Тръмп-Си: Стратегическа игра на баланс, Пекин влиза по-силен в преговорите",
+      "summary": "И двамата анализатори се обединиха около извода, че двете сили ще се стремят да избегнат открита криза и рязка ескалация в отношенията си",
+      "link": "https://nova.bg/news/view/2026/05/14/537092/%D0%BF%D0%BE%D0%BF%D1%82%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0-%D0%B8-%D0%B4%D0%BE%D0%B9%D1%87%D0%B5%D0%B2-%D0%B7%D0%B0-%D1%81%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B0-%D1%82%D1%80%D1%8A%D0%BC%D0%BF-%D1%81%D0%B8-%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0-%D0%B8%D0%B3%D1%80%D0%B0-%D0%BD%D0%B0-%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81-%D0%BF%D0%B5%D0%BA%D0%B8%D0%BD-%D0%B2%D0%BB%D0%B8%D0%B7%D0%B0-%D0%BF%D0%BE-%D1%81%D0%B8%D0%BB%D0%B5%D0%BD-%D0%B2-%D0%BF%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B5/",
+      "pubDate": "2026-05-14T07:10:46.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778743137.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/razporediha-aresta-na-andriy-ermak-–-bivsh-nachalnik-na-kabineta-na-prezidenta-zelenski-1393209news.html",
+      "title": "Разпоредиха ареста на Андрий Ермак – бивш началник на кабинета на президента Зеленски",
+      "summary": "Украинският антикорупционен съд разпореди ареста на Андрий Ермак, бившият началник на кабинета на президента Володимир Зеленски. &#13; Съдът определи и гаранция в размер на 140 милиона гривни (3,19 милион...",
+      "link": "https://bntnews.bg/news/razporediha-aresta-na-andriy-ermak-–-bivsh-nachalnik-na-kabineta-na-prezidenta-zelenski-1393209news.html",
+      "pubDate": "2026-05-14T07:10:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "https://bntnews.bg/news/dvoika-pumi-pristignaha-v-zooparka-v-burgas-video-i-snimki-1393208news.html",
+      "title": "Двойка пуми пристигнаха в зоопарка в Бургас (ВИДЕО и СНИМКИ)",
+      "summary": "Големите котки все още не са осиновени",
+      "link": "https://bntnews.bg/news/dvoika-pumi-pristignaha-v-zooparka-v-burgas-video-i-snimki-1393208news.html",
+      "pubDate": "2026-05-14T07:02:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "https://www.capital.bg/4913239",
+      "title": "Строителството на новия Висш съдебен съвет",
+      "summary": "Много рядко в парламентарната правна комисия се случва такъв изключително добронамерен и конструктивен тон, както при обсъждането на промените в съдебния закон във вторник. Това казали сътрудниците на временната парламентарна правна комисия на председателката проф. Янка Тянкова, а тя го сподели по време на брифинг след заседанието. Изборът на нов състав на Висшия съдебен съвет (ВСС) е ключов за новия парламент, основателно се коментираше, че той ще е лакмусът за отношението на управляващите към ...",
+      "link": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/05/14/4913239_stroitelstvoto_na_noviia_vissh_sudeben_suvet/?ref=rss",
+      "pubDate": "2026-05-14T07:00:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4913502.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/robotat-robart-tancuva-na-bangaranga-i-prognozira-kakav-shte-bade-finalat-na-evroviziya-2026-1393198news.html",
+      "title": "Роботът Робърт танцува на Bangaranga и прогнозира какъв ще бъде финалът на \"Евровизия 2026\"",
+      "summary": "Първият български хуманоид Робърт влезе в студиото на \"Денят започва\" по БНТ и предизвика истински фурор с коментарите си за \"Евровизия 2026\", DARA и бъдещето на хората и роботите. С чувство за хумор,...",
+      "link": "https://bntnews.bg/news/robotat-robart-tancuva-na-bangaranga-i-prognozira-kakav-shte-bade-finalat-na-evroviziya-2026-1393198news.html",
+      "pubDate": "2026-05-14T06:52:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537084/",
+      "title": "Георги Мърков донесе злато за България от Европейското по борба",
+      "summary": "Българинът победи германеца Кристиано Либзейт",
+      "link": "https://nova.bg/news/view/2026/05/14/537084/%D0%B3%D0%B5%D0%BE%D1%80%D0%B3%D0%B8-%D0%BC%D1%8A%D1%80%D0%BA%D0%BE%D0%B2-%D0%B4%D0%BE%D0%BD%D0%B5%D1%81%D0%B5-%D0%B7%D0%BB%D0%B0%D1%82%D0%BE-%D0%B7%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%BE%D1%82-%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D1%82%D0%BE-%D0%BF%D0%BE-%D0%B1%D0%BE%D1%80%D0%B1%D0%B0/",
+      "pubDate": "2026-05-14T06:46:37.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778741397.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45225",
+      "title": "Делян Пеевски вече влиза в Народното събрание като редови гражданин",
+      "summary": "",
+      "link": "https://boulevardbulgaria.bg/articles/delyan-peevski-veche-vliza-v-narodnoto-sabranie-kato-redovi-grazhdanin",
+      "pubDate": "2026-05-14T06:41:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71332/original_%D0%9F%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8_%D0%B2%D0%BB%D0%B8%D0%B7%D0%B0_%D0%B2_%D0%BD%D1%81.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/trima-deputati-ot-progresivna-balgariya-podadoha-ostavki-1393206news.html",
+      "title": "Трима депутати от \"Прогресивна България\" подадоха оставки",
+      "summary": "Трима депутати от \"Прогресивна България\" подадоха оставки. Това са Илко Илиев, Марио Смърков и Крум Недялков. Илиев и Смърков ще бъдат областни управители на Варна и Търговище.&#13; &#13; Министерският съвет...",
+      "link": "https://bntnews.bg/news/trima-deputati-ot-progresivna-balgariya-podadoha-ostavki-1393206news.html",
+      "pubDate": "2026-05-14T06:40:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537085/",
+      "title": "Мартин Атанасов, създателят на \"Черна писта\", сигнализира, че МВР е спряло картата за катастрофите",
+      "summary": "Той призова картата да бъде пусната отново, защото има нужда от нея",
+      "link": "https://nova.bg/news/view/2026/05/14/537085/%D0%BC%D0%B0%D1%80%D1%82%D0%B8%D0%BD-%D0%B0%D1%82%D0%B0%D0%BD%D0%B0%D1%81%D0%BE%D0%B2-%D1%81%D1%8A%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%82-%D0%BD%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%B0-%D0%BF%D0%B8%D1%81%D1%82%D0%B0-%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%B0-%D1%87%D0%B5-%D0%BC%D0%B2%D1%80-%D0%B5-%D1%81%D0%BF%D1%80%D1%8F%D0%BB%D0%BE-%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B8%D1%82%D0%B5/",
+      "pubDate": "2026-05-14T06:37:37.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778740164.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537076/",
+      "title": "Мечта на 8485 метра височина: Български алпинист покори петия най-висок връх в света",
+      "summary": "Георги Колевичин гледа към следващата си цел - изкачването на всички 14 осемхилядника в света",
+      "link": "https://nova.bg/news/view/2026/05/14/537076/%D0%BC%D0%B5%D1%87%D1%82%D0%B0-%D0%BD%D0%B0-8485-%D0%BC%D0%B5%D1%82%D1%80%D0%B0-%D0%B2%D0%B8%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%B0%D0%BB%D0%BF%D0%B8%D0%BD%D0%B8%D1%81%D1%82-%D0%BF%D0%BE%D0%BA%D0%BE%D1%80%D0%B8-%D0%BF%D0%B5%D1%82%D0%B8%D1%8F-%D0%BD%D0%B0%D0%B9-%D0%B2%D0%B8%D1%81%D0%BE%D0%BA-%D0%B2%D1%80%D1%8A%D1%85-%D0%B2-%D1%81%D0%B2%D0%B5%D1%82%D0%B0/",
+      "pubDate": "2026-05-14T06:36:03.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778737335.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45224",
+      "title": "DARA спечели публиката и журналистите по време на втората голяма репетиция за \"Евровизия\"",
+      "summary": "",
+      "link": "https://boulevardbulgaria.bg/articles/dara-specheli-publikata-i-zhurnalistite-po-vreme-na-vtorata-golyama-repetitsiya-za-evroviziya",
+      "pubDate": "2026-05-14T06:32:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71333/original_%D0%94%D0%B0%D1%80%D0%B0_%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/deca-ot-15-balgarski-uchilishta-v-chuzhbina-izsledvaha-otzvuka-ot-aprilskoto-vastanie-v-mezhdunarodniya-pechat-1392269news.html",
+      "title": "Деца от 15 български училища в чужбина изследваха отзвука от Априлското въстание в международния печат",
+      "summary": "15 български училища в чужбина се включиха в международния ученически конкурс „Отражението на Априлското въстание в печата на страната, в която пребивавате“. Инициативата е на Министерството на образо...",
+      "link": "https://bntnews.bg/news/deca-ot-15-balgarski-uchilishta-v-chuzhbina-izsledvaha-otzvuka-ot-aprilskoto-vastanie-v-mezhdunarodniya-pechat-1392269news.html",
+      "pubDate": "2026-05-14T06:29:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537080/",
+      "title": "Две пуми са най-новите обитатели на зоопарка в Бургас",
+      "summary": "За по-малко от десет дни те вече са се адаптирали към новия си дом",
+      "link": "https://nova.bg/news/view/2026/05/14/537080/%D0%B4%D0%B2%D0%B5-%D0%BF%D1%83%D0%BC%D0%B8-%D1%81%D0%B0-%D0%BD%D0%B0%D0%B9-%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D0%B5-%D0%BE%D0%B1%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%D0%B0-%D0%B2-%D0%B1%D1%83%D1%80%D0%B3%D0%B0%D1%81/",
+      "pubDate": "2026-05-14T06:25:00.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778739913.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/protest-protiv-otglezhdaneto-na-teleta-v-kletki-snimki-1393199news.html",
+      "title": "Протест против отглеждането на телета в клетки (СНИМКИ)",
+      "summary": "Пред Народното събрание се проведе протест с искане за премахването на клетки на телета. Активистите от \"Невидими животни\" влязоха в клетки, за да покажат мъката, която животните изпитват.&#13; &#13; Над 150...",
+      "link": "https://bntnews.bg/news/protest-protiv-otglezhdaneto-na-teleta-v-kletki-snimki-1393199news.html",
+      "pubDate": "2026-05-14T06:14:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537065/",
+      "title": "Новините на NOVA (14.05.2026 - 9.00)",
+      "summary": "Гледайте цялата емисия",
+      "link": "https://nova.bg/news/view/2026/05/14/537065/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-nova-14052026-900/",
+      "pubDate": "2026-05-14T06:09:14.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778731974.jpg"
+    },
+    {
+      "id": "https://www.capital.bg/4913485",
+      "title": "Мнение | Топ 10 начина да свалим цените на храната, ако не хванем спекулантите",
+      "summary": "Любомир Ноков е съдружник и управител на \"Био България\", която произвежда биохрани с един от най-големите и успешни български брандове - \"Хармоника\" (harmonica) Всички искаме справедливост и достъпни цени на храните. В момента усещането за липса на справедливост в обществото е фокусирало недоволството ни върху хранителната инфлация и това вече не е икономическа тема, а морална (често се случва в историята). Новото правителство усеща духа на времето и избягва икономически аргументи, като и...",
+      "link": "https://www.capital.bg/politika_i_ikonomika/redakcionni_komentari/2026/05/14/4913485_komentar_top_10_nachina_da_svalim_cenite_na_hranata/?ref=rss",
+      "pubDate": "2026-05-14T06:09:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4913489.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537083/",
+      "title": "Трима депутати от „Прогресивна България“ подадоха оставки",
+      "summary": "Двама от тях са назначени за областни управители",
+      "link": "https://nova.bg/news/view/2026/05/14/537083/%D1%82%D1%80%D0%B8%D0%BC%D0%B0-%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%B8-%D0%BE%D1%82-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D0%B8%D0%B2%D0%BD%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B0%D0%B4%D0%BE%D1%85%D0%B0-%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8/",
+      "pubDate": "2026-05-14T06:08:41.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778739208.jpeg"
+    },
+    {
+      "id": "https://www.mediapool.bg/news/read/383331",
+      "title": "ДНСК е с нов временен началник Георги Даракчиев",
+      "summary": "Министърът на регионалното развитие арх. Иван Шишков освободи от длъжност Лиляна Петрова като началник на Дирекцията за национален строителен контрол (ДНСК). Постът ѝ временно ще бъде поет от Георги Даракчиев до избора на титуляр, съобщи МРРБ.",
+      "link": "https://www.mediapool.bg/dnsk-e-s-nov-vremenen-nachalnik-georgi-darakchiev-news383331.html",
+      "pubDate": "2026-05-14T06:07:09.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_c1627d3dabbc9fd507f64decf423d0b7.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537078/",
+      "title": "АЕЦ \"Чернобил\" – 40 години по-късно и отново в риск (ВИДЕО)",
+      "summary": "Какви рискове крият атаките срещу централата?",
+      "link": "https://nova.bg/news/view/2026/05/14/537078/%D0%B0%D0%B5%D1%86-%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B1%D0%B8%D0%BB-40-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8-%D0%BF%D0%BE-%D0%BA%D1%8A%D1%81%D0%BD%D0%BE-%D0%B8-%D0%BE%D1%82%D0%BD%D0%BE%D0%B2%D0%BE-%D0%B2-%D1%80%D0%B8%D1%81%D0%BA-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/",
+      "pubDate": "2026-05-14T06:02:46.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778738482.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/na-zhivo-promenite-v-zakona-za-zashtita-na-potrebitelite-i-v-zakona-za-sadebnata-vlast-vlizat-na-parvo-chetene-v-parlamenta-1393195news.html",
+      "title": "НА ЖИВО: Промените в Закона за защита на потребителите и в Закона за съдебната власт влизат на първо четене в парламента",
       "summary": "Парламентът обсъжда на първо четене законопроект за изменение на Закона за защита на потребителите, внесен от депутати от \"Прогресивна България\" – това предвижда програмата за днешното пленарно заседа...",
-      "link": "https://news.bnt.bg/news/na-zhivo-promenite-v-zakona-za-zashtita-na-potrebitelite-i-v-zakona-za-sadebnata-vlast-vlizat-na-parvo-chetene-v-ns-1393195news.html",
+      "link": "https://bntnews.bg/news/na-zhivo-promenite-v-zakona-za-zashtita-na-potrebitelite-i-v-zakona-za-sadebnata-vlast-vlizat-na-parvo-chetene-v-parlamenta-1393195news.html",
       "pubDate": "2026-05-14T06:00:00.000Z",
       "sourceId": "bnt"
     },
@@ -59,10 +667,10 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778736405.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/poredna-masirana-ruska-ataka-s-dronove-v-kiev-1393196news.html",
+      "id": "https://bntnews.bg/news/poredna-masirana-ruska-ataka-s-dronove-v-kiev-1393196news.html",
       "title": "Поредна масирана руска атака с дронове в Киев",
       "summary": "Съобщава се за един загинал и 16 ранени",
-      "link": "https://news.bnt.bg/news/poredna-masirana-ruska-ataka-s-dronove-v-kiev-1393196news.html",
+      "link": "https://bntnews.bg/news/poredna-masirana-ruska-ataka-s-dronove-v-kiev-1393196news.html",
       "pubDate": "2026-05-14T05:46:00.000Z",
       "sourceId": "bnt"
     },
@@ -94,19 +702,28 @@
       "imageUrl": "https://www.mediapool.bg/images/383/medium_dfb99edc578934b94a98c6d37020fc10.jpg"
     },
     {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45223",
+      "title": "Никола Янков: Борбата срещу \"чорбаджиите\" ще ни върне 40 години назад - с два вида хляб и едно масло",
+      "summary": "",
+      "link": "https://boulevardbulgaria.bg/articles/nikola-yankov-borbata-sreshtu-chorbadzhiite-shte-ni-varne-40-godini-nazad-s-dva-vida-hlyab-i-edno-maslo",
+      "pubDate": "2026-05-14T05:34:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71331/original_Screenshot_2026-05-14_090257.png"
+    },
+    {
       "id": "http://nova.bg/news/view/2026/05/14/537075/",
-      "title": "Масираната руска атака срещу жилищни райони в Украйна с дронове и балистични ракети",
+      "title": "Масирана руска атака срещу жилищни райони в Украйна с дронове и балистични ракети",
       "summary": "Има жертви и затрупани под развалините хора",
-      "link": "https://nova.bg/news/view/2026/05/14/537075/%D0%BC%D0%B0%D1%81%D0%B8%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D0%B0-%D1%80%D1%83%D1%81%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0-%D1%81%D1%80%D0%B5%D1%89%D1%83-%D0%B6%D0%B8%D0%BB%D0%B8%D1%89%D0%BD%D0%B8-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B8-%D0%B2-%D1%83%D0%BA%D1%80%D0%B0%D0%B9%D0%BD%D0%B0-%D1%81-%D0%B4%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B5-%D0%B8-%D0%B1%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B8-%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B8/",
+      "link": "https://nova.bg/news/view/2026/05/14/537075/%D0%BC%D0%B0%D1%81%D0%B8%D1%80%D0%B0%D0%BD%D0%B0-%D1%80%D1%83%D1%81%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0-%D1%81%D1%80%D0%B5%D1%89%D1%83-%D0%B6%D0%B8%D0%BB%D0%B8%D1%89%D0%BD%D0%B8-%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B8-%D0%B2-%D1%83%D0%BA%D1%80%D0%B0%D0%B9%D0%BD%D0%B0-%D1%81-%D0%B4%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B5-%D0%B8-%D0%B1%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B8-%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B8/",
       "pubDate": "2026-05-14T05:28:31.000Z",
       "sourceId": "nova",
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778736584.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/nikolai-stanchev-zastrahovaneto-e-nai-efektivnata-zashtita-za-zemedelcite-1393194news.html",
+      "id": "https://bntnews.bg/news/nikolai-stanchev-zastrahovaneto-e-nai-efektivnata-zashtita-za-zemedelcite-1393194news.html",
       "title": "Николай Станчев: Застраховането е най-ефективната защита за земеделците",
       "summary": "Държавата покрива до 70% от застраховките на земеделските производители",
-      "link": "https://news.bnt.bg/news/nikolai-stanchev-zastrahovaneto-e-nai-efektivnata-zashtita-za-zemedelcite-1393194news.html",
+      "link": "https://bntnews.bg/news/nikolai-stanchev-zastrahovaneto-e-nai-efektivnata-zashtita-za-zemedelcite-1393194news.html",
       "pubDate": "2026-05-14T05:28:00.000Z",
       "sourceId": "bnt"
     },
@@ -120,10 +737,10 @@
       "imageUrl": "https://www.mediapool.bg/images/383/medium_96a4e5d390b204c47054a85d18e9116a.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/sled-unishtozhitelnite-gradushki-ima-li-zashtita-sreshtu-burite-1393193news.html",
+      "id": "https://bntnews.bg/news/sled-unishtozhitelnite-gradushki-ima-li-zashtita-sreshtu-burite-1393193news.html",
       "title": "След унищожителните градушки: Има ли защита срещу бурите?",
       "summary": "Над 330 ракети са изстреляни само за два дни, а експерти предупреждават за все по-мощни и непредвидими процеси",
-      "link": "https://news.bnt.bg/news/sled-unishtozhitelnite-gradushki-ima-li-zashtita-sreshtu-burite-1393193news.html",
+      "link": "https://bntnews.bg/news/sled-unishtozhitelnite-gradushki-ima-li-zashtita-sreshtu-burite-1393193news.html",
       "pubDate": "2026-05-14T05:19:00.000Z",
       "sourceId": "bnt"
     },
@@ -155,28 +772,19 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778734530.jpg"
     },
     {
-      "id": "https://www.mediapool.bg/news/read/383328",
-      "title": "\"Каритас София\" отвори център за социални услуги за бездомни в столицата с подкрепа от програмата \"Капка по капка\"",
-      "summary": "Центърът за подкрепа на хора без дом на \"Каритас София\" в столичния квартал Стрелбище вече приема посетители. Той работи по т.нар. \"drop-in\" модел — място със свободен достъп, без предварително записване, където хората могат да останат за кратко и да получат базова подкрепа.",
-      "link": "https://www.mediapool.bg/karitas-sofiya-otvori-tsentar-za-sotsialni-uslugi-za-bezdomni-v-stolitsata-s-podkrepa-ot-programata-kapka-po-kapka-news383328.html",
-      "pubDate": "2026-05-14T05:00:07.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_4beef0de4d935cd6e78e4d8c6dfb3e49.jpg"
+      "id": "https://www.capital.bg/4913547",
+      "title": "CFO of the Year 2025 - юбилейно издание и нови приоритети за финансовите директори",
+      "summary": "10-о издание на конкурса на EY Bulgaria за най-добър финансов мениджър Номинации в седем категории могат да се правят лично или от членове на екипа Срокът за кандидатстване беше удължен до 15 май Конкурсът \"Финансов директор на годината\", организиран от EY Bulgaria, отбелязва своето 10-о юбилейно издание. За това време настъпиха много промени - за конкурса и за финансовата функция като цяло. Финансовите директори се превърнаха в основна фигура за всеки един бизнес. CFO of the Year 2025 пр...",
+      "link": "https://www.capital.bg/biznes/finansi/2026/05/14/4913547_cfo_of_the_year_2025_-_jubileino_izdanie_i_novi/?ref=rss",
+      "pubDate": "2026-05-14T05:00:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4913597.jpg"
     },
     {
-      "id": "https://www.mediapool.bg/news/read/383330",
-      "title": "Ключови преговори: Си посрещна Тръмп с почести, той нарече отношенията им \"фантастични\"",
-      "summary": "Американският президент Доналд Тръмп е на двудневно официално посещение в Китай – първото в чужбина, след началото на ударите срещу Иран. Той беше посрещнат с почести в Пекин. Доналд Тръмп и китайският лидер Си Дзинпин си стиснаха ръцете пред Залата на народа в китайската столица.",
-      "link": "https://www.mediapool.bg/klyuchovi-pregovori-si-posreshtna-tramp-s-pochesti-toi-nareche-otnosheniyata-im-fantastichni-news383330.html",
-      "pubDate": "2026-05-14T04:57:07.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_f668d5885c21dca083ba8c1e55ec3c96.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/doc-mariya-pishmisheva-hantavirusite-ne-sa-nov-covid-19-i-ne-predstavlyavat-globalen-risk-1393192news.html",
+      "id": "https://bntnews.bg/news/doc-mariya-pishmisheva-hantavirusite-ne-sa-nov-covid-19-i-ne-predstavlyavat-globalen-risk-1393192news.html",
       "title": "Доц. Мария Пишмишева: Хантавирусите не са нов COVID-19 и не представляват глобален риск",
       "summary": "Специалистът по инфекциозни болести обяснява защо Пазарджишко е ендемичен регион и има ли повод за тревога",
-      "link": "https://news.bnt.bg/news/doc-mariya-pishmisheva-hantavirusite-ne-sa-nov-covid-19-i-ne-predstavlyavat-globalen-risk-1393192news.html",
+      "link": "https://bntnews.bg/news/doc-mariya-pishmisheva-hantavirusite-ne-sa-nov-covid-19-i-ne-predstavlyavat-globalen-risk-1393192news.html",
       "pubDate": "2026-05-14T04:57:00.000Z",
       "sourceId": "bnt"
     },
@@ -188,15 +796,6 @@
       "pubDate": "2026-05-14T04:55:00.000Z",
       "sourceId": "boulevard",
       "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71329/original_donald_trump_xi_jingpin.jpg"
-    },
-    {
-      "id": "https://www.mediapool.bg/news/read/383324",
-      "title": "Ще отворили врати парк \"Врана\" отново за посетители",
-      "summary": "\"Всяка събота и неделя около 400 - 500 души идват и искат да разгледат парк \"Врана\". Не знаят, че вече близо година паркът е затворен за посетители\". Това казва пред екип на Mediapool охраната, разположена на страничния вход на парка, където има обособен паркинг. Пътят дотам от бул. \"Цариградско шосе\" е дупка до дупка. \"Не само българи, но и чужденци идват. Миналата седмица дойдоха китайска и южнокорейска група\", споделя служителят. И обяснява, че няма право да пуска хората вътре, въпреки големия интерес, защото паркът е затворен от лятото на 2025 г.",
-      "link": "https://www.mediapool.bg/shte-otvorili-vrati-park-vrana-otnovo-za-posetiteli-news383324.html",
-      "pubDate": "2026-05-14T04:54:07.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_a20baae9e3ae3c9f629d837d972e2cee.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/14/537073/",
@@ -218,18 +817,18 @@
     },
     {
       "id": "http://nova.bg/news/view/2026/05/14/537068/",
-      "title": "Земите в Каварна в центъра на корупционен скандал: 40 000 евро подкуп за продажба на около 800 декара",
+      "title": "Земите в Каварна в центъра на корупционен скандал: 20 000 евро подкуп за продажба на около 800 декара",
       "summary": "Опит за подкуп в Добрич: съдът остави в ареста 44-годишен мъж от София",
-      "link": "https://nova.bg/news/view/2026/05/14/537068/%D0%B7%D0%B5%D0%BC%D0%B8%D1%82%D0%B5-%D0%B2-%D0%BA%D0%B0%D0%B2%D0%B0%D1%80%D0%BD%D0%B0-%D0%B2-%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80%D0%B0-%D0%BD%D0%B0-%D0%BA%D0%BE%D1%80%D1%83%D0%BF%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D0%BD-%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB-40-000-%D0%B5%D0%B2%D1%80%D0%BE-%D0%BF%D0%BE%D0%B4%D0%BA%D1%83%D0%BF-%D0%B7%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE-800-%D0%B4%D0%B5%D0%BA%D0%B0%D1%80%D0%B0/",
+      "link": "https://nova.bg/news/view/2026/05/14/537068/%D0%B7%D0%B5%D0%BC%D0%B8%D1%82%D0%B5-%D0%B2-%D0%BA%D0%B0%D0%B2%D0%B0%D1%80%D0%BD%D0%B0-%D0%B2-%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80%D0%B0-%D0%BD%D0%B0-%D0%BA%D0%BE%D1%80%D1%83%D0%BF%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D0%BD-%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB-20-000-%D0%B5%D0%B2%D1%80%D0%BE-%D0%BF%D0%BE%D0%B4%D0%BA%D1%83%D0%BF-%D0%B7%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE-800-%D0%B4%D0%B5%D0%BA%D0%B0%D1%80%D0%B0/",
       "pubDate": "2026-05-14T04:39:21.000Z",
       "sourceId": "nova",
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778733647.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/ot-aktivni-potrebiteli-postavyat-pod-vapros-efekta-ot-novite-merki-sreshtu-inflaciyata-1393191news.html",
+      "id": "https://bntnews.bg/news/ot-aktivni-potrebiteli-postavyat-pod-vapros-efekta-ot-novite-merki-sreshtu-inflaciyata-1393191news.html",
       "title": "От \"Активни потребители\" поставят под въпрос ефекта от новите мерки срещу инфлацията",
       "summary": "Не трябва по този начин да правим законите – чрез експерименти, смята Богомил Николов",
-      "link": "https://news.bnt.bg/news/ot-aktivni-potrebiteli-postavyat-pod-vapros-efekta-ot-novite-merki-sreshtu-inflaciyata-1393191news.html",
+      "link": "https://bntnews.bg/news/ot-aktivni-potrebiteli-postavyat-pod-vapros-efekta-ot-novite-merki-sreshtu-inflaciyata-1393191news.html",
       "pubDate": "2026-05-14T04:39:00.000Z",
       "sourceId": "bnt"
     },
@@ -241,6 +840,15 @@
       "pubDate": "2026-05-14T04:38:00.000Z",
       "sourceId": "boulevard",
       "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71328/original_kevin_warsh.jpg"
+    },
+    {
+      "id": "https://www.capital.bg/4912653",
+      "title": "Ерик-Еманюел Шмит, писател: Щастието е липса на въпроси",
+      "summary": "Френско-белгийският писател и драматург разказва пред \"Капитал\" как нищо в съвремието няма да те изненада, ако познаваш историята. Шмит гостува за премиерата на спектакъла \"Ария на съперницата\" в Народния театър, по романа \"Съперницата\". В книжарниците вече е и \"Двете царства\", пети том от поредицата му \"Пътуване през времето\". Ако искате да прочетете пълноценно френско-белгийският писател и драматург Ерик-Еманюел Шмит, задачата може да отнеме години: творбите му, от романи, през сборници...",
+      "link": "https://www.capital.bg/moiat_capital/lica/2026/05/14/4912653_erik-emanjuel_shmit_pisatel_shtastieto_e_lipsa_na/?ref=rss",
+      "pubDate": "2026-05-14T04:30:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4912658.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/14/537070/",
@@ -261,21 +869,21 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778732640.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/promenite-v-zakona-za-sadebnata-vlast-vlizat-za-glasuvane-na-parvo-chetene-v-parlamenta-1393188news.html",
+      "id": "https://bntnews.bg/news/promenite-v-zakona-za-sadebnata-vlast-vlizat-za-glasuvane-na-parvo-chetene-v-parlamenta-1393188news.html",
       "title": "Промените в Закона за съдебната власт влизат за гласуване на първо четене в парламента",
       "summary": "Трите законопроекта за промени в Закона за съдебната власт влизат за гласуване на първо четене от депутатите в парламента. Преди дни временната правна комисия в Народното събрание прие за първо четене...",
-      "link": "https://news.bnt.bg/news/promenite-v-zakona-za-sadebnata-vlast-vlizat-za-glasuvane-na-parvo-chetene-v-parlamenta-1393188news.html",
+      "link": "https://bntnews.bg/news/promenite-v-zakona-za-sadebnata-vlast-vlizat-za-glasuvane-na-parvo-chetene-v-parlamenta-1393188news.html",
       "pubDate": "2026-05-14T04:24:00.000Z",
       "sourceId": "bnt"
     },
     {
-      "id": "https://www.mediapool.bg/news/read/383329",
-      "title": "Русия атакува масирано Киев с дронове и балистични ракети",
-      "summary": "Русия атакува масирано украинската столица Киев с дронове и ракети в ранните часове на днешния ден. Най-малко четири души са ранени. Съобщава се за разрушения в шест киевски района, заяви ръководителят на градската военна администрация Тимур Ткаченко.",
-      "link": "https://www.mediapool.bg/rusiya-atakuva-masirano-kiev-s-dronove-i-balistichni-raketi-news383329.html",
-      "pubDate": "2026-05-14T04:13:07.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_6f2ef4ddf18898ff09c76f2dab0e1877.jpg"
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45220",
+      "title": "Димитър Петров – човекът, чиято мечта доведе Giro d'Italia в България",
+      "summary": "",
+      "link": "https://boulevardbulgaria.bg/articles/dimitar-petrov-chovekat-chiyato-mechta-dovede-dzhiroto-v-balgariya",
+      "pubDate": "2026-05-14T04:14:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71327/original_DSC_7044.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/14/537063/",
@@ -287,36 +895,18 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778731974.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/dve-sedmici-sled-svlachishteto-v-rodopite-regionalniyat-ministar-na-inspekciya-v-raiona-1393186news.html",
+      "id": "https://bntnews.bg/news/dve-sedmici-sled-svlachishteto-v-rodopite-regionalniyat-ministar-na-inspekciya-v-raiona-1393186news.html",
       "title": "Две седмици след свлачището в Родопите: Регионалният министър на инспекция в района",
       "summary": "Регионалният министър Иван Шишков ще участва в работна среща във връзка със свлачището в Родопите. &#13; Тя ще се проведе в Смолян, а целта е организиране на комисия и извършване на спешен инженерно-геоло...",
-      "link": "https://news.bnt.bg/news/dve-sedmici-sled-svlachishteto-v-rodopite-regionalniyat-ministar-na-inspekciya-v-raiona-1393186news.html",
+      "link": "https://bntnews.bg/news/dve-sedmici-sled-svlachishteto-v-rodopite-regionalniyat-ministar-na-inspekciya-v-raiona-1393186news.html",
       "pubDate": "2026-05-14T04:07:00.000Z",
       "sourceId": "bnt"
     },
     {
-      "id": "https://www.mediapool.bg/news/read/383273",
-      "title": "Вагнер в София - фестивал на страстта, традицията и блясъка",
-      "summary": "Броени дни остават до началото на един от най-известните Вагнерови фестивали в Европа, който се провежда в сърцето на София. И тази година между 26 май и 14 юни Софийската опера привлича като магнит почитателите на немския композитор от страната и чужбина. Фестивалът е посветен на 150 годишнината на едно от най-знаменателните събития в музикалната история - Вагнеровия фестивал в Байройт и премиерното изпълнение на тетралогията \"Пръстенът на нибелунга\", съобщиха от Софийската опера и балет.",
-      "link": "https://www.mediapool.bg/vagner-v-sofiya---festival-na-strastta-traditsiyata-i-blyasaka-news383273.html",
-      "pubDate": "2026-05-14T04:04:07.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_096a3beb3a993ba421d34099acf6517e.jpg"
-    },
-    {
-      "id": "https://www.mediapool.bg/news/read/383184",
-      "title": "Проф. Александър Кьосев: Четенето губи ролята си на първенстваща културна ценност",
-      "summary": "Хората, четящи няколко пъти седмично нямат качествен критерий и не разграничават високата от популярната литература Авторите на популярна литература са умели, знаят какво и как въздейства и прилагат микс от техники и маркетинг Към великите писатели прибягват хора, които са решили да се самообразоват и да положат собствени усилия за развитието си Бягството в популярната литература и настъпващият популизъм в политическия живот имат своите сходства Издателите се опитват да балансират между собствения си вкус и модерното Това са част от акцентите в интервюто на Mediapool с културолога проф. Александър Кьосев за промените в читателските практики в България и функцията на четенето. Проф.",
-      "link": "https://www.mediapool.bg/prof-aleksandar-kyosev-cheteneto-gubi-rolyata-si-na-parvenstvashta-kulturna-tsennost-news383184.html",
-      "pubDate": "2026-05-14T04:01:07.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_50eb9329a7f54d49f7c840d97f1472ae.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/sadat-gleda-myarkata-na-shofyora-na-avtobusa-ot-tezhkata-katastrofa-na-am-hemus-1393185news.html",
+      "id": "https://bntnews.bg/news/sadat-gleda-myarkata-na-shofyora-na-avtobusa-ot-tezhkata-katastrofa-na-am-hemus-1393185news.html",
       "title": "Съдът гледа мярката на шофьора на автобуса от тежката катастрофа на АМ \"Хемус\"",
       "summary": "Очаква се Софийският градски съд да гледа днес мярката за неотклонение на шофьора на автобуса от тежката катастрофа преди дни на АМ \"Хемус\". &#13; &#13; Задържаха за 72 часа шофьора на автобуса от катастрофат...",
-      "link": "https://news.bnt.bg/news/sadat-gleda-myarkata-na-shofyora-na-avtobusa-ot-tezhkata-katastrofa-na-am-hemus-1393185news.html",
+      "link": "https://bntnews.bg/news/sadat-gleda-myarkata-na-shofyora-na-avtobusa-ot-tezhkata-katastrofa-na-am-hemus-1393185news.html",
       "pubDate": "2026-05-14T03:54:00.000Z",
       "sourceId": "bnt"
     },
@@ -330,10 +920,10 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778730880.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/vizita-v-kitai-oficialna-ceremoniya-po-posreshtaneto-na-donald-tramp-v-pekin-1393183news.html",
+      "id": "https://bntnews.bg/news/vizita-v-kitai-oficialna-ceremoniya-po-posreshtaneto-na-donald-tramp-v-pekin-1393183news.html",
       "title": "Визита в Китай: Официална церемония по посрещането на Доналд Тръмп в Пекин",
       "summary": "Президентът на САЩ Доналд Тръмп се срещна с китайския лидер Си Дзинпин в Пекин. Церемонията по официалното посрещане започна пред Голямата зала на народа в китайската столица. &#13; &#13; Китайският лидер пос...",
-      "link": "https://news.bnt.bg/news/vizita-v-kitai-oficialna-ceremoniya-po-posreshtaneto-na-donald-tramp-v-pekin-1393183news.html",
+      "link": "https://bntnews.bg/news/vizita-v-kitai-oficialna-ceremoniya-po-posreshtaneto-na-donald-tramp-v-pekin-1393183news.html",
       "pubDate": "2026-05-14T03:41:00.000Z",
       "sourceId": "bnt"
     },
@@ -356,12 +946,21 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778729711.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/dara-izliza-na-scenata-na-evroviziya-tazi-vecher-vav-viena-1393182news.html",
+      "id": "https://bntnews.bg/news/dara-izliza-na-scenata-na-evroviziya-tazi-vecher-vav-viena-1393182news.html",
       "title": "DARA излиза на сцената на \"Евровизия\" тази вечер във Виена",
       "summary": "БНТ 1 ще излъчи втория полуфинал на песенния конкурс на живо от 22:00 часа",
-      "link": "https://news.bnt.bg/news/dara-izliza-na-scenata-na-evroviziya-tazi-vecher-vav-viena-1393182news.html",
+      "link": "https://bntnews.bg/news/dara-izliza-na-scenata-na-evroviziya-tazi-vecher-vav-viena-1393182news.html",
       "pubDate": "2026-05-14T03:30:00.000Z",
       "sourceId": "bnt"
+    },
+    {
+      "id": "https://www.capital.bg/4913389",
+      "title": "Тръмп и Си в Пекин: Иран и цената на сделка с глобално значение",
+      "summary": "Тръмп пристигна в Пекин без решение за Иран - протокът Ормуз остава затворен, а примирието не се изпълнява. Си Цзинпин използва иранската си карта срещу отстъпки по Тайван и достъпа до чипове. Реалистичният изход е поетапно споразумение, а не грандиозна сделка, но резултатът ще оформи световния ред за години напред. Доналд Тръмп дълго време се готви да се срещне със Си Цзинпин в Пекин, за да проведе разговори с висок залог. Непосредствено преди американският президент да излети към Китай,...",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sviat/2026/05/14/4913389_trump_i_si_v_pekin_iran_i_cenata_na_sdelka_s_globalno/?ref=rss",
+      "pubDate": "2026-05-14T03:27:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4913395.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/14/537046/",
@@ -382,10 +981,10 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1759394387.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/deputatite-shte-glasuvat-na-parvo-chetene-promenite-v-zakona-za-zashtita-na-potrebitelite-1393181news.html",
+      "id": "https://bntnews.bg/news/deputatite-shte-glasuvat-na-parvo-chetene-promenite-v-zakona-za-zashtita-na-potrebitelite-1393181news.html",
       "title": "Депутатите ще гласуват на първо четене промените в Закона за защита на потребителите",
       "summary": "Депутатите ще гласуват на първо четене днес промените в Закона за защита на потребителите. Измененията, бяха одобрени от бюджетната комисия в НС в началото на седмицата. &#13; Промените предвиждат удължав...",
-      "link": "https://news.bnt.bg/news/deputatite-shte-glasuvat-na-parvo-chetene-promenite-v-zakona-za-zashtita-na-potrebitelite-1393181news.html",
+      "link": "https://bntnews.bg/news/deputatite-shte-glasuvat-na-parvo-chetene-promenite-v-zakona-za-zashtita-na-potrebitelite-1393181news.html",
       "pubDate": "2026-05-14T03:23:00.000Z",
       "sourceId": "bnt"
     },
@@ -400,9 +999,9 @@
     },
     {
       "id": "http://nova.bg/news/view/2026/05/14/537045/",
-      "title": "Депутатите гласуват промените в Закона за защита на потребителите",
-      "summary": "Най-разгорещен спор в ресорната комисия предизвика идеята за въвеждане на „справедлива цена”",
-      "link": "https://nova.bg/news/view/2026/05/14/537045/%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%B8%D1%82%D0%B5-%D0%B3%D0%BB%D0%B0%D1%81%D1%83%D0%B2%D0%B0%D1%82-%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D0%B5-%D0%B2-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0-%D0%B7%D0%B0-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8%D1%82%D0%B5/",
+      "title": "Депутатите приеха промените в Закона за защита на потребителите",
+      "summary": "Глобите, които ще се налагат при нарушения ще са двойни",
+      "link": "https://nova.bg/news/view/2026/05/14/537045/%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%B8%D0%B5%D1%85%D0%B0-%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D0%B5-%D0%B2-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0-%D0%B7%D0%B0-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8%D1%82%D0%B5/",
       "pubDate": "2026-05-14T03:13:09.000Z",
       "sourceId": "nova",
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778089916.jpeg"
@@ -417,10 +1016,10 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1767264034.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/darzhavata-s-dopalnitelni-merki-sreshtu-spekulata-i-visokite-ceni-1393180news.html",
+      "id": "https://bntnews.bg/news/darzhavata-s-dopalnitelni-merki-sreshtu-spekulata-i-visokite-ceni-1393180news.html",
       "title": "Държавата с допълнителни мерки срещу спекулата и високите цени",
       "summary": "Държавата ще набележи допълнителни мерки срещу високите цени. Това се очаква да се случи на среща в Министерския съвет по-късно днес. &#13; В дискусията ще участват министри от кабинета, представители на...",
-      "link": "https://news.bnt.bg/news/darzhavata-s-dopalnitelni-merki-sreshtu-spekulata-i-visokite-ceni-1393180news.html",
+      "link": "https://bntnews.bg/news/darzhavata-s-dopalnitelni-merki-sreshtu-spekulata-i-visokite-ceni-1393180news.html",
       "pubDate": "2026-05-14T03:09:00.000Z",
       "sourceId": "bnt"
     },
@@ -434,617 +1033,52 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778575663.jpg"
     },
     {
-      "id": "https://news.bnt.bg/news/poveche-slance-i-po-malko-valezhi-v-chetvartak-1393124news.html",
+      "id": "https://www.capital.bg/4913776",
+      "title": "Бизнес закуска: 🥐 Българската икономика расте с 2.9%; Борисов и Пеевски - без държавна охрана; Започва срещата Тръмп - Си",
+      "summary": "Доналд Тръмп беше посрещнат с почести в Пекин, където пристигна за дългоочакваната среща със Си Цзинпин. Очаква се разговорите между двамата да се фокусират върху конфликта в Иран и върху подновяването на дискусията за митата и по-широките търговски връзки между двете най-големи икономики в света. Войната с Иран превърна тази среща, мислена първоначално като търговска, в най-важния геополитически залог на 2026 г. \"Русия е и ще остане най-значителната, дългосрочна и пряка заплаха за сигурността ...",
+      "link": "https://www.capital.bg/biznes-zakuska/2026/05/14/4913776_biznes_zakuska_bulgarskata_ikonomika_raste_s_29/?ref=rss",
+      "pubDate": "2026-05-14T03:00:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4913775.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/poveche-slance-i-po-malko-valezhi-v-chetvartak-1393124news.html",
       "title": "Повече слънце и по-малко валежи в четвъртък",
       "summary": "Преди обяд ще бъде предимно слънчево. След обяд ще се развива купеста, а в източните и планинските райони – купесто-дъждовна облачност и на отделни места там ще превали слаб дъжд. Ще духа слаб вятър о...",
-      "link": "https://news.bnt.bg/news/poveche-slance-i-po-malko-valezhi-v-chetvartak-1393124news.html",
+      "link": "https://bntnews.bg/news/poveche-slance-i-po-malko-valezhi-v-chetvartak-1393124news.html",
       "pubDate": "2026-05-14T02:55:00.000Z",
       "sourceId": "bnt"
     },
     {
-      "id": "https://news.bnt.bg/news/pritezhatelite-na-bileti-za-svetovnoto-ot-nyakoi-darzhavi-nyama-da-plashtat-depoziti-sreshtu-prosrochvane-na-vizite-1393167news.html",
+      "id": "https://bntnews.bg/news/pritezhatelite-na-bileti-za-svetovnoto-ot-nyakoi-darzhavi-nyama-da-plashtat-depoziti-sreshtu-prosrochvane-na-vizite-1393167news.html",
       "title": "Притежателите на билети за световното от някои държави няма да плащат депозити срещу просрочване на визите",
       "summary": "Предварително обявените суми за просрочване на туристическата виза достигат 15 000 долара",
-      "link": "https://news.bnt.bg/news/pritezhatelite-na-bileti-za-svetovnoto-ot-nyakoi-darzhavi-nyama-da-plashtat-depoziti-sreshtu-prosrochvane-na-vizite-1393167news.html",
+      "link": "https://bntnews.bg/news/pritezhatelite-na-bileti-za-svetovnoto-ot-nyakoi-darzhavi-nyama-da-plashtat-depoziti-sreshtu-prosrochvane-na-vizite-1393167news.html",
       "pubDate": "2026-05-13T20:08:00.000Z",
       "sourceId": "bnt"
     },
     {
-      "id": "https://news.bnt.bg/news/poveche-ot-1700-dushi-sa-blokirani-na-borda-na-kruizen-korab-krai-bordo-1393164news.html",
+      "id": "https://bntnews.bg/news/poveche-ot-1700-dushi-sa-blokirani-na-borda-na-kruizen-korab-krai-bordo-1393164news.html",
       "title": "Повече от 1700 души са блокирани на борда на круизен кораб край Бордо",
       "summary": "Френските здравни власти изключват връзка със случаите на хантавирус, регистрирани на нидерландски круизен кораб в Атлантическия океан",
-      "link": "https://news.bnt.bg/news/poveche-ot-1700-dushi-sa-blokirani-na-borda-na-kruizen-korab-krai-bordo-1393164news.html",
+      "link": "https://bntnews.bg/news/poveche-ot-1700-dushi-sa-blokirani-na-borda-na-kruizen-korab-krai-bordo-1393164news.html",
       "pubDate": "2026-05-13T19:51:00.000Z",
       "sourceId": "bnt"
     },
     {
-      "id": "https://news.bnt.bg/news/zaradi-masirani-ruski-udari-v-zakarpatieto-slovakiya-zatvori-granicata-si-s-ukraina-1393163news.html",
+      "id": "https://bntnews.bg/news/zaradi-masirani-ruski-udari-v-zakarpatieto-slovakiya-zatvori-granicata-si-s-ukraina-1393163news.html",
       "title": "Заради масирани руски удари в Закарпатието Словакия затвори границата си с Украйна",
       "summary": "Унгарският премиер осъди ударите в областта, в която живеят предимно етнически унгарци",
-      "link": "https://news.bnt.bg/news/zaradi-masirani-ruski-udari-v-zakarpatieto-slovakiya-zatvori-granicata-si-s-ukraina-1393163news.html",
+      "link": "https://bntnews.bg/news/zaradi-masirani-ruski-udari-v-zakarpatieto-slovakiya-zatvori-granicata-si-s-ukraina-1393163news.html",
       "pubDate": "2026-05-13T19:32:00.000Z",
       "sourceId": "bnt"
     },
     {
-      "id": "https://news.bnt.bg/news/nikolai-mladenov-varhoven-predstavitel-na-saveta-za-mir-za-gaza-vazstanovyavaneto-e-rabota-za-edno-pokolenie-1393160news.html",
+      "id": "https://bntnews.bg/news/nikolai-mladenov-varhoven-predstavitel-na-saveta-za-mir-za-gaza-vazstanovyavaneto-e-rabota-za-edno-pokolenie-1393160news.html",
       "title": "Николай Младенов, върховен представител на Съвета за мир за Газа: Възстановяването е работа за едно поколение",
       "summary": "Бенямин Нетаняху е посетил ОАЕ и е постигнал \"исторически пробив\" в двустранните отношения",
-      "link": "https://news.bnt.bg/news/nikolai-mladenov-varhoven-predstavitel-na-saveta-za-mir-za-gaza-vazstanovyavaneto-e-rabota-za-edno-pokolenie-1393160news.html",
+      "link": "https://bntnews.bg/news/nikolai-mladenov-varhoven-predstavitel-na-saveta-za-mir-za-gaza-vazstanovyavaneto-e-rabota-za-edno-pokolenie-1393160news.html",
       "pubDate": "2026-05-13T19:18:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/balgarkite-razhdat-nai-rano-i-sa-s-nai-visok-koeficient-plodovitost-v-es-1393159news.html",
-      "title": "Българките раждат най-рано и са с най-висок коефициент плодовитост в ЕС",
-      "summary": "Сега коефициентът е 1,72 деца, а преди 50 години у нас жените са раждали средно по 2 деца",
-      "link": "https://news.bnt.bg/news/balgarkite-razhdat-nai-rano-i-sa-s-nai-visok-koeficient-plodovitost-v-es-1393159news.html",
-      "pubDate": "2026-05-13T19:03:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/wizz-air-vazobnovyava-poletite-si-ot-i-do-tel-aviv-ot-28-mai-1393157news.html",
-      "title": "Wizz Air възобновява полетите си от и до Тел Авив от 28 май",
-      "summary": "Wizz Air възобновява полетите си от и до Тел Авив, Израел, считано от 28 май, четвъртък, съобщиха от пресцентъра на авиокомпанията.&#13; В съобщението се посочва, че стъпката е предприета след последната...",
-      "link": "https://news.bnt.bg/news/wizz-air-vazobnovyava-poletite-si-ot-i-do-tel-aviv-ot-28-mai-1393157news.html",
-      "pubDate": "2026-05-13T18:45:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/40-godishen-voennosluzhesht-zagina-v-katastrofa-mezhdu-selata-vedrare-i-vasil-levski-1393155news.html",
-      "title": "40-годишен военнослужещ загина в катастрофа между селата Ведраре и Васил Левски",
-      "summary": "40-годишен военнослужещ загина на място в тежка катастрофа между карловските села Ведраре и Васил Левски.&#13; По първоначална информация мъжът е излязъл от пътното платно и се е блъснал в крайпътно дърво...",
-      "link": "https://news.bnt.bg/news/40-godishen-voennosluzhesht-zagina-v-katastrofa-mezhdu-selata-vedrare-i-vasil-levski-1393155news.html",
-      "pubDate": "2026-05-13T18:38:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/promenlivo-i-s-po-niski-ot-obichainite-temperaturi-za-sredata-na-mesec-mai-1393120news.html",
-      "title": "Променливо и с по-ниски от обичайните температури за средата на месец май",
-      "summary": "Променливо и с по-ниски от обичайните за средата на май температури ще бъде времето и през следващите дни. Очакват се и още валежи, по-значителни през почивните дни.&#13; През нощта превалявания и гръмоте...",
-      "link": "https://news.bnt.bg/news/promenlivo-i-s-po-niski-ot-obichainite-temperaturi-za-sredata-na-mesec-mai-1393120news.html",
-      "pubDate": "2026-05-13T18:11:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/predi-premierata-na-filma-za-mister-senko-izlozhba-prosledyava-karierata-na-legendarniya-ilyuzionist-1393119news.html",
-      "title": "Преди премиерата на филма за Мистер Сенко: Изложба проследява кариерата на легендарния илюзионист",
-      "summary": "Изложба, посветена на Мистер Сенко, беше открита днес в столицата. Тя включва плакати от колекцията на журналиста Драгомир Драганов и ще остане в парковото пространство около Националния дворец на кул...",
-      "link": "https://news.bnt.bg/news/predi-premierata-na-filma-za-mister-senko-izlozhba-prosledyava-karierata-na-legendarniya-ilyuzionist-1393119news.html",
-      "pubDate": "2026-05-13T18:03:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45219",
-      "title": "Григор Димитров отива на Ролан Гарос в серия от шест поредни загуби",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/grigor-dimitrov-otiva-na-rolan-garos-v-seriya-ot-shest-poredni-zagubi",
-      "pubDate": "2026-05-13T17:56:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/70620/original_%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80_%D0%B4%D0%B8%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%B2_%D0%BC%D0%B0%D0%B4%D1%80%D0%B8%D0%B4_2026_.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/programite-za-skrining-na-rak-prodalzhavat-da-se-bavyat-1393148news.html",
-      "title": "Програмите за скрининг на рак продължават да се бавят",
-      "summary": "Доставени са над 70 000 безплатни теста, но не е ясно кога ще стигнат до хората",
-      "link": "https://news.bnt.bg/news/programite-za-skrining-na-rak-prodalzhavat-da-se-bavyat-1393148news.html",
-      "pubDate": "2026-05-13T17:55:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/uspeh-dara-bangaranga-euforiyata-zavladyava-fenovete-na-evroviziya-1393145news.html",
-      "title": "Успех, DARA! Bangaranga еуфорията завладява феновете на „Евровизия“",
-      "summary": "Bangaranga еуфорията постепенно завладява всички фенове на „Евровизия“. Само няколко часа преди DARA да излезе на втория полуфинал във Виена и машините затанцуваха под звуците на българската песен. А...",
-      "link": "https://news.bnt.bg/news/uspeh-dara-bangaranga-euforiyata-zavladyava-fenovete-na-evroviziya-1393145news.html",
-      "pubDate": "2026-05-13T17:55:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/zvezdite-na-niderlandskiya-balet-anna-cigankova-i-giorgi-pochishvili-s-parvi-gastrol-u-nas-1393094news.html",
-      "title": "Звездите на Нидерландския балет Анна Циганкова и Гиорги Поцхишвили с първи гастрол у нас",
-      "summary": "Ще ги видим в главните роли в спектакъла \"Лебедово езеро\" на Старозагорската опера",
-      "link": "https://news.bnt.bg/news/zvezdite-na-niderlandskiya-balet-anna-cigankova-i-giorgi-pochishvili-s-parvi-gastrol-u-nas-1393094news.html",
-      "pubDate": "2026-05-13T17:45:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45218",
-      "title": "Кой ще играе в Европа? ЦСКА, \"Лудогорец\" или ЦСКА 1948",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/koy-shte-igrae-v-evropa-tsska-ludogorets-ili-tsska-1948",
-      "pubDate": "2026-05-13T17:38:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/68396/original_%D0%A6%D0%A1%D0%9A%D0%90_2026_.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/stranite-ot-formata-b9-nai-znachitelnata-i-dalgosrochna-zaplaha-za-sigurnostta-v-regiona-e-i-shte-ostane-rusiya-1393142news.html",
-      "title": "Страните от формата B9: \"Най-значителната и дългосрочна заплаха за сигурността в региона е и ще остане Русия”",
-      "summary": "Унгария не подписа декларацията след края на срещата в Букурещ",
-      "link": "https://news.bnt.bg/news/stranite-ot-formata-b9-nai-znachitelnata-i-dalgosrochna-zaplaha-za-sigurnostta-v-regiona-e-i-shte-ostane-rusiya-1393142news.html",
-      "pubDate": "2026-05-13T17:31:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/predi-izpitite-sled-sedmi-klas-poveche-paralelki-v-sofiya-no-i-po-seriozna-konkurenciya-1393092news.html",
-      "title": "Преди изпитите след седми клас: Повече паралелки в София, но и по-сериозна конкуренция",
-      "summary": "В гимназиите в столицата има 13 нови професии",
-      "link": "https://news.bnt.bg/news/predi-izpitite-sled-sedmi-klas-poveche-paralelki-v-sofiya-no-i-po-seriozna-konkurenciya-1393092news.html",
-      "pubDate": "2026-05-13T17:17:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45217",
-      "title": "Ревност, SMS-и и един шамар - нова книга за Еманюел и Брижит Макрон притопли скандала от самолета",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/revnost-sms-i-i-edin-shamar-nova-kniga-za-emanyuel-i-brizhit-makron-pritopli-skandala-ot-samoleta",
-      "pubDate": "2026-05-13T16:42:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71326/original_%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D0%BD.jpg"
-    },
-    {
-      "id": "https://www.mediapool.bg/news/read/383294",
-      "title": "България изпрати само посланик на натовска среща в Букурещ. Според ДБ това е \"в услуга на Путин\"",
-      "summary": "България ще е представена единствено от посланика си в НАТО по време на срещата на върха на „Букурещката деветка“ (Б-9), на която се събират президентите на страните от Източния фланг на НАТО, генералният секретар на Алианса Марк Рюте, президентът на Украйна Володимир Зеленски.",
-      "link": "https://www.mediapool.bg/bulgaria-izprati-samo-poslanik-na-natovska-sreshta-v-bukuresht-spored-db-tova-e-v-usluga-na-putin-news383294.html",
-      "pubDate": "2026-05-13T16:35:59.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_4ae2ce1a66df767ba1ee066a36510218.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/dobri-mitrev-cenite-ne-mogat-da-badat-namaleni-nezabavno-1393123news.html",
-      "title": "Добри Митрев: Цените не могат да бъдат намалени незабавно",
-      "summary": "Митрев предупреди, че държавната намеса чрез тавани на цени или надценки няма как да даде траен резултат",
-      "link": "https://news.bnt.bg/news/dobri-mitrev-cenite-ne-mogat-da-badat-namaleni-nezabavno-1393123news.html",
-      "pubDate": "2026-05-13T16:20:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/mazhat-opital-da-podkupi-oblastniya-upravitel-na-dobrich-ostava-v-aresta-1393129news.html",
-      "title": "Мъжът, опитал да подкупи областния управител на Добрич, остава в ареста",
-      "summary": "Сигналът за случилото се е подаден от самия областен управител",
-      "link": "https://news.bnt.bg/news/mazhat-opital-da-podkupi-oblastniya-upravitel-na-dobrich-ostava-v-aresta-1393129news.html",
-      "pubDate": "2026-05-13T16:18:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/slovakiya-zatvori-granichnite-si-punktove-s-ukraina-1393128news.html",
-      "title": "Словакия затвори граничните си пунктове с Украйна",
-      "summary": "Причината са съображения за сигурност след руски бомбардировки на град Ужгород",
-      "link": "https://news.bnt.bg/news/slovakiya-zatvori-granichnite-si-punktove-s-ukraina-1393128news.html",
-      "pubDate": "2026-05-13T16:03:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/borisov-i-peevski-veche-sa-bez-ohrana-i-ot-nso-i-ot-mvr-1393104news.html",
-      "title": "Борисов и Пеевски вече са без охрана и от НСО, и от МВР",
-      "summary": "Решението е на специализираната междуведомствена комисия, заяви вътрешният министър",
-      "link": "https://news.bnt.bg/news/borisov-i-peevski-veche-sa-bez-ohrana-i-ot-nso-i-ot-mvr-1393104news.html",
-      "pubDate": "2026-05-13T15:52:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://www.mediapool.bg/news/read/383323",
-      "title": "Правителството отмени решението БАБХ да пръска срещу комари",
-      "summary": "Правителството отменени решението на служебния кабинет отпреди седмица, с което 1.2 млн. евро за пръскане срещу комари бяха прехвърлени от Министерството на здравеопазването към земеделското министерство с идеята дейностите да се изпълняват от Българската агенция за безопасност на храните (БАБХ). Още по темата Д-р Кунчев оспори антикризисната мярка БАБХ да пръска срещу комари 8 май 2026 16:46 Отмяната на решението има за цел да предотврати риска от неефективно изпълнение на дейностите по дезинфекции, дезинсекции и дератизации и защита на обществения ресурс.",
-      "link": "https://www.mediapool.bg/pravitelstvoto-otmeni-reshenieto-babh-da-praska-sreshtu-komari-news383323.html",
-      "pubDate": "2026-05-13T15:49:47.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_0c2b1d3a7dbad84d242623c2ec330797.jpg"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45216",
-      "title": "Иван Шишков смени началника на Дирекцията за национален строителен контрол",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/smenen-e-i-direktorat-na-direktsiyata-za-natsionalen-stroitelen-kontrol",
-      "pubDate": "2026-05-13T15:49:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/70437/original_%D0%B8%D0%B2%D0%B0%D0%BD_%D1%88%D0%B8%D1%88%D0%BA%D0%BE%D0%B2_.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/kolko-golyam-e-problemat-s-komarite-za-kraidunavskite-obshtini-1393112news.html",
-      "title": "Колко голям е проблемът с комарите за крайдунавските общини?",
-      "summary": "Критична остава ситуация по поречието на Дунав в борбата с комарите. В Русе първите комари вече се появиха, след като бяха пропуснати всички срокове за ларвицидното им третиране.&#13; Всички, които живеят...",
-      "link": "https://news.bnt.bg/news/kolko-golyam-e-problemat-s-komarite-za-kraidunavskite-obshtini-1393112news.html",
-      "pubDate": "2026-05-13T15:34:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://www.mediapool.bg/news/read/383322",
-      "title": "Китайската BYD се оглежда да купи неизползвани автозаводи в Европа",
-      "summary": "Китайският автомобилостроител Би Уай Ди (BYD) води преговори със \"Стелантис\" (Stellantis) и други европейски автомобилни компании за придобиване на недостатъчно използвани заводи в Европа. Това заяви днес вицепрезидентката Стела Ли в интервю за Блумбърг, цитирано от световните медии. Тя заяви в кулоарите на конференция в Лондон, че групата разглежда потенциални сделки, свързани с индустриални обекти, включително в Италия.",
-      "link": "https://www.mediapool.bg/kitaiskata-byd-se-oglezhda-da-kupi-neizpolzvani-avtozavodi-v-evropa-news383322.html",
-      "pubDate": "2026-05-13T15:32:06.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_ca17201e81fc31a5bf50410b6797614c.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/britanskiyat-zdraven-ministar-mozhe-oshte-utre-da-poiska-posta-na-premiera-kiar-starmar-1393096news.html",
-      "title": "Британският здравен министър може още утре да поиска поста на премиера Киър Стармър",
-      "summary": "Говорител на Стармър: Премиерът има пълно доверие на здравния си министър",
-      "link": "https://news.bnt.bg/news/britanskiyat-zdraven-ministar-mozhe-oshte-utre-da-poiska-posta-na-premiera-kiar-starmar-1393096news.html",
-      "pubDate": "2026-05-13T15:26:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45215",
-      "title": "Андрей Янкулов обвини ВСС, че спаси Сарафов от проверка с процедурни хватки",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/andrey-yankulov-obvini-vss-v-bezdeystvie-zaradi-koeto-sarafov-se-osvobodi-ot-proverka",
-      "pubDate": "2026-05-13T15:25:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/69620/original_%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B8%CC%86_%D1%8F%D0%BD%D0%BA%D1%83%D0%BB%D0%BE%D0%B2_.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/desetki-falshivi-zdravni-knizhki-za-rabota-v-zavedeniya-sa-otkriti-vav-varna-1393106news.html",
-      "title": "Десетки фалшиви здравни книжки за работа в заведения са открити във Варна",
-      "summary": "Издаването на фалшиви здравни книжки за работа в заведения и хранителни обекти, разследва полицията във Варна. Задържан е 60-годишен мъж, който е изготвял неистински медицински документи. Той е извест...",
-      "link": "https://news.bnt.bg/news/desetki-falshivi-zdravni-knizhki-za-rabota-v-zavedeniya-sa-otkriti-vav-varna-1393106news.html",
-      "pubDate": "2026-05-13T15:21:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/po-sveta-i-u-nas-s-vaprosi-kam-nso-za-ohranata-na-borisov-i-peevski-1393113news.html",
-      "title": "\"По света и у нас\" с въпроси към НСО за охраната на Борисов и Пеевски",
-      "summary": "От \"По света и у нас\" потърсихме за коментар Националната служба за охрана за това в какъв период от време службата е осигурявала лична охрана на Делян Пеевски и Бойко Борисов, какви са били разходите...",
-      "link": "https://news.bnt.bg/news/po-sveta-i-u-nas-s-vaprosi-kam-nso-za-ohranata-na-borisov-i-peevski-1393113news.html",
-      "pubDate": "2026-05-13T15:17:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/noviyat-ms-premierat-radev-nastoyava-za-konkretni-merki-sreshtu-rasta-na-cenite-i-neloyalnite-praktiki-1393072news.html",
-      "title": "Новият МС: Премиерът Радев настоява за конкретни мерки срещу ръста на цените и нелоялните практики",
-      "summary": "Министър-председателят поиска и спешни доклади от ресорните министри за готовността за горски пожари и проблемите с безводието",
-      "link": "https://news.bnt.bg/news/noviyat-ms-premierat-radev-nastoyava-za-konkretni-merki-sreshtu-rasta-na-cenite-i-neloyalnite-praktiki-1393072news.html",
-      "pubDate": "2026-05-13T15:16:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45214",
-      "title": "Трайчо Трайков отново се кандидатира за кмет на Средец",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/traycho-traykov-otnovo-se-kandidatira-za-kmet-na-sredets",
-      "pubDate": "2026-05-13T15:10:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71317/original_%D1%82%D1%80%D0%B0%D0%B9%D1%87%D0%BE_%D1%82%D1%80%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2_342.jpg"
-    },
-    {
-      "id": "https://www.mediapool.bg/news/read/383321",
-      "title": "Германски съд с важно решение срещу \"шринкфлацията\"",
-      "summary": "Германски съд постанови, че шоколадовите блокчета \"Милка\" (Milka) с намалено тегло нарушават правилата за защита на потребителите и не могат да се продават в сегашния си вид, предаде ДПА, цитирана от БТА в сряда. Регионалният съд в Бремен се произнесе в полза на организация за защита на потребителите, която оспори практиката на производителя \"Монделийз интернешънъл\" (Mondelez International) да намали теглото на част от шоколадите \"Милка\" от 100 грама на 90 грама при минимални промени в опаковката. Съдът постанови, че 90-грамовите шоколади не могат да се продават в същата опаковка, ако през предходните четири месеца на пазара са се предлагали 100-грамови версии.",
-      "link": "https://www.mediapool.bg/germanski-sad-s-vazhno-reshenie-sreshtu-shrinkflatsiyata-news383321.html",
-      "pubDate": "2026-05-13T15:03:27.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_c687f643ccb785378504c0e500cbb220.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/osvobodiha-ot-posta-nachalnika-na-dnsk-lilyana-petrova-1393114news.html",
-      "title": "Освободиха от поста началника на ДНСК Лиляна Петрова",
-      "summary": "Със заповед на министъра на регионалното развитие и благоустройството Иван Шишков инж. Лиляна Петрова е освободена от поста началник на Дирекция \"Национален строителен контрол\" (ДНСК), съобщиха от рег...",
-      "link": "https://news.bnt.bg/news/osvobodiha-ot-posta-nachalnika-na-dnsk-lilyana-petrova-1393114news.html",
-      "pubDate": "2026-05-13T15:02:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/sreshtata-tramp-si-diplomaticheski-zhestove-no-bez-ochakvaniya-za-klyuchovi-resheniya-1393102news.html",
-      "title": "Срещата Тръмп - Си: Дипломатически жестове, но без очаквания за ключови решения",
-      "summary": "Под тежката сянка на войната в Иран и обтегнатите търговски взаимоотношения между Пекин и Вашингтон, започна визитата на американския президент Доналд Тръмп в Китай. Той е придружаван от технологични...",
-      "link": "https://news.bnt.bg/news/sreshtata-tramp-si-diplomaticheski-zhestove-no-bez-ochakvaniya-za-klyuchovi-resheniya-1393102news.html",
-      "pubDate": "2026-05-13T14:42:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://www.mediapool.bg/news/read/383320",
-      "title": "Европейската комисия призовава страните от ЕС да забранят конверсионната терапия",
-      "summary": "Европейската комисия съобщи, че ще предложи догодина държавите от Европейския съюз да забранят т. нар. \"конверсионна терапия\" - практиките, целящи промяна или потискане на сексуалната ориентация и половата идентичност.",
-      "link": "https://www.mediapool.bg/evropeiskata-komisiya-prizovava-stranite-ot-es-da-zabranyat-konversionnata-terapiya-news383320.html",
-      "pubDate": "2026-05-13T14:39:30.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_5dfc5f5a93867547ac7baba95ba27711.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/ministerstvoto-na-pravosadieto-zapochva-proverka-na-agenciyata-po-vpisvaniyata-1393100news.html",
-      "title": "Министерството на правосъдието започва проверка на Агенцията по вписванията",
-      "summary": "От БОЕЦ твърдят, че над 2000 нотариални акта на имоти в София са изчезнали от архива на Агенцията",
-      "link": "https://news.bnt.bg/news/ministerstvoto-na-pravosadieto-zapochva-proverka-na-agenciyata-po-vpisvaniyata-1393100news.html",
-      "pubDate": "2026-05-13T14:21:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45213",
-      "title": "Тръмп пристигна в Китай заедно с шефа на Nvidia, Мъск и Тим Кук",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/tramp-pristigna-v-kitay-zaedno-s-shefa-na-nvidia-mask-i-tim-kuk",
-      "pubDate": "2026-05-13T14:13:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71319/original_trump_musk_nvidia_boss.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/zaradi-gastroenterit-poveche-ot-1000-dushi-sa-blokirani-na-kruizen-korab-krai-bordo-1393095news.html",
-      "title": "Заради гастроентерит: Повече от 1000 души са блокирани на круизен кораб край Бордо",
-      "summary": "Има един смъртен случай, но не е ясно каква е причината за смъртта на 92-годишния британец",
-      "link": "https://news.bnt.bg/news/zaradi-gastroenterit-poveche-ot-1000-dushi-sa-blokirani-na-kruizen-korab-krai-bordo-1393095news.html",
-      "pubDate": "2026-05-13T14:08:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/sled-akciya-sreshtu-narkorazprostranenieto-zadarzhaha-narkotichna-technost-za-veipove-1393091news.html",
-      "title": "След акция срещу наркоразпространението задържаха наркотична течност за вейпове",
-      "summary": "Ще се следи и за нарушения по пътищата и за злоупотреби с търговски марки",
-      "link": "https://news.bnt.bg/news/sled-akciya-sreshtu-narkorazprostranenieto-zadarzhaha-narkotichna-technost-za-veipove-1393091news.html",
-      "pubDate": "2026-05-13T13:38:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/sled-obshtestvena-podkrepa-i-reakciya-na-darzhavata-festivalat-a-to-jazz-shte-se-provede-1393089news.html",
-      "title": "След обществена подкрепа и реакция на държавата фестивалът A to JazZ ще се проведе",
-      "summary": "Фестивалът A to JazZ ще се състои, след обществена подкрепа и реакция на държавата. Организаторите ще върнат дарените средства на публиката в рамките на следващите 14 дни, след като стана ясно, че Мин...",
-      "link": "https://news.bnt.bg/news/sled-obshtestvena-podkrepa-i-reakciya-na-darzhavata-festivalat-a-to-jazz-shte-se-provede-1393089news.html",
-      "pubDate": "2026-05-13T13:25:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/rechta-na-kralya-charlz-iii-govori-pred-britanskiya-parlament-1393085news.html",
-      "title": "Речта на краля: Чарлз III говори пред британския парламент",
-      "summary": "Моите министри ще защитават енергийната, отбранителната и икономическата сигурност на Обединеното кралство, заяви крал Чарлз III",
-      "link": "https://news.bnt.bg/news/rechta-na-kralya-charlz-iii-govori-pred-britanskiya-parlament-1393085news.html",
-      "pubDate": "2026-05-13T13:17:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/kaloyan-kaloyanov-e-naznachen-za-zam-ministar-na-vatreshnite-raboti-1393087news.html",
-      "title": "Калоян Калоянов е назначен за зам.-министър на вътрешните работи",
-      "summary": "Със заповед на министър-председателя Румен Радев на длъжността заместник-министър на вътрешните работи е назначен Калоян Костадинов Калоянов. Това съобщиха от правителствената пресслужба. &#13; По-рано дн...",
-      "link": "https://news.bnt.bg/news/kaloyan-kaloyanov-e-naznachen-za-zam-ministar-na-vatreshnite-raboti-1393087news.html",
-      "pubDate": "2026-05-13T13:08:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/asya-panjerova-e-osvobodena-ot-dlazhnostta-zam-ministar-na-obrazovanieto-i-naukata-1393086news.html",
-      "title": "Ася Панджерова е освободена от длъжността зам.-министър на образованието и науката",
-      "summary": "Със заповед на министър-председателя Румен Радев от длъжността заместник-министър на образованието и науката е освободена Ася Панджерова, съобщиха от пресслужбата на кабинета. &#13; Панджерова подаде оста...",
-      "link": "https://news.bnt.bg/news/asya-panjerova-e-osvobodena-ot-dlazhnostta-zam-ministar-na-obrazovanieto-i-naukata-1393086news.html",
-      "pubDate": "2026-05-13T13:03:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45212",
-      "title": "Повече от 1700 души са блокирани на круизен кораб в Бордо заради съмнения за норовирус",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/poveche-ot-1700-dushi-sa-blokirani-na-kruizen-korab-v-bordo-zaradi-samneniya-za-norovirus",
-      "pubDate": "2026-05-13T13:02:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71311/original_ambassadro_ambition_.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/12-raneni-i-seriozni-materialni-shteti-sled-navodneniya-v-turciya-1393081news.html",
-      "title": "12 ранени и сериозни материални щети след наводнения в Турция",
-      "summary": "Най-малко 12 ранени след наводнения в черноморската турска провинция Самсун. Заради поройния дъжд реките в района преляха.&#13; Най-силно засегнати са по-ниските и крайбрежните квартали. Водата е носила а...",
-      "link": "https://news.bnt.bg/news/12-raneni-i-seriozni-materialni-shteti-sled-navodneniya-v-turciya-1393081news.html",
-      "pubDate": "2026-05-13T12:55:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/sreshta-na-varha-donald-tramp-pristigna-v-kitai-1393083news.html",
-      "title": "Среща на върха: Доналд Тръмп пристигна в Китай",
-      "summary": "Китай се държи сравнително добре, заяви американският президент",
-      "link": "https://news.bnt.bg/news/sreshta-na-varha-donald-tramp-pristigna-v-kitai-1393083news.html",
-      "pubDate": "2026-05-13T12:45:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/upravitelyat-na-bnb-ikonomicheskata-stabilnost-v-stranata-zavisi-vse-poveche-ot-fiskalnata-disciplina-1393078news.html",
-      "title": "Управителят на БНБ: Икономическата стабилност в страната зависи все повече от фискалната дисциплина",
-      "summary": "Икономическата стабилност в страната зависи все повече от фискалната дисциплина, заяви управителят на БНБ Димитър Радев по време на форума Money Growth. По думите му е необходимо да бъде изградена стр...",
-      "link": "https://news.bnt.bg/news/upravitelyat-na-bnb-ikonomicheskata-stabilnost-v-stranata-zavisi-vse-poveche-ot-fiskalnata-disciplina-1393078news.html",
-      "pubDate": "2026-05-13T12:43:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/prokurorskata-kolegiya-obrazuva-disciplinarno-proizvodstvo-sreshtu-emiliya-rusinova-no-otkaza-takova-sreshtu-sarafov-1393080news.html",
-      "title": "Прокурорската колегия образува дисциплинарно производство срещу Емилия Русинова, но отказа такова срещу Сарафов",
-      "summary": "Прокурорската колегия на ВСС отказа да образува дисциплинарно производство срещу Борислав Сарафов поради изтекъл давностен срок по отношение на част от фактите, а по отношение на останалите заради лип...",
-      "link": "https://news.bnt.bg/news/prokurorskata-kolegiya-obrazuva-disciplinarno-proizvodstvo-sreshtu-emiliya-rusinova-no-otkaza-takova-sreshtu-sarafov-1393080news.html",
-      "pubDate": "2026-05-13T12:39:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45211",
-      "title": "Дарителка и кандидат за депутат от партията на Румен Радев става областен управител на София",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/daritelka-i-kandidat-za-deputat-ot-partiyata-na-rumen-radev-stava-oblasten-upravitel-na-sofiya",
-      "pubDate": "2026-05-13T12:31:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71309/original_%D0%A0%D0%B0%D0%B4%D0%B5%D0%B2_%D0%B7%D0%B0%D1%81%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82.JPG"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45210",
-      "title": "ВСС започва дисциплинарно производство срещу Емилия Русинова заради пътуванията ѝ с Пепи Еврото",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/vss-zapochva-distsiplinarno-proizvodstvo-sreshtu-emiliya-rusinova-zaradi-patuvaniyata-s-pepi-evroto",
-      "pubDate": "2026-05-13T12:29:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/69801/original_%D0%95%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%A0%D1%83%D1%81%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0.jpg"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45209",
-      "title": "Дарение от 5 млн. паунда за охрана може да коства поста на Найджъл Фараж",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/darenie-ot-5-mln-paunda-za-ohrana-na-naydzhal-farazh",
-      "pubDate": "2026-05-13T12:14:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71310/original_farage_milkshake.jpg"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45208",
-      "title": "Църквата и частни собственици искат да бутнат стари сгради на ул. “Шишман” в София",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/tsarkvata-i-chastni-sobstvenitsi-iskat-da-butnat-stari-sgradi-na-ul-shishman-v-sofiya",
-      "pubDate": "2026-05-13T12:00:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71314/original_%D1%88%D0%B8%D1%88%D0%BC%D0%B0%D0%BD_%D0%B8_%D1%81%D0%BE%D0%BB%D1%83%D0%BD%D1%81%D0%BA%D0%B0.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/ustanoveni-sa-zamarseni-podzemni-vodi-sled-vzriva-v-gorna-oryahovica-1393068news.html",
-      "title": "Установени са замърсени подземни води след взрива в Горна Оряховица",
-      "summary": "След взрива в района на квартал \"Калтинец\" в Горна Оряховица е установено, че има замърсени подземни води, съобщиха от пресцентъра на Областната дирекция на полицията във Велико Търново.&#13; &#13; Взрив до д...",
-      "link": "https://news.bnt.bg/news/ustanoveni-sa-zamarseni-podzemni-vodi-sled-vzriva-v-gorna-oryahovica-1393068news.html",
-      "pubDate": "2026-05-13T11:51:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/ek-oprostyava-pravilata-za-rezervacii-i-patuvane-s-vlak-v-es-1393066news.html",
-      "title": "ЕК опростява правилата за резервации и пътуване с влак в ЕС",
-      "summary": "Европейската комисия планира да принуди железопътните компании да продават билети на конкурентите си на своите уебсайтове и да споделят данни с платформи за резервации. Това са част от новите правила,...",
-      "link": "https://news.bnt.bg/news/ek-oprostyava-pravilata-za-rezervacii-i-patuvane-s-vlak-v-es-1393066news.html",
-      "pubDate": "2026-05-13T11:41:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45207",
-      "title": "A to JazZ получава финансиране в последния ден на служебния кабинет, даренията ще бъдат върнати",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/a-to-jazz-poluchava-finansirane-v-posledniya-den-na-sluzhebniya-kabinet-dareniyata-shte-badat-varnati",
-      "pubDate": "2026-05-13T11:36:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71006/original_a_to_jazz_.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/balgariya-s-vtori-nai-golyam-ikonomicheski-rastezh-v-es-prez-parvoto-trimesechie-na-2026-g-sochat-danni-na-evrostat-1393053news.html",
-      "title": "България с втори най-голям икономически растеж в ЕС през първото тримесечие на 2026 г., сочат данни на Евростат",
-      "summary": "Икономическият растеж в Европейския съюз и еврозоната се е забавил през първото тримесечие на 2026 г., отчетено на годишна основа, сочат най-новите данни на Евростат.&#13; Годишният темп на растеж на икон...",
-      "link": "https://news.bnt.bg/news/balgariya-s-vtori-nai-golyam-ikonomicheski-rastezh-v-es-prez-parvoto-trimesechie-na-2026-g-sochat-danni-na-evrostat-1393053news.html",
-      "pubDate": "2026-05-13T11:32:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/zadarzhaha-za-72-chasa-shofyora-na-avtobusa-ot-katastrofata-na-am-hemus-1393067news.html",
-      "title": "Задържаха за 72 часа шофьора на автобуса от катастрофата на АМ \"Хемус\"",
-      "summary": "Софийската градска прокуратура привлече като обвиняем шофьора на автобуса за тежката катастрофа на автомагистрала \"Хемус\", при която загина един човек, а други двама пострадаха тежко.&#13; Инцидентът стан...",
-      "link": "https://news.bnt.bg/news/zadarzhaha-za-72-chasa-shofyora-na-avtobusa-ot-katastrofata-na-am-hemus-1393067news.html",
-      "pubDate": "2026-05-13T11:26:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/denyo-denev-e-osvoboden-ot-dlazhnostta-zamestnik-predsedatel-na-dans-1393062news.html",
-      "title": "Деньо Денев е освободен от длъжността заместник-председател на ДАНС",
-      "summary": "Министерският съвет прие решение, с което освобождава предсрочно Деньо Денев от длъжността заместник-председател на Държавна агенция „Национална сигурност“.&#13; &#13; Станчо Станев ще изпълнява функциите на...",
-      "link": "https://news.bnt.bg/news/denyo-denev-e-osvoboden-ot-dlazhnostta-zamestnik-predsedatel-na-dans-1393062news.html",
-      "pubDate": "2026-05-13T11:24:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/nacionalniyat-konkurs-za-recitaciya-na-yavorova-poeziya-podir-senkite-na-oblacite-shte-se-provede-na-6-yuni-v-chirpan-1393063news.html",
-      "title": "Националният конкурс за рецитация на Яворова поезия „Подир сенките на облаците“ ще се проведе на 6 юни в Чирпан",
-      "summary": "На 6 юни в Чирпан ще се проведе 35-ото издание на Националния конкурс за рецитация на Яворова поезия „Подир сенките на облаците“. Това съобщиха организаторите от Община Чирпан, Къща музей „Пейо К. Яво...",
-      "link": "https://news.bnt.bg/news/nacionalniyat-konkurs-za-recitaciya-na-yavorova-poeziya-podir-senkite-na-oblacite-shte-se-provede-na-6-yuni-v-chirpan-1393063news.html",
-      "pubDate": "2026-05-13T11:23:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45206",
-      "title": "Клиентите на Lidl дариха близо 200 000 евро за четири благотворителни каузи чрез върнати бутилки и кенове",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/klientite-na-lidl-dariha-blizo-200-000-evro-za-chetiri-blagotvoritelni-kauzi-chrez-varnati-butilki-i-kenove",
-      "pubDate": "2026-05-13T11:19:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71305/original_Lidl_Darenia_Prez_avtomati_01.jpg"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45205",
-      "title": "Полицията иззе над 1 кг чист фентанил при акция в София",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/politsiyata-izze-nad-1-kg-chist-fentanil-pri-aktsiya-v-sofiya",
-      "pubDate": "2026-05-13T11:14:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71294/original_%D0%BC%D0%B2%D1%801.jpeg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/ministerskiyat-savet-naznachi-28-novi-oblastni-upraviteli-1393060news.html",
-      "title": "Министерският съвет назначи 28 нови областни управители",
-      "summary": "Министерският съвет прие решение, с което назначава нови 28 областни управители и освобождава досега заемащите тези длъжности, съобщиха от правителствената пресслужба.&#13; ➢ За областен управител на обла...",
-      "link": "https://news.bnt.bg/news/ministerskiyat-savet-naznachi-28-novi-oblastni-upraviteli-1393060news.html",
-      "pubDate": "2026-05-13T11:14:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/vasil-terziev-novata-detska-ploshtadka-v-kv-orlandovci-dokazva-che-kogato-horata-i-obshtinata-rabotyat-v-edna-posoka-gradat-se-1393058news.html",
-      "title": "Васил Терзиев: Новата детска площадка в кв. \"Орландовци\" доказва, че когато хората и общината работят в една посока, градът се променя",
-      "summary": "Новата детска площадка в кв. \"Орландовци\" е поредното доказателство, че когато хората и общината работят в една посока, градът се променя – не с обещания, а с реализирани проекти, които остават за дец...",
-      "link": "https://news.bnt.bg/news/vasil-terziev-novata-detska-ploshtadka-v-kv-orlandovci-dokazva-che-kogato-horata-i-obshtinata-rabotyat-v-edna-posoka-gradat-se-1393058news.html",
-      "pubDate": "2026-05-13T11:04:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/sas-skorost-86-km-chas-silniyat-vyatar-sabori-darveta-i-kloni-v-rusensko-1393057news.html",
-      "title": "Със скорост 86 км/час: Силният вятър събори дървета и клони в Русенско",
-      "summary": "До 86 км/час достига скоростта на вятъра в Русе, съобщиха от хидрометеорологичната станция в крайдунавския град. Оттам информираха, че заради много силния вятър е издадено щормово предупреждение до ка...",
-      "link": "https://news.bnt.bg/news/sas-skorost-86-km-chas-silniyat-vyatar-sabori-darveta-i-kloni-v-rusensko-1393057news.html",
-      "pubDate": "2026-05-13T10:53:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/deputatite-ne-prieha-sazdavaneto-na-vremenna-komisiya-za-sluchaya-petrohan-1393056news.html",
-      "title": "Депутатите не приеха създаването на временна комисия за случая \"Петрохан\"",
-      "summary": "Депутатите не приеха създаването на временна комисия, която да разследва дейността на групата, функционирала в района на бившата хижа \"Петрохан\". Предложението на ДПС включваше да бъде разследвана същ...",
-      "link": "https://news.bnt.bg/news/deputatite-ne-prieha-sazdavaneto-na-vremenna-komisiya-za-sluchaya-petrohan-1393056news.html",
-      "pubDate": "2026-05-13T10:47:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45204",
-      "title": "tbi bank обяви 2,5% лихва за 3-месечен депозит в приложението на банката",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/tbi-bank-obyavi-2-5-lihva-za-3-mesechen-depozit-v-prilozhenieto-na-bankata",
-      "pubDate": "2026-05-13T10:42:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71292/original_Lukas_Tursa.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/nacionalna-nauchna-konferenciya-posvetena-na-150-godini-ot-aprilskoto-vastanie-sabira-ucheni-v-razlog-1393050news.html",
-      "title": "Национална научна конференция, посветена на 150 години от Априлското въстание, събира учени в Разлог",
-      "summary": "Националната научна конференция „Априлското въстание и националноосвободителните борби на българите в Македония“ ще събере учени в Разлог. Организатори са Македонският научен институт, фондация „Васил...",
-      "link": "https://news.bnt.bg/news/nacionalna-nauchna-konferenciya-posvetena-na-150-godini-ot-aprilskoto-vastanie-sabira-ucheni-v-razlog-1393050news.html",
-      "pubDate": "2026-05-13T10:35:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/zamestnik-kmetat-na-sofiya-arh-lyubo-georgiev-shte-predlozhim-alternativa-na-22-etazhnata-sgrada-v-mladost-1393052news.html",
-      "title": "Заместник-кметът на София арх. Любо Георгиев: Ще предложим алтернатива на 22-етажната сграда в \"Младост\"",
-      "summary": "Жители на столичния квартал протестираха снощи срещу изграждането на 22-етажен небостъргач",
-      "link": "https://news.bnt.bg/news/zamestnik-kmetat-na-sofiya-arh-lyubo-georgiev-shte-predlozhim-alternativa-na-22-etazhnata-sgrada-v-mladost-1393052news.html",
-      "pubDate": "2026-05-13T10:31:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45203",
-      "title": "Обучението \"Реджо Емилия\" и защо Кейт Мидълтън избра Италия за първото си пътуване след битката с рака",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/zashto-keyt-midaltan-izbra-italiya-za-parvoto-si-patuvane-sled-bitkata-s-raka",
-      "pubDate": "2026-05-13T10:21:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71299/original_%D0%BA%D0%B5%D0%B9%D1%82_%D0%BC%D0%B8%D0%B4%D1%8A%D0%BB%D1%82%D1%8A%D0%BD_%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/mnogo-silen-vyatar-dnes-vremenno-zatoplyane-v-petak-i-sabota-1393043news.html",
-      "title": "Много силен вятър днес, временно затопляне в петък и събота",
-      "summary": "И в следобедните часове, в по-голямата част от страната, ще остане – много ветровито. В областите с обявен жълт код, са възможни пориви – до около 90 км/ч. &#13; &#13; Ще има, променлива облачност. Главно, в...",
-      "link": "https://news.bnt.bg/news/mnogo-silen-vyatar-dnes-vremenno-zatoplyane-v-petak-i-sabota-1393043news.html",
-      "pubDate": "2026-05-13T10:15:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/pravitelstvoto-tarsi-speshen-izhod-ot-krizata-s-praskaneto-sreshtu-komari-1393047news.html",
-      "title": "Правителството търси спешен изход от кризата с пръскането срещу комари",
-      "summary": "Важно е хората да знаят, когато ги хапят комарите, кой е виновен, коментира земеделският министър",
-      "link": "https://news.bnt.bg/news/pravitelstvoto-tarsi-speshen-izhod-ot-krizata-s-praskaneto-sreshtu-komari-1393047news.html",
-      "pubDate": "2026-05-13T09:54:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "https://news.bnt.bg/news/plamen-abrovski-za-2026-godina-vse-oshte-nyama-sklyuchen-dogovor-za-zashtita-ot-gradushki-1393046news.html",
-      "title": "Пламен Абровски: За 2026 година все още няма сключен договор за защита от градушки",
-      "summary": "Ако има някакво неглижиране, някой трябва да си понесе отговорността, заяви земеделският министър",
-      "link": "https://news.bnt.bg/news/plamen-abrovski-za-2026-godina-vse-oshte-nyama-sklyuchen-dogovor-za-zashtita-ot-gradushki-1393046news.html",
-      "pubDate": "2026-05-13T09:40:00.000Z",
       "sourceId": "bnt"
     }
   ]
