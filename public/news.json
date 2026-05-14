@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T05:58:08.126Z",
+  "generatedAt": "2026-05-14T06:00:31.513Z",
   "sources": [
     {
       "id": "mediapool",
@@ -33,6 +33,14 @@
   "errors": [],
   "items": [
     {
+      "id": "https://news.bnt.bg/news/na-zhivo-promenite-v-zakona-za-zashtita-na-potrebitelite-i-v-zakona-za-sadebnata-vlast-vlizat-na-parvo-chetene-v-ns-1393195news.html",
+      "title": "НА ЖИВО: Промените в Закона за защита на потребителите и в Закона за съдебната власт влизат на първо четене в НС",
+      "summary": "Парламентът обсъжда на първо четене законопроект за изменение на Закона за защита на потребителите, внесен от депутати от \"Прогресивна България\" – това предвижда програмата за днешното пленарно заседа...",
+      "link": "https://news.bnt.bg/news/na-zhivo-promenite-v-zakona-za-zashtita-na-potrebitelite-i-v-zakona-za-sadebnata-vlast-vlizat-na-parvo-chetene-v-ns-1393195news.html",
+      "pubDate": "2026-05-14T06:00:00.000Z",
+      "sourceId": "bnt"
+    },
+    {
       "id": "http://nova.bg/news/view/2026/05/14/537077/",
       "title": "Активисти влязоха в клетки в защита на телетата, отглеждани при нехуманни условия",
       "summary": "Какви законодателни промени искат организациите за хуманно отношение към животните?",
@@ -40,6 +48,15 @@
       "pubDate": "2026-05-14T05:55:52.000Z",
       "sourceId": "nova",
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778737886.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/14/537074/",
+      "title": "Какъв ще бъде ефектът от мерките за овладяване на цените",
+      "summary": "Експерти с разнични прогнози за въздействието",
+      "link": "https://nova.bg/news/view/2026/05/14/537074/%D0%BA%D0%B0%D0%BA%D1%8A%D0%B2-%D1%89%D0%B5-%D0%B1%D1%8A%D0%B4%D0%B5-%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D1%8A%D1%82-%D0%BE%D1%82-%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%D1%82%D0%B5-%D0%B7%D0%B0-%D0%BE%D0%B2%D0%BB%D0%B0%D0%B4%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D1%86%D0%B5%D0%BD%D0%B8%D1%82%D0%B5/",
+      "pubDate": "2026-05-14T05:51:04.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778736405.jpg"
     },
     {
       "id": "https://news.bnt.bg/news/poredna-masirana-ruska-ataka-s-dronove-v-kiev-1393196news.html",
@@ -1028,23 +1045,6 @@
       "summary": "Ако има някакво неглижиране, някой трябва да си понесе отговорността, заяви земеделският министър",
       "link": "https://news.bnt.bg/news/plamen-abrovski-za-2026-godina-vse-oshte-nyama-sklyuchen-dogovor-za-zashtita-ot-gradushki-1393046news.html",
       "pubDate": "2026-05-13T09:40:00.000Z",
-      "sourceId": "bnt"
-    },
-    {
-      "id": "tag:boulevardbulgaria.bg,2005:Article/45202",
-      "title": "И МВР ще проверява надценките в търговските обекти",
-      "summary": "",
-      "link": "https://boulevardbulgaria.bg/articles/i-mvr-shte-proveryava-nadtsenkite-v-targovskite-obekti",
-      "pubDate": "2026-05-13T09:36:00.000Z",
-      "sourceId": "boulevard",
-      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71290/original_%D0%98%D0%B2%D0%B0%D0%BD_%D0%94%D0%B5%D0%BC%D0%B5%D1%80%D0%B4%D0%B6%D0%B8%D0%B5%D0%B2.jpg"
-    },
-    {
-      "id": "https://news.bnt.bg/news/sreshta-na-b-9-v-rumaniya-ukrepvaneto-na-iztochniya-flang-vav-fokusa-na-razgovorite-1393035news.html",
-      "title": "Среща на Б-9 в Румъния: Укрепването на източния фланг във фокуса на разговорите",
-      "summary": "България и Унгария не са представени на президентско ниво",
-      "link": "https://news.bnt.bg/news/sreshta-na-b-9-v-rumaniya-ukrepvaneto-na-iztochniya-flang-vav-fokusa-na-razgovorite-1393035news.html",
-      "pubDate": "2026-05-13T09:32:00.000Z",
       "sourceId": "bnt"
     }
   ]

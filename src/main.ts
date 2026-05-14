@@ -80,7 +80,6 @@ const render = () => {
     <header class="topbar">
       <div>
         <p class="eyebrow">Bulgarian News</p>
-        <h1>News Aggregator</h1>
       </div>
       <button class="refresh-button" id="refresh" type="button" aria-label="Refresh news">
         <span aria-hidden="true">↻</span>
