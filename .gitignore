@@ -17,3 +17,8 @@ xcuserdata/
 
 # Local tooling
 .claude/
+
+# Web app
+node_modules/
+dist/
+public/news.json
