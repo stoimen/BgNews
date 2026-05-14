@@ -1,4 +1,12 @@
-export type NewsSourceId = "mediapool" | "boulevard" | "bnt" | "nova";
+export type NewsSourceId =
+  | "mediapool"
+  | "boulevard"
+  | "bnt"
+  | "nova"
+  | "capital"
+  | "darik"
+  | "economic"
+  | "sega";
 
 export interface NewsSource {
   id: NewsSourceId;
