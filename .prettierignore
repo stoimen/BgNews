@@ -1,0 +1,5 @@
+dist
+.generated-scripts
+coverage
+node_modules
+public/news.json

@@ -1,19 +1,31 @@
 {
-  "name": "bulgarian-news-aggregator",
+  "name": "bg-news",
   "version": "0.1.0",
+  "description": "A Bulgarian news aggregator for selected public news feeds.",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "npm run generate:news && vite --host 0.0.0.0",
     "build": "npm run generate:news && tsc && vite build",
+    "typecheck": "tsc && tsc -p tsconfig.scripts.json --noEmit",
+    "lint": "eslint .",
+    "format": "node node_modules/prettier/bin/prettier.cjs --check .",
+    "test": "vitest run",
+    "ci": "npm run typecheck && npm run lint && npm run format && npm run test && npm run build",
     "preview": "vite preview --host 0.0.0.0",
-    "generate:news": "node scripts/generate-news.mjs"
+    "generate:news": "tsc -p tsconfig.scripts.json && node .generated-scripts/scripts/generate-news.js"
   },
   "dependencies": {
     "fast-xml-parser": "^5.2.5"
   },
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^25.8.0",
+    "eslint": "^10.4.0",
+    "prettier": "^3.8.3",
     "typescript": "^5.9.3",
-    "vite": "^5.4.21"
+    "typescript-eslint": "^8.59.3",
+    "vite": "^5.4.21",
+    "vitest": "^4.1.6"
   }
 }

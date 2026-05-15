@@ -31,14 +31,19 @@ export const loadNews = async (): Promise<void> => {
   }
 };
 
-export const filteredItems = () => {
-  const items = state.payload?.items ?? [];
-  const query = state.query.trim().toLocaleLowerCase("bg-BG");
+export const filterItems = (
+  items: NewsPayload["items"],
+  selectedSource: NewsState["selectedSource"],
+  rawQuery: string,
+) => {
+  const query = rawQuery.trim().toLocaleLowerCase("bg-BG");
 
   return items.filter((item) => {
-    const matchesSource = state.selectedSource === "all" || item.sourceId === state.selectedSource;
+    const matchesSource = selectedSource === "all" || item.sourceId === selectedSource;
     const haystack = `${item.title} ${item.summary}`.toLocaleLowerCase("bg-BG");
     const matchesQuery = query.length === 0 || haystack.includes(query);
     return matchesSource && matchesQuery;
   });
 };
+
+export const filteredItems = () => filterItems(state.payload?.items ?? [], state.selectedSource, state.query);

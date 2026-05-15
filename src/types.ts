@@ -1,12 +1,6 @@
-export type NewsSourceId =
-  | "mediapool"
-  | "boulevard"
-  | "bnt"
-  | "nova"
-  | "capital"
-  | "darik"
-  | "economic"
-  | "sega";
+import type { sources } from "./sources.js";
+
+export type NewsSourceId = (typeof sources)[number]["id"];
 
 export interface NewsSource {
   id: NewsSourceId;

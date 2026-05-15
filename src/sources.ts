@@ -1,0 +1,58 @@
+export const sources = [
+  {
+    id: "mediapool",
+    name: "Mediapool",
+    shortName: "Mediapool",
+    color: "#2563eb",
+    feedUrl: "https://www.mediapool.bg/rss",
+  },
+  {
+    id: "boulevard",
+    name: "Boulevard Bulgaria",
+    shortName: "Boulevard",
+    color: "#f97316",
+    feedUrl: "https://boulevardbulgaria.bg/feed.atom",
+  },
+  {
+    id: "bnt",
+    name: "BNT News",
+    shortName: "BNT",
+    color: "#dc2626",
+    feedUrl: "http://news.bnt.bg/bg/rss/news.xml",
+  },
+  {
+    id: "nova",
+    name: "Nova",
+    shortName: "Nova",
+    color: "#00a7d8",
+    feedUrl: "https://nova.bg/rss/latest",
+  },
+  {
+    id: "capital",
+    name: "Capital",
+    shortName: "Capital",
+    color: "#0f766e",
+    feedUrl: "https://www.capital.bg/rss/",
+  },
+  {
+    id: "darik",
+    name: "Darik News",
+    shortName: "Darik",
+    color: "#7c3aed",
+    feedUrl: "https://dariknews.bg/rss.php",
+  },
+  {
+    id: "economic",
+    name: "Economic.bg",
+    shortName: "Economic",
+    color: "#16a34a",
+    feedUrl: "https://www.economic.bg/rss/all.xml",
+  },
+  {
+    id: "sega",
+    name: "Sega",
+    shortName: "Sega",
+    color: "#be123c",
+    feedUrl: "https://www.segabg.com/rss/hot-news",
+  },
+] as const;

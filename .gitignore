@@ -7,3 +7,4 @@
 # Web app
 node_modules/
 dist/
+.generated-scripts/

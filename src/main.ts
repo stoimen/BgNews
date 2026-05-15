@@ -26,8 +26,17 @@ const relativeTime = (isoDate: string) => {
   return new Intl.DateTimeFormat("en", { day: "numeric", month: "short" }).format(new Date(isoDate));
 };
 
-const sourceById = (sourceId: string) =>
-  state.payload?.sources.find((source) => source.id === sourceId);
+const sourceById = (sourceId: string) => state.payload?.sources.find((source) => source.id === sourceId);
+
+const renderFeedErrors = () => {
+  const errors = state.payload?.errors ?? [];
+  if (errors.length === 0) return "";
+
+  const sourceNames = errors.map((error) => sourceById(error.sourceId)?.shortName ?? error.sourceId).join(", ");
+  return `<div class="feed-alert" role="status">
+    Some sources could not refresh: ${escapeHtml(sourceNames)}. Cached stories are shown where available.
+  </div>`;
+};
 
 const renderSourceButton = (source: NewsSource | null) => {
   const id = source?.id ?? "all";
@@ -35,7 +44,7 @@ const renderSourceButton = (source: NewsSource | null) => {
   const label = source?.shortName ?? "All";
   const color = source?.color ?? "#334155";
 
-  return `<button class="source-chip${isSelected ? " selected" : ""}" data-source="${id}" style="--source-color: ${color}">
+  return `<button class="source-chip${isSelected ? " selected" : ""}" data-source="${id}" aria-pressed="${isSelected}" style="--source-color: ${color}">
     ${escapeHtml(label)}
   </button>`;
 };
@@ -95,6 +104,7 @@ const render = () => {
         ${renderSourceButton(null)}
         ${(payload?.sources ?? []).map(renderSourceButton).join("")}
       </div>
+      ${renderFeedErrors()}
       ${generated ? `<p class="updated">Updated ${generated}</p>` : ""}
     </section>
 
