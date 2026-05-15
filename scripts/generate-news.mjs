@@ -191,7 +191,12 @@ const fetchSource = async (source) => {
     xml = stdout;
   }
 
-  return mapFeed(xml, source);
+  const items = mapFeed(xml, source);
+  if (items.length === 0) {
+    throw new Error(`No items parsed from ${source.feedUrl}`);
+  }
+
+  return items;
 };
 
 const previousPayload = await readFile("public/news.json", "utf8")
