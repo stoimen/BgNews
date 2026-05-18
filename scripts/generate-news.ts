@@ -156,37 +156,45 @@ const fetchWithTimeout = async (url: string) => {
   }
 };
 
-const fetchSource = async (source: NewsSource): Promise<NewsItem[]> => {
-  let xml;
+const fetchWithCurl = async (url: string) => {
+  const { stdout } = await execFileAsync(
+    "curl",
+    ["-fsSL", "-A", userAgent, "-H", "Accept: application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8", url],
+    {
+      maxBuffer: 10 * 1024 * 1024,
+    },
+  );
 
-  try {
-    const response = await fetchWithTimeout(source.feedUrl);
-    if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
-    xml = await response.text();
-  } catch {
-    const { stdout } = await execFileAsync(
-      "curl",
-      [
-        "-fsSL",
-        "-A",
-        userAgent,
-        "-H",
-        "Accept: application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
-        source.feedUrl,
-      ],
-      {
-        maxBuffer: 10 * 1024 * 1024,
-      },
-    );
-    xml = stdout;
-  }
+  return stdout;
+};
 
+const parseSourceXml = (xml: string, source: NewsSource) => {
   const items = mapFeed(xml, source);
   if (items.length === 0) {
     throw new Error(`No items parsed from ${source.feedUrl}`);
   }
 
   return items;
+};
+
+const fetchSource = async (source: NewsSource): Promise<NewsItem[]> => {
+  let firstError: unknown;
+
+  try {
+    const response = await fetchWithTimeout(source.feedUrl);
+    if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+    return parseSourceXml(await response.text(), source);
+  } catch (error) {
+    firstError = error;
+  }
+
+  try {
+    return parseSourceXml(await fetchWithCurl(source.feedUrl), source);
+  } catch (error) {
+    const primaryMessage = errorMessage(firstError);
+    const fallbackMessage = errorMessage(error);
+    throw new Error(`Fetch failed: ${primaryMessage}; curl fallback failed: ${fallbackMessage}`, { cause: error });
+  }
 };
 
 const readPreviousPayload = async () =>

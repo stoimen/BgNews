@@ -39,6 +39,36 @@ describe("mapFeed", () => {
     });
   });
 
+  it("maps Mediapool RSS items", () => {
+    const items = mapFeed(
+      `<?xml version="1.0" encoding="utf-8"?>
+      <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+        <channel>
+          <item>
+            <title><![CDATA[48 килорама кокаин са хванати на "Капитан Андреево"]]></title>
+            <link>https://www.mediapool.bg/48-kilorama-kokain-sa-hvanati-na-kapitan-andreevo-news383470.html</link>
+            <description><![CDATA[<img src="https://www.mediapool.bg/images/383/medium_94110a265673fb2b4588f5a08e83d871.jpg" alt="" />Голяма пратка кокаин е задържана.]]></description>
+            <pubDate>Mon, 18 May 2026 12:37:41 +0300</pubDate>
+            <guid isPermaLink="false">https://www.mediapool.bg/news/read/383470</guid>
+            <dc:creator>mediapool.bg</dc:creator>
+            <media:thumbnail url="https://www.mediapool.bg/images/383/medium_94110a265673fb2b4588f5a08e83d871.jpg" width="330" height="186" />
+          </item>
+        </channel>
+      </rss>`,
+      source,
+    );
+
+    expect(items).toHaveLength(1);
+    expect(items[0]).toMatchObject({
+      id: "https://www.mediapool.bg/news/read/383470",
+      title: '48 килорама кокаин са хванати на "Капитан Андреево"',
+      summary: "Голяма пратка кокаин е задържана.",
+      link: "https://www.mediapool.bg/48-kilorama-kokain-sa-hvanati-na-kapitan-andreevo-news383470.html",
+      sourceId: "mediapool",
+      imageUrl: "https://www.mediapool.bg/images/383/medium_94110a265673fb2b4588f5a08e83d871.jpg",
+    });
+  });
+
   it("maps Atom entries", () => {
     const items = mapFeed(
       `<?xml version="1.0"?>
