@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "npm run generate:news && vite --host 0.0.0.0",
-    "build": "npm run generate:news && tsc && vite build",
+    "build": "tsc && vite build",
     "typecheck": "tsc && tsc -p tsconfig.scripts.json --noEmit",
     "lint": "eslint .",
     "format": "node node_modules/prettier/bin/prettier.cjs --check .",
