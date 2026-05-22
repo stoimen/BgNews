@@ -68,14 +68,19 @@ const stringProp = (value: XmlObject, key: string) => {
   return typeof prop === "string" ? prop : undefined;
 };
 
+const imageUrlPattern = /\.(?:avif|gif|jpe?g|png|webp)(?:[?#].*)?$/i;
+
+const looksLikeImageUrl = (url: string) => imageUrlPattern.test(url);
+
 const mediaImage = (item: XmlObject) => {
   const thumbnail = item["media:thumbnail"];
   if (isRecord(thumbnail) && typeof thumbnail.url === "string") return thumbnail.url;
   const content = asArray(item["media:content"]).find((entry) => isRecord(entry) && typeof entry.url === "string");
   if (isRecord(content) && typeof content.url === "string") return content.url;
   const enclosure = item.enclosure;
-  if (isRecord(enclosure) && typeof enclosure.url === "string" && stringProp(enclosure, "type")?.startsWith("image/")) {
-    return enclosure.url;
+  if (isRecord(enclosure) && typeof enclosure.url === "string") {
+    const type = stringProp(enclosure, "type");
+    if (type?.startsWith("image/") || looksLikeImageUrl(enclosure.url)) return enclosure.url;
   }
   return firstImageInHtml(item.description ?? item.summary ?? item.content ?? item["content:encoded"]);
 };

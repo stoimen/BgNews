@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T18:48:44.543Z",
+  "generatedAt": "2026-05-22T18:59:27.745Z",
   "sources": [
     {
       "id": "mediapool",
@@ -61,6 +61,24 @@
   "errors": [],
   "items": [
     {
+      "id": "https://www.mediapool.bg/news/read/383675",
+      "title": "МВР арестува прокурорския син от Перник",
+      "summary": "Прокурорският син от Перник Васил Михайлов е арестуван. Това съобщи главният секретар на МВР Георги Кандев. \"Издирваният беглец от закона, познат с прякора \"Прокурорския син\", току-що беше заловен от ГДБОП\", написа той в социалните мрежи.",
+      "link": "https://www.mediapool.bg/mvr-arestuva-prokurorskiya-sin-ot-pernik-news383675.html",
+      "pubDate": "2026-05-22T18:54:09.000Z",
+      "sourceId": "mediapool",
+      "imageUrl": "https://www.mediapool.bg/images/383/medium_dec08ba5d315bb1ea7fafaed375d2d19.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/22/538148/",
+      "title": "Проливен дъжд наводни пътища и къщи във Великотърновско, евакуират част от жителите на село Присово (СНИМКИ+ВИДЕО)",
+      "summary": "Към мястото се насочват допълнителни полицейски екипи",
+      "link": "https://nova.bg/news/view/2026/05/22/538148/%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD-%D0%B4%D1%8A%D0%B6%D0%B4-%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8-%D0%BF%D1%8A%D1%82%D0%B8%D1%89%D0%B0-%D0%B8-%D0%BA%D1%8A%D1%89%D0%B8-%D0%B2%D1%8A%D0%B2-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D1%82%D1%8A%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE-%D0%B5%D0%B2%D0%B0%D0%BA%D1%83%D0%B8%D1%80%D0%B0%D1%82-%D1%87%D0%B0%D1%81%D1%82-%D0%BE%D1%82-%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-%D1%81%D0%B5%D0%BB%D0%BE-%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%BE-%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/",
+      "pubDate": "2026-05-22T18:44:32.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779475718.jpg"
+    },
+    {
       "id": "http://nova.bg/news/view/2026/05/22/538117/",
       "title": "„Предизвиквам те“: Актрисата Гергана Змийчарова за любовта и скъперничеството",
       "summary": "Да бъде вкъщи със семейството си е най-любимото й нещо",
@@ -70,12 +88,13 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779457343.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/predstoi-privezhdaneto-na-vasil-mihailov-v-zatvora-za-izlezhavane-na-prisadata-mu-saobshtiha-ot-prokuraturata-1394712news.html",
+      "id": "https://news.bnt.bg/news/predstoi-privezhdaneto-na-vasil-mihailov-v-zatvora-za-izlezhavane-na-prisadata-mu-saobshtiha-ot-prokuraturata-1394712news.html",
       "title": "Предстои привеждането на Васил Михайлов в затвора за излежаване на присъдата му, съобщиха от прокуратурата",
       "summary": "Предстои привеждането на Васил Михайлов в затвора, за изтърпяване на наложено ефективно наказание от 1,8 години “лишаване от свобода”.&#13; Прокуратурата ще предприеме всички необходими действия и по оста...",
-      "link": "https://bntnews.bg/news/predstoi-privezhdaneto-na-vasil-mihailov-v-zatvora-za-izlezhavane-na-prisadata-mu-saobshtiha-ot-prokuraturata-1394712news.html",
+      "link": "https://news.bnt.bg/news/predstoi-privezhdaneto-na-vasil-mihailov-v-zatvora-za-izlezhavane-na-prisadata-mu-saobshtiha-ot-prokuraturata-1394712news.html",
       "pubDate": "2026-05-22T18:21:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/8fe05fe0ba4464dbe4d5e58d33c901cf.jpeg"
     },
     {
       "id": "tag:boulevardbulgaria.bg,2005:Article/45416",
@@ -87,12 +106,13 @@
       "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/70113/original_%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D1%8A%D1%80_%D0%B2%D0%B5%D0%B7%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2_.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/prez-pochivnite-dni-se-ochakvat-valezhi-ot-dazhd-i-gramotevichna-deinost-1394669news.html",
+      "id": "https://news.bnt.bg/news/prez-pochivnite-dni-se-ochakvat-valezhi-ot-dazhd-i-gramotevichna-deinost-1394669news.html",
       "title": "През почивните дни се очакват валежи от дъжд и гръмотевична дейност",
       "summary": "Предимно слънчево време и повишение на температурите предстои през първите дни от новата седмица. Преди това обаче и в събота, и в празничната неделя, 24 май, на много места ще има валежи от дъжд и гр...",
-      "link": "https://bntnews.bg/news/prez-pochivnite-dni-se-ochakvat-valezhi-ot-dazhd-i-gramotevichna-deinost-1394669news.html",
+      "link": "https://news.bnt.bg/news/prez-pochivnite-dni-se-ochakvat-valezhi-ot-dazhd-i-gramotevichna-deinost-1394669news.html",
       "pubDate": "2026-05-22T18:12:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/6857125fd4932b7cfa0fa1e851c65404.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/22/538114/",
@@ -122,12 +142,13 @@
       "imageUrl": "https://m.netinfo.bg/media/images/51242/51242914/990-552-ukrainskiiat-prezident-volodimir-zelenski.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/balgariya-mozhe-da-poluchi-neogranichen-resurs-za-infrastrukturni-proekti-ot-znachenie-za-otbranata-1394661news.html",
+      "id": "https://news.bnt.bg/news/balgariya-mozhe-da-poluchi-neogranichen-resurs-za-infrastrukturni-proekti-ot-znachenie-za-otbranata-1394661news.html",
       "title": "България може да получи неограничен ресурс за инфраструктурни проекти от значение за отбраната",
       "summary": "Докладът на ЕП за кохезионната политика в периода 2028 - 2034 г. предвижда преференциално финансиране за източните райони на ЕС",
-      "link": "https://bntnews.bg/news/balgariya-mozhe-da-poluchi-neogranichen-resurs-za-infrastrukturni-proekti-ot-znachenie-za-otbranata-1394661news.html",
+      "link": "https://news.bnt.bg/news/balgariya-mozhe-da-poluchi-neogranichen-resurs-za-infrastrukturni-proekti-ot-znachenie-za-otbranata-1394661news.html",
       "pubDate": "2026-05-22T17:52:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/2cd0b170f37f39e36ff5fbebc8c3fef4.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/22/538144/",
@@ -139,20 +160,22 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779475554.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/mark-ryute-pokani-zelenski-na-sreshtata-na-varha-na-nato-v-ankara-1394706news.html",
+      "id": "https://news.bnt.bg/news/mark-ryute-pokani-zelenski-na-sreshtata-na-varha-na-nato-v-ankara-1394706news.html",
       "title": "Марк Рюте покани Зеленски на срещата на върха на НАТО в Анкара",
       "summary": "Спешно увеличаване на военното производство в Алианса - това е акцентът в позицията на външните министри на НАТО от срещата им в Швеция.&#13; Според генералния секретар на Пакта Марк Рюте това ще бъде и о...",
-      "link": "https://bntnews.bg/news/mark-ryute-pokani-zelenski-na-sreshtata-na-varha-na-nato-v-ankara-1394706news.html",
+      "link": "https://news.bnt.bg/news/mark-ryute-pokani-zelenski-na-sreshtata-na-varha-na-nato-v-ankara-1394706news.html",
       "pubDate": "2026-05-22T17:42:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/2730cc59b70b4e22322051dbb407aa14.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/7500-deca-ne-nameriha-myasto-v-detskite-gradini-v-sofiya-na-parvo-klasirane-1394704news.html",
+      "id": "https://news.bnt.bg/news/7500-deca-ne-nameriha-myasto-v-detskite-gradini-v-sofiya-na-parvo-klasirane-1394704news.html",
       "title": "7500 деца не намериха място в детските градини в София на първо класиране",
       "summary": "Намалява недостигът на места в детските градини и яслите в София. 7500 деца не са приети на първо класиране, което е с 1300 по-малко от миналата година. Най-голям проблем продължава да има в яслените...",
-      "link": "https://bntnews.bg/news/7500-deca-ne-nameriha-myasto-v-detskite-gradini-v-sofiya-na-parvo-klasirane-1394704news.html",
+      "link": "https://news.bnt.bg/news/7500-deca-ne-nameriha-myasto-v-detskite-gradini-v-sofiya-na-parvo-klasirane-1394704news.html",
       "pubDate": "2026-05-22T17:40:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/e0b0a9364145c7e8245fdae4e410832a.jpeg"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/aps-ahmed-dogan-e-izmamen-otneti-sa-mu-imotite-i-uchastieto-vyv-firmi-2455863",
@@ -191,20 +214,22 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779471258.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/greshka-v-maturata-po-angliyski-ezik-za-nivo-b11-1394670news.html",
+      "id": "https://news.bnt.bg/news/greshka-v-maturata-po-angliyski-ezik-za-nivo-b11-1394670news.html",
       "title": "Грешка в матурата по английски език за ниво B1.1",
       "summary": "Около 50 000 зрелостници се явиха на втората задължителна матура по профилиращ предмет или на изпит за професионална квалификация",
-      "link": "https://bntnews.bg/news/greshka-v-maturata-po-angliyski-ezik-za-nivo-b11-1394670news.html",
+      "link": "https://news.bnt.bg/news/greshka-v-maturata-po-angliyski-ezik-za-nivo-b11-1394670news.html",
       "pubDate": "2026-05-22T17:33:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/b7de53c0bac529d409889ea29651d4c4.png"
     },
     {
-      "id": "https://bntnews.bg/news/balgarski-uchenik-specheli-eliten-konkurs-za-nauka-i-inzhenerstvo-1394703news.html",
+      "id": "https://news.bnt.bg/news/balgarski-uchenik-specheli-eliten-konkurs-za-nauka-i-inzhenerstvo-1394703news.html",
       "title": "Български ученик спечели елитен конкурс за наука и инженерство",
       "summary": "11-токласник от Софийската математическа гимназия спечели първо място на най-големия и престижен международен конкурс за гимназисти в областта на науката и инженерството.",
-      "link": "https://bntnews.bg/news/balgarski-uchenik-specheli-eliten-konkurs-za-nauka-i-inzhenerstvo-1394703news.html",
+      "link": "https://news.bnt.bg/news/balgarski-uchenik-specheli-eliten-konkurs-za-nauka-i-inzhenerstvo-1394703news.html",
       "pubDate": "2026-05-22T17:30:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/e194baaf8a00de294a99b9611b7c4163.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-bulgaria/gdbop-zalovi-prokurorskiya-sin-pernik",
@@ -225,12 +250,13 @@
       "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/30862/original_%D0%92%D0%B0%D1%81%D0%B8%D0%BB_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/gdbop-zaloviha-prokurorskiya-sin-vasil-mihailov-1394705news.html",
-      "title": "ГДБОП заловиха \"прокурорския син\" Васил Михайлов",
+      "id": "https://news.bnt.bg/news/gdbop-zaloviha-prokurorskiya-sin-vasil-mihailov-snimki-1394705news.html",
+      "title": "ГДБОП заловиха прокурорския син Васил Михайлов (СНИМКИ)",
       "summary": "Новината съобщи и.д. главен секретар на МВР Георги Кандев и беше потвърдена от министър Иван Демерджиев",
-      "link": "https://bntnews.bg/news/gdbop-zaloviha-prokurorskiya-sin-vasil-mihailov-1394705news.html",
+      "link": "https://news.bnt.bg/news/gdbop-zaloviha-prokurorskiya-sin-vasil-mihailov-snimki-1394705news.html",
       "pubDate": "2026-05-22T17:22:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/a2c07dcfbb9857acd2e508f46afbb83d.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/22/538138/",
@@ -251,13 +277,13 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779469475.jpg"
     },
     {
-      "id": "https://dariknews.bg/novini/bylgariia/beleznicite-shtraknaha-zadyrzhaha-prokurorskiia-sin-vasil-mihajlov-2455861",
-      "title": "„Белезниците щракнаха“: Задържаха прокурорския син Васил Михайлов",
+      "id": "https://dariknews.bg/novini/bylgariia/beleznicite-shtraknaha-zadyrzhaha-prokurorskiia-sin-vasil-mihajlov-snimki-2455861",
+      "title": "„Белезниците щракнаха“: Задържаха прокурорския син Васил Михайлов (СНИМКИ)",
       "summary": "Задържаха прокурорския син Васил Михайлов. Това съобщи главният секретар на МВР Георги Кандев. Издирваният Васил",
-      "link": "https://dariknews.bg/novini/bylgariia/beleznicite-shtraknaha-zadyrzhaha-prokurorskiia-sin-vasil-mihajlov-2455861",
+      "link": "https://dariknews.bg/novini/bylgariia/beleznicite-shtraknaha-zadyrzhaha-prokurorskiia-sin-vasil-mihajlov-snimki-2455861",
       "pubDate": "2026-05-22T17:15:00.000Z",
       "sourceId": "darik",
-      "imageUrl": "https://m.netinfo.bg/media/images/50450/50450037/990-552-prokurorski-sin-vasil-mihajlov.jpg"
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326379/990-552-zadyrzhane-vasil-mihajlov.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/22/538142/",
@@ -269,12 +295,13 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779474149.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/protivopostavyaneto-okolo-ormuzkiya-protok-silite-na-sasht-sa-v-maksimalna-boina-gotovnost-1394699news.html",
+      "id": "https://news.bnt.bg/news/protivopostavyaneto-okolo-ormuzkiya-protok-silite-na-sasht-sa-v-maksimalna-boina-gotovnost-1394699news.html",
       "title": "Противопоставянето около Ормузкия проток: Силите на САЩ са в максимална бойна готовност",
       "summary": "Самолетоносачът \"Ейбрахам Линкълн\" е в максимална бойна готовност за прилагане на блокадата на иранските пристанища, съобщи американското централно командване.&#13; Според висш представител на Обединените...",
-      "link": "https://bntnews.bg/news/protivopostavyaneto-okolo-ormuzkiya-protok-silite-na-sasht-sa-v-maksimalna-boina-gotovnost-1394699news.html",
+      "link": "https://news.bnt.bg/news/protivopostavyaneto-okolo-ormuzkiya-protok-silite-na-sasht-sa-v-maksimalna-boina-gotovnost-1394699news.html",
       "pubDate": "2026-05-22T17:12:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/c530ed12324d5c4e72a78ce048d33396.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/22/538133/",
@@ -286,12 +313,13 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779469511.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/osobeniyat-upravitel-na-lukoil-rumen-specov-pred-govori-sega-1394701news.html",
+      "id": "https://news.bnt.bg/news/osobeniyat-upravitel-na-lukoil-rumen-specov-pred-govori-sega-1394701news.html",
       "title": "Особеният управител на \"Лукойл\" Румен Спецов пред \"Говори сега\"",
       "summary": "Особеният търговски управител на \"Лукойл\" Румен Спецов коментира орязването на правомощията му за предаването \"Говори сега\", след като комисията по бюджет прие на първо четене промени в Закона за дейн...",
-      "link": "https://bntnews.bg/news/osobeniyat-upravitel-na-lukoil-rumen-specov-pred-govori-sega-1394701news.html",
+      "link": "https://news.bnt.bg/news/osobeniyat-upravitel-na-lukoil-rumen-specov-pred-govori-sega-1394701news.html",
       "pubDate": "2026-05-22T17:03:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/83079c3008a79f5bf531740d2560fd89.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-sport/vezenkov-otnovo-shte-igrae-za-evropeyskata-titla",
@@ -330,12 +358,13 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779468692.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/zaradi-plashtaniyata-po-pvu-na-parvo-chetene-vazstanoviha-antikorupcionnata-komisiya-1394686news.html",
+      "id": "https://news.bnt.bg/news/zaradi-plashtaniyata-po-pvu-na-parvo-chetene-vazstanoviha-antikorupcionnata-komisiya-1394686news.html",
       "title": "Заради плащанията по ПВУ: На първо четене възстановиха антикорупционната комисия",
       "summary": "Мандатът на комисията ще бъде 5 години без право на преизбиране и ще се състои от петима членове",
-      "link": "https://bntnews.bg/news/zaradi-plashtaniyata-po-pvu-na-parvo-chetene-vazstanoviha-antikorupcionnata-komisiya-1394686news.html",
+      "link": "https://news.bnt.bg/news/zaradi-plashtaniyata-po-pvu-na-parvo-chetene-vazstanoviha-antikorupcionnata-komisiya-1394686news.html",
       "pubDate": "2026-05-22T16:46:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/3ff12519d8bd5e768b9d35008b5008f9.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-foreign-country/tisa-iska-da-zabrani-na-orban-da-se-zavurne-kato-premier-na-ungariya",
@@ -392,20 +421,22 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779287976.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/krum-zarkov-instituciite-vse-oshte-ne-uspyavat-da-si-svarshat-rabotata-po-sluchaya-petyo-evroto-1394678news.html",
+      "id": "https://news.bnt.bg/news/krum-zarkov-instituciite-vse-oshte-ne-uspyavat-da-si-svarshat-rabotata-po-sluchaya-petyo-evroto-1394678news.html",
       "title": "Крум Зарков: Институциите все още не успяват да си свършат работата по случая Петьо Еврото",
       "summary": "Зарков заяви, че БСП има мисия да възстанови лявото политическо представителство",
-      "link": "https://bntnews.bg/news/krum-zarkov-instituciite-vse-oshte-ne-uspyavat-da-si-svarshat-rabotata-po-sluchaya-petyo-evroto-1394678news.html",
+      "link": "https://news.bnt.bg/news/krum-zarkov-instituciite-vse-oshte-ne-uspyavat-da-si-svarshat-rabotata-po-sluchaya-petyo-evroto-1394678news.html",
       "pubDate": "2026-05-22T16:20:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/a8636c91f849ddb9c8ac017ec571420a.jpeg"
     },
     {
-      "id": "https://bntnews.bg/news/ivan-angelov-zam-predsedatel-na-ns-shte-se-nalozhi-da-bade-izteglen-nov-dalg-no-razmerat-shte-se-utochnyava-1394680news.html",
+      "id": "https://news.bnt.bg/news/ivan-angelov-zam-predsedatel-na-ns-shte-se-nalozhi-da-bade-izteglen-nov-dalg-no-razmerat-shte-se-utochnyava-1394680news.html",
       "title": "Иван Ангелов, зам.-председател на НС: Ще се наложи да бъде изтеглен нов дълг, но размерът ще се уточнява",
       "summary": "Ще се наложи да бъде изтеглен някакъв нов дълг, но се очакват точните разчети от Министерството на финансите, каза зам.-председателят на парламента от \"Прогресивна България\" Иван Ангелов в \"Още от ден...",
-      "link": "https://bntnews.bg/news/ivan-angelov-zam-predsedatel-na-ns-shte-se-nalozhi-da-bade-izteglen-nov-dalg-no-razmerat-shte-se-utochnyava-1394680news.html",
+      "link": "https://news.bnt.bg/news/ivan-angelov-zam-predsedatel-na-ns-shte-se-nalozhi-da-bade-izteglen-nov-dalg-no-razmerat-shte-se-utochnyava-1394680news.html",
       "pubDate": "2026-05-22T16:17:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/7cd52e1fe271e5484c99ea9e25248a97.jpeg"
     },
     {
       "id": "https://www.mediapool.bg/news/read/383670",
@@ -453,20 +484,22 @@
       "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/62120/original_%D0%B0%D1%85%D0%BC%D0%B5%D0%B4_%D0%B4%D0%BE%D0%B3%D0%B0%D0%BD_3842.png"
     },
     {
-      "id": "https://bntnews.bg/news/dvama-ukrainci-sa-arestuvani-vav-varna-zaradi-otvlichane-i-ukrivane-1394676news.html",
+      "id": "https://news.bnt.bg/news/dvama-ukrainci-sa-arestuvani-vav-varna-zaradi-otvlichane-i-ukrivane-1394676news.html",
       "title": "Двама украинци са арестувани във Варна заради отвличане и укриване",
       "summary": "Двама украинци са задържани за 72 часа във Варна за отвличане на мъж. На 8 май 73-годишна жена беше случайно простреляна в ръката от единия от двамата задържани.&#13; &#13; Простреляха възрастна жена в център...",
-      "link": "https://bntnews.bg/news/dvama-ukrainci-sa-arestuvani-vav-varna-zaradi-otvlichane-i-ukrivane-1394676news.html",
+      "link": "https://news.bnt.bg/news/dvama-ukrainci-sa-arestuvani-vav-varna-zaradi-otvlichane-i-ukrivane-1394676news.html",
       "pubDate": "2026-05-22T15:39:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/fb7c8762c2865dce8f1ade62bdafccd3.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/netniyat-ikonomicheski-efekt-za-balgariya-ot-domakinstvoto-na-evroviziya-mozhe-da-e-mezhdu-45-mln-i-70-mln-evro-1394675news.html",
+      "id": "https://news.bnt.bg/news/netniyat-ikonomicheski-efekt-za-balgariya-ot-domakinstvoto-na-evroviziya-mozhe-da-e-mezhdu-45-mln-i-70-mln-evro-1394675news.html",
       "title": "Нетният икономически ефект за България от домакинството на \"Евровизия\" може да е между 45 млн. и 70 млн. евро",
       "summary": "Абсолютен рекордьор последните години по приходи е миналогодишният домакин - Базел, Швейцария",
-      "link": "https://bntnews.bg/news/netniyat-ikonomicheski-efekt-za-balgariya-ot-domakinstvoto-na-evroviziya-mozhe-da-e-mezhdu-45-mln-i-70-mln-evro-1394675news.html",
+      "link": "https://news.bnt.bg/news/netniyat-ikonomicheski-efekt-za-balgariya-ot-domakinstvoto-na-evroviziya-mozhe-da-e-mezhdu-45-mln-i-70-mln-evro-1394675news.html",
       "pubDate": "2026-05-22T15:37:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/31418ed81d9a8a9efa5020baf5a75921.jpg"
     },
     {
       "id": "https://www.mediapool.bg/news/read/383642",
@@ -478,12 +511,13 @@
       "imageUrl": "https://www.mediapool.bg/images/383/medium_4384731e92878d47ebd76f7cb148f995.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/aps-ahmed-dogan-e-stanal-zhertva-na-izmama-1394673news.html",
+      "id": "https://news.bnt.bg/news/aps-ahmed-dogan-e-stanal-zhertva-na-izmama-1394673news.html",
       "title": "АПС: Ахмед Доган е станал жертва на измама",
       "summary": "Подписът на почетния председател на ДПС Ахмед Доган е бил фалшифициран с цел отнемане на негови имоти, доходи и участия в търговски дружества.&#13; Това съобщиха от пресцентъра на \"Алианс за права и свобо...",
-      "link": "https://bntnews.bg/news/aps-ahmed-dogan-e-stanal-zhertva-na-izmama-1394673news.html",
+      "link": "https://news.bnt.bg/news/aps-ahmed-dogan-e-stanal-zhertva-na-izmama-1394673news.html",
       "pubDate": "2026-05-22T15:33:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/bf7b8da57720aabe2162f4807a0be603.jpg"
     },
     {
       "id": "https://www.mediapool.bg/news/read/383669",
@@ -522,12 +556,13 @@
       "imageUrl": "https://www.economic.bg/web/files/articles/153922/narrow_image/chat-gpt-image-may-22-2026-05-47-38-pm.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/poseshtenie-pri-papata-balgarskata-delegaciya-beshe-prieta-ot-lav-xiv-1394668news.html",
+      "id": "https://news.bnt.bg/news/poseshtenie-pri-papata-balgarskata-delegaciya-beshe-prieta-ot-lav-xiv-1394668news.html",
       "title": "Посещение при папата: Българската делегация беше приета от Лъв XIV",
       "summary": "Икона на свети Иван Рилски, покровителят на българите, подари председателят на парламента Михаела Доцова на папа Лъв 14 XIV. Тя е начело на парламентарна делегация в Рим и Ватикана в навечерието на пр...",
-      "link": "https://bntnews.bg/news/poseshtenie-pri-papata-balgarskata-delegaciya-beshe-prieta-ot-lav-xiv-1394668news.html",
+      "link": "https://news.bnt.bg/news/poseshtenie-pri-papata-balgarskata-delegaciya-beshe-prieta-ot-lav-xiv-1394668news.html",
       "pubDate": "2026-05-22T15:25:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/4e08e08adbc5a46c962561dafc4e9b46.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-bulgaria/chinovnicite-nyama-da-iskat-akt-za-razhdane-ili-smurt",
@@ -557,36 +592,40 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779463409.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/burni-reakcii-sled-globata-za-petyo-evroto-1394665news.html",
+      "id": "https://news.bnt.bg/news/burni-reakcii-sled-globata-za-petyo-evroto-1394665news.html",
       "title": "Бурни реакции след глобата за Петьо Еврото",
       "summary": "Дефицит на справедливост видя премиерът Румен Радев в присъдата, с която на Петьо Петров - Еврото беше наложена глоба. В парламента депутати пък видяха дефицити в обвинителния акт. Според управляващит...",
-      "link": "https://bntnews.bg/news/burni-reakcii-sled-globata-za-petyo-evroto-1394665news.html",
+      "link": "https://news.bnt.bg/news/burni-reakcii-sled-globata-za-petyo-evroto-1394665news.html",
       "pubDate": "2026-05-22T15:15:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/0d02ccb2c706bc88bcc7a728783f2329.jpeg"
     },
     {
-      "id": "https://bntnews.bg/news/putin-obvini-ukraina-v-saznatelen-obstrel-s-dronove-na-studentsko-obshtezhitie-v-luganska-oblast-1394667news.html",
+      "id": "https://news.bnt.bg/news/putin-obvini-ukraina-v-saznatelen-obstrel-s-dronove-na-studentsko-obshtezhitie-v-luganska-oblast-1394667news.html",
       "title": "Путин обвини Украйна в съзнателен обстрел с дронове на студентско общежитие в Луганска област",
       "summary": "Русия свика спешно заседание на Съвета за сигурност на ООН заради инцидента",
-      "link": "https://bntnews.bg/news/putin-obvini-ukraina-v-saznatelen-obstrel-s-dronove-na-studentsko-obshtezhitie-v-luganska-oblast-1394667news.html",
+      "link": "https://news.bnt.bg/news/putin-obvini-ukraina-v-saznatelen-obstrel-s-dronove-na-studentsko-obshtezhitie-v-luganska-oblast-1394667news.html",
       "pubDate": "2026-05-22T15:12:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/7d3136a85bd0aae357fc2544eece1c75.png"
     },
     {
-      "id": "https://bntnews.bg/news/dara-se-sreshtna-s-premiera-radev-pozdravi-pevicata-i-ekipa-na-bnt-za-uspeha-na-evroviziya-1394656news.html",
+      "id": "https://news.bnt.bg/news/dara-se-sreshtna-s-premiera-radev-pozdravi-pevicata-i-ekipa-na-bnt-za-uspeha-na-evroviziya-1394656news.html",
       "title": "DARA се срещна с премиера: Радев поздрави певицата и екипа на БНТ за успеха на \"Евровизия\"",
       "summary": "Министър-председателят Румен Радев се срещна с DARA, екипa ѝ и ръководството на БНТ след грандиозния, по думите му, успех на \"Евровизия\". Акцент в разговора, в който се включиха и министри от кабинета...",
-      "link": "https://bntnews.bg/news/dara-se-sreshtna-s-premiera-radev-pozdravi-pevicata-i-ekipa-na-bnt-za-uspeha-na-evroviziya-1394656news.html",
+      "link": "https://news.bnt.bg/news/dara-se-sreshtna-s-premiera-radev-pozdravi-pevicata-i-ekipa-na-bnt-za-uspeha-na-evroviziya-1394656news.html",
       "pubDate": "2026-05-22T15:07:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/dad90631c1a3ffd746786a51b3763dd7.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/prodalzhava-razmyanata-na-repliki-sled-kato-balgariya-ne-podkrepi-specialniya-tribunal-za-ukraina-1394660news.html",
+      "id": "https://news.bnt.bg/news/prodalzhava-razmyanata-na-repliki-sled-kato-balgariya-ne-podkrepi-specialniya-tribunal-za-ukraina-1394660news.html",
       "title": "Продължава размяната на реплики, след като България не подкрепи специалния трибунал за Украйна",
       "summary": "България има право на свое собствено мнение, коментира решението на кабинета премиерът Румен Радев",
-      "link": "https://bntnews.bg/news/prodalzhava-razmyanata-na-repliki-sled-kato-balgariya-ne-podkrepi-specialniya-tribunal-za-ukraina-1394660news.html",
+      "link": "https://news.bnt.bg/news/prodalzhava-razmyanata-na-repliki-sled-kato-balgariya-ne-podkrepi-specialniya-tribunal-za-ukraina-1394660news.html",
       "pubDate": "2026-05-22T15:02:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/58a8bf2e43e7ce37e167f95d33c15013.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/22/538124/",
@@ -598,12 +637,13 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779461942.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/bnt-1-otbelyazva-24-mai-s-praznichna-programa-1394664news.html",
+      "id": "https://news.bnt.bg/news/bnt-1-otbelyazva-24-mai-s-praznichna-programa-1394664news.html",
       "title": "БНТ 1 отбелязва 24 май с празнична програма",
       "summary": "На 24 май, неделя, Българската национална телевизия ще отбележи Деня на българската азбука, просвета и култура и на славянската книжовност с празнична програма.&#13; Специалното предаване „Върви, народе.....",
-      "link": "https://bntnews.bg/news/bnt-1-otbelyazva-24-mai-s-praznichna-programa-1394664news.html",
+      "link": "https://news.bnt.bg/news/bnt-1-otbelyazva-24-mai-s-praznichna-programa-1394664news.html",
       "pubDate": "2026-05-22T14:57:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/2e2a75ce966edca21ddc10cf4f01bcd0.jpeg"
     },
     {
       "id": "https://www.mediapool.bg/news/read/383666",
@@ -642,12 +682,13 @@
       "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/45514/original_%D0%9C%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%B8%D0%B7%D0%BF%D0%B8%D1%82.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/vanshnite-ministri-na-balgariya-i-republika-severna-makedoniya-obsadiha-regionalnata-svarzanost-1394653news.html",
+      "id": "https://news.bnt.bg/news/vanshnite-ministri-na-balgariya-i-republika-severna-makedoniya-obsadiha-regionalnata-svarzanost-1394653news.html",
       "title": "Външните министри на България и Република Северна Македония обсъдиха регионалната свързаност",
       "summary": "За България въпрос от приоритетно значение ще продължи да бъде гарантирането в пълна степен на правата на македонските българи, заяви Велислава Петрова",
-      "link": "https://bntnews.bg/news/vanshnite-ministri-na-balgariya-i-republika-severna-makedoniya-obsadiha-regionalnata-svarzanost-1394653news.html",
+      "link": "https://news.bnt.bg/news/vanshnite-ministri-na-balgariya-i-republika-severna-makedoniya-obsadiha-regionalnata-svarzanost-1394653news.html",
       "pubDate": "2026-05-22T14:49:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/44f9932dc0af8d33a3666a62570cc49e.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-the-war/sasht-spryaha-pregovorite-za-mir-rusiya-i-ukrayna",
@@ -659,12 +700,13 @@
       "imageUrl": "https://www.segabg.com/sites/default/files/_sega//styles/focal_medium/public/2026/05/img_4570.jpeg"
     },
     {
-      "id": "https://bntnews.bg/news/validiraha-marka-posvetena-na-napisvaneto-na-himna-na-24-mai-varvi-narode-vazrodeni-1394655news.html",
+      "id": "https://news.bnt.bg/news/validiraha-marka-posvetena-na-napisvaneto-na-himna-na-24-mai-varvi-narode-vazrodeni-1394655news.html",
       "title": "Валидираха марка, посветена на написването на химна на 24 май - \"Върви народе възродени\"",
       "summary": "Броени дни преди 24 май в Националната библиотека Св Св Кирил и Методий беше валидирана марка посветена на 125 години от написването на химна на българската просвета \"Върви народе възродени\" от композ...",
-      "link": "https://bntnews.bg/news/validiraha-marka-posvetena-na-napisvaneto-na-himna-na-24-mai-varvi-narode-vazrodeni-1394655news.html",
+      "link": "https://news.bnt.bg/news/validiraha-marka-posvetena-na-napisvaneto-na-himna-na-24-mai-varvi-narode-vazrodeni-1394655news.html",
       "pubDate": "2026-05-22T14:38:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/effab8389a4826fc2049b028eabbdcc9.jpeg"
     },
     {
       "id": "https://www.economic.bg/bg/a/view/zona-dobroslavci-izliza-ot-zastoja-dyrjavata-ja-otvarja-za-kosmicheski-tehnologii-i-otbrana",
@@ -721,12 +763,13 @@
       "imageUrl": "https://www.mediapool.bg/images/383/medium_f581b894440bb779158acdaba18db414.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/prezidentat-iliyana-yotova-tryabva-da-slozhim-kontrol-varhu-sobstvenata-si-prehrana-1394649news.html",
+      "id": "https://news.bnt.bg/news/prezidentat-iliyana-yotova-tryabva-da-slozhim-kontrol-varhu-sobstvenata-si-prehrana-1394649news.html",
       "title": "Президентът Илияна Йотова: Трябва да сложим контрол върху собствената си прехрана",
       "summary": "Президентът Илияна Йотова заяви, че държавата трябва да \"влезе в ролята си\" и да защити производителите на български храни.&#13; Тя подчерта, че държавните институции трябва да бъдат гарант за фермерите,...",
-      "link": "https://bntnews.bg/news/prezidentat-iliyana-yotova-tryabva-da-slozhim-kontrol-varhu-sobstvenata-si-prehrana-1394649news.html",
+      "link": "https://news.bnt.bg/news/prezidentat-iliyana-yotova-tryabva-da-slozhim-kontrol-varhu-sobstvenata-si-prehrana-1394649news.html",
       "pubDate": "2026-05-22T14:22:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/e981081f5ee7baed4bed448b71b7cd4d.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/22/538115/",
@@ -738,20 +781,22 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1770628668.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/direktorat-na-radio-svobodna-evropa-svideteli-sme-na-mnogo-po-agresivno-povedenie-ot-strana-na-pravitelstva-koito-iskat-1394638news.html",
+      "id": "https://news.bnt.bg/news/direktorat-na-radio-svobodna-evropa-svideteli-sme-na-mnogo-po-agresivno-povedenie-ot-strana-na-pravitelstva-koito-iskat-1394638news.html",
       "title": "Директорът на Радио Свободна Европа: Свидетели сме на много по-агресивно поведение от страна на правителства, които искат да ни цензурират и заглушават",
       "summary": "Нека се опитаме да измислим нови инструменти за заобикаляне на ограниченията, заяви Стивън Капъс",
-      "link": "https://bntnews.bg/news/direktorat-na-radio-svobodna-evropa-svideteli-sme-na-mnogo-po-agresivno-povedenie-ot-strana-na-pravitelstva-koito-iskat-1394638news.html",
+      "link": "https://news.bnt.bg/news/direktorat-na-radio-svobodna-evropa-svideteli-sme-na-mnogo-po-agresivno-povedenie-ot-strana-na-pravitelstva-koito-iskat-1394638news.html",
       "pubDate": "2026-05-22T14:10:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/cafa06ff5d76fb24aac7fbdcf2819bf2.jpeg"
     },
     {
-      "id": "https://bntnews.bg/news/mon-publikuva-vernite-otgovori-na-maturata-po-profilirasht-predmet-1394650news.html",
+      "id": "https://news.bnt.bg/news/mon-publikuva-vernite-otgovori-na-maturata-po-profilirasht-predmet-1394650news.html",
       "title": "МОН публикува верните отговори на матурата по профилиращ предмет",
       "summary": "Министерството на образованието и науката публикува верните отговори на матурата по профилиращ предмет, която се проведе в петък.&#13; Ключа към верните отговори вижте ТУК&#13; Днес се проведе втората задължи...",
-      "link": "https://bntnews.bg/news/mon-publikuva-vernite-otgovori-na-maturata-po-profilirasht-predmet-1394650news.html",
+      "link": "https://news.bnt.bg/news/mon-publikuva-vernite-otgovori-na-maturata-po-profilirasht-predmet-1394650news.html",
       "pubDate": "2026-05-22T14:06:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/dd75c3521d1b81234e17f2a7bdcc7d56.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-education/nad-24-000-zrelostnici-se-yaviha-na-vtora-zadulzhitelna-matura-klyuch-verni-otgovori",
@@ -808,12 +853,13 @@
       "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/70756/original_Lidl.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/ot-23-do-27-mai-shte-ima-pridvizhvane-na-voenna-tehnika-po-republikanskata-patna-infrastruktura-1394648news.html",
+      "id": "https://news.bnt.bg/news/ot-23-do-27-mai-shte-ima-pridvizhvane-na-voenna-tehnika-po-republikanskata-patna-infrastruktura-1394648news.html",
       "title": "От 23 до 27 май ще има придвижване на военна техника по републиканската пътна инфраструктура",
       "summary": "Предстои придвижване на личен състав и военна техника по републиканската пътна инфраструктура в периода от 23 до 27 май 2026 г., съобщиха от Министерството на отбраната. &#13; На 23 и 24 май военнослужещи...",
-      "link": "https://bntnews.bg/news/ot-23-do-27-mai-shte-ima-pridvizhvane-na-voenna-tehnika-po-republikanskata-patna-infrastruktura-1394648news.html",
+      "link": "https://news.bnt.bg/news/ot-23-do-27-mai-shte-ima-pridvizhvane-na-voenna-tehnika-po-republikanskata-patna-infrastruktura-1394648news.html",
       "pubDate": "2026-05-22T13:54:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/cc89e0fc271b69c729fa0e45782d08c1.jpeg"
     },
     {
       "id": "https://dariknews.bg/novini/sviat/napadenie-sys-sylzotvoren-gaz-prekysna-koncert-na-riki-martin-v-cherna-gora-video-2455844",
@@ -852,12 +898,13 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x188_1733894925.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/es-premahva-mitata-varhu-azotnite-torove-za-srok-ot-edna-godina-1394644news.html",
+      "id": "https://news.bnt.bg/news/es-premahva-mitata-varhu-azotnite-torove-za-srok-ot-edna-godina-1394644news.html",
       "title": "ЕС премахва митата върху азотните торове за срок от една година",
       "summary": "Европейският съюз ще премахне временно за срок от една година митата върху ключови азотни торове, използвани в селското стопанство, съобщи Съветът на Европейския Съюз.&#13; ЕС не зависи от азотните торове...",
-      "link": "https://bntnews.bg/news/es-premahva-mitata-varhu-azotnite-torove-za-srok-ot-edna-godina-1394644news.html",
+      "link": "https://news.bnt.bg/news/es-premahva-mitata-varhu-azotnite-torove-za-srok-ot-edna-godina-1394644news.html",
       "pubDate": "2026-05-22T13:38:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/820c95be76487876236976379f1ea61a.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/22/538119/",
@@ -896,12 +943,13 @@
       "imageUrl": "https://www.mediapool.bg/images/383/medium_b1a335c54711503a21591ee2a466acb4.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/gledaite-specialnoto-intervyu-na-boiko-vasilev-s-viktoriya-svarovski-v-panorama-1394643news.html",
+      "id": "https://news.bnt.bg/news/gledaite-specialnoto-intervyu-na-boiko-vasilev-s-viktoriya-svarovski-v-panorama-1394643news.html",
       "title": "Гледайте специалното интервю на Бойко Василев с Виктория Сваровски в \"Панорама\"",
       "summary": "\"Бяхме супер, супер щастливи, че DARA спечели \"Евровизия\", каза Сваровски",
-      "link": "https://bntnews.bg/news/gledaite-specialnoto-intervyu-na-boiko-vasilev-s-viktoriya-svarovski-v-panorama-1394643news.html",
+      "link": "https://news.bnt.bg/news/gledaite-specialnoto-intervyu-na-boiko-vasilev-s-viktoriya-svarovski-v-panorama-1394643news.html",
       "pubDate": "2026-05-22T13:25:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/f7962f200097a4d7096225d00dfecae2.png"
     },
     {
       "id": "http://nova.bg/news/view/2026/05/22/538113/",
@@ -1030,12 +1078,13 @@
       "imageUrl": "https://www.economic.bg/web/files/articles/153908/narrow_image/limoges-600x400.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/-demokratichna-balgariya-vnese-zakonoproekt-za-izcyalo-mashinno-glasuvane-1394635news.html",
+      "id": "https://news.bnt.bg/news/-demokratichna-balgariya-vnese-zakonoproekt-za-izcyalo-mashinno-glasuvane-1394635news.html",
       "title": "„Демократична България” внесе законопроект за изцяло машинно гласуване",
       "summary": "Изцяло машинно гласуване на всички видове избори и отпадане ограничението за броя избирателни секции в държави извън ЕС предвижда внесеният в парламента от „Демократична България” проект за промени в...",
-      "link": "https://bntnews.bg/news/-demokratichna-balgariya-vnese-zakonoproekt-za-izcyalo-mashinno-glasuvane-1394635news.html",
+      "link": "https://news.bnt.bg/news/-demokratichna-balgariya-vnese-zakonoproekt-za-izcyalo-mashinno-glasuvane-1394635news.html",
       "pubDate": "2026-05-22T12:25:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/7b6e47e847891ba989e6ce09b5be9140.jpeg"
     },
     {
       "id": "https://www.economic.bg/bg/a/view/bylgarskite-muzei-privlichat-vse-poveche-posetiteli",
@@ -1074,12 +1123,13 @@
       "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/9631/original_%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B0_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/milena-milotinova-sled-sreshtata-pri-premiera-nabelyazani-sa-parvi-stapki-v-podgotovkata-na-evroviziya-2027-1394617news.html",
+      "id": "https://news.bnt.bg/news/milena-milotinova-sled-sreshtata-pri-premiera-nabelyazani-sa-parvi-stapki-v-podgotovkata-na-evroviziya-2027-1394617news.html",
       "title": "Милена Милотинова след срещата при премиера: Набелязани са първи стъпки в подготовката на \"Евровизия 2027\"",
       "summary": "За мен, за нас, е приоритет да продължим следващите крачки в западната сцена и да развиваме българската музика, отбеляза след срещата DARA",
-      "link": "https://bntnews.bg/news/milena-milotinova-sled-sreshtata-pri-premiera-nabelyazani-sa-parvi-stapki-v-podgotovkata-na-evroviziya-2027-1394617news.html",
+      "link": "https://news.bnt.bg/news/milena-milotinova-sled-sreshtata-pri-premiera-nabelyazani-sa-parvi-stapki-v-podgotovkata-na-evroviziya-2027-1394617news.html",
       "pubDate": "2026-05-22T12:13:00.000Z",
-      "sourceId": "bnt"
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/c45140e565f5a27343019c3481113364.jpeg"
     },
     {
       "id": "https://www.mediapool.bg/news/read/383657",
@@ -1089,24 +1139,6 @@
       "pubDate": "2026-05-22T12:10:19.000Z",
       "sourceId": "mediapool",
       "imageUrl": "https://www.mediapool.bg/images/383/medium_c3c456b0a6fc697a706a855ab217043c.jpg"
-    },
-    {
-      "id": "https://dariknews.bg/novini/bylgariia/eto-kakvo-podari-papa-lyv-xiv-na-predsedatelia-na-narodnoto-sybranie-mihaela-docova-2455822",
-      "title": "Ето какво подари папа Лъв XIV на председателя на Народното събрание Михаела Доцова",
-      "summary": "Папа Лъв XIV подари на председателя на Народното събрание Михаела Доцова плакет с изображение на деца, които се молят за мир по света, и албум за Ватика",
-      "link": "https://dariknews.bg/novini/bylgariia/eto-kakvo-podari-papa-lyv-xiv-na-predsedatelia-na-narodnoto-sybranie-mihaela-docova-2455822",
-      "pubDate": "2026-05-22T12:10:00.000Z",
-      "sourceId": "darik",
-      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326192/990-552-papa-lyv-xiv-podari-na-predsedatelia-na-narodnoto-sybranie-mihaela.jpg"
-    },
-    {
-      "id": "https://www.mediapool.bg/news/read/383656",
-      "title": "Панели и батерии за ток заработиха край Мъглиж, планират се и перки",
-      "summary": "В землището на село Дъбово край Мъглиж официално в четвъртък заработи хибридна фотоволтаична електрическа централа, комбинирана с батерии за ток, а плановете на инвеститорите \"Соларс Енерджи\" (собственост на основните акционери в \"Еврохолд\") и \"360 Енерджи\" са проектът да бъде допълнен още батерии и вятърни перки. Дасегашната инвестиция от над 100 млн. евро е в инсталирането на слънчеви панели с мощност 161 MWp, достатъчна за захранването на над 65 000 домакинства годишно, и в със система за съхранение на електрическа енергия с мощност 36 MВ и капацитет 72 MВТч.",
-      "link": "https://www.mediapool.bg/paneli-i-baterii-za-tok-zarabotiha-krai-maglizh-planirat-se-i-perki-news383656.html",
-      "pubDate": "2026-05-22T12:05:34.000Z",
-      "sourceId": "mediapool",
-      "imageUrl": "https://www.mediapool.bg/images/383/medium_2428ed054f22745ad36f13013f95bba1.jpg"
     }
   ]
 }

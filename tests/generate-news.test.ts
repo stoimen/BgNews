@@ -69,6 +69,31 @@ describe("mapFeed", () => {
     });
   });
 
+  it("uses RSS enclosure image URLs even when the type is malformed", () => {
+    const items = mapFeed(
+      `<?xml version="1.0"?>
+      <rss version="2.0">
+        <channel>
+          <item>
+            <title>BNT title</title>
+            <link>https://news.bnt.bg/news/story-1394712news.html</link>
+            <guid>https://news.bnt.bg/news/story-1394712news.html</guid>
+            <pubDate>Fri, 22 May 2026 21:21:00 +0300</pubDate>
+            <description>BNT summary</description>
+            <enclosure url="https://news.bnt.bg/f/news/m/1394/8fe05fe0ba4464dbe4d5e58d33c901cf.jpeg" type="vary: User-Agent" length="x-content-type-options: nosniff"/>
+          </item>
+        </channel>
+      </rss>`,
+      source,
+    );
+
+    expect(items).toHaveLength(1);
+    expect(items[0]).toMatchObject({
+      title: "BNT title",
+      imageUrl: "https://news.bnt.bg/f/news/m/1394/8fe05fe0ba4464dbe4d5e58d33c901cf.jpeg",
+    });
+  });
+
   it("maps Atom entries", () => {
     const items = mapFeed(
       `<?xml version="1.0"?>
