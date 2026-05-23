@@ -40,19 +40,19 @@ describe("mapFeed", () => {
     });
   });
 
-  it("maps Mediapool RSS items", () => {
+  it("maps RSS media thumbnails", () => {
     const items = mapFeed(
       `<?xml version="1.0" encoding="utf-8"?>
       <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
         <channel>
           <item>
-            <title><![CDATA[48 килорама кокаин са хванати на "Капитан Андреево"]]></title>
-            <link>https://www.mediapool.bg/48-kilorama-kokain-sa-hvanati-na-kapitan-andreevo-news383470.html</link>
-            <description><![CDATA[<img src="https://www.mediapool.bg/images/383/medium_94110a265673fb2b4588f5a08e83d871.jpg" alt="" />Голяма пратка кокаин е задържана.]]></description>
+            <title><![CDATA[RSS media title]]></title>
+            <link>https://example.com/media-title.html</link>
+            <description><![CDATA[<img src="https://example.com/media.jpg" alt="" />RSS media summary.]]></description>
             <pubDate>Mon, 18 May 2026 12:37:41 +0300</pubDate>
-            <guid isPermaLink="false">https://www.mediapool.bg/news/read/383470</guid>
-            <dc:creator>mediapool.bg</dc:creator>
-            <media:thumbnail url="https://www.mediapool.bg/images/383/medium_94110a265673fb2b4588f5a08e83d871.jpg" width="330" height="186" />
+            <guid isPermaLink="false">https://example.com/news/read/1</guid>
+            <dc:creator>example.com</dc:creator>
+            <media:thumbnail url="https://example.com/media.jpg" width="330" height="186" />
           </item>
         </channel>
       </rss>`,
@@ -61,12 +61,12 @@ describe("mapFeed", () => {
 
     expect(items).toHaveLength(1);
     expect(items[0]).toMatchObject({
-      id: "https://www.mediapool.bg/news/read/383470",
-      title: '48 килорама кокаин са хванати на "Капитан Андреево"',
-      summary: "Голяма пратка кокаин е задържана.",
-      link: "https://www.mediapool.bg/48-kilorama-kokain-sa-hvanati-na-kapitan-andreevo-news383470.html",
-      sourceId: "mediapool",
-      imageUrl: "https://www.mediapool.bg/images/383/medium_94110a265673fb2b4588f5a08e83d871.jpg",
+      id: "https://example.com/news/read/1",
+      title: "RSS media title",
+      summary: "RSS media summary.",
+      link: "https://example.com/media-title.html",
+      sourceId: source.id,
+      imageUrl: "https://example.com/media.jpg",
     });
   });
 
@@ -148,25 +148,25 @@ describe("mapFeed", () => {
 });
 
 describe("mergeSourceResults", () => {
-  const cachedMediapoolItem: NewsItem = {
+  const cachedBntItem: NewsItem = {
     id: "cached",
-    title: "Cached Mediapool",
+    title: "Cached BNT",
     summary: "Cached summary",
-    link: "https://www.mediapool.bg/cached-news.html",
+    link: "https://news.bnt.bg/news/cached.html",
     pubDate: "2026-05-23T10:00:00.000Z",
-    sourceId: "mediapool",
+    sourceId: "bnt",
   };
 
   const previousPayload: NewsPayload = {
     generatedAt: "2026-05-23T10:00:00.000Z",
     sources: [...sources],
     errors: [],
-    items: [cachedMediapoolItem],
+    items: [cachedBntItem],
   };
 
   it("uses cached items without creating a visible feed error", () => {
     const settled = sources.map((source): PromiseSettledResult<NewsItem[]> => {
-      if (source.id === "mediapool") {
+      if (source.id === "bnt") {
         return { status: "rejected", reason: new Error("403 Forbidden") };
       }
 
@@ -175,11 +175,11 @@ describe("mergeSourceResults", () => {
 
     const result = mergeSourceResults(settled, previousPayload);
 
-    expect(result.items).toEqual([cachedMediapoolItem]);
+    expect(result.items).toEqual([cachedBntItem]);
     expect(result.errors).toEqual([]);
     expect(result.warnings).toEqual([
       {
-        sourceId: "mediapool",
+        sourceId: "bnt",
         message: "403 Forbidden; using 1 cached items",
       },
     ]);
@@ -187,7 +187,7 @@ describe("mergeSourceResults", () => {
 
   it("creates a visible feed error when no cached items are available", () => {
     const settled = sources.map((source): PromiseSettledResult<NewsItem[]> => {
-      if (source.id === "mediapool") {
+      if (source.id === "bnt") {
         return { status: "rejected", reason: new Error("403 Forbidden") };
       }
 
@@ -200,7 +200,7 @@ describe("mergeSourceResults", () => {
     expect(result.warnings).toEqual([]);
     expect(result.errors).toEqual([
       {
-        sourceId: "mediapool",
+        sourceId: "bnt",
         message: "403 Forbidden",
       },
     ]);

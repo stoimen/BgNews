@@ -1,12 +1,5 @@
 export const sources = [
   {
-    id: "mediapool",
-    name: "Mediapool",
-    shortName: "Mediapool",
-    color: "#2563eb",
-    feedUrl: "https://www.mediapool.bg/rss",
-  },
-  {
     id: "boulevard",
     name: "Boulevard Bulgaria",
     shortName: "Boulevard",
