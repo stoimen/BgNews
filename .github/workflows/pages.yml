@@ -29,6 +29,8 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci
+      - name: Restore deployed feed cache
+        run: curl -fsS https://stoimen.github.io/BgNews/news.json -o public/news.json || true
       - name: Refresh news feed
         run: npm run generate:news
       - name: Build

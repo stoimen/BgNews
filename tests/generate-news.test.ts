@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
-import { mapFeed, stripHtml } from "../scripts/generate-news";
+import { mapFeed, mergeSourceResults, stripHtml } from "../scripts/generate-news";
 import { sources } from "../src/sources";
+import type { NewsItem, NewsPayload } from "../src/types";
 
 const source = sources[0];
 
@@ -143,5 +144,65 @@ describe("mapFeed", () => {
       link: "https://example.com/rdf",
       sourceId: source.id,
     });
+  });
+});
+
+describe("mergeSourceResults", () => {
+  const cachedMediapoolItem: NewsItem = {
+    id: "cached",
+    title: "Cached Mediapool",
+    summary: "Cached summary",
+    link: "https://www.mediapool.bg/cached-news.html",
+    pubDate: "2026-05-23T10:00:00.000Z",
+    sourceId: "mediapool",
+  };
+
+  const previousPayload: NewsPayload = {
+    generatedAt: "2026-05-23T10:00:00.000Z",
+    sources: [...sources],
+    errors: [],
+    items: [cachedMediapoolItem],
+  };
+
+  it("uses cached items without creating a visible feed error", () => {
+    const settled = sources.map((source): PromiseSettledResult<NewsItem[]> => {
+      if (source.id === "mediapool") {
+        return { status: "rejected", reason: new Error("403 Forbidden") };
+      }
+
+      return { status: "fulfilled", value: [] };
+    });
+
+    const result = mergeSourceResults(settled, previousPayload);
+
+    expect(result.items).toEqual([cachedMediapoolItem]);
+    expect(result.errors).toEqual([]);
+    expect(result.warnings).toEqual([
+      {
+        sourceId: "mediapool",
+        message: "403 Forbidden; using 1 cached items",
+      },
+    ]);
+  });
+
+  it("creates a visible feed error when no cached items are available", () => {
+    const settled = sources.map((source): PromiseSettledResult<NewsItem[]> => {
+      if (source.id === "mediapool") {
+        return { status: "rejected", reason: new Error("403 Forbidden") };
+      }
+
+      return { status: "fulfilled", value: [] };
+    });
+
+    const result = mergeSourceResults(settled, { ...previousPayload, items: [] });
+
+    expect(result.items).toEqual([]);
+    expect(result.warnings).toEqual([]);
+    expect(result.errors).toEqual([
+      {
+        sourceId: "mediapool",
+        message: "403 Forbidden",
+      },
+    ]);
   });
 });

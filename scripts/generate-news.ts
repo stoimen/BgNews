@@ -209,11 +209,13 @@ const readPreviousPayload = async () =>
 
 const errorMessage = (error: unknown) => (error instanceof Error ? error.message : String(error));
 
-export const generateNews = async () => {
-  const previousPayload = await readPreviousPayload();
-  const settled = await Promise.allSettled(sources.map(fetchSource));
+export const mergeSourceResults = (
+  settled: PromiseSettledResult<NewsItem[]>[],
+  previousPayload: NewsPayload | null,
+) => {
   const errors: NewsPayload["errors"] = [];
   const items: NewsItem[] = [];
+  const warnings: NewsPayload["errors"] = [];
 
   settled.forEach((result, index) => {
     const source = sources[index];
@@ -222,12 +224,27 @@ export const generateNews = async () => {
     } else {
       const cachedItems = previousPayload?.items?.filter((item) => item.sourceId === source.id) ?? [];
       items.push(...cachedItems);
-      errors.push({
+
+      const failure = {
         sourceId: source.id,
         message: `${errorMessage(result.reason)}${cachedItems.length ? `; using ${cachedItems.length} cached items` : ""}`,
-      });
+      };
+
+      if (cachedItems.length) {
+        warnings.push(failure);
+      } else {
+        errors.push(failure);
+      }
     }
   });
+
+  return { errors, items, warnings };
+};
+
+export const generateNews = async () => {
+  const previousPayload = await readPreviousPayload();
+  const settled = await Promise.allSettled(sources.map(fetchSource));
+  const { errors, items, warnings } = mergeSourceResults(settled, previousPayload);
 
   items.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
 
@@ -242,6 +259,9 @@ export const generateNews = async () => {
   await writeFile("public/news.json", `${JSON.stringify(payload, null, 2)}\n`);
 
   console.log(`Generated public/news.json with ${payload.items.length} items`);
+  if (warnings.length) {
+    console.warn("Some feeds used cache:", warnings.map((error) => `${error.sourceId}: ${error.message}`).join("; "));
+  }
   if (errors.length) {
     console.warn("Some feeds failed:", errors.map((error) => `${error.sourceId}: ${error.message}`).join("; "));
   }
