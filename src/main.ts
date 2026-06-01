@@ -1,6 +1,7 @@
 import "./styles.css";
 import { filteredItems, loadNews, state } from "./news";
 import type { NewsItem, NewsSource } from "./types";
+import { isSafeHttpUrl } from "./url";
 
 const app = document.querySelector<HTMLDivElement>("#app");
 
@@ -54,30 +55,63 @@ const renderCard = (item: NewsItem) => {
   const sourceColor = source?.color ?? "#334155";
   const sourceLabel = source?.shortName ?? item.sourceId;
   const summary = item.summary ? `<p>${escapeHtml(item.summary)}</p>` : "";
-  const image = item.imageUrl
-    ? `<img src="${escapeHtml(item.imageUrl)}" alt="" loading="lazy" referrerpolicy="no-referrer" />`
-    : `<div class="image-placeholder" aria-hidden="true"></div>`;
+  const image =
+    item.imageUrl && isSafeHttpUrl(item.imageUrl)
+      ? `<img src="${escapeHtml(item.imageUrl)}" alt="" loading="lazy" referrerpolicy="no-referrer" />`
+      : `<div class="image-placeholder" aria-hidden="true"></div>`;
+  const content = `<div class="card-meta">
+      <span class="source-badge" style="--source-color: ${sourceColor}">${escapeHtml(sourceLabel.toUpperCase())}</span>
+      <time datetime="${escapeHtml(item.pubDate)}">${relativeTime(item.pubDate)}</time>
+    </div>
+    <div class="card-body">
+      <div class="card-copy">
+        <h2>${escapeHtml(item.title)}</h2>
+        ${summary}
+      </div>
+      <div class="thumb">${image}</div>
+    </div>`;
 
   return `<article class="news-card">
-    <a href="${escapeHtml(item.link)}" target="_blank" rel="noreferrer">
-      <div class="card-meta">
-        <span class="source-badge" style="--source-color: ${sourceColor}">${escapeHtml(sourceLabel.toUpperCase())}</span>
-        <time datetime="${escapeHtml(item.pubDate)}">${relativeTime(item.pubDate)}</time>
-      </div>
-      <div class="card-body">
-        <div class="card-copy">
-          <h2>${escapeHtml(item.title)}</h2>
-          ${summary}
-        </div>
-        <div class="thumb">${image}</div>
-      </div>
-    </a>
+    ${isSafeHttpUrl(item.link) ? `<a href="${escapeHtml(item.link)}" target="_blank" rel="noreferrer">${content}</a>` : content}
   </article>`;
 };
 
-const render = () => {
+app.innerHTML = `<main>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Bulgarian News</p>
+    </div>
+    <button class="refresh-button" id="refresh" type="button" aria-label="Refresh news">
+      <span aria-hidden="true">↻</span>
+    </button>
+  </header>
+
+  <section class="controls" aria-label="News controls">
+    <div class="search-wrap">
+      <span aria-hidden="true">⌕</span>
+      <input id="search" type="search" placeholder="Search stories" />
+    </div>
+    <div class="source-row" id="sources" aria-label="Sources"></div>
+    <div id="feed-errors"></div>
+    <p class="updated" id="updated" hidden></p>
+  </section>
+
+  <section class="content" id="content" aria-live="polite"></section>
+</main>`;
+
+const searchInput = document.querySelector<HTMLInputElement>("#search");
+const sourceRow = document.querySelector<HTMLDivElement>("#sources");
+const feedErrors = document.querySelector<HTMLDivElement>("#feed-errors");
+const updated = document.querySelector<HTMLParagraphElement>("#updated");
+const content = document.querySelector<HTMLElement>("#content");
+const refreshButton = document.querySelector<HTMLButtonElement>("#refresh");
+
+if (!searchInput || !sourceRow || !feedErrors || !updated || !content || !refreshButton) {
+  throw new Error("App controls not found");
+}
+
+const renderControls = () => {
   const payload = state.payload;
-  const items = filteredItems();
   const generated = payload
     ? new Intl.DateTimeFormat("en", {
         dateStyle: "medium",
@@ -85,35 +119,11 @@ const render = () => {
       }).format(new Date(payload.generatedAt))
     : "";
 
-  app.innerHTML = `<main>
-    <header class="topbar">
-      <div>
-        <p class="eyebrow">Bulgarian News</p>
-      </div>
-      <button class="refresh-button" id="refresh" type="button" aria-label="Refresh news">
-        <span aria-hidden="true">↻</span>
-      </button>
-    </header>
-
-    <section class="controls" aria-label="News controls">
-      <div class="search-wrap">
-        <span aria-hidden="true">⌕</span>
-        <input id="search" type="search" placeholder="Search stories" value="${escapeHtml(state.query)}" />
-      </div>
-      <div class="source-row" aria-label="Sources">
-        ${renderSourceButton(null)}
-        ${(payload?.sources ?? []).map(renderSourceButton).join("")}
-      </div>
-      ${renderFeedErrors()}
-      ${generated ? `<p class="updated">Updated ${generated}</p>` : ""}
-    </section>
-
-    <section class="content" aria-live="polite">
-      ${renderContent(items)}
-    </section>
-  </main>`;
-
-  bindEvents();
+  sourceRow.innerHTML = `${renderSourceButton(null)}
+    ${(payload?.sources ?? []).map(renderSourceButton).join("")}`;
+  feedErrors.innerHTML = renderFeedErrors();
+  updated.textContent = generated ? `Updated ${generated}` : "";
+  updated.hidden = !generated;
 };
 
 const renderContent = (items: NewsItem[]) => {
@@ -140,26 +150,32 @@ const renderContent = (items: NewsItem[]) => {
   return `<div class="news-list">${items.map(renderCard).join("")}</div>`;
 };
 
-const bindEvents = () => {
-  document.querySelectorAll<HTMLButtonElement>("[data-source]").forEach((button) => {
-    button.addEventListener("click", () => {
-      state.selectedSource = button.dataset.source as typeof state.selectedSource;
-      render();
-    });
-  });
-
-  document.querySelector<HTMLInputElement>("#search")?.addEventListener("input", (event) => {
-    const input = event.currentTarget as HTMLInputElement;
-    state.query = input.value;
-    render();
-    document.querySelector<HTMLInputElement>("#search")?.focus();
-  });
-
-  document.querySelector<HTMLButtonElement>("#refresh")?.addEventListener("click", async () => {
-    await loadNews();
-    render();
-  });
+const renderNewsList = () => {
+  content.innerHTML = renderContent(filteredItems());
 };
+
+const render = () => {
+  renderControls();
+  renderNewsList();
+};
+
+sourceRow.addEventListener("click", (event) => {
+  const button = (event.target as Element).closest<HTMLButtonElement>("[data-source]");
+  if (!button) return;
+
+  state.selectedSource = button.dataset.source as typeof state.selectedSource;
+  render();
+});
+
+searchInput.addEventListener("input", () => {
+  state.query = searchInput.value;
+  renderNewsList();
+});
+
+refreshButton.addEventListener("click", async () => {
+  await loadNews();
+  render();
+});
 
 render();
 void loadNews().then(render);
