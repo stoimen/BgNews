@@ -1,1133 +1,1137 @@
 {
-  "generatedAt": "2026-06-06T15:45:42.706Z",
+  "generatedAt": "2026-05-23T15:46:08.662Z",
   "sources": [
     {
-      "id": "guardian",
-      "name": "The Guardian",
-      "shortName": "Guardian",
-      "color": "#052962",
-      "feedUrl": "https://www.theguardian.com/world/rss"
-    },
-    {
-      "id": "bbc",
-      "name": "BBC News",
-      "shortName": "BBC",
-      "color": "#bb1919",
-      "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml"
-    },
-    {
-      "id": "france24",
-      "name": "France 24",
-      "shortName": "France 24",
-      "color": "#009fe3",
-      "feedUrl": "https://www.france24.com/fr/rss"
-    },
-    {
-      "id": "rtve",
-      "name": "RTVE Noticias",
-      "shortName": "RTVE",
+      "id": "boulevard",
+      "name": "Boulevard Bulgaria",
+      "shortName": "Boulevard",
       "color": "#f97316",
-      "feedUrl": "https://www.rtve.es/noticias/"
+      "feedUrl": "https://boulevardbulgaria.bg/feed.atom"
     },
     {
-      "id": "tagesschau",
-      "name": "tagesschau",
-      "shortName": "tagesschau",
-      "color": "#1d4ed8",
-      "feedUrl": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml"
-    },
-    {
-      "id": "rbb24",
-      "name": "rbb24",
-      "shortName": "rbb24",
+      "id": "bnt",
+      "name": "BNT News",
+      "shortName": "BNT",
       "color": "#dc2626",
-      "feedUrl": "https://www.rbb24.de/index.xml/feed=rss.xml"
+      "feedUrl": "http://news.bnt.bg/bg/rss/news.xml"
     },
     {
-      "id": "deutschlandfunk",
-      "name": "Deutschlandfunk",
-      "shortName": "DLF",
+      "id": "nova",
+      "name": "Nova",
+      "shortName": "Nova",
+      "color": "#00a7d8",
+      "feedUrl": "https://nova.bg/rss/latest"
+    },
+    {
+      "id": "capital",
+      "name": "Capital",
+      "shortName": "Capital",
       "color": "#0f766e",
-      "feedUrl": "https://www.deutschlandfunk.de/nachrichten-100.rss"
+      "feedUrl": "https://www.capital.bg/rss/"
     },
     {
-      "id": "tagesspiegel",
-      "name": "Der Tagesspiegel",
-      "shortName": "Tagesspiegel",
+      "id": "darik",
+      "name": "Darik News",
+      "shortName": "Darik",
       "color": "#7c3aed",
-      "feedUrl": "https://www.tagesspiegel.de/contentexport/feed/home"
+      "feedUrl": "https://dariknews.bg/rss.php"
+    },
+    {
+      "id": "economic",
+      "name": "Economic.bg",
+      "shortName": "Economic",
+      "color": "#16a34a",
+      "feedUrl": "https://www.economic.bg/rss/all.xml"
+    },
+    {
+      "id": "sega",
+      "name": "Sega",
+      "shortName": "Sega",
+      "color": "#be123c",
+      "feedUrl": "https://www.segabg.com/rss/hot-news"
     }
   ],
   "errors": [],
   "items": [
     {
-      "id": "17097832",
-      "title": "Mbappé vuelve a su territorio favorito: así llega la gran estrella de Francia al Mundial",
+      "id": "https://news.bnt.bg/news/zemetresenie-s-magnitud-4-e-registrirano-v-centralna-albaniya-1394835news.html",
+      "title": "Земетресение с магнитуд 4 е регистрирано в Централна Албания",
+      "summary": "Земетресение с магнитуд 4 е регистрирано близо до град Елбасан, Централна Албания, съобщи Евронюз Албания.&#13; Трусът е станал малко преди 16 ч. местно (17 ч. българско време) и е бил на дълбочина 10 кил...",
+      "link": "https://news.bnt.bg/news/zemetresenie-s-magnitud-4-e-registrirano-v-centralna-albaniya-1394835news.html",
+      "pubDate": "2026-05-23T15:43:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/fcf209e752c76b7e8805d5acbe21d144.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538210/",
+      "title": "Йордан Терзийски, ПП: В момента смятаме, че няма необходимост от взимане на дългове",
+      "summary": "Той коментира и съдебната реформа, заявявайки, че все още няма водени разговори",
+      "link": "https://nova.bg/news/view/2026/05/23/538210/%D0%B9%D0%BE%D1%80%D0%B4%D0%B0%D0%BD-%D1%82%D0%B5%D1%80%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%B8-%D0%BF%D0%BF-%D0%B2-%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D0%B0-%D1%81%D0%BC%D1%8F%D1%82%D0%B0%D0%BC%D0%B5-%D1%87%D0%B5-%D0%BD%D1%8F%D0%BC%D0%B0-%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82-%D0%BE%D1%82-%D0%B2%D0%B7%D0%B8%D0%BC%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B4%D1%8A%D0%BB%D0%B3%D0%BE%D0%B2%D0%B5/",
+      "pubDate": "2026-05-23T15:41:40.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779549411.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538209/",
+      "title": "Алпинистът Георги Колевичин изкачи и Еверест",
+      "summary": "Това стана само две седмици след изкачването на Макалу",
+      "link": "https://nova.bg/news/view/2026/05/23/538209/%D0%B0%D0%BB%D0%BF%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%8A%D1%82-%D0%B3%D0%B5%D0%BE%D1%80%D0%B3%D0%B8-%D0%BA%D0%BE%D0%BB%D0%B5%D0%B2%D0%B8%D1%87%D0%B8%D0%BD-%D0%B8%D0%B7%D0%BA%D0%B0%D1%87%D0%B8-%D0%B8-%D0%B5%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D1%82/",
+      "pubDate": "2026-05-23T15:28:38.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778737335.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538207/",
+      "title": "Бившият шеф на БАБХ: Очаквах смяната си заради разкритите сериозни пропуски в контрола на границите",
+      "summary": "„От самото начало работим по тези казуси\", подчерта д-р Ангел Мавровски",
+      "link": "https://nova.bg/news/view/2026/05/23/538207/%D0%B1%D0%B8%D0%B2%D1%88%D0%B8%D1%8F%D1%82-%D1%88%D0%B5%D1%84-%D0%BD%D0%B0-%D0%B1%D0%B0%D0%B1%D1%85-%D0%BE%D1%87%D0%B0%D0%BA%D0%B2%D0%B0%D1%85-%D1%81%D0%BC%D1%8F%D0%BD%D0%B0%D1%82%D0%B0-%D1%81%D0%B8-%D0%B7%D0%B0%D1%80%D0%B0%D0%B4%D0%B8-%D1%80%D0%B0%D0%B7%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D1%82%D0%B5-%D1%81%D0%B5%D1%80%D0%B8%D0%BE%D0%B7%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B8-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%B0-%D0%BD%D0%B0-%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B8%D1%82%D0%B5/",
+      "pubDate": "2026-05-23T15:26:27.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779548288.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/vanshniyat-ministar-velislava-petrova-za-voinata-v-ukraina-vazhno-e-da-sme-aktivna-chast-za-postiganeto-na-mirno-sporazumeni-1394808news.html",
+      "title": "Външният министър Велислава Петрова за войната в Украйна: Важно е да сме активна част за постигането на мирно споразумение",
+      "summary": "Европейските държави очакват България да продължава да бъде добър партньор и съюзник, посочи министър Петрова",
+      "link": "https://news.bnt.bg/news/vanshniyat-ministar-velislava-petrova-za-voinata-v-ukraina-vazhno-e-da-sme-aktivna-chast-za-postiganeto-na-mirno-sporazumeni-1394808news.html",
+      "pubDate": "2026-05-23T15:25:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/1d017eeb728c8b86049549da8f87bfcd.png"
+    },
+    {
+      "id": "https://dariknews.bg/regioni/gabrovo/edinstveniiat-most-na-koliu-ficheto-zapazen-v-originalniia-si-vid-postrada-ot-vodnata-stihiia-snimki-2455893",
+      "title": "Единственият мост на Колю Фичето, запазен в оригиналния си вид, пострада от водната стихия (СНИМКИ)",
+      "summary": "Водната стихия нанесе сериозни материални щети в Дряново, като засегна и емблематичния мост на Колю Фичето. В резултат на пороя паднало дърво е ударило историческото съоръжение, при което е пострадал каменният му парапет. Кметът на Дряново Трифон Панчев уточни, че мостът не",
+      "link": "https://dariknews.bg/regioni/gabrovo/edinstveniiat-most-na-koliu-ficheto-zapazen-v-originalniia-si-vid-postrada-ot-vodnata-stihiia-snimki-2455893",
+      "pubDate": "2026-05-23T15:17:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326707/990-552-mostyt-na-kolio-ficheto-v-drianovo.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538208/",
+      "title": "\"Огънят\" - най-новата книга на проф. Кирил Топалов",
+      "summary": "В романа той разказва за свети Георги Нови Софийски",
+      "link": "https://nova.bg/news/view/2026/05/23/538208/%D0%BE%D0%B3%D1%8A%D0%BD%D1%8F%D1%82-%D0%BD%D0%B0%D0%B9-%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B0-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D1%84-%D0%BA%D0%B8%D1%80%D0%B8%D0%BB-%D1%82%D0%BE%D0%BF%D0%B0%D0%BB%D0%BE%D0%B2/",
+      "pubDate": "2026-05-23T15:10:07.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779547944.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/v-mazeto-se-vliza-s-shnorhel-navodneni-kashti-koli-i-patishta-v-sevlievo-obzor-1394827news.html",
+      "title": "\"В мазето се влиза с шнорхел\": Наводнени къщи, коли и пътища в Севлиево (ОБЗОР)",
+      "summary": "Язовир „Александър Стамболийски“ край Севлиево преля по обяд. Създаде ли той риск за хората, които и преди това търсеха помощ заради високите води? И успокоява ли се обстановката в Габрово?&#13; &#13; Задейст...",
+      "link": "https://news.bnt.bg/news/v-mazeto-se-vliza-s-shnorhel-navodneni-kashti-koli-i-patishta-v-sevlievo-obzor-1394827news.html",
+      "pubDate": "2026-05-23T15:10:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/ab655043d245717808292306f26df3d2.png"
+    },
+    {
+      "id": "https://www.segabg.com/hot/category-foreign-country/shveycariya-shte-ogranichi-rusta-na-naselenieto-referendum",
+      "title": "Швейцария ще ограничи ръста на населението с референдум",
+      "summary": "Референдум за ограничаване на числеността на населението на Швейцария ще се проведе на 14 юни, съобщи правителството на страната. Инициативата предвижда населението на Швейцария, което сега е 9 млн. души, да не надвишава 10 милиона души до 2050 г.",
+      "link": "https://www.segabg.com/hot/category-foreign-country/shveycariya-shte-ogranichi-rusta-na-naselenieto-referendum",
+      "pubDate": "2026-05-23T15:08:55.000Z",
+      "sourceId": "sega",
+      "imageUrl": "https://www.segabg.com/sites/default/files/_sega//styles/focal_medium/public/2023/02/9057573.jpg"
+    },
+    {
+      "id": "https://dariknews.bg/regioni/lovech/mostyt-predi-selo-devetaki-e-zatvoren-ima-zakysala-kola-na-pytia-2455892",
+      "title": "Мостът преди село Деветаки е затворен, има закъсала кола на пътя",
+      "summary": "Мостът преди село Деветаки е затворен, съобщават от общинската администрация в Ловеч. Обходният маршрут е през селата Йоглав и Тепава. Един автомобил, тръгнал от с. Деветаки, е закъсал на пътя, съобщи кметският наместник Диана Василева. От Областната д",
+      "link": "https://dariknews.bg/regioni/lovech/mostyt-predi-selo-devetaki-e-zatvoren-ima-zakysala-kola-na-pytia-2455892",
+      "pubDate": "2026-05-23T14:52:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326704/990-552-obstanovkata-v-oblast-lovech.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45431",
+      "title": "Божидар Саръбоюков отново се качи на подиума в Диамантената лига",
       "summary": "",
-      "link": "https://www.rtve.es/deportes/futbol-actualidad/mundial/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/n/17097832?w=400"
+      "link": "https://boulevardbulgaria.bg/articles/bozhidar-saraboyukov-otnovo-se-kachi-na-podiuma-v-diamantenata-liga",
+      "pubDate": "2026-05-23T14:50:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71634/original_%D0%B1%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D1%80_%D1%81%D0%B0%D1%80%D1%8A%D0%B1%D0%BE%D1%8E%D0%BA%D0%BE%D0%B2_.jpg"
     },
     {
-      "id": "17103701",
-      "title": "Valido (CC): \"La cuestión de confianza a Sánchez empezará al negociar los Presupuestos\"",
+      "id": "https://news.bnt.bg/news/60-sm-do-zapalvane-na-yazovir-yovkovci-yazovir-aleksandar-stamboliyski-krai-pavlikeni-veche-preliva-1394823news.html",
+      "title": "60 см до запълване на язовир \"Йовковци\", язовир \"Александър Стамболийски\" край Павликени вече прелива",
+      "summary": "Заради проливните дъждове през нощта преляха реки в няколко български града. Велико Търново обяви бедствено положение, Габрово — частично, а в Севлиево се наложи евакуация на жители от северната част...",
+      "link": "https://news.bnt.bg/news/60-sm-do-zapalvane-na-yazovir-yovkovci-yazovir-aleksandar-stamboliyski-krai-pavlikeni-veche-preliva-1394823news.html",
+      "pubDate": "2026-05-23T14:44:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/ab232138534652013f5ca2d3a3adee88.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538206/",
+      "title": "Проф. Йонко Мермерски: Ако се положат формални дипломатически усилия, визите за нас ще отпаднат",
+      "summary": "По думите му ние сме най-надеждният член на НАТО за партньор на САЩ",
+      "link": "https://nova.bg/news/view/2026/05/23/538206/%D0%BF%D1%80%D0%BE%D1%84-%D0%B9%D0%BE%D0%BD%D0%BA%D0%BE-%D0%BC%D0%B5%D1%80%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B8-%D0%B0%D0%BA%D0%BE-%D1%81%D0%B5-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B0%D1%82-%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%BD%D0%B8-%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%8F-%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D0%B5-%D0%B7%D0%B0-%D0%BD%D0%B0%D1%81-%D1%89%D0%B5-%D0%BE%D1%82%D0%BF%D0%B0%D0%B4%D0%BD%D0%B0%D1%82/",
+      "pubDate": "2026-05-23T14:43:50.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779544566.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/horata-v-zasegnatite-ot-navodneniya-raioni-da-sledyat-ukazaniyata-na-mestnite-vlasti-prizovaha-ot-zdravnoto-ministerstvo-1394822news.html",
+      "title": "Хората в засегнатите от наводнения райони да следят указанията на местните власти, призоваха от здравното министерство",
+      "summary": "Министерство на здравеопазването призовава гражданите да следят указанията на местните власти и на регионалните здравни инспекции, както и да използват само вода от сигурни и проверени източници. Това...",
+      "link": "https://news.bnt.bg/news/horata-v-zasegnatite-ot-navodneniya-raioni-da-sledyat-ukazaniyata-na-mestnite-vlasti-prizovaha-ot-zdravnoto-ministerstvo-1394822news.html",
+      "pubDate": "2026-05-23T14:40:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/916871b7d517ffdf402bbc6754aa9fa3.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538205/",
+      "title": "Светлана Шаренкова: Кабинетът показва воля за съдебната реформа и социалната политика",
+      "summary": "Радев е символ на общественото недоволство срещу превзетата държава, обясни членът на Изпълнителното бюро на БСП",
+      "link": "https://nova.bg/news/view/2026/05/23/538205/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0-%D1%88%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0-%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82%D1%8A%D1%82-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B2%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8F-%D0%B7%D0%B0-%D1%81%D1%8A%D0%B4%D0%B5%D0%B1%D0%BD%D0%B0%D1%82%D0%B0-%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%B8-%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B0%D1%82%D0%B0-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/",
+      "pubDate": "2026-05-23T14:36:03.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779546410.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/alpinistat-georgi-kolevichin-pokori-everest-samo-dve-sedmici-sled-izkachvaneto-na-makalu-1394820news.html",
+      "title": "Алпинистът Георги Колевичин покори Еверест само две седмици след изкачването на Макалу",
+      "summary": "Георги Колевичин от Разлог покори първенеца на планетата връх Еверест. Новината за успешното изкачване беше съобщена със снимка на Фейсбук страницата на алпиниста. Постижението на Колевичин идва само...",
+      "link": "https://news.bnt.bg/news/alpinistat-georgi-kolevichin-pokori-everest-samo-dve-sedmici-sled-izkachvaneto-na-makalu-1394820news.html",
+      "pubDate": "2026-05-23T14:34:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/5dda9fba8ef2075a0f8e7c08d77ce6b9.jpeg"
+    },
+    {
+      "id": "https://www.segabg.com/hot/category-foreign-country/zelenski-ne-haresa-germanskoto-predlozhenie-za-asociirano-chlenstvo-es",
+      "title": "Зеленски не хареса германското предложение за \"асоциирано\" членство в ЕС",
+      "summary": "Президентът на Украйна Володимир Зеленски не хареса германското предложение на страната му да бъде предоставено \"асоциирано\" членство в ЕС. В писмо до лидерите на ЕС Зеленски заяви, че това е \"несправедливо\", защото то ще остави Киев без глас в блока, предаде Ройтерс.",
+      "link": "https://www.segabg.com/hot/category-foreign-country/zelenski-ne-haresa-germanskoto-predlozhenie-za-asociirano-chlenstvo-es",
+      "pubDate": "2026-05-23T14:21:16.000Z",
+      "sourceId": "sega",
+      "imageUrl": "https://www.segabg.com/sites/default/files/_sega//styles/focal_medium/public/2025/05/77431267-a62c-4b33-a53f-06caca5186ad.jpeg"
+    },
+    {
+      "id": "https://www.segabg.com/hot/category-bulgaria/yazovir-aleksandur-stamboliyski-e-zapochnal-da-preliva",
+      "title": "Язовир „Александър Стамболийски“ е започнал да прелива",
+      "summary": "Язовир „Александър Стамболийски\" е започнал да прелива. Очаква се прелелите води да достигнат до 400 кулични метра на секунда - над три пъти повече от предходно преливанве. Това съобщиха от областната администрация във Велико Търново.",
+      "link": "https://www.segabg.com/hot/category-bulgaria/yazovir-aleksandur-stamboliyski-e-zapochnal-da-preliva",
+      "pubDate": "2026-05-23T14:20:00.000Z",
+      "sourceId": "sega",
+      "imageUrl": "https://www.segabg.com/sites/default/files/_sega//styles/focal_medium/public/2026/05/705046181_1515331423535422_7542898956102963016_n.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/poroite-nanesoha-shteti-na-emblematichniya-most-na-kolyu-ficheto-v-dryanovo-snimki-1394818news.html",
+      "title": "Пороите нанесоха щети на емблематичния мост на Колю Фичето в Дряново (СНИМКИ)",
+      "summary": "Паднало дърво е повредило парапета на историческото съоръжение, което е сред символите на града",
+      "link": "https://news.bnt.bg/news/poroite-nanesoha-shteti-na-emblematichniya-most-na-kolyu-ficheto-v-dryanovo-snimki-1394818news.html",
+      "pubDate": "2026-05-23T14:15:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/c76e4d260faa0f85e63d4b85ca6d2ae8.jpeg"
+    },
+    {
+      "id": "https://www.segabg.com/hot/category-economy/kabinetut-shte-poiska-38-mlrd-evro-dulg-zaradi-plana-za-vuzstanovyavane",
+      "title": "Кабинетът ще поиска 3.8 млрд. евро дълг заради плана за възстановяване",
+      "summary": "Кабинетът \"Радев\" ще иска зелена светлина от парламента да поеме 3. 8 млрд. евро дълг още преди приемането на бюджета за 2026.",
+      "link": "https://www.segabg.com/hot/category-economy/kabinetut-shte-poiska-38-mlrd-evro-dulg-zaradi-plana-za-vuzstanovyavane",
+      "pubDate": "2026-05-23T14:04:56.000Z",
+      "sourceId": "sega",
+      "imageUrl": "https://www.segabg.com/sites/default/files/_sega//styles/focal_medium/public/2026/05/e922b411-3002-4999-be1c-054e94aa731e1.jpeg"
+    },
+    {
+      "id": "https://dariknews.bg/novini/sviat/franciia-zabrani-dostyp-na-izraelskiia-ministyr-itamar-ben-gvir-do-svoia-teritoriia-2455891",
+      "title": "Франция забрани достъп на израелския министър Итамар Бен-Гвир до своя територия",
+      "summary": "Франция реши да забрани на министъра на вътрешната сигурност на Израел Итамар Бен-Гвир достъп до нейната територия, предадоха Ройтерс и Франс прес, като се позовават на днешно изявление на френския министър по въпросите на Европа и външните работи Жан-Ноел Баро. Баро о",
+      "link": "https://dariknews.bg/novini/sviat/franciia-zabrani-dostyp-na-izraelskiia-ministyr-itamar-ben-gvir-do-svoia-teritoriia-2455891",
+      "pubDate": "2026-05-23T14:02:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326598/990-552-itamar-ben-gvir.jpg"
+    },
+    {
+      "id": "https://www.economic.bg/bg/a/view/5-minuti-na-den-kakvi-sa-polzite-ot-kratkite-trenirovki",
+      "title": "5 минути на ден: Какви са ползите от кратките тренировки?",
+      "summary": "Редовните упражнения може да имат силен защитен ефект върху човешкия организъм - не само за самото тяло и мускулите, но и за мозъка, паметта и цялостното ни благосъстояние, пише BBC. Оказва се, че дори не е нужно да правим интензивни тренировки, за да видим ползи. Нови изследвания показват, че дори малките увеличения на физическата активност могат да имат мощно въздействие върху здравето и продължителността на живота. Само 5 минути...",
+      "link": "https://www.economic.bg/bg/a/view/5-minuti-na-den-kakvi-sa-polzite-ot-kratkite-trenirovki",
+      "pubDate": "2026-05-23T14:00:25.000Z",
+      "sourceId": "economic",
+      "imageUrl": "https://www.economic.bg/web/files/articles/153867/narrow_image/depositphotos-45043721-l.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538204/",
+      "title": "Проф. Коларова: Правителството на Румен Радев се намира в една неблагоприятна икономическа обстановка",
+      "summary": "По думите ѝ изборът на нова квота във ВСС няма да бъде ефективна реформа",
+      "link": "https://nova.bg/news/view/2026/05/23/538204/%D0%BF%D1%80%D0%BE%D1%84-%D0%BA%D0%BE%D0%BB%D0%B0%D1%80%D0%BE%D0%B2%D0%B0-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE-%D0%BD%D0%B0-%D1%80%D1%83%D0%BC%D0%B5%D0%BD-%D1%80%D0%B0%D0%B4%D0%B5%D0%B2-%D1%81%D0%B5-%D0%BD%D0%B0%D0%BC%D0%B8%D1%80%D0%B0-%D0%B2-%D0%B5%D0%B4%D0%BD%D0%B0-%D0%BD%D0%B5%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%B0-%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0-%D0%BE%D0%B1%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0/",
+      "pubDate": "2026-05-23T13:45:50.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779543904.jpg"
+    },
+    {
+      "id": "https://dariknews.bg/regioni/veliko-tyrnovo/tyrsiat-dobrovolci-za-spraviane-s-shtetite-ot-navodnenieto-vyv-veliko-tyrnovo-video-2455890",
+      "title": "Търсят доброволци за справяне с щетите от наводнението във Велико Търново (ВИДЕО)",
+      "summary": "Заместник-кметът на Велико Търново Георги Недев отправи призив за набиране на доброволци за овладяване на последиците от наводнението. След интензивните валежи на територията на община Велико Търново – основно в областния град и съседния Дебелец, както и в селата Церов",
+      "link": "https://dariknews.bg/regioni/veliko-tyrnovo/tyrsiat-dobrovolci-za-spraviane-s-shtetite-ot-navodnenieto-vyv-veliko-tyrnovo-video-2455890",
+      "pubDate": "2026-05-23T13:44:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326595/990-552-veliko-tyrnovo.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538203/",
+      "title": "След пороите в Дряново: Три компрометирани моста, паднали подпорни стени и къщи под вода",
+      "summary": "Все още има наводнени пътиа в района. Въведени са обходни маршрути, обясни кметът на Дряново Трифон Панчев",
+      "link": "https://nova.bg/news/view/2026/05/23/538203/%D1%81%D0%BB%D0%B5%D0%B4-%D0%BF%D0%BE%D1%80%D0%BE%D0%B8%D1%82%D0%B5-%D0%B2-%D0%B4%D1%80%D1%8F%D0%BD%D0%BE%D0%B2%D0%BE-%D1%82%D1%80%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%B8%D1%80%D0%B0%D0%BD%D0%B8-%D0%BC%D0%BE%D1%81%D1%82%D0%B0-%D0%BF%D0%B0%D0%B4%D0%BD%D0%B0%D0%BB%D0%B8-%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D1%80%D0%BD%D0%B8-%D1%81%D1%82%D0%B5%D0%BD%D0%B8-%D0%B8-%D0%BA%D1%8A%D1%89%D0%B8-%D0%BF%D0%BE%D0%B4-%D0%B2%D0%BE%D0%B4%D0%B0/",
+      "pubDate": "2026-05-23T13:31:38.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779543273.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/vazrazhdane-zayavi-che-se-razgranichava-ot-dumi-na-mihaela-docova-za-edinstvo-mezhdu-katolicizma-i-pravoslavieto-1394812news.html",
+      "title": "\"Възраждане\" заяви, че се разграничава от думи на Михаела Доцова за „единство“ между католицизма и православието",
+      "summary": "Лидерът на „Възраждане“ Костадин Костадинов заяви, че се разгранава от изказване на председателя на Народното събрание Михаела Доцова, направено по време на посещението на българската делегация в Рим,...",
+      "link": "https://news.bnt.bg/news/vazrazhdane-zayavi-che-se-razgranichava-ot-dumi-na-mihaela-docova-za-edinstvo-mezhdu-katolicizma-i-pravoslavieto-1394812news.html",
+      "pubDate": "2026-05-23T13:28:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/f8e95bf3db0e3fedb00a3f594c960d79.jpeg"
+    },
+    {
+      "id": "https://dariknews.bg/novini/bylgariia/raian-radkov-specheli-zlaten-medal-na-kon-s-grivni-na-svetovnata-kupa-po-sportna-gimnastika-video-2455889",
+      "title": "Раян Радков спечели златен медал на кон с гривни на Световната купа по спортна гимнастика (ВИДЕО)",
+      "summary": "Националът Раян Радков спечели златен медал на кон с гривни на Световната купа по спортна гимнастика в Ташкент (Узбекистан). За изпълнението си българинът, който тази година спечели три състезания от италианското първенство, получи най-високата оценка на финала",
+      "link": "https://dariknews.bg/novini/bylgariia/raian-radkov-specheli-zlaten-medal-na-kon-s-grivni-na-svetovnata-kupa-po-sportna-gimnastika-video-2455889",
+      "pubDate": "2026-05-23T13:26:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326593/990-552-raian-radkov.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45430",
+      "title": "„Аскеер“ 2026 - актрисата Мария Стефанова получава награда за цялостен принос",
       "summary": "",
-      "link": "https://www.rtve.es/play/audios/parlamento-radio-5/valido-cc-cuestion-confianza-a-sanchez-empezara-negociar-presupuestos/17103701/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/a/17103701?h=200"
+      "link": "https://boulevardbulgaria.bg/articles/askeer-2026-aktrisata-mariya-stefanova-poluchava-nagrada-za-tsyalosten-prinos",
+      "pubDate": "2026-05-23T13:24:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71629/original_%D0%BC%D0%B0%D1%80%D0%B8%D1%8F_%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0.JPG"
     },
     {
-      "id": "17104025",
-      "title": "Movilizaciones en 11 ciudades españolas por el derecho a una vivienda digna",
+      "id": "http://nova.bg/news/view/2026/05/23/538197/",
+      "title": "„Живей активно”: Голямото цветно бягане в София",
+      "summary": "Тазгодишното издание поставя акцент върху спортни активности с кауза",
+      "link": "https://nova.bg/news/view/2026/05/23/538197/%D0%B6%D0%B8%D0%B2%D0%B5%D0%B9-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D0%B3%D0%BE%D0%BB%D1%8F%D0%BC%D0%BE%D1%82%D0%BE-%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%BE-%D0%B1%D1%8F%D0%B3%D0%B0%D0%BD%D0%B5-%D0%B2-%D1%81%D0%BE%D1%84%D0%B8%D1%8F/",
+      "pubDate": "2026-05-23T13:20:19.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779540112.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538202/",
+      "title": "Кметът на Габрово: Няма бедстващи хора, но опасността остава заради подновените дъждове",
+      "summary": "\"Следят се нивата на реките и язовирите. Екипи на общината и доброволци работят по сигналите за наводнени къщи\", заяви Таня Христова",
+      "link": "https://nova.bg/news/view/2026/05/23/538202/%D0%BA%D0%BC%D0%B5%D1%82%D1%8A%D1%82-%D0%BD%D0%B0-%D0%B3%D0%B0%D0%B1%D1%80%D0%BE%D0%B2%D0%BE-%D0%BD%D1%8F%D0%BC%D0%B0-%D0%B1%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D1%89%D0%B8-%D1%85%D0%BE%D1%80%D0%B0-%D0%BD%D0%BE-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%82%D0%B0-%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B0-%D0%B7%D0%B0%D1%80%D0%B0%D0%B4%D0%B8-%D0%BF%D0%BE%D0%B4%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%82%D0%B5-%D0%B4%D1%8A%D0%B6%D0%B4%D0%BE%D0%B2%D0%B5/",
+      "pubDate": "2026-05-23T13:10:45.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779542013.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538201/",
+      "title": "Артисти награждават артисти: Обявиха номинациите за театралните награди „Аскеер“ 2026",
+      "summary": "Връчват наградите на 24 май",
+      "link": "https://nova.bg/news/view/2026/05/23/538201/%D0%B0%D1%80%D1%82%D0%B8%D1%81%D1%82%D0%B8-%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%B2%D0%B0%D1%82-%D0%B0%D1%80%D1%82%D0%B8%D1%81%D1%82%D0%B8-%D0%BE%D0%B1%D1%8F%D0%B2%D0%B8%D1%85%D0%B0-%D0%BD%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D0%B8%D1%82%D0%B5-%D0%B7%D0%B0-%D1%82%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D0%BD%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B8-%D0%B0%D1%81%D0%BA%D0%B5%D0%B5%D1%80-2026/",
+      "pubDate": "2026-05-23T13:10:40.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779542472.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538200/",
+      "title": "Мъж подкара лодка по улиците на Севлиево (ВИДЕО)",
+      "summary": "Заради опасността за хората Община Севлиево, съвместно с екипи на МВР и пожарната, започна евакуация на живеещите в засегнатите райони",
+      "link": "https://nova.bg/news/view/2026/05/23/538200/%D0%BC%D1%8A%D0%B6-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%80%D0%B0-%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0-%D0%BF%D0%BE-%D1%83%D0%BB%D0%B8%D1%86%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-%D1%81%D0%B5%D0%B2%D0%BB%D0%B8%D0%B5%D0%B2%D0%BE-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/",
+      "pubDate": "2026-05-23T13:08:02.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779541871.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45429",
+      "title": "Вучич спря влаковете в Сърбия в деня на голям студентски протест в Белград",
       "summary": "",
-      "link": "https://www.rtve.es/play/videos/telediario-fin-de-semana/movilizaciones-11-ciudades-espanolas-por-derecho-a-vivienda-digna/17104025/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/v/17104025?w=600"
+      "link": "https://boulevardbulgaria.bg/articles/vuchich-sprya-vlakovete-v-sarbiya-v-denya-na-golyam-studentski-protest-v-belgrad",
+      "pubDate": "2026-05-23T13:05:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71628/original_Srbija_voz.jpg"
     },
     {
-      "id": "17012158",
-      "title": "'Para entrar a vivir': voces y radiografía del problema de la vivienda en España",
+      "id": "https://dariknews.bg/regioni/lovech/sled-chasove-vyv-voden-kapan-spasiha-dva-bedstvashti-konia-ot-koritoto-na-reka-beli-vit-videosnimki-2455888",
+      "title": "След часове във воден капан: Спасиха два бедстващи коня от коритото на река Бели Вит (ВИДЕО/СНИМКИ)",
+      "summary": "Спасиха два бедстващи коня от коритото на река Бели Вит в Тетевен, съобщават очевидци в социалните мрежи.",
+      "link": "https://dariknews.bg/regioni/lovech/sled-chasove-vyv-voden-kapan-spasiha-dva-bedstvashti-konia-ot-koritoto-na-reka-beli-vit-videosnimki-2455888",
+      "pubDate": "2026-05-23T13:04:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326588/990-552-kone.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538199/",
+      "title": "Министърът на финансите Гълъб Донев участва в неформалното заседание на ЕКОФИН",
+      "summary": "България бе поздравена за успешното присъединяване към Еврозоната",
+      "link": "https://nova.bg/news/view/2026/05/23/538199/%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%8A%D1%80%D1%8A%D1%82-%D0%BD%D0%B0-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%B8%D1%82%D0%B5-%D0%B3%D1%8A%D0%BB%D1%8A%D0%B1-%D0%B4%D0%BE%D0%BD%D0%B5%D0%B2-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B2%D0%B0-%D0%B2-%D0%BD%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%BD%D0%BE%D1%82%D0%BE-%D0%B7%D0%B0%D1%81%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D0%B5%D0%BA%D0%BE%D1%84%D0%B8%D0%BD/",
+      "pubDate": "2026-05-23T12:56:38.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779540643.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538195/",
+      "title": "Александър Вучич блокира Сърбия, организира просръбско сборище в Северна Македония",
+      "summary": "Това ще бъде една от първите прояви след няколко месеца затишие на демонстрациите срещу режима на Вучич",
+      "link": "https://nova.bg/news/view/2026/05/23/538195/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%8A%D1%80-%D0%B2%D1%83%D1%87%D0%B8%D1%87-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%B0-%D1%81%D1%8A%D1%80%D0%B1%D0%B8%D1%8F-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%B0-%D0%BF%D1%80%D0%BE%D1%81%D1%80%D1%8A%D0%B1%D1%81%D0%BA%D0%BE-%D1%81%D0%B1%D0%BE%D1%80%D0%B8%D1%89%D0%B5-%D0%B2-%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0-%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "pubDate": "2026-05-23T12:41:35.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1767874307.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538196/",
+      "title": "Учени от Оксфорд работят по спешна ваксина срещу ебола",
+      "summary": "В Конго избухна епидемия от щам на вируса, за който няма лечение",
+      "link": "https://nova.bg/news/view/2026/05/23/538196/%D1%83%D1%87%D0%B5%D0%BD%D0%B8-%D0%BE%D1%82-%D0%BE%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8F%D1%82-%D0%BF%D0%BE-%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%B0-%D0%B2%D0%B0%D0%BA%D1%81%D0%B8%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D1%89%D1%83-%D0%B5%D0%B1%D0%BE%D0%BB%D0%B0/",
+      "pubDate": "2026-05-23T12:40:14.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779540102.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538194/",
+      "title": "Нов прочит на класиката \"Сине, сине\"",
+      "summary": "Песните на Севдалина и Валентин Спасови заемат важно и централно място в българската музика",
+      "link": "https://nova.bg/news/view/2026/05/23/538194/%D0%BD%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D0%B8%D0%BA%D0%B0%D1%82%D0%B0-%D1%81%D0%B8%D0%BD%D0%B5-%D1%81%D0%B8%D0%BD%D0%B5/",
+      "pubDate": "2026-05-23T12:40:13.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779539129.jpg"
+    },
+    {
+      "id": "https://dariknews.bg/novini/sviat/mladezh-zagina-pri-noshtno-izkachvane-na-vryh-cugshpice-2455887",
+      "title": "Младеж загина при нощно изкачване на връх Цугшпице",
+      "summary": "19-годишен младеж загина в Австрия по време на нощно изкачване на връх Цугшпице (височина 2962 м) в Баварските Алпи, на австрийско-германската граница, предаде ДПА, цитирайки местната полиция в провинция Тирол. Младият мъж е тръгнал с приятел от базова",
+      "link": "https://dariknews.bg/novini/sviat/mladezh-zagina-pri-noshtno-izkachvane-na-vryh-cugshpice-2455887",
+      "pubDate": "2026-05-23T12:35:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326585/990-552-vryh-cugshpice.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45428",
+      "title": "Водолази спасиха 17-годишно момче, влязло в придошла река край село Шемшево",
       "summary": "",
-      "link": "https://www.rtve.es/noticias/vivienda-para-entrar-a-vivir/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/i/?h=200&amp;i=01776697902348.jpg"
+      "link": "https://boulevardbulgaria.bg/articles/vodolazi-spasiha-17-godishno-momche-vlyazlo-v-pridoshla-reka-kray-selo-shemshevo",
+      "pubDate": "2026-05-23T12:26:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71627/original_O%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BD_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE_%D0%A2%D1%8A%D1%80%D0%BD%D0%BE%D0%B2%D0%BE_.jpg"
     },
     {
-      "id": "17103600",
-      "title": "De la Fuente, en la llegada de España a Chattanooga: \"Quizá sea un poco prematuro pensar en Lamine para el debut\"",
+      "id": "https://dariknews.bg/regioni/plovdiv/zadyrzhaha-recidivist-otvliakyl-zhena-i-bebe-ot-krizisen-centyr-v-plovdiv-2455886",
+      "title": "Задържаха рецидивист, отвлякъл жена и бебе от кризисен център в Пловдив",
+      "summary": "Окръжна прокуратура - Пловдив привлече като обвиняем и задържа 29-годишен мъж за това, че на 1 април 2026 г. в Пловдив е отвлякъл 27-годишна жена и едногодишното ѝ дете, като противозаконно ги лишил от свобода и се заканил с убийство на пострадалата, съобщиха от",
+      "link": "https://dariknews.bg/regioni/plovdiv/zadyrzhaha-recidivist-otvliakyl-zhena-i-bebe-ot-krizisen-centyr-v-plovdiv-2455886",
+      "pubDate": "2026-05-23T12:22:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326582/990-552-nasilie-zhena-dete.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538191/",
+      "title": "Мъж отвлече жена и едногодишното ѝ дете от кризисен център в Пловдив, заплашвал я с убийство",
+      "summary": "Обвиняемият успял да се укрие и да напусне страната",
+      "link": "https://nova.bg/news/view/2026/05/23/538191/%D0%BC%D1%8A%D0%B6-%D0%BE%D1%82%D0%B2%D0%BB%D0%B5%D1%87%D0%B5-%D0%B6%D0%B5%D0%BD%D0%B0-%D0%B8-%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%BD%D0%BE%D1%82%D0%BE-%D1%9D-%D0%B4%D0%B5%D1%82%D0%B5-%D0%BE%D1%82-%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81%D0%B5%D0%BD-%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80-%D0%B2-%D0%BF%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2-%D0%B7%D0%B0%D0%BF%D0%BB%D0%B0%D1%88%D0%B2%D0%B0%D0%BB-%D1%8F-%D1%81-%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE/",
+      "pubDate": "2026-05-23T12:15:00.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779538826.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/povdignato-e-obvinenie-na-mazh-otvlyakal-zhena-i-ednogodishnoto-ѝ-dete-v-plovdiv-1394802news.html",
+      "title": "Повдигнато е обвинение на мъж, отвлякъл жена и едногодишното ѝ дете в Пловдив",
+      "summary": "Окръжната прокуратура в Пловдив привлече като обвиняем 29-годишен мъж за това, че на 1 април тази година е отвлякъл 27-годишна жена и едногодишното ѝ дете, като противозаконно ги е лишил от свобода и...",
+      "link": "https://news.bnt.bg/news/povdignato-e-obvinenie-na-mazh-otvlyakal-zhena-i-ednogodishnoto-ѝ-dete-v-plovdiv-1394802news.html",
+      "pubDate": "2026-05-23T12:08:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/fdf58fa947810cd95ae1c93a84ece9f9.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538134/",
+      "title": "Еуфорията DARA и „Бангаранга“ завладя зрителите на „Събуди се“",
+      "summary": "В ефира на предаването бяха излъчени най-интересните и забавни клипове, в които зрители от цялата страна пеят, танцуват и се веселят",
+      "link": "https://nova.bg/news/view/2026/05/23/538134/%D0%B5%D1%83%D1%84%D0%BE%D1%80%D0%B8%D1%8F%D1%82%D0%B0-dara-%D0%B8-%D0%B1%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B0%D0%BD%D0%B3%D0%B0-%D0%B7%D0%B0%D0%B2%D0%BB%D0%B0%D0%B4%D1%8F-%D0%B7%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-%D1%81%D1%8A%D0%B1%D1%83%D0%B4%D0%B8-%D1%81%D0%B5/",
+      "pubDate": "2026-05-23T12:07:53.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779538050.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538188/",
+      "title": "Как едно семейство пребори скъпия пазар с изкуствен интелект",
+      "summary": "Някои граждани решиха да вземат нещата в свои ръце",
+      "link": "https://nova.bg/news/view/2026/05/23/538188/%D0%BA%D0%B0%D0%BA-%D0%B5%D0%B4%D0%BD%D0%BE-%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D1%80%D0%B5%D0%B1%D0%BE%D1%80%D0%B8-%D1%81%D0%BA%D1%8A%D0%BF%D0%B8%D1%8F-%D0%BF%D0%B0%D0%B7%D0%B0%D1%80-%D1%81-%D0%B8%D0%B7%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%B5%D0%BD-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D1%82/",
+      "pubDate": "2026-05-23T12:05:05.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779537085.jpg"
+    },
+    {
+      "id": "https://www.economic.bg/bg/a/view/riskovete-rastat-kogato-njama-informacija",
+      "title": "Рисковете растат, когато няма информация",
+      "summary": "Управлението на риска престана да е тема, ограничена до финансовите отдели и застрахователните модели. В среда, в която несигурността все по-често идва отвън – през геополитика, прекъснати вериги на доставки, енергийни сътресения, технологични промени или регулаторни завои – способността да се предвижда, да се реагира навреме и да се изгражда устойчивост се превръща в ключово условие за оцеляване и растеж. Светът навлезе в период,...",
+      "link": "https://www.economic.bg/bg/a/view/riskovete-rastat-kogato-njama-informacija",
+      "pubDate": "2026-05-23T12:00:15.000Z",
+      "sourceId": "economic",
+      "imageUrl": "https://www.economic.bg/web/files/articles/153870/narrow_image/nikolay-vitanov-ban.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/za-pomosht-ot-dobrovolci-prizova-obshtina-veliko-tarnovo-sled-bedstvieto-1394797news.html",
+      "title": "За помощ от доброволци призова Община Велико Търново след бедствието",
+      "summary": "Община Велико Търново призова за помощ доброволци след бедствието. Вследствие на изключително интензивните валежи на територията на общината – основно в гр. Велико Търново, гр. Дебелец, с. Церова кори...",
+      "link": "https://news.bnt.bg/news/za-pomosht-ot-dobrovolci-prizova-obshtina-veliko-tarnovo-sled-bedstvieto-1394797news.html",
+      "pubDate": "2026-05-23T11:59:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/bf1850e5f50e9dc0a6de2ef3d4d80296.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538190/",
+      "title": "Историята на \"Бангаранга\": Двама от създателите на песента специално пред NOVA",
+      "summary": "Песента е създадена през 2023 г. по време на музикален лагер",
+      "link": "https://nova.bg/news/view/2026/05/23/538190/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D1%82%D0%B0-%D0%BD%D0%B0-%D0%B1%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B0%D0%BD%D0%B3%D0%B0-%D0%B4%D0%B2%D0%B0%D0%BC%D0%B0-%D0%BE%D1%82-%D1%81%D1%8A%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-%D0%BF%D0%B5%D1%81%D0%B5%D0%BD%D1%82%D0%B0-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%BE-%D0%BF%D1%80%D0%B5%D0%B4-nova/",
+      "pubDate": "2026-05-23T11:55:39.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779537767.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/v-teteven-spasiha-kone-ot-pridoshlite-vodi-na-reka-beli-vit-snimki-1394795news.html",
+      "title": "В Тетевен спасиха коне от придошлите води на река Бели Вит (СНИМКИ)",
+      "summary": "В Тетевен спасиха коне от придошлите води на река Бели Вит. От МВР съобщиха за БНТ, че двете животни са в добро състояние – уплашени и изтощени, но вече са предадени на собствениците, които сами орган...",
+      "link": "https://news.bnt.bg/news/v-teteven-spasiha-kone-ot-pridoshlite-vodi-na-reka-beli-vit-snimki-1394795news.html",
+      "pubDate": "2026-05-23T11:54:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/de662b5743193b9c0b8aaa4b2f42d684.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538187/",
+      "title": "Обич за DARA от всички поколения",
+      "summary": "Баба Добринка е стискала палци за нея по време на финала на \"Евровизия\"",
+      "link": "https://nova.bg/news/view/2026/05/23/538187/%D0%BE%D0%B1%D0%B8%D1%87-%D0%B7%D0%B0-dara-%D0%BE%D1%82-%D0%B2%D1%81%D0%B8%D1%87%D0%BA%D0%B8-%D0%BF%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/",
+      "pubDate": "2026-05-23T11:45:23.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779536403.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/golyamo-darvo-padna-varhu-koli-v-centara-na-montana-snimki-1394791news.html",
+      "title": "Голямо дърво падна върху коли в центъра на Монтана (СНИМКИ)",
+      "summary": "Голямо дърво падна в центъра на Монтана на оживен паркинг и нанесе сериозни щети на три леки автомобила. Няма пострадали хора. &#13; &#13; Инцидентът е станал на обществен паркинг в центъра на града, който се...",
+      "link": "https://news.bnt.bg/news/golyamo-darvo-padna-varhu-koli-v-centara-na-montana-snimki-1394791news.html",
+      "pubDate": "2026-05-23T11:36:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/5dcd1ed77ace37ca096ed4daf28fc7ac.jpeg"
+    },
+    {
+      "id": "https://dariknews.bg/regioni/veliko-tyrnovo/iazovir-aleksandyr-stambolijski-zapochna-da-preliva-video-2455884",
+      "title": "Язовир „Александър Стамболийски“ започна да прелива (ВИДЕО)",
+      "summary": "Язовир „Александър Стамболийски“ е започнал да прелива, съобщиха от пресцентъра на областната администрация във Велико Търново. Очаква се прелелите води да достигнат постепенно до около 400 м3/сек (над три пъти повече от предишния път, когато се случи преливане). Ситуацията е вследстви",
+      "link": "https://dariknews.bg/regioni/veliko-tyrnovo/iazovir-aleksandyr-stambolijski-zapochna-da-preliva-video-2455884",
+      "pubDate": "2026-05-23T11:27:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326575/990-552-iazovir.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45427",
+      "title": "Язовир \"Александър Стамболийски\" е започнал да прелива",
       "summary": "",
-      "link": "https://www.rtve.es/play/videos/copa-mundial-de-la-fifa-2026/fuente-llegada-espana-a-chattanooga-quiza-sea-poco-prematuro-pensar-lamine-para-debut/17103600/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/v/17103600?h=400"
+      "link": "https://boulevardbulgaria.bg/articles/yazovir-aleksandar-stamboliyski-e-zapochnal-da-preliva",
+      "pubDate": "2026-05-23T11:25:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71625/original_%D1%8F%D0%B7%D0%BE%D0%B2%D0%B8%D1%80.jpg"
     },
     {
-      "id": "17101301",
-      "title": "Marjane Satrapi, autora de 'Persépolis': su trayectoria como guionista, dibujante y directora",
+      "id": "http://nova.bg/news/view/2026/05/23/538185/",
+      "title": "Легендата на Формула 1 Ален Прост е с травма на главата след брутален въоръжен грабеж",
+      "summary": "\"Точните обстоятелства все още се разследват“, се казва в съобщението на властите",
+      "link": "https://nova.bg/news/view/2026/05/23/538185/%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-1-%D0%B0%D0%BB%D0%B5%D0%BD-%D0%BF%D1%80%D0%BE%D1%81%D1%82-%D0%B5-%D1%81-%D1%82%D1%80%D0%B0%D0%B2%D0%BC%D0%B0-%D0%BD%D0%B0-%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D0%B0-%D1%81%D0%BB%D0%B5%D0%B4-%D0%B1%D1%80%D1%83%D1%82%D0%B0%D0%BB%D0%B5%D0%BD-%D0%B2%D1%8A%D0%BE%D1%80%D1%8A%D0%B6%D0%B5%D0%BD-%D0%B3%D1%80%D0%B0%D0%B1%D0%B5%D0%B6/",
+      "pubDate": "2026-05-23T11:19:20.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779535137.jpg"
+    },
+    {
+      "id": "https://www.segabg.com/hot/category-bulgaria/sudut-otmeni-globa-na-demerdzhiev-10-000-lv-za-aneksa-za-pasportite",
+      "title": "Съдът отмени глоба на Демерджиев от 10 000 лв. за анекса за паспортите",
+      "summary": "Административният съд в София отменя наказателното постановление, с което вътрешният министър Иван Демерджиев е глобен с 10 000 лв. от Агенцията за държавна финансова инспекция (АДФИ). Това видя \"Сега\" в съдебните регистри.",
+      "link": "https://www.segabg.com/hot/category-bulgaria/sudut-otmeni-globa-na-demerdzhiev-10-000-lv-za-aneksa-za-pasportite",
+      "pubDate": "2026-05-23T11:15:48.000Z",
+      "sourceId": "sega",
+      "imageUrl": "https://www.segabg.com/sites/default/files/_sega//styles/focal_medium/public/2026/05/payimage-722733.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/vodolazi-spasiha-17-godishno-momche-vav-velikotarnovsko-pravilo-si-selfi-no-vodata-go-povlyakla-1394786news.html",
+      "title": "Водолази спасиха 17-годишно момче във Великотърновско, правило си селфи, но водата го повлякла",
+      "summary": "Водолази спасиха 17-годишно момче, попаднало в наводнен участък във великотърновското село Шемшево. &#13; Младежът от съседно село тръгнал към Шемшево, но попаднал наводнен участък. На място са били изпра...",
+      "link": "https://news.bnt.bg/news/vodolazi-spasiha-17-godishno-momche-vav-velikotarnovsko-pravilo-si-selfi-no-vodata-go-povlyakla-1394786news.html",
+      "pubDate": "2026-05-23T11:14:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/51845e65e11150d161403c377d1f4b49.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538184/",
+      "title": "Откъснати къщи и залети улици в Ловешко, реки са излезли от коритата си",
+      "summary": "Най-много дъжд е валял в района на Априлци",
+      "link": "https://nova.bg/news/view/2026/05/23/538184/%D0%BE%D1%82%D0%BA%D1%8A%D1%81%D0%BD%D0%B0%D1%82%D0%B8-%D0%BA%D1%8A%D1%89%D0%B8-%D0%B8-%D0%B7%D0%B0%D0%BB%D0%B5%D1%82%D0%B8-%D1%83%D0%BB%D0%B8%D1%86%D0%B8-%D0%B2-%D0%BB%D0%BE%D0%B2%D0%B5%D1%88%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D0%B8-%D1%81%D0%B0-%D0%B8%D0%B7%D0%BB%D0%B5%D0%B7%D0%BB%D0%B8-%D0%BE%D1%82-%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B0%D1%82%D0%B0-%D1%81%D0%B8/",
+      "pubDate": "2026-05-23T11:10:51.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779534610.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538183/",
+      "title": "САЩ променят правилата за зелена карта",
+      "summary": "Целта на промяната е да се освободи ресурси за обработка на други приоритетни молби за пребиваване в страната",
+      "link": "https://nova.bg/news/view/2026/05/23/538183/%D1%81%D0%B0%D1%89-%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D1%8F%D1%82-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%BA%D0%B0%D1%80%D1%82%D0%B0/",
+      "pubDate": "2026-05-23T11:10:21.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779533343.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45426",
+      "title": "Русия обяви Гари Каспаров за международно издирване",
       "summary": "",
-      "link": "https://www.rtve.es/play/audios/el-ojo-critico/ojo-critico-marjane-satrapi-persepolis-carmen-machi-protagonistas/17101301/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/a/17101301?h=300"
+      "link": "https://boulevardbulgaria.bg/articles/rusiya-obyavi-gari-kasparov-za-mezhdunarodno-izdirvane",
+      "pubDate": "2026-05-23T11:02:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71626/original_garry_kassparov.jpg"
     },
     {
-      "id": "17100861",
-      "title": "La cúpula de la Iglesia católica, un espacio reservado a los hombres",
+      "id": "https://dariknews.bg/novini/bylgariia/velikobritaniia-izprashta-na-bylgariia-oshte-mitnicheski-kucheta-shte-nadushvat-naduvaemi-lodki-2455883",
+      "title": "Великобритания изпраща на България още митнически кучета, ще надушват надуваеми лодки",
+      "summary": "Великобритания ще изпрати в помощ на България още три митнически кучета, обучени да надушват гума за надуваеми лодки, с каквито каналджии прекарват мигранти през Ламанша, информира Би Би Си, като се позова на британските власти. На гра",
+      "link": "https://dariknews.bg/novini/bylgariia/velikobritaniia-izprashta-na-bylgariia-oshte-mitnicheski-kucheta-shte-nadushvat-naduvaemi-lodki-2455883",
+      "pubDate": "2026-05-23T10:56:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/50279/50279556/990-552-kuche-granichar.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/nek-s-aktualna-informaciya-za-sastoyanieto-na-yazovirite-sled-obilnite-dazhdove-1394787news.html",
+      "title": "НЕК с актуална информация за състоянието на язовирите след обилните дъждове",
+      "summary": "Към 08:00 часа на 22.05.2026 г. (петък), обемът на язовир \"Александър Стамболийски\" е 182,06 млн. куб. м, което е 88,6 % от общия му завирен обем и 2,20 м под кота преливен ръб, съобщиха от НЕК. &#13; Всл...",
+      "link": "https://news.bnt.bg/news/nek-s-aktualna-informaciya-za-sastoyanieto-na-yazovirite-sled-obilnite-dazhdove-1394787news.html",
+      "pubDate": "2026-05-23T10:52:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/6f041e898e7198781ebc02f5cde319c6.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538182/",
+      "title": "Русия издирва шахматиста Гари Каспаров",
+      "summary": "От години той е сред най-активните критици на президента Владимир Путин и на политиката на Кремъл",
+      "link": "https://nova.bg/news/view/2026/05/23/538182/%D1%80%D1%83%D1%81%D0%B8%D1%8F-%D0%B8%D0%B7%D0%B4%D0%B8%D1%80%D0%B2%D0%B0-%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B0-%D0%B3%D0%B0%D1%80%D0%B8-%D0%BA%D0%B0%D1%81%D0%BF%D0%B0%D1%80%D0%BE%D0%B2/",
+      "pubDate": "2026-05-23T10:44:37.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x188_1717316515.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538181/",
+      "title": "Язовир „Александър Стамболийски” в Павликени започна да прелива (ВИДЕО+СНИМКИ)",
+      "summary": "Към момента няма непосредствена опасност за населението",
+      "link": "https://nova.bg/news/view/2026/05/23/538181/%D1%8F%D0%B7%D0%BE%D0%B2%D0%B8%D1%80-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%8A%D1%80-%D1%81%D1%82%D0%B0%D0%BC%D0%B1%D0%BE%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8-%D0%B2-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BA%D0%B5%D0%BD%D0%B8-%D0%B7%D0%B0%D0%BF%D0%BE%D1%87%D0%BD%D0%B0-%D0%B4%D0%B0-%D0%BF%D1%80%D0%B5%D0%BB%D0%B8%D0%B2%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/",
+      "pubDate": "2026-05-23T10:41:12.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779535304.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/zadeistvaha-sistemata-bg-alert-vav-veliko-tarnovo-i-sevlievo-1394782news.html",
+      "title": "Задействаха системата BG-ALERT във Велико Търново и Севлиево",
+      "summary": "Системата BG-ALERT беше задействана за втори път във Велико Търново с предупреждение за опасност от нови валежи и наводнения. &#13; &#13; Над 80 л/кв. м дъжд: Безсънна нощ във Велико Търново, наводнени улици,...",
+      "link": "https://news.bnt.bg/news/zadeistvaha-sistemata-bg-alert-vav-veliko-tarnovo-i-sevlievo-1394782news.html",
+      "pubDate": "2026-05-23T10:41:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/107eb9268e66898e01b5944dbc7c2e6c.jpeg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/za-izvanzemnite-i-horata-–-sami-li-sme-vav-vselenata-1394781news.html",
+      "title": "За извънземните и хората – сами ли сме във Вселената?",
+      "summary": "Това сме ние. Нашата планета. Светът се огледа в този кадър преди месец, когато четирима астронавти пътуваха до Луната и обратно. През това време Франц Ренц мислел само за едно.&#13; &#13; Франц Ренц – профес...",
+      "link": "https://news.bnt.bg/news/za-izvanzemnite-i-horata-–-sami-li-sme-vav-vselenata-1394781news.html",
+      "pubDate": "2026-05-23T10:28:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/e8bfc2f7da86883fec370627d2851601.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538180/",
+      "title": "Спасиха 17-годишно момче във Великотърновско, влязло в река Янтра",
+      "summary": "Буйните води го понесли",
+      "link": "https://nova.bg/news/view/2026/05/23/538180/%D1%81%D0%BF%D0%B0%D1%81%D0%B8%D1%85%D0%B0-17-%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%BD%D0%BE-%D0%BC%D0%BE%D0%BC%D1%87%D0%B5-%D0%B2%D1%8A%D0%B2-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D1%82%D1%8A%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE-%D0%B2%D0%BB%D1%8F%D0%B7%D0%BB%D0%BE-%D0%B2-%D1%80%D0%B5%D0%BA%D0%B0-%D1%8F%D0%BD%D1%82%D1%80%D0%B0/",
+      "pubDate": "2026-05-23T10:24:58.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779531870.jpeg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/s-valezhi-dnes-i-utre-slanchevo-vreme-v-nachaloto-na-novata-sedmica-1394779news.html",
+      "title": "С валежи днес и утре, слънчево време в началото на новата седмица",
+      "summary": "И в следобедните часове в по-голямата част от страната ще има значителна купеста и купесто-дъждовна облачност. На много места се очакват валежи от дъжд и гръмотевична дейност. Значителни по количество...",
+      "link": "https://news.bnt.bg/news/s-valezhi-dnes-i-utre-slanchevo-vreme-v-nachaloto-na-novata-sedmica-1394779news.html",
+      "pubDate": "2026-05-23T10:17:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/2135e3186d8ed2e009f13c18981ebc40.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538179/",
+      "title": "„Темата на NOVA” в аванс: „Азбука на доброто”",
+      "summary": "Хиляди ученици, стотици учители и десетки граждански инициативи застават зад първата по рода си кампания „Азбука на чудесата”",
+      "link": "https://nova.bg/news/view/2026/05/23/538179/%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-nova-%D0%B2-%D0%B0%D0%B2%D0%B0%D0%BD%D1%81-%D0%B0%D0%B7%D0%B1%D1%83%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BE/",
+      "pubDate": "2026-05-23T10:15:44.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779531330.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538173/",
+      "title": "Дърво падна върху три автомобила в центъра на Монтана (СНИМКИ)",
+      "summary": "Няма пострадали",
+      "link": "https://nova.bg/news/view/2026/05/23/538173/%D0%B4%D1%8A%D1%80%D0%B2%D0%BE-%D0%BF%D0%B0%D0%B4%D0%BD%D0%B0-%D0%B2%D1%8A%D1%80%D1%85%D1%83-%D1%82%D1%80%D0%B8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B0-%D0%B2-%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80%D0%B0-%D0%BD%D0%B0-%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%B0-%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/",
+      "pubDate": "2026-05-23T10:10:29.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779527192.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45425",
+      "title": "Днес обявяват победителите от фестивала в Кан - кои са фаворитите за „Златна палма“",
       "summary": "",
-      "link": "https://www.rtve.es/play/videos/telediario-1/cupula-iglesia-catolica-espacio-reservado-a-hombres/17100861/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/v/17100861?h=300"
+      "link": "https://boulevardbulgaria.bg/articles/dnes-obyavyavat-pobeditelite-ot-festivala-v-kan-koi-sa-favoritite-za-zlatna-palma",
+      "pubDate": "2026-05-23T10:08:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71624/original_cannes_.jpg"
     },
     {
-      "id": "17101074",
-      "title": "La actriz Carmen Machi, Premio Nacional de Cinematografía 2026",
+      "id": "https://dariknews.bg/regioni/veliko-tyrnovo/spasiha-17-godishno-momche-povlecheno-ot-reka-iantra-dokato-snimalo-video-2455881",
+      "title": "Спасиха 17-годишно момче, повлечено от река Янтра, докато снимало видео",
+      "summary": "Пожарникари, полицаи и водолази спасиха 17-годишно момче в търновското с. Шемшево, съобщиха от полицията.",
+      "link": "https://dariknews.bg/regioni/veliko-tyrnovo/spasiha-17-godishno-momche-povlecheno-ot-reka-iantra-dokato-snimalo-video-2455881",
+      "pubDate": "2026-05-23T10:07:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51297/51297748/990-552-reka-iantra.jpg"
+    },
+    {
+      "id": "https://www.economic.bg/bg/a/view/dualnoto-obuchenie-most-mejdu-uchilishteto-i-firmata",
+      "title": "Дуалното обучение – мост между училището и фирмата",
+      "summary": "Дуалното обучение в България постепенно се утвърждава като един от най-важните инструменти за сближаване между образованието и реалните нужди на пазара на труда. Моделът, въведен по примера на държави като Германия и Швейцария, съчетава обучение в училище с практика в реална работна среда. Учениците прекарват част от времето си в професионалната гимназия, а друга част – в предприятие, където усвояват конкретни умения под...",
+      "link": "https://www.economic.bg/bg/a/view/dualnoto-obuchenie-most-mejdu-uchilishteto-i-firmata",
+      "pubDate": "2026-05-23T10:00:27.000Z",
+      "sourceId": "economic",
+      "imageUrl": "https://www.economic.bg/web/files/articles/153871/narrow_image/dual-freepik.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/izlozhba-pred-narodniya-teatar-pokazva-istoriyata-na-balgarskiya-bukvar-1394775news.html",
+      "title": "Изложба пред Народния театър показва историята на българския буквар",
+      "summary": "Изложба представя букварите на поколения българи от 1945 година до днес. Експозицията се открива в галерията на открито в столичната градска градина и показва как образованието у нас се е променило и...",
+      "link": "https://news.bnt.bg/news/izlozhba-pred-narodniya-teatar-pokazva-istoriyata-na-balgarskiya-bukvar-1394775news.html",
+      "pubDate": "2026-05-23T09:58:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/7f6df12e20ccdaf2909b9c034a8d515c.jpeg"
+    },
+    {
+      "id": "https://www.segabg.com/hot/category-foreign-country/vuchich-sprya-vlakovete-surbiya-za-da-poprechi-na-protestite",
+      "title": "Вучич спря влаковете в Сърбия, за да попречи на протестите",
+      "summary": "Всички влакове в Сърбия спряха часове преди обявения голям студентски протест в на площад \"Славия\" в Белград.",
+      "link": "https://www.segabg.com/hot/category-foreign-country/vuchich-sprya-vlakovete-surbiya-za-da-poprechi-na-protestite",
+      "pubDate": "2026-05-23T09:53:31.000Z",
+      "sourceId": "sega",
+      "imageUrl": "https://www.segabg.com/sites/default/files/_sega//styles/focal_medium/public/2026/05/srbijavoz_0.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538178/",
+      "title": "Социалното и земеделското министерство оказват пълно съдействие на пострадалите от наводненията в Северна България",
+      "summary": "По закон хората с пострадало имущество имат право на помощ до трикратния размер на линията на бедност - 1171 евро",
+      "link": "https://nova.bg/news/view/2026/05/23/538178/%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%BE%D1%82%D0%BE-%D0%B8-%D0%B7%D0%B5%D0%BC%D0%B5%D0%B4%D0%B5%D0%BB%D1%81%D0%BA%D0%BE%D1%82%D0%BE-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE-%D0%BE%D0%BA%D0%B0%D0%B7%D0%B2%D0%B0%D1%82-%D0%BF%D1%8A%D0%BB%D0%BD%D0%BE-%D1%81%D1%8A%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D0%BB%D0%B8%D1%82%D0%B5-%D0%BE%D1%82-%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D1%82%D0%B0-%D0%B2-%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F/",
+      "pubDate": "2026-05-23T09:51:26.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779530179.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/v-aksakovo-posreshtat-24-mai-s-pametnik-na-kiril-i-metodiy-1394774news.html",
+      "title": "В Аксаково посрещат 24 май с паметник на Кирил и Методий",
+      "summary": "А град Аксаково посреща 24 май с паметник на Кирил и Методий. Монументът е изработен от 5 тона разтопени гилзи, предоставени от Министерството на отбраната.&#13; Паметникът, дело на скулптора доцент Никол...",
+      "link": "https://news.bnt.bg/news/v-aksakovo-posreshtat-24-mai-s-pametnik-na-kiril-i-metodiy-1394774news.html",
+      "pubDate": "2026-05-23T09:47:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/d03377ad70ede2d3bb2e6cbaeb747a88.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538177/",
+      "title": "Прогноза за времето (23.05.2026 - обедна)",
+      "summary": "Вижте какво време ни очаква според синоптиците от НИМХ",
+      "link": "https://nova.bg/news/view/2026/05/23/538177/%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B0-%D0%B7%D0%B0-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D1%82%D0%BE-23052026-%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B0/",
+      "pubDate": "2026-05-23T09:46:43.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1767264034.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538176/",
+      "title": "Спортни новини (23.05.2026 - обедна)",
+      "summary": "Гледайте цялата емисия",
+      "link": "https://nova.bg/news/view/2026/05/23/538176/%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%B8-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8-23052026-%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B0/",
+      "pubDate": "2026-05-23T09:40:32.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779529205.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538170/",
+      "title": "Новините на NOVA (23.05.2026 - обедна)",
+      "summary": "Гледайте цялата емисия",
+      "link": "https://nova.bg/news/view/2026/05/23/538170/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-nova-23052026-%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B0/",
+      "pubDate": "2026-05-23T09:38:18.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779527081.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/na-praga-na-letniya-sezon-27-ostavat-neohranyaemite-plazhove-vav-varnenska-oblast-1394773news.html",
+      "title": "На прага на летния сезон: 27 остават неохраняемите плажове във Варненска област",
+      "summary": "27 остават неохраняемите плажове във Варненска област през този летен сезон. Толкова са били и миналата година. За част от плажните ивици това лято е обявена обществена поръчка за осигуряване на спаси...",
+      "link": "https://news.bnt.bg/news/na-praga-na-letniya-sezon-27-ostavat-neohranyaemite-plazhove-vav-varnenska-oblast-1394773news.html",
+      "pubDate": "2026-05-23T09:38:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/dd0b7597db3ea0279f1d7e5b2eb67553.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538175/",
+      "title": "Колко струва изпращането на един абитуриент",
+      "summary": "Инфлацията е повлияла на някои от изборите тази година",
+      "link": "https://nova.bg/news/view/2026/05/23/538175/%D0%BA%D0%BE%D0%BB%D0%BA%D0%BE-%D1%81%D1%82%D1%80%D1%83%D0%B2%D0%B0-%D0%B8%D0%B7%D0%BF%D1%80%D0%B0%D1%89%D0%B0%D0%BD%D0%B5%D1%82%D0%BE-%D0%BD%D0%B0-%D0%B5%D0%B4%D0%B8%D0%BD-%D0%B0%D0%B1%D0%B8%D1%82%D1%83%D1%80%D0%B8%D0%B5%D0%BD%D1%82/",
+      "pubDate": "2026-05-23T09:37:24.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779528584.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/zelenski-s-otgovor-na-germanskoto-predlozhenie-za-asociirano-chlenstvo-na-ukraina-v-es-1394772news.html",
+      "title": "Зеленски с отговор на германското предложение за асоциирано членство на Украйна в ЕС",
+      "summary": "Украинският президент Володимир Зеленски с отговор на германското предложение за асоциирано членство на Украйна в Европейския съюз. Според Зеленски \"не е честно\" Украйна да е част от блока, но да оста...",
+      "link": "https://news.bnt.bg/news/zelenski-s-otgovor-na-germanskoto-predlozhenie-za-asociirano-chlenstvo-na-ukraina-v-es-1394772news.html",
+      "pubDate": "2026-05-23T09:24:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/72c3e5deacca15a025dc626948f878cb.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538174/",
+      "title": "90 души загинаха при взрив в китайска мина",
+      "summary": "Девет миньори все още се издирват",
+      "link": "https://nova.bg/news/view/2026/05/23/538174/90-%D0%B4%D1%83%D1%88%D0%B8-%D0%B7%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0%D1%85%D0%B0-%D0%BF%D1%80%D0%B8-%D0%B2%D0%B7%D1%80%D0%B8%D0%B2-%D0%B2-%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0-%D0%BC%D0%B8%D0%BD%D0%B0/",
+      "pubDate": "2026-05-23T09:20:42.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779528023.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45424",
+      "title": "„Bangaranga“ на DARA е номер 1 в Германия",
       "summary": "",
-      "link": "https://www.rtve.es/play/videos/telediario-1/actriz-carmen-machi-premio-nacional-cinematografia-2026/17101074/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/v/17101074?h=200"
+      "link": "https://boulevardbulgaria.bg/articles/bangaranga-na-dara-e-nomer-1-v-germaniya",
+      "pubDate": "2026-05-23T09:14:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71623/original_dara.jpg"
     },
     {
-      "id": "17100067",
-      "title": "Las mujeres dentro de la Iglesia: la igualdad de género como prioridad en la agenda del papa",
+      "id": "https://www.capital.bg/4917290",
+      "title": "Седмични новини за енергетика: Новият ВЕИ край Мъглиж, ще работи ли ТЕЦ \"Марица изток 2\"",
+      "summary": "България е безапелационен лидер при батериите - системите за съхранение на ток в страната ни са вече над 16% от енергийната система, което е най-голямата наситеност на даден пазар към момента. Това се случва след инвестиции от около 2 млрд. евро - частни вложения, както и в комбинация с финансиране от Плана за възстановяване и устойчивост (ПВУ), а повече данни по темата ще намерите по-надолу. С финансиране от ПВУ, както и с помощ от Ascory Bank и синдикат от местни и чуждестранни банки в това чи...",
+      "link": "https://www.capital.bg/biznes/energetika/2026/05/23/4917290_sedmichni_novini_za_energetika_noviiat_vei_krai_muglij/?ref=rss",
+      "pubDate": "2026-05-23T09:13:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4917289.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/obstanovkata-v-gabrovo-nyama-bedstvashti-hora-vlastite-reagirat-na-vseki-podaden-signal-1394768news.html",
+      "title": "Обстановката в Габрово: Няма бедстващи хора, властите реагират на всеки подаден сигнал",
+      "summary": "Задействаха BG-ALERT за района на Севлиево с предупреждение за опасност от наводнение",
+      "link": "https://news.bnt.bg/news/obstanovkata-v-gabrovo-nyama-bedstvashti-hora-vlastite-reagirat-na-vseki-podaden-signal-1394768news.html",
+      "pubDate": "2026-05-23T09:12:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/975ff8379d5ed18db0a3e2f812fde747.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538172/",
+      "title": "София удря високи ноти в цените за \"Евровизия\"",
+      "summary": "Близо 20 000 евро за двустаен апартамент в центъра на София е една от офертите за догодина",
+      "link": "https://nova.bg/news/view/2026/05/23/538172/%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D1%83%D0%B4%D1%80%D1%8F-%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%B8-%D0%BD%D0%BE%D1%82%D0%B8-%D0%B2-%D1%86%D0%B5%D0%BD%D0%B8%D1%82%D0%B5-%D0%B7%D0%B0-%D0%B5%D0%B2%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F/",
+      "pubDate": "2026-05-23T09:05:00.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779526426.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/nad-80-l-kv-m-dazhd-bezsanna-nosht-vav-veliko-tarnovo-navodneni-ulici-koli-pod-voda-i-zatvoreni-patishta-1394767news.html",
+      "title": "Над 80 л/кв. м дъжд: Безсънна нощ във Велико Търново, наводнени улици, коли под вода и затворени пътища",
+      "summary": "Над 80 литра на квадратен метър дъжд потопи къщи, улици и автомобили във Велико Търново. Обявено е бедствено положение. Има евакуирани хора. Задействана беше и системата за ранно предупреждение BG-ALE...",
+      "link": "https://news.bnt.bg/news/nad-80-l-kv-m-dazhd-bezsanna-nosht-vav-veliko-tarnovo-navodneni-ulici-koli-pod-voda-i-zatvoreni-patishta-1394767news.html",
+      "pubDate": "2026-05-23T09:00:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/f7d8570a82034aea6d23d4bf2dfda77e.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538171/",
+      "title": "Глория Петкова за изкуството, майчинството и битката за глас срещу насилието",
+      "summary": "Тя споделя, че изкуството за нея е начин да се променя гледната точка към живота",
+      "link": "https://nova.bg/news/view/2026/05/23/538171/%D0%B3%D0%BB%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D0%B5%D1%82%D0%BA%D0%BE%D0%B2%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE-%D0%BC%D0%B0%D0%B9%D1%87%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%B3%D0%BB%D0%B0%D1%81-%D1%81%D1%80%D0%B5%D1%89%D1%83-%D0%BD%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B5%D1%82%D0%BE/",
+      "pubDate": "2026-05-23T08:59:09.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779526850.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/vashington-ima-malak-napredak-v-pregovorite-s-teheran-1394765news.html",
+      "title": "Вашингтон: Има \"малък напредък\" в преговорите с Техеран",
+      "summary": "Няма изгледи за споразумение, съобщи Иран",
+      "link": "https://news.bnt.bg/news/vashington-ima-malak-napredak-v-pregovorite-s-teheran-1394765news.html",
+      "pubDate": "2026-05-23T08:52:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/f67ff40c89b52174612410093b5d246b.png"
+    },
+    {
+      "id": "https://dariknews.bg/novini/bylgariia/vytreshniiat-ministyr-razbrahme-koi-sa-horata-pomagali-na-prokurorskiia-sin-ima-interesni-imena-2455879",
+      "title": "Вътрешният министър: Разбрахме кои са хората, помагали на прокурорския син, има интересни имена",
+      "summary": "Очевидно не е работено активно по издирването на прокурорския син. Активните дейности, предприети от около месец, дадоха резултат. Обещахме справедливост и тя ще е неизбежна. И това е послание не само към конкретния задържан, но и към всеки нарушител на закона –",
+      "link": "https://dariknews.bg/novini/bylgariia/vytreshniiat-ministyr-razbrahme-koi-sa-horata-pomagali-na-prokurorskiia-sin-ima-interesni-imena-2455879",
+      "pubDate": "2026-05-23T08:42:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51322/51322603/990-552-ivan-demerdzhiev.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/uspeshen-polet-megaraketata-na-speis-eks-izpalni-misiyata-si-1394764news.html",
+      "title": "Успешен полет: Мегаракетата на \"Спейс Екс\" изпълни мисията си",
+      "summary": "Успешен тестов полет на \"Старшип\" – най-мощната ракета в историята. &#13; Мисията на мегаракетата продължи около час, след което тя се приземи на специална площадка в Индийския океан. И както беше по план...",
+      "link": "https://news.bnt.bg/news/uspeshen-polet-megaraketata-na-speis-eks-izpalni-misiyata-si-1394764news.html",
+      "pubDate": "2026-05-23T08:39:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/43c02175708bab62842fa8f691ee3753.jpg"
+    },
+    {
+      "id": "https://www.economic.bg/bg/a/view/kak-socialnite-mreji-prestanaha-da-bydat-socialni",
+      "title": "Как социалните мрежи престанаха да бъдат социални",
+      "summary": "Орелия си прави кафе, сяда в красивата си градина недалеч от Париж и отваря Instagram „за да се отпусне“. Първо вижда „един човек, когото много харесвам и който се занимава с интериорен дизайн. В момента е във Венеция“. Тя самата се интересува от интериорен дизайн и дори наскоро си е татуирала на ръцете две птици по рисунки на английския дизайнер от XIX век Уилям Морис, пише BBC. Продължава да скролва. Две котенца се бият. Обожавам животни,...",
+      "link": "https://www.economic.bg/bg/a/view/kak-socialnite-mreji-prestanaha-da-bydat-socialni",
+      "pubDate": "2026-05-23T08:30:20.000Z",
+      "sourceId": "economic",
+      "imageUrl": "https://www.economic.bg/web/files/articles/153912/narrow_image/depositphotos-175991668-l-1.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538165/",
+      "title": "Румен Христов: Категорично не е имало политически чадър над прокурорския син",
+      "summary": "Процесът по издирване на човек, за който разбираме, че е имал цяла верига от помагачи, не е лесен, заяви той",
+      "link": "https://nova.bg/news/view/2026/05/23/538165/%D1%80%D1%83%D0%BC%D0%B5%D0%BD-%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%BE-%D0%BD%D0%B5-%D0%B5-%D0%B8%D0%BC%D0%B0%D0%BB%D0%BE-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8-%D1%87%D0%B0%D0%B4%D1%8A%D1%80-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D1%8F-%D1%81%D0%B8%D0%BD/",
+      "pubDate": "2026-05-23T08:26:45.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779524762.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45423",
+      "title": "Хиляди души са евакуирани заради изтичане на опасен химикал край Лос Анджелис",
       "summary": "",
-      "link": "https://www.rtve.es/play/audios/reportajes-en-radio-5/mujeres-dentro-iglesia/17100067/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/a/17100067?h=200"
+      "link": "https://boulevardbulgaria.bg/articles/hilyadi-dushi-sa-evakuirani-zaradi-iztichane-na-opasen-himikal-kray-los-andzhelis",
+      "pubDate": "2026-05-23T08:23:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71621/original_garden_grove_.jpg"
     },
     {
-      "id": "17098766",
-      "title": "Anna Montañana al frente de España Futuro, la antesala de la selección absoluta",
+      "id": "https://news.bnt.bg/news/vatreshniyat-ministar-ima-interesni-imena-koito-sa-podpomagali-prokurorskiya-sin-da-se-ukriva-1394762news.html",
+      "title": "Вътрешният министър: Има интересни имена, които са подпомагали прокурорския син да се укрива",
+      "summary": "Очевидно не е работено активно по издирването на прокурорския син Васил Михайлов. Активните действия, които се извършват от около месец дадоха резултат. Обещахме справедливост и трябва да е ясно, че т...",
+      "link": "https://news.bnt.bg/news/vatreshniyat-ministar-ima-interesni-imena-koito-sa-podpomagali-prokurorskiya-sin-da-se-ukriva-1394762news.html",
+      "pubDate": "2026-05-23T08:21:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/68531c58fee0a8f40e1dd19b078227bb.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538168/",
+      "title": "„Нищо лично“: От дърводобива до ринга - историята на един кикбоксьор, който калява волята си в ледена вана насред гората",
+      "summary": "Сред дивата природа, далеч от шума на града, Михаил Велчовски провежда част от подготовката си за тежките мачове",
+      "link": "https://nova.bg/news/view/2026/05/23/538168/%D0%BD%D0%B8%D1%89%D0%BE-%D0%BB%D0%B8%D1%87%D0%BD%D0%BE-%D0%BE%D1%82-%D0%B4%D1%8A%D1%80%D0%B2%D0%BE%D0%B4%D0%BE%D0%B1%D0%B8%D0%B2%D0%B0-%D0%B4%D0%BE-%D1%80%D0%B8%D0%BD%D0%B3%D0%B0-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D1%82%D0%B0-%D0%BD%D0%B0-%D0%B5%D0%B4%D0%B8%D0%BD-%D0%BA%D0%B8%D0%BA%D0%B1%D0%BE%D0%BA%D1%81%D1%8C%D0%BE%D1%80-%D0%BA%D0%BE%D0%B9%D1%82%D0%BE-%D0%BA%D0%B0%D0%BB%D1%8F%D0%B2%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8F%D1%82%D0%B0-%D1%81%D0%B8-%D0%B2-%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D0%B0-%D0%B2%D0%B0%D0%BD%D0%B0-%D0%BD%D0%B0%D1%81%D1%80%D0%B5%D0%B4-%D0%B3%D0%BE%D1%80%D0%B0%D1%82%D0%B0/",
+      "pubDate": "2026-05-23T08:19:39.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779524595.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538137/",
+      "title": "Германец осъди хотел в Гърция заради липса на шезлонг",
+      "summary": "Туристът от Германия ще получи обезщетение от своя туроператор",
+      "link": "https://nova.bg/news/view/2026/05/23/538137/%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B5%D1%86-%D0%BE%D1%81%D1%8A%D0%B4%D0%B8-%D1%85%D0%BE%D1%82%D0%B5%D0%BB-%D0%B2-%D0%B3%D1%8A%D1%80%D1%86%D0%B8%D1%8F-%D0%B7%D0%B0%D1%80%D0%B0%D0%B4%D0%B8-%D0%BB%D0%B8%D0%BF%D1%81%D0%B0-%D0%BD%D0%B0-%D1%88%D0%B5%D0%B7%D0%BB%D0%BE%D0%BD%D0%B3/",
+      "pubDate": "2026-05-23T08:10:45.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779469343.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45422",
+      "title": "Никола Цолов получи златен шанс за състезанието в Монреал",
       "summary": "",
-      "link": "https://www.rtve.es/play/videos/baloncesto-al-dia/anna-montanana-frente-espana-futuro-antesala-seleccion-absoluta-baloncesto-femenino/17098766/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/v/17098766?h=200"
+      "link": "https://boulevardbulgaria.bg/articles/nikola-tsolov-poluchi-zlaten-shans-za-sastezanieto-v-monreal",
+      "pubDate": "2026-05-23T08:10:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/68849/original_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%A6%D0%BE%D0%BB%D0%BE%D0%B2_.jpg"
     },
     {
-      "id": "17098176",
-      "title": "Miriam Al Adib Mendiri, ginecóloga y divulgadora: perspectiva de género en la medicina y la salud de las mujeres",
+      "id": "https://www.capital.bg/4915770",
+      "title": "Рисково обещание за фиксиран доход",
+      "summary": "В света на инвестициите Европа продължава да изостава с няколко крачки зад САЩ. Най-големите компании, най-иновативните фондове и най-новите инвестиционни стратегии почти винаги тръгват първо от американските пазари. Такъв е случаят и с една от най-новите тенденции на фондовите пазари - autocallable фондовете, които най-общо комбинират по-висок потенциал за фиксирана доходност с излагане на риск, който носят акциите. Само през последната година в САЩ дебютираха повече от 10 подобни борсово търгу...",
+      "link": "https://www.capital.bg/moiat_capital/investments/2026/05/23/4915770_riskovo_obeshtanie_za_fiksiran_dohod/?ref=rss",
+      "pubDate": "2026-05-23T08:10:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4916255.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538166/",
+      "title": "Иван Демерджиев: Хора, свързани с институции, са помагали на прокурорския син да се укрива",
+      "summary": "Според министъра не е работено активно по издирването му",
+      "link": "https://nova.bg/news/view/2026/05/23/538166/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B4%D0%B5%D0%BC%D0%B5%D1%80%D0%B4%D0%B6%D0%B8%D0%B5%D0%B2-%D1%85%D0%BE%D1%80%D0%B0-%D1%81%D0%B2%D1%8A%D1%80%D0%B7%D0%B0%D0%BD%D0%B8-%D1%81-%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D0%B8-%D1%81%D0%B0-%D0%BF%D0%BE%D0%BC%D0%B0%D0%B3%D0%B0%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D1%8F-%D1%81%D0%B8%D0%BD-%D0%B4%D0%B0-%D1%81%D0%B5-%D1%83%D0%BA%D1%80%D0%B8%D0%B2%D0%B0/",
+      "pubDate": "2026-05-23T08:06:14.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779523385.jpg"
+    },
+    {
+      "id": "https://www.segabg.com/hot/category-bulgaria/chestvaniya-na-aprilskoto-vustanie-i-24-may-sa-otmeneni-zaradi-potopa",
+      "title": "Чествания на Априлското въстание и 24 май са отменени заради потопа",
+      "summary": "Честванията на 150 години от Априлското въстание бяха отменени заради потопа, който се изля снощи. Кметът на Априлци инж.",
+      "link": "https://www.segabg.com/hot/category-bulgaria/chestvaniya-na-aprilskoto-vustanie-i-24-may-sa-otmeneni-zaradi-potopa",
+      "pubDate": "2026-05-23T08:04:12.000Z",
+      "sourceId": "sega",
+      "imageUrl": "https://www.segabg.com/sites/default/files/_sega//styles/focal_medium/public/2026/05/4d78f6f6-21cc-47fd-bafc-939856e390af.jpeg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538169/",
+      "title": "Тодор Джиков: Очакваме 10% поевтиняване на основните храни до месец и половина",
+      "summary": "Депутатът заяви, че до 6-7 месеца страната трябва да има „коренно различна система“ за проследяване, контрол и ценообразуване на храните",
+      "link": "https://nova.bg/news/view/2026/05/23/538169/%D1%82%D0%BE%D0%B4%D0%BE%D1%80-%D0%B4%D0%B6%D0%B8%D0%BA%D0%BE%D0%B2-%D0%BE%D1%87%D0%B0%D0%BA%D0%B2%D0%B0%D0%BC%D0%B5-10-%D0%BF%D0%BE%D0%B5%D0%B2%D1%82%D0%B8%D0%BD%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D1%82%D0%B5-%D1%85%D1%80%D0%B0%D0%BD%D0%B8-%D0%B4%D0%BE-%D0%BC%D0%B5%D1%81%D0%B5%D1%86-%D0%B8-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0/",
+      "pubDate": "2026-05-23T07:56:23.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779525373.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/537250/",
+      "title": "Колко ще струва почивката в Гърция тази година",
+      "summary": "Хиляди българи отново ще отпътуват през лятото тази година за южната ни съседка",
+      "link": "https://nova.bg/news/view/2026/05/23/537250/%D0%BA%D0%BE%D0%BB%D0%BA%D0%BE-%D1%89%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%B2%D0%B0-%D0%BF%D0%BE%D1%87%D0%B8%D0%B2%D0%BA%D0%B0%D1%82%D0%B0-%D0%B2-%D0%B3%D1%8A%D1%80%D1%86%D0%B8%D1%8F-%D1%82%D0%B0%D0%B7%D0%B8-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0/",
+      "pubDate": "2026-05-23T07:50:35.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1778840617.jpg"
+    },
+    {
+      "id": "https://www.capital.bg/4910587",
+      "title": "Френски замък от XVII век става луксозен хотел с помощта на български архитекти (фотогалерия)",
+      "summary": "\"Истинско бижу на долината на Лоара, сгушен между Тур и Амбоаз, замъкът \"Луиз дьо ла Валиер\" кани гостите да се насладят на пътешествие през времето и културата. Собствениците му са си представяли истинско потапяне в епохата на Луи XIV и следователно във френската история\". Така замъкът Château Louise de La Vallière е представен на сайта на \"Реле е Шато\" (Relais & Châteaux) - международната асоциация на независими хотели и гурме ресторанти от висок клас, чиито член става скоро след откриването с...",
+      "link": "https://www.capital.bg/biznes/imoti/2026/05/23/4910587_frenski_zamuk_ot_xvii_vek_stava_luksozen_hotel_s/?ref=rss",
+      "pubDate": "2026-05-23T07:49:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4916220.jpg"
+    },
+    {
+      "id": "https://dariknews.bg/regioni/gabrovo/evakuaciia-navodneni-kyshti-i-zatvoreni-pytishta-bedstveno-polozhenie-v-chasti-ot-stranata-snimki-2455878",
+      "title": "Евакуация, наводнени къщи и затворени пътища: Бедствено положение в части от страната (СНИМКИ)",
+      "summary": "Бедствено положение в части от страната заради проливните дъждове. Евакуирани са хора на места, наводнени са къщи и някои пътища са блокирани. Няма пострадали или загинали граждани след обилните валежи и усложнената метеорологична обстановка в страната. Към момента бе",
+      "link": "https://dariknews.bg/regioni/gabrovo/evakuaciia-navodneni-kyshti-i-zatvoreni-pytishta-bedstveno-polozhenie-v-chasti-ot-stranata-snimki-2455878",
+      "pubDate": "2026-05-23T07:45:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51326/51326511/990-552-navodnenie.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/hilyadi-evakuirani-zaradi-iztichane-na-opasen-himikal-krai-los-anjelis-1394759news.html",
+      "title": "Хиляди евакуирани заради изтичане на опасен химикал край Лос Анджелис",
+      "summary": "Повече от 40 000 души са евакуирани от Гардън Гроув, на около 50 км от Лос Анджелис, заради изтичане на опасен химикал. &#13; Повреда е възникнала в охладителната система на контейнер, с вместимост над 26...",
+      "link": "https://news.bnt.bg/news/hilyadi-evakuirani-zaradi-iztichane-na-opasen-himikal-krai-los-anjelis-1394759news.html",
+      "pubDate": "2026-05-23T07:42:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/b2cacf370d14ba672cc8a7ff0563bbd5.jpg"
+    },
+    {
+      "id": "https://www.segabg.com/hot/category-technologies/spacex-izstrelya-noviya-starship-v3",
+      "title": "SpaceX изстреля новия Starship V3",
+      "summary": "SpaceX изстреля най-голямата ракета в историята на човечеството — 124-метровата Starship V3 - именно с нея компанията планира да прати хора на Марс. Toвa бешe пъpвият пoлeт нa нoвaтa вepcия нa ĸopaбa Ѕtаrѕhір V3 и ycĸopитeля Ѕuреr Неаvу V3.",
+      "link": "https://www.segabg.com/hot/category-technologies/spacex-izstrelya-noviya-starship-v3",
+      "pubDate": "2026-05-23T07:36:43.000Z",
+      "sourceId": "sega",
+      "imageUrl": "https://www.segabg.com/sites/default/files/_sega//styles/focal_medium/public/2026/05/screenshot_2026-05-23_at_10.00.03.png"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538161/",
+      "title": "Каква е цената на плодовете и зеленчуците на прага на летния сезон",
+      "summary": "Какво показва проверка на пазара в Берковица",
+      "link": "https://nova.bg/news/view/2026/05/23/538161/%D0%BA%D0%B0%D0%BA%D0%B2%D0%B0-%D0%B5-%D1%86%D0%B5%D0%BD%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BB%D0%BE%D0%B4%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%B8-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%87%D1%83%D1%86%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B0%D0%B3%D0%B0-%D0%BD%D0%B0-%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D1%8F-%D1%81%D0%B5%D0%B7%D0%BE%D0%BD/",
+      "pubDate": "2026-05-23T07:35:21.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779516735.jpg"
+    },
+    {
+      "id": "https://www.capital.bg/4917348",
+      "title": "Топ 5 от \"Капитал\": Уравнението бюджет 2026; Вторите пет концесионни години на летище София",
+      "summary": "1. Откъде ще спести пари държавата? Финансовият министър Гълъб Донев направи първите заявки за стягане на закъснелия бюджет 2026 Новото правителство на Румен Радев няма много време за аклиматизиране - държавата работи половин година на полуавтопилот, а финансите й светят на обезпокоително червено. Затова и една от първите задачи на управляващите е да предложат редовен бюджет. Уравнението, което трябва да реши финансовият министър Гълъб Донев, не е лесно - трябва да намали скоростта, с която раст...",
+      "link": "https://www.capital.bg/politika_i_ikonomika/sedmicata/2026/05/23/4917348_top_5_ot_kapital_uravnenieto_bjudjet_2026_vtorite_pet/?ref=rss",
+      "pubDate": "2026-05-23T07:30:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4905495.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/promyana-v-pravilata-za-programata-zelena-karta-za-sasht-1394758news.html",
+      "title": "Промяна в правилата за програмата \"Зелена карта\" за САЩ",
+      "summary": "Ще се кандидатства само от родината на желаещите",
+      "link": "https://news.bnt.bg/news/promyana-v-pravilata-za-programata-zelena-karta-za-sasht-1394758news.html",
+      "pubDate": "2026-05-23T07:27:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/be584e23cacf768890ee4827480e167f.jpg"
+    },
+    {
+      "id": "https://news.bnt.bg/news/prokurorskiyat-sin-vasil-mihailov-veche-e-v-zatvora-v-sofiya-1394755news.html",
+      "title": "Прокурорският син Васил Михайлов вече е в затвора в София",
+      "summary": "Васил Михайлов, по-известен като \"прокурорския син\", вече е предаден на Главна дирекция “Охрана” на Министерството на правосъдието, защото има влязла в сила присъда. Рано тази сутрин е бил приведен в...",
+      "link": "https://news.bnt.bg/news/prokurorskiyat-sin-vasil-mihailov-veche-e-v-zatvora-v-sofiya-1394755news.html",
+      "pubDate": "2026-05-23T07:05:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/dddf6ad76850f2a08c3d43d3c56eafa8.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538164/",
+      "title": "Васил Михайлов е приведен в Централния софийски затвор рано сутринта (СНИМКИ)",
+      "summary": "Това потвърдиха от Министерството на правосъдието",
+      "link": "https://nova.bg/news/view/2026/05/23/538164/%D0%B2%D0%B0%D1%81%D0%B8%D0%BB-%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-%D0%B5-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD-%D0%B2-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%BD%D0%B8%D1%8F-%D1%81%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8-%D0%B7%D0%B0%D1%82%D0%B2%D0%BE%D1%80-%D1%80%D0%B0%D0%BD%D0%BE-%D1%81%D1%83%D1%82%D1%80%D0%B8%D0%BD%D1%82%D0%B0-%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/",
+      "pubDate": "2026-05-23T07:04:35.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779523263.jpg"
+    },
+    {
+      "id": "http://nova.bg/news/view/2026/05/23/538163/",
+      "title": "Отменят се всички чествания в Априлци по повод 150-ата годишнина от Априлското въстание",
+      "summary": "Причината са локални наводнения, причинени от реки, излезли от коритата си вследствие на обилните валежи през изминалото денонощие",
+      "link": "https://nova.bg/news/view/2026/05/23/538163/%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D1%8F%D1%82-%D1%81%D0%B5-%D0%B2%D1%81%D0%B8%D1%87%D0%BA%D0%B8-%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%B0%D0%BF%D1%80%D0%B8%D0%BB%D1%86%D0%B8-%D0%BF%D0%BE-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4-150-%D0%B0%D1%82%D0%B0-%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%BD%D0%B8%D0%BD%D0%B0-%D0%BE%D1%82-%D0%B0%D0%BF%D1%80%D0%B8%D0%BB%D1%81%D0%BA%D0%BE%D1%82%D0%BE-%D0%B2%D1%8A%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5/",
+      "pubDate": "2026-05-23T07:03:24.000Z",
+      "sourceId": "nova",
+      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1779519783.jpg"
+    },
+    {
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45421",
+      "title": "Прокурорският син Васил Михайлов вече е в Софийския затвор, променил е външния си вид (Обновена)",
       "summary": "",
-      "link": "https://www.rtve.es/play/audios/extremadura-informativos/somos-iguales-miriam-adib-mendiri-03-06-2026/17098176/",
-      "pubDate": "2026-06-06T15:45:42.702Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/a/17098176?h=200"
+      "link": "https://boulevardbulgaria.bg/articles/prokurorskiyat-sin-vasil-mihaylov-veche-e-v-sofiyskiya-zatvor-promenil-e-vanshniya-si-vid-obnovena",
+      "pubDate": "2026-05-23T07:02:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71617/original_%D0%BF%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%81%D0%BA%D0%B8_%D1%81%D0%B8%D0%BD3.jpg"
     },
     {
-      "id": "https://www.tagesspiegel.de/article15687469.ece",
-      "title": "Fanrandale im Olympiastadion: Berliner Polizist soll an Hooligan-Attacke auf andere Polizisten beteiligt gewesen sein",
-      "summary": "Nach schweren Ausschreitungen vor dem Spiel von Hertha gegen Schalke im Berliner Olympiastadion hat die Polizei erste Tatverdächtige identifiziert. Einer soll aus den Reihen der Polizei kommen.",
-      "link": "https://www.tagesspiegel.de/berlin/fanrandale-im-olympiastadion-berliner-polizist-soll-an-hooligan-attacke-auf-andere-polizisten-beteiligt-gewesen-sein-15687469.html",
-      "pubDate": "2026-06-06T15:38:16.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15164136/alternates/BASE_4_3_W220/1769000436000/2-bl-hertha-bsc-fc-schalke-04-2025-26.jpeg"
+      "id": "https://www.economic.bg/bg/a/view/predi-ipo-to-na-space-x-pogled-kym-naj-golemite-borsovi-debuti-v-istorijata",
+      "title": "Преди IPO-то на SpaceX: поглед към най-големите борсови дебюти в историята",
+      "summary": "SpaceX, компанията на Илон Мъск, се подготвя за това, което може да се окаже най-значимото публично предлагане в историята. Производителят на ракети и сателити планира да излезе на Уолстрийт още следващия месец. Според източници, компанията може да набере до 75 милиарда долара – сума, която би надминала всяко друго публично предлагане досега. За да си представите по-добре мащаба, ето всички рекордьори, които SpaceX се кани да...",
+      "link": "https://www.economic.bg/bg/a/view/predi-ipo-to-na-space-x-pogled-kym-naj-golemite-borsovi-debuti-v-istorijata",
+      "pubDate": "2026-05-23T07:00:10.000Z",
+      "sourceId": "economic",
+      "imageUrl": "https://www.economic.bg/web/files/articles/153923/narrow_image/depositphotos-308396826-l.jpg"
     },
     {
-      "id": "https://www.tagesspiegel.de/article15687588.ece",
-      "title": "Weltausstellung: Berlin und Brandenburg starten gemeinsamen Expo-Check",
-      "summary": "Expo 2035 in Berlin-Brandenburg? Nach längerem Hin und Her wollen beide Länder bei einer möglichen Bewerbung nun im Gleichschritt gehen. Was sich der Regierende Bürgermeister Wegner davon erhofft.",
-      "link": "https://www.tagesspiegel.de/berlin/weltausstellung-berlin-und-brandenburg-starten-gemeinsamen-expo-check-15687588.html",
-      "pubDate": "2026-06-06T15:25:40.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687587/alternates/BASE_4_3_W220/1780759540000/berlin-und-brandenburg.jpeg"
+      "id": "https://www.capital.bg/4899314",
+      "title": "Наградата Mies van der Rohe 2026 г. дава посоката на европейската архитектура",
+      "summary": "Доминиращата тенденция в тазгодишното издание е адаптивното преизползване на съществуващи сгради вместо ново строителство. Победител в основната категория е бивш конгресен център, превърнат в отворено градско пространство със зелени зони. България участва с осем проекта в списъка на номинираните - от хотели и пазари, през логистичен парк до частен проект. На всеки две години Европейският съюз присъжда престижната награда за съвременна архитектура \"Мис ван дер Рое\". Отличието се връчва съвм...",
+      "link": "https://www.capital.bg/biznes/imoti/2026/05/23/4899314_nagradata_mies_van_der_rohe_2026_g_dava_posokata_na/?ref=rss",
+      "pubDate": "2026-05-23T07:00:00.000Z",
+      "sourceId": "capital",
+      "imageUrl": "http://www.capital.bg/shimg/zx640_4900463.jpg"
     },
     {
-      "id": "https://www.tagesspiegel.de/article15687586.ece",
-      "title": "Wahlkampf in Ostdeutschland: Merz zur Modernisierung Deutschlands: „Wir schaffen das“",
-      "summary": "Bekommt die schwarz-rote Koalition die nötigen Reformen hin? Kanzler Merz gibt sich optimistisch. Ein Satz sorgt für Aufmerksamkeit.",
-      "link": "https://www.tagesspiegel.de/politik/wahlkampf-in-ostdeutschland-merz-zur-modernisierung-deutschlands-wir-schaffen-das-15687586.html",
-      "pubDate": "2026-06-06T15:23:28.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687585/alternates/BASE_4_3_W220/1780759407000/landesparteitag-der-cdu-mecklenburg-vorpommern.jpeg"
+      "id": "https://dariknews.bg/novini/sviat/misiia-zero-waste-nevyzmozhna-za-balkanite-2455502",
+      "title": "Мисия „zero waste” (не)възможна за Балканите",
+      "summary": "Докато Германия рециклира над 68,7% от отпадъците си, България – едва 16,7%",
+      "link": "https://dariknews.bg/novini/sviat/misiia-zero-waste-nevyzmozhna-za-balkanite-2455502",
+      "pubDate": "2026-05-23T07:00:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51324/51324925/990-552-reciklirane-otpadyci.jpg"
     },
     {
-      "id": "merz-zu-sozialreformen-wir-schaffen-das-100",
-      "title": "CDU-Landesparteitag in Mecklenburg-Vorpommern - Merz zu Sozialreformen: \"Wir schaffen das\"",
-      "summary": "Bundeskanzler Merz hat sich zuversichtlich gezeigt, dass seiner Regierung die Umsetzung erfolgreicher Sozialreformen gelingen wird. Merz bekannte sich beim Landesparteitag der CDU-Mecklenburg-Vorpommern in Linstow zu einem verlässlichen Sozialstaat. Er sagte aber auch, es könne nicht so bleiben, wie es sei.",
-      "link": "https://www.deutschlandfunk.de/merz-zu-sozialreformen-wir-schaffen-das-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/e9/cc/d6/de/e9ccd6de-2266-420f-8db5-2cc610754993/merz-linstow-100-1920x1920.jpg"
-    },
-    {
-      "id": "peters-als-cdu-chef-in-mecklenburg-vorpommern-bestaetigt-100",
-      "title": "Landesparteitag - Peters als CDU-Chef in Mecklenburg-Vorpommern bestätigt",
-      "summary": "Auf dem Delegiertentreffen der Christdemokraten im Mecklenburg-Vorpommern ist der bisherige Landesvorsitzende Peters im Amt bestätigt worden.",
-      "link": "https://www.deutschlandfunk.de/peters-als-cdu-chef-in-mecklenburg-vorpommern-bestaetigt-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/df/09/af/7e/df09af7e-f14d-424f-a522-2261823e2613/daniel-peters-cdu-100-1920x1920.jpg"
-    },
-    {
-      "id": "pistorius-beschwoert-zusammenhalt-von-truppe-und-gesellschaft-102",
-      "title": "Bundeswehr-Tag - Pistorius beschwört Zusammenhalt von Truppe und Gesellschaft",
-      "summary": "Verteidigungsminister Pistorius hat beim Tag der Bundeswehr einen stärkeren Zusammenhalt von Gesellschaft und Truppe beschworen. Es habe in den vergangenen Jahren wenig Raum für Begegnungen gegeben, das ändere sich durch solche Tage, sagte der SPD-Politiker in Neubiberg bei München beim Besuch der Universität der Bundeswehr.",
-      "link": "https://www.deutschlandfunk.de/pistorius-beschwoert-zusammenhalt-von-truppe-und-gesellschaft-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/c3/2d/af/e1/c32dafe1-8df6-441a-951c-07f3a234fb62/bundeswehrtag-pistorius-fallschirmjaeger-100-1920x1920.jpg"
-    },
-    {
-      "id": "hegseth-verlangt-von-europaeern-ausbau-ihrer-verteidigungsfaehigkeiten-100",
-      "title": "D-Day-Gedenken - Hegseth verlangt von Europäern Ausbau ihrer Verteidigungsfähigkeiten",
-      "summary": "US-Verteidigungsminister Hegseth hat die europäischen NATO-Partner erneut zu einem Ausbau ihrer eigenen Verteidigungsfähigkeiten aufgerufen.",
-      "link": "https://www.deutschlandfunk.de/hegseth-verlangt-von-europaeern-ausbau-ihrer-verteidigungsfaehigkeiten-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/1d/fb/47/7e/1dfb477e-6ee4-4c38-bdc6-312c83e632c3/hegseth-d-day-100-1920x1920.jpg"
-    },
-    {
-      "id": "sankt-petersburg-warnt-bevoelkerung-vor-ukrainischen-drohnen-weitere-angriffe-auf-russische-oeldepot-100",
-      "title": "Russischer Angriffskrieg - Sankt Petersburg warnt Bevölkerung vor ukrainischen Drohnen - weitere Angriffe auf russische Öldepots",
-      "summary": "Die Ukraine hat erneute Angriffe auf russische Infrastruktur gemeldet.",
-      "link": "https://www.deutschlandfunk.de/sankt-petersburg-warnt-bevoelkerung-vor-ukrainischen-drohnen-weitere-angriffe-auf-russische-oeldepot-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/e7/17/d1/7d/e717d17d-4d0e-464f-965a-6e15947e1f6d/petersburg-rauch-100-1920x1920.jpg"
-    },
-    {
-      "id": "verletzung-der-souveraenitaet-kuwait-und-bahrain-verurteilen-neuerliche-iranische-angriffe-auf-ihr-s-100",
-      "title": "Golfstaaten - \"Verletzung der Souveränität\": Kuwait und Bahrain verurteilen neuerliche iranische Angriffe auf ihr Staatsgebiet",
-      "summary": "Kuwait und Bahrain haben die erneuten Angriffe des iranischen Regimes auf ihr Staatsgebiet verurteilt.",
-      "link": "https://www.deutschlandfunk.de/verletzung-der-souveraenitaet-kuwait-und-bahrain-verurteilen-neuerliche-iranische-angriffe-auf-ihr-s-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/be/8b/45/c2/be8b45c2-64bd-4d56-9a5a-9a5f0b5de4dc/kuwait-100-1920x1920.jpg"
-    },
-    {
-      "id": "ungarn-magyar-schraenkt-arbeitnehmer-zuzug-ein-102",
-      "title": "Wahlversprechen - Ungarn: Magyar schränkt Arbeitnehmer-Zuzug ein",
-      "summary": "In Ungarn hat die Regierung des neuen Ministerpräsidenten Magyar den Zuzug von Arbeitnehmern aus Nicht-EU-Ländern eingeschränkt.",
-      "link": "https://www.deutschlandfunk.de/ungarn-magyar-schraenkt-arbeitnehmer-zuzug-ein-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/cb/43/33/4e/cb43334e-b57e-4d3d-bd2d-ce20871ecea5/nl-magyar-ungarn-100-1920x1920.jpg"
-    },
-    {
-      "id": "papst-leo-betont-rolle-europas-im-kampf-gegen-polarisierung-102",
-      "title": "Spanien-Besuch - Papst Leo betont Rolle Europas im Kampf gegen Polarisierung",
-      "summary": "Papst Leo XIV hat zum Auftakt seiner Spanienreise die Verantwortung Europas im Kampf gegen politische und gesellschaftliche Spaltung hervorgehoben.",
-      "link": "https://www.deutschlandfunk.de/papst-leo-betont-rolle-europas-im-kampf-gegen-polarisierung-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/1a/90/2a/ee/1a902aee-f37e-4b92-984d-bfe8ab7c4b99/leo-spanien-100-1920x1920.jpg"
-    },
-    {
-      "id": "mirra-andrejewa-gewinnt-finale-gegen-maja-chwalinska-102",
-      "title": "French Open - Mirra Andrejewa gewinnt Finale gegen Maja Chwalinska",
-      "summary": "Die russische Tennisspielerin Mirra Andrejewa hat die French Open gewonnen.",
-      "link": "https://www.deutschlandfunk.de/mirra-andrejewa-gewinnt-finale-gegen-maja-chwalinska-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/b5/b4/a1/7a/b5b4a17a-7a87-47b7-90dd-36616810ac14/andrejewa-100-1280x1280.jpg"
-    },
-    {
-      "id": "2026-wurden-bisher-mehr-organe-gespendet-zahl-reicht-weiter-nicht-aus-100",
-      "title": "Stiftung Organtransplantation - 2026 wurden bisher mehr Organe gespendet - Zahl reicht weiter nicht aus",
-      "summary": "Die Zahl der Organspender und auch die Zahl der gespendeten Organe sind in den ersten fünf Monaten dieses Jahres leicht gestiegen. Zugleich hieß es, die Zahl der Spenderorgane reiche weiterhin bei weitem nicht aus, um allen auf den Wartelisten eine Transplantation zu ermöglichen.",
-      "link": "https://www.deutschlandfunk.de/2026-wurden-bisher-mehr-organe-gespendet-zahl-reicht-weiter-nicht-aus-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/5e/1e/26/88/5e1e2688-fec1-40c0-b167-7a1ea3253fa7/organ-spenderausweis-100-1920x1920.jpg"
-    },
-    {
-      "id": "us-amerikanischer-ebola-patient-aus-krankenhaus-entlassen-100",
-      "title": "Berliner Charité - US-amerikanischer Ebola-Patient aus Krankenhaus entlassen",
-      "summary": "Nach gut zwei Wochen Behandlung in der Berliner Charité ist der an Ebola erkrankte US-Bürger aus dem Krankenhaus entlassen worden.",
-      "link": "https://www.deutschlandfunk.de/us-amerikanischer-ebola-patient-aus-krankenhaus-entlassen-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/74/47/21/25/74472125-8792-44cf-8d6a-7ceb6434bf48/charite-berlin-kongo-ostkongo-ebola-arzt-usa-us-buerger-100-1920x1920.jpg"
-    },
-    {
-      "id": "faelle-politisch-motivierter-kriminalitaet-laut-medienbericht-auf-neuem-hoechststand-100",
-      "title": "Extremismus - Fälle politisch motivierter Kriminalität laut Medienbericht auf neuem Höchststand",
-      "summary": "In Deutschland haben die Fälle politisch motivierter Kriminalität offenbar einen neuen Höchststand erreicht. Einer Recherche der \"Welt am Sonntag\" zufolge registrierten die Bundesländer im vergangenen Jahr mindestens 85.000 solcher Taten, tausend mehr als im Jahr zuvor.",
-      "link": "https://www.deutschlandfunk.de/faelle-politisch-motivierter-kriminalitaet-laut-medienbericht-auf-neuem-hoechststand-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/8f/60/f6/a6/8f60f6a6-542f-4c49-aee5-38030a2d9b67/afd-politiker-bernd-baumann-auto-anschlag-brandanschlag-flammen-100-1920x1920.jpg"
-    },
-    {
-      "id": "al-wazir-gruene-wirft-bundesverkehrsministerium-falsche-prioritaeten-bei-infrastrukturprojekten-vor-100",
-      "title": "Sperrung der Bonner Nordbrücke - Al-Wazir (Grüne) wirft Bundesverkehrsministerium falsche Prioritäten bei Infrastrukturprojekten vor",
-      "summary": "Angesichts der Sperrung der Bonner Nordbrücke auf der A565 hat der Vorsitzende des Bundestagsverkehrsausschusses, Al-Wazir, der Bundesregierung vorgeworfen, zu viel Wert auf neue Autobahnen zu legen. Dies führe dazu, dass Geld und planerische Kapazitäten für die Sanierung bestehender Bauten fehlten, sagte der Grünen-Politiker im Dlf.",
-      "link": "https://www.deutschlandfunk.de/al-wazir-gruene-wirft-bundesverkehrsministerium-falsche-prioritaeten-bei-infrastrukturprojekten-vor-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/55/c3/4d/3e/55c34d3e-f362-48b4-852d-e11b75833e44/bonn-bruecke-nordbruecke-vollsperrung-schaeden-100-1920x1920.jpg"
-    },
-    {
-      "id": "libanesische-armee-meldet-toedlichen-angriff-auf-soldaten-100",
-      "title": "Nahost-Konflikt - Libanesische Armee meldet tödlichen Angriff auf Soldaten",
-      "summary": "Die Armee des Libanons hat einen israelischen Angriff auf eines ihrer Militärfahrzeuge im Süden des Landes gemeldet.",
-      "link": "https://www.deutschlandfunk.de/libanesische-armee-meldet-toedlichen-angriff-auf-soldaten-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/36/67/17/b5/366717b5-1cd5-48c9-be5e-292f02f9f404/israelischer-angriff-nabatija-libanon-100-1920x1920.jpg"
-    },
-    {
-      "id": "frankreichs-ex-first-lady-bernadette-chirac-gestorben-102",
-      "title": "Präsidenten-Gattin - Frankreichs Ex-First Lady Bernadette Chirac gestorben",
-      "summary": "Die ehemalige französische First Lady, Bernadette Chirac, ist im Alter von 93 Jahren gestorben. Die Witwe des ehemaligen französischen Staatschefs Jacques Chirac sei am Freitagabend \"friedlich im Kreise ihrer Angehörigen gestorben\", teilte ihre Tochter mit.",
-      "link": "https://www.deutschlandfunk.de/frankreichs-ex-first-lady-bernadette-chirac-gestorben-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/7e/6f/01/ac/7e6f01ac-23be-4a12-99c9-1b21d1d4f2a3/frankreich-bernadette-chirac-100-1920x1920.jpg"
-    },
-    {
-      "id": "eu-migrationskommissar-brunner-neues-asylsystem-darf-nicht-scheitern-108",
-      "title": "Interview der Woche - EU-Migrationskommissar Brunner: Neues Asylsystem darf nicht scheitern",
-      "summary": "Wenige Tage vor Inkrafttreten des Gemeinsamen Europäischen Asylsystems hat EU-Migrationskommissar Brunner vor einem Scheitern gewarnt. Es gehe darum, die Kontrolle zurückzugewinnen. Dafür sei der Pakt eine gute Grundlage.",
-      "link": "https://www.deutschlandfunk.de/eu-migrationskommissar-brunner-neues-asylsystem-darf-nicht-scheitern-108.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/4b/62/a8/45/4b62a845-7076-443e-b136-7159dbde36eb/magnus-brunner-100-1920x1920.jpg"
-    },
-    {
-      "id": "drk-praesident-groehe-draengt-auf-tempo-beim-katastrophenschutz-102",
-      "title": "Krisenvorsorge - DRK-Präsident Gröhe drängt auf Tempo beim Katastrophenschutz",
-      "summary": "Der Präsident des Deutschen Roten Kreuzes, Gröhe, fordert mehr vorausschauende Planung beim Zivil- und Katastrophenschutz.",
-      "link": "https://www.deutschlandfunk.de/drk-praesident-groehe-draengt-auf-tempo-beim-katastrophenschutz-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/91/bb/8b/8a/91bb8b8a-bf59-47ed-af74-eed856bfb23a/drk-praesident-groehe-100-1920x1920.jpg"
-    },
-    {
-      "id": "spacex-schliesst-milliarden-vertrag-mit-google-102",
-      "title": "Kurz vor geplantem Börsengang - SpaceX schließt Milliarden-Vertrag mit Google",
-      "summary": "In den USA haben das Raumfahrtunternehmen SpaceX von Elon Musk und der Internetkonzern Google einen Milliarden-Vertrag geschlossen.",
-      "link": "https://www.deutschlandfunk.de/spacex-schliesst-milliarden-vertrag-mit-google-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/8a/1a/af/f5/8a1aaff5-bc4d-4874-9735-d6e77200e64b/elon-musk-132-1920x1920.jpg"
-    },
-    {
-      "id": "offenbar-155-schiffe-mit-deutschem-bezug-vom-iran-krieg-betroffen-100",
-      "title": "Straße von Hormus - Offenbar 155 Schiffe mit deutschem Bezug vom Iran-Krieg betroffen",
-      "summary": "Im Krisengebiet rund um die Straße von Hormus, einer der wichtigsten Seehandelsstraßen der Welt, halten sich einem Medienbericht zufolge 155 Schiffe mit deutschem Bezug auf.",
-      "link": "https://www.deutschlandfunk.de/offenbar-155-schiffe-mit-deutschem-bezug-vom-iran-krieg-betroffen-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/22/9a/d4/83/229ad483-e5c6-4d25-bc80-d9793c2d637e/strasse-von-hormus-hormuz-tracker-schiffe-schiff-schiffsverkehr-blockade-100-1920x1920.jpg"
-    },
-    {
-      "id": "handwerkspraesident-dittrich-spricht-sich-fuer-senkung-der-lohnnebenkosten-aus-100",
-      "title": "Sozialabgaben - Handwerkspräsident Dittrich spricht sich für Senkung der Lohnnebenkosten aus",
-      "summary": "Der Präsident des Zentralverbandes des Deutschen Handwerks, Dittrich, drängt auf eine Senkung der Lohnzusatzkosten auf 40 Prozent.",
-      "link": "https://www.deutschlandfunk.de/handwerkspraesident-dittrich-spricht-sich-fuer-senkung-der-lohnnebenkosten-aus-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/fe/12/1b/86/fe121b86-7262-454f-af93-24747816a795/dittrich-zentralverband-deutsches-handwerk-100-1920x1920.jpg"
-    },
-    {
-      "id": "arbeitgeberverband-gesamtmetall-fordert-mehr-folgenabschaetzungen-fuer-neue-eu-richtlinien-100",
-      "title": "EU-Kommission - Arbeitgeberverband Gesamtmetall fordert mehr Folgenabschätzungen für neue EU-Richtlinien",
-      "summary": "Die Europäische Kommission schätzt die wirtschaftlichen und gesellschaftlichen Folgen geplanter Richtlinien und Verordnungen offenbar nur selten ab.",
-      "link": "https://www.deutschlandfunk.de/arbeitgeberverband-gesamtmetall-fordert-mehr-folgenabschaetzungen-fuer-neue-eu-richtlinien-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/5d/14/0a/e5/5d140ae5-e133-4c10-bffe-752e364e65cf/eu-flaggen-110-1920x1920.jpg"
-    },
-    {
-      "id": "sankt-petersburg-warnt-bevoelkerung-vor-ukrainischen-drohnen-100",
-      "title": "Russischer Angriffskrieg - Sankt Petersburg warnt Bevölkerung vor ukrainischen Drohnen",
-      "summary": "Angesichts andauernder Drohnenangriffe der Ukraine hat der Gouverneur von Sankt Petersburg die Bevölkerung dazu aufgerufen, zu Hause zu bleiben.",
-      "link": "https://www.deutschlandfunk.de/sankt-petersburg-warnt-bevoelkerung-vor-ukrainischen-drohnen-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/e7/17/d1/7d/e717d17d-4d0e-464f-965a-6e15947e1f6d/petersburg-rauch-100-1920x1920.jpg"
-    },
-    {
-      "id": "pflegeforscher-warken-wird-sparziel-nicht-erreichen-100",
-      "title": "Reformpläne - Pflegeforscher: Warken wird Sparziel nicht erreichen",
-      "summary": "Der Bremer Gesundheitsökonom Heinz Rothgang geht nicht davon aus, dass Bundesgesundheitsministerin Warken (CDU) mit ihren geplanten Reformen das Einsparziel von elf Milliarden Euro erreichen kann.",
-      "link": "https://www.deutschlandfunk.de/pflegeforscher-warken-wird-sparziel-nicht-erreichen-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/a1/59/49/4a/a159494a-0465-45fd-bb70-517c3a5b0f36/pflege-reform-102-1920x1920.jpg"
-    },
-    {
-      "id": "landesweiter-stromausfall-auf-jamaika-100",
-      "title": "Karibik - Landesweiter Stromausfall auf Jamaika",
-      "summary": "In Jamaika hat ein landesweiter Stromausfall das öffentliche Leben vorübergehend lahmgelegt.",
-      "link": "https://www.deutschlandfunk.de/landesweiter-stromausfall-auf-jamaika-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/0d/77/9e/4c/0d779e4c-7348-4fa7-9888-9203eef3efed/jamaika-fahne-100-1920x1920.jpg"
-    },
-    {
-      "id": "hostert-spd-kritisiert-blockade-durch-cdu-csu-100",
-      "title": "Entgelttransparenz-Richtlinie - Hostert (SPD) kritisiert Blockade durch CDU/CSU",
-      "summary": "Die SPD-Politikerin Hostert hat die Blockadehaltung der Union bei der Umsetzung der EU-Entgelttransparenz-Richtlinie in nationales Recht kritisiert.",
-      "link": "https://www.deutschlandfunk.de/hostert-spd-kritisiert-blockade-durch-cdu-csu-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/ec/92/c2/b5/ec92c2b5-053a-489c-88bf-f25770ea1d36/jasmina-hostert-102-1920x1920.jpg"
-    },
-    {
-      "id": "bundesregierung-verteidigt-sparplaene-gegenueber-pharmakonzernen-100",
-      "title": "Gesundheitswesen - Bundesregierung verteidigt Sparpläne gegenüber Pharmakonzernen",
-      "summary": "Die Bundesregierung hat ihren Kurs gegenüber der Pharmaindustrie verteidigt.",
-      "link": "https://www.deutschlandfunk.de/bundesregierung-verteidigt-sparplaene-gegenueber-pharmakonzernen-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/84/14/df/15/8414df15-7446-4afe-a9de-e7ab7af07a60/boehringer-ingelheim-logo-100-1920x1920.jpg"
-    },
-    {
-      "id": "letztes-testspiel-vor-der-wm-gegen-usa-koennte-es-den-600-laenderspielsieg-deutschlands-geben-100",
-      "title": "Fußball - Letztes Testspiel vor der WM: Gegen USA könnte es den 600. Länderspielsieg Deutschlands geben",
-      "summary": "Wenige Tage vor dem Auftakt der Fußballweltmeisterschaft trifft Deutschland heute im letzten Testspiel auf Co-Gastgeber USA.",
-      "link": "https://www.deutschlandfunk.de/letztes-testspiel-vor-der-wm-gegen-usa-koennte-es-den-600-laenderspielsieg-deutschlands-geben-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/6f/09/a0/0d/6f09a00d-4619-4296-9875-7476ef03b1c1/nationalmannschaft-108-1920x1920.jpg"
-    },
-    {
-      "id": "iranische-funktionaere-erhalten-keine-einreiseerlaubnis-fuer-die-weltmeisterschaft-in-den-usa-102",
-      "title": "Fußball - Iranische Funktionäre erhalten keine Einreiseerlaubnis für die Weltmeisterschaft in den USA",
-      "summary": "Wenige Tage vor Beginn der Fußball-Weltmeisterschaft dürfen offenbar mehrere Funktionäre des iranischen Fußballverbands nicht in die USA reisen. Dazu zählen der Teammanager und der Pressechef der Mannschaft sowie Vertreter des Außenministeriums und der Sicherheitsabteilung.",
-      "link": "https://www.deutschlandfunk.de/iranische-funktionaere-erhalten-keine-einreiseerlaubnis-fuer-die-weltmeisterschaft-in-den-usa-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/c4/bc/d4/d5/c4bcd4d5-656f-439c-b1c5-753849de56c3/iran-wm-102-1920x1920.jpg"
-    },
-    {
-      "id": "deutsche-umwelthilfe-bemaengelt-abfallmanagement-bei-musikfestivals-100",
-      "title": "Müll - Deutsche Umwelthilfe bemängelt Abfallmanagement bei Musikfestivals",
-      "summary": "Die Deutsche Umwelthilfe fordert bessere Abfallkonzepte auf Musifesitvals.",
-      "link": "https://www.deutschlandfunk.de/deutsche-umwelthilfe-bemaengelt-abfallmanagement-bei-musikfestivals-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/32/19/6d/40/32196d40-95fa-4f8c-a948-7674f7663d85/rock-am-ring-frauenanteil-festivals-100-1920x1920.jpg"
-    },
-    {
-      "id": "franz-suess-ist-der-beste-deutschsprachige-comic-kuenstler-100",
-      "title": "Max und Moritz-Preis - Franz Suess ist der beste deutschsprachige Comic-Künstler",
-      "summary": "Der österreichische Comiczeichner und Autor Franz Suess ist der beste deutschsprachige Comic-Künstler. Wie die Stadt Erlangen mitteilte, erhielt Suess den [Max und Moritz-Preis|https://www.comic-salon.de/de/max-und-moritz-preis-0] in dieser Kategorie.",
-      "link": "https://www.deutschlandfunk.de/franz-suess-ist-der-beste-deutschsprachige-comic-kuenstler-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/66/97/6b/16/66976b16-2f94-4202-820b-4cb62f6d289b/franz-suess-100-1920x1920.jpg"
-    },
-    {
-      "id": "anna-seghers-preis-fuer-deutsche-und-chilenische-autorin-102",
-      "title": "Berlin - Anna-Seghers-Preis für deutsche und chilenische Autorin",
-      "summary": "Die chilenische Schriftstellerin Daniela Cartileo und die deutsche Autorin Sonja M. Schultz erhalten den Anna-Seghers-Preis. Die Auszeichnung wird am Abend in Berlin verliehen und ist mit jeweils 12.500 Euro dotiert.",
-      "link": "https://www.deutschlandfunk.de/anna-seghers-preis-fuer-deutsche-und-chilenische-autorin-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_1/93/FILE_19398457b2081f20cb28398114730e2f/2096427-jpg-100-768x768.jpg"
-    },
-    {
-      "id": "bundestag-sollte-sommerpause-ausfallen-lassen-114",
-      "title": "Unternehmerverband - Bundestag sollte Sommerpause ausfallen lassen",
-      "summary": "Wirtschaftslobbyisten haben den Bundestag aufgefordert, seine diesjährige Sommerpause ausfallen zu lassen.",
-      "link": "https://www.deutschlandfunk.de/bundestag-sollte-sommerpause-ausfallen-lassen-114.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/93/2d/aa/b2/932daab2-d6eb-41d6-a8ff-23e25c9165bc/familienunternehmer-verband-logo-100-1920x1920.jpg"
-    },
-    {
-      "id": "evakuierungsalarm-an-bord-der-internationalen-raumstation-aufgehoben-112",
-      "title": "ISS - Evakuierungsalarm an Bord der Internationalen Raumstation aufgehoben",
-      "summary": "Die US-Raumfahrtbehörde NASA hat den Evakuierungsalarm auf der Internationalen Raumstation aufgehoben.",
-      "link": "https://www.deutschlandfunk.de/evakuierungsalarm-an-bord-der-internationalen-raumstation-aufgehoben-112.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/3e/a9/47/1b/3ea9471b-afbb-42ca-bb67-a5088544baeb/iss-internationale-raumstation-100-1280x1280.jpg"
-    },
-    {
-      "id": "helgoland-feiert-200-jahre-seebad-100",
-      "title": "Jubiläum - Helgoland feiert 200 Jahre Seebad",
-      "summary": "Die Nordseeinsel Helgoland feiert heute ihr 200-jähriges Bestehen als Seebad.",
-      "link": "https://www.deutschlandfunk.de/helgoland-feiert-200-jahre-seebad-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/07/35/9d/f4/07359df4-cabf-4529-9852-7d9fd0eef2fa/helgoland-100-1920x1920.jpg"
-    },
-    {
-      "id": "forschende-finden-tausende-pilzarten-in-der-raumluft-102",
-      "title": "Untersuchung in London - Forschende finden tausende Pilzarten in der Raumluft",
-      "summary": "In der Raumluft von Wohnungen finden sich deutlich mehr Pilzarten als bisher vermutet. Forschende des Imperial College London haben über zwei Jahre lang die Raumluft in mehr als 100 Haushalten in London untersucht. Sie fanden darin Reste von über 2.000 verschiedenen Pilzarten.",
-      "link": "https://www.deutschlandfunk.de/forschende-finden-tausende-pilzarten-in-der-raumluft-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/FI/LE/_f/09/FILE_f09e49c2fa9d07cbce614cb902c1c84e/imago0105732275h-jpg-100-768x768.jpg"
-    },
-    {
-      "id": "weniger-kohlenhydrate-koennten-die-psychische-gesundheit-bei-menschen-mit-essstoerungen-verbessern-102",
-      "title": "Ernährung - Weniger Kohlenhydrate könnten die psychische Gesundheit bei Menschen mit Essstörungen verbessern",
-      "summary": "Keto-Diäten könnten die psychische Gesundheit von Menschen mit Essstörungen verbessern. Das schreiben Forschende im Fachmagazin Nature Communications.",
-      "link": "https://www.deutschlandfunk.de/weniger-kohlenhydrate-koennten-die-psychische-gesundheit-bei-menschen-mit-essstoerungen-verbessern-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/82/33/64/51/82336451-d2bc-42a4-bc86-0e65a83e8363/kartoffel-102-1920x1920.jpg"
-    },
-    {
-      "id": "82-jahrestag-der-landung-der-alliierten-in-der-normandie-100",
-      "title": "D-Day im Zweiten Weltkrieg - 82. Jahrestag der Landung der Alliierten in der Normandie",
-      "summary": "In der Normandie wird heute der 82. Jahrestag der Landung der Alliierten im Zweiten Weltkrieg begangen.",
-      "link": "https://www.deutschlandfunk.de/82-jahrestag-der-landung-der-alliierten-in-der-normandie-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/db/68/48/7e/db68487e-2ee8-4505-976c-67ad9cfef4ae/normandie-landung-zweiter-weltkrieg-100-1920x1920.jpg"
-    },
-    {
-      "id": "deutschlands-fussballerinnen-loesen-ticket-fuer-wm-2027-in-brasilien-108",
-      "title": "Sieg gegen Norwegen - Deutschlands Fußballerinnen lösen Ticket für WM 2027 in Brasilien",
-      "summary": "Die deutsche Fußballnationalmannschaft der Frauen hat sich für die Weltmeisterschaft im kommenden Jahr qualifiziert. Die Mannschaft von Bundestrainer Christian Wück setzte sich im vorletzten Gruppenspiel gegen Norwegen mit 2:0 durch.",
-      "link": "https://www.deutschlandfunk.de/deutschlands-fussballerinnen-loesen-ticket-fuer-wm-2027-in-brasilien-108.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/6d/6b/e1/57/6d6be157-0114-4a55-931d-26b9e42df34f/frauenfussball-124-1920x1920.jpg"
-    },
-    {
-      "id": "dfb-bestaetigt-wm-aus-fuer-karl-ou-draogo-nachnominiert-100",
-      "title": "Fußball - DFB bestätigt WM-Aus für Karl - Ouédraogo nachnominiert",
-      "summary": "Bayern Münchens Stürmer Lennart Karl fällt für die Fußball-Weltmeisterschaft aus.",
-      "link": "https://www.deutschlandfunk.de/dfb-bestaetigt-wm-aus-fuer-karl-ou-draogo-nachnominiert-100.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/e1/d9/c1/9f/e1d9c19f-fb3b-41d0-a7ee-dde53bad8a09/karl-100-1920x1920.jpg"
-    },
-    {
-      "id": "alexander-zverev-erreicht-finale-der-french-open-118",
-      "title": "Tennis - Alexander Zverev erreicht Finale der French Open",
-      "summary": "Tennisprofi Alexander Zverev hat das Finale der French Open erreicht.",
-      "link": "https://www.deutschlandfunk.de/alexander-zverev-erreicht-finale-der-french-open-118.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/ad/57/26/33/ad572633-e1e6-455c-bbdc-3efe6a20f178/zverev-120-1920x1920.jpg"
-    },
-    {
-      "id": "britischer-schauspieler-anthony-head-mit-72-jahren-gestorben-102",
-      "title": "Film - Britischer Schauspieler Anthony Head mit 72 Jahren gestorben",
-      "summary": "Der britische Schauspieler Anthony Head ist im Alter von 72 Jahren gestorben.",
-      "link": "https://www.deutschlandfunk.de/britischer-schauspieler-anthony-head-mit-72-jahren-gestorben-102.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/34/d5/4f/b4/34d54fb4-ef06-4712-bdcc-8022d6516df8/schauspieler-100-1920x1920.jpg"
-    },
-    {
-      "id": "vor-allem-im-westen-und-norden-unbestaendig-sonst-laenger-sonnig-124",
-      "title": "Wetter - Vor allem im Westen und Norden unbeständig, sonst länger sonnig",
-      "summary": "Das Wetter: Wechselhaft. Gebietsweise Schauer und Gewitter. 18 bis 26 Grad.",
-      "link": "https://www.deutschlandfunk.de/vor-allem-im-westen-und-norden-unbestaendig-sonst-laenger-sonnig-124.html",
-      "pubDate": "2026-06-06T15:21:47.000Z",
-      "sourceId": "deutschlandfunk",
-      "imageUrl": "https://bilder.deutschlandfunk.de/e5/f6/55/84/e5f65584-6dc2-4dce-979d-729a024cd599/wetter-grafik-nachrichten-100-768x768.jpg"
-    },
-    {
-      "id": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
-      "title": "Tausende Radfahrer bei Sternfahrt erwartet - Umleitungen für Autos",
-      "summary": "Bei der Sternfahrt des ADFC am Sonntag werden auch zwei Autobahnabschnitte gesperrt. Womit Autofahrer rechnen müssen.",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/sternfahrt-berlin-sperrungen-verkehr-fahrrad-adfc.html",
-      "pubDate": "2026-06-06T15:16:29.000Z",
-      "sourceId": "rbb24"
-    },
-    {
-      "id": "de985f20-5d8b-11f1-a409-2b42fd55aa4a",
-      "title": "\"Amine le Conquérant\", le youtubeur franco-marocain qui mène la vie de châteaux",
-      "summary": "Suivi par près de 300 000 abonnés sur les réseaux sociaux, Amine Kassid, alias \"Amine le Conquérant\", dépoussière la visite des châteaux français. Salué pour son style direct et décontracté, il est aussi la cible d’insultes racistes et de critiques, certains voyant d’un mauvais œil qu'un Français d'origine marocaine raconte le patrimoine français.",
-      "link": "https://www.france24.com/fr/culture/20260606-amine-le-conqu%C3%A9rant-youtubeur-franco-marocain-histoire-patrimoine-ch%C3%A2teau-racisme",
-      "pubDate": "2026-06-06T15:06:32.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/28f518d4-6024-11f1-b552-005056bfb2b6/w:1024/p:16x9/Capture-d-%C3%A9cran-2026-06-04-101947.png"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687525.ece",
-      "title": "Hegseth mit fragwürdigen Vergleichen: US-Verteidigungsminister nennt Migration in Europa eine „Invasion“",
-      "summary": "Beim Weltkriegsgedenken in der Normandie warnt Pete Hegseth vor einer neuen Erstürmung von Europas Stränden. Er meint Zuwanderer und ihre „Ideologien“. Den D-Day nennt er einen „großen Kreuzzug“.",
-      "link": "https://www.tagesspiegel.de/internationales/hegseth-mit-fragwurdigen-vergleichen-us-verteidigungsminister-nennt-migration-in-europa-eine-invasion-15687525.html",
-      "pubDate": "2026-06-06T15:05:55.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687530/alternates/BASE_4_3_W220/1780757741000/d-day-82-jahrestag-der-landung-in-der-normandie.jpeg"
-    },
-    {
-      "id": "8935a21e-61b8-11f1-9589-1b076a28f5c2",
-      "title": "Le sud du Liban bombardé par Israël, trois militaires libanais tués",
-      "summary": "Une frappe dans le sud du Liban a tué samedi trois soldats libanais, a annoncé l'armée à Beyrouth samedi, le président Joseph Aoun dénonçant les \"attaques israéliennes incessantes, qui restent impunies\" malgré le cessez-le-feu théoriquement en vigueur.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-le-sud-du-liban-bombard%C3%A9-par-isra%C3%ABl-trois-militaires-libanais-tu%C3%A9s",
-      "pubDate": "2026-06-06T15:04:01.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/8481b726-61b8-11f1-88aa-005056bf30b7/w:1024/p:16x9/FR-20260606-160115-160649-CS.jpg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687523.ece",
-      "title": "Qualifikantin Maja Chwalinska im Finale chancenlos: Mirra Andrejewa gewinnt die French Open",
-      "summary": "Die Qualifikantin Maja Chwalinska hält anfangs mit der haushohen Favoritin Mirra Andrejewa mit, verliert dann aber doch klar das Finale in Paris. Für die Siegerin ist es eine Titel-Premiere.",
-      "link": "https://www.tagesspiegel.de/sport/qualifikantin-maja-chwalinska-im-finale-chancenlos-mirra-andrejewa-gewinnt-die-french-open-15687523.html",
-      "pubDate": "2026-06-06T15:03:50.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687532/alternates/BASE_4_3_W220/1780757781000/french-open.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687524.ece",
-      "title": "Noch nie so großer Abstand: AfD baut Vorsprung zur Union in Insa-Umfrage weiter aus",
-      "summary": "Der Abstand zwischen den Parteien war laut den Meinungsforschern noch nie so groß. Auch die persönlichen Werte von Bundeskanzler Friedrich Merz (CDU) sinken erneut.",
-      "link": "https://www.tagesspiegel.de/politik/noch-nie-so-grosser-abstand-afd-baut-vorsprung-zur-union-in-insa-umfrage-weiter-aus-15687524.html",
-      "pubDate": "2026-06-06T15:00:48.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/13139401/alternates/BASE_4_3_W220/1738662665000/stimmzettel.jpeg"
-    },
-    {
-      "id": "b50fe5b2-61b7-11f1-a84d-671cd0065af7",
-      "title": "Roland-Garros : la Russe Mirra Andreeva remporte son premier titre en Grand Chelem",
+      "id": "tag:boulevardbulgaria.bg,2005:Article/45420",
+      "title": "Евровизия - един прочит през Балканите",
       "summary": "",
-      "link": "https://www.france24.com/fr/sports/20260606-roland-garros-la-russe-mirra-andreeva-remporte-son-premier-titre-en-grand-chelem",
-      "pubDate": "2026-06-06T14:56:48.000Z",
-      "sourceId": "france24"
+      "link": "https://boulevardbulgaria.bg/articles/evroviziya-i-razshiryavaneto-edin-prochit-prez-balkanite",
+      "pubDate": "2026-05-23T06:51:00.000Z",
+      "sourceId": "boulevard",
+      "imageUrl": "https://boulevardbulgaria.bg/system/editor_pictures/71614/original_Dara_Eurovision.jpg"
     },
     {
-      "id": "9b61d2ba-61b7-11f1-93b7-671cd0065af7",
-      "title": "Roland-Garros : la Russe Mirra Andreeva remporte son premier titre en Grand Chelem",
-      "summary": "La ​Russe Mirra ​Andreeva a remporté samedi à Roland-Garros son ​premier ‌tournoi ⁠du Grand Chelem ‌grâce à sa victoire ⁠en finale contre la Polonaise ​Maja Chwalinska (6-3, ‌6-2), issue des qualifications.",
-      "link": "https://www.france24.com/fr/sports/20260606-roland-garros-la-russe-mirra-andreeva-remporte-son-premier-titre-en-grand-chelem",
-      "pubDate": "2026-06-06T14:54:23.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/cdf741ce-61b7-11f1-8a45-005056bf30b7/w:1024/p:16x9/Mirra-Andreeva.jpg"
-    },
-    {
-      "id": "d617f421-2005-4ecd-ad28-c9a756c1187a",
-      "title": "Start-up in der Baubranche baut Plattenbauten aus Holz",
-      "summary": "Der Wohnungsbau in Deutschland lahmt, in den Städten steigen seit Jahren die Mietpreise. Ein junges Unternehmen verspricht, es kann schneller bauen als andere, und günstiger. Dank Serienproduktion - aus Holz. Von Andre Kartschall.",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/holz-hausbau-100.html",
-      "pubDate": "2026-06-06T14:50:49.000Z",
-      "sourceId": "tagesschau"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687522.ece",
-      "title": "French Open im Tennis: Sensation bleibt aus: Andrejewa holt Titel gegen Chwalinska",
-      "summary": "Die Qualifikantin Maja Chwalinska hält anfangs mit der haushohen Favoritin Mirra Andrejewa mit, verliert dann aber doch klar das Finale in Paris. Für die Siegerin ist es eine Titel-Premiere.",
-      "link": "https://www.tagesspiegel.de/sport/french-open-im-tennis-sensation-bleibt-aus-andrejewa-holt-titel-gegen-chwalinska-15687522.html",
-      "pubDate": "2026-06-06T14:50:10.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687531/alternates/BASE_4_3_W220/1780757713000/french-open.jpeg"
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cvgzgyjk2weo#0",
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
-      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-06T14:46:20.000Z",
-      "sourceId": "bbc",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/672a/live/34dc1b50-6189-11f1-b682-cf91850925ea.jpg"
-    },
-    {
-      "id": "tagesschau_fm-story-rbb_berlin-ebola-patient-aus-charite-entlassen",
-      "title": "Ebola-Patient nach zwei Wochen aus Charité Berlin entlassen",
-      "summary": "Nachdem ein Arzt in der Demokratischen Republik Kongo an Ebola erkrankte, wurde er zwei Wochen lang auf der Sonderisolierstation in der Berliner Charité behandelt. Nun konnte er die Klinik verlassen.",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/ebola-patient-charite-entlassung-100.html",
-      "pubDate": "2026-06-06T14:45:34.000Z",
-      "sourceId": "tagesschau"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/06/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
-      "title": "David Sullivan: how did the pornographer rise so high in modern football?",
-      "summary": "Sullivan hoped football would legitimise him but claims about historical conduct have led to his resignation from West Ham • Sullivan steps down at West Ham to fight claims about private life When David Sullivan was growing up in a council house in Cardiff, he dreamed of becoming a professional footballer. Short and squat, he would never be a player, but later in life the fortune he built through the pornography industry and the property world gave him a route into the sport. The only problem, Sullivan discovered, was finding a club willing to roll out the welcome carpet for him and his business partners, David and Ralph Gold. They were fans of West Ham United and bought a stake in the east London club in 1991, only to find entry to the boardroom closed. “We had no contact with the board,” the late David Gold wrote in his autobiography. “They simply did not want David Sullivan and the Golds at their football club.” Continue reading...",
-      "link": "https://www.theguardian.com/football/2026/jun/06/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
-      "pubDate": "2026-06-06T14:40:12.000Z",
-      "sourceId": "guardian",
-      "imageUrl": "https://i.guim.co.uk/img/media/40c75da677bc43d86abd456b8cbd6edce33b7df1/661_337_1202_962/master/1202.jpg?width=140&quality=85&auto=format&fit=max&s=34bb77a2923b9670f24064dfcd363c56"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15676026.ece",
-      "title": "Tattoos in der DDR: Die Tinte stellten sie heimlich aus Schuhsohlen und Marmelade her",
-      "summary": "Tätowierungen galten in der DDR als „asozial“ und wurden sogar bestraft. Im Brandenburg Museum sprachen Zeitzeugen über Körperkunst im Untergrund und Botschaften von Widerstand und Freiheit.",
-      "link": "https://www.tagesspiegel.de/potsdam/landeshauptstadt/tattoos-in-der-ddr-die-tinte-stellten-sie-heimlich-aus-schuhsohlen-und-marmelade-her-15676026.html",
-      "pubDate": "2026-06-06T14:40:02.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15676031/alternates/BASE_4_3_W220/1780565919000/tattoos004-streets-of-east-berlin-1982-funny-worker-with-ghastly-tatous-on-a-street-on-prenzlauer-berg-east-b.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687503.ece",
-      "title": "Pferdesport: Isabell Werth holt 19. deutschen Dressur-Titel",
-      "summary": "Isabell Werth - wer sonst! Auch bei der diesjährigen Auflage der deutschen Dressur-Meisterschaften kommt niemand an ihr vorbei. Im Grand Special gelingt ihr zudem ein Kunststück.",
-      "link": "https://www.tagesspiegel.de/sport/pferdesport-isabell-werth-holt-19-deutschen-dressur-titel-15687503.html",
-      "pubDate": "2026-06-06T14:30:21.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687502/alternates/BASE_4_3_W220/1780756221000/pferdesport-dressur-deutsche-meisterschaft.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15677216.ece",
-      "title": "Durchblick im Reform-Wirrwarr: Wo die Mittelschicht überall belastet wird",
-      "summary": "Sie haben den Überblick verloren, welche Mehrbelastungen für die Mittelschicht gerade diskutiert werden? Erfahren Sie hier, was die aktuellen Reformdiskussionen für Sie persönlich bedeuten.",
-      "link": "https://www.tagesspiegel.de/politik/durchblick-im-reform-wirrwarr-wo-die-mittelschicht-uberall-belastet-wird-15677216.html",
-      "pubDate": "2026-06-06T14:27:40.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15685015/alternates/BASE_4_3_W220/1780672155000/woman-hand-holding-empty-wallet.jpeg"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/jun/06/second-flesh-eating-screwworm-infection-texas",
-      "title": "Second flesh-eating screwworm infection reported in cattle in Texas",
-      "summary": "Governor issued disaster declaration as agencies move to stop spread of parasite, including release of sterile flies A second case of the flesh-eating screwworm fly has been confirmed in Texas by the US Department of Agriculture (USDA), days after an initial case in a one-year-old calf set off an aggressive response to stop the spread of the parasite in the dominant cattle-producing state. Texas’s governor, Greg Abbott, said on Friday that state officials were working with the federal government to slow the spread of the fly and the infestations caused by larvae that feed on the living flesh of warm-blooded animals and humans. Continue reading...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/06/second-flesh-eating-screwworm-infection-texas",
-      "pubDate": "2026-06-06T14:00:41.000Z",
-      "sourceId": "guardian",
-      "imageUrl": "https://i.guim.co.uk/img/media/e8cbb1685473115faee0cca63ffbd086a044a561/2_0_2995_2397/master/2995.jpg?width=140&quality=85&auto=format&fit=max&s=612eb63dd2a4672aec312aaba783c83f"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count",
-      "title": "Trump cries ‘steal’ over slow California vote count, but anti-fraud system works, say experts",
-      "summary": "State’s tortoise-like pace is byproduct of system of verifications and opportunities for voters to fix errors California’s slow vote counting has frustrated political observers eagerly awaiting results, and handed Donald Trump and others an opportunity to claim “election rigging”. But experts say the system is working as designed: to protect against fraud and assure every vote is counted. Within a day of the polls closing in California’s primary election this week, Trump started accusing Democrats of “ trying to steal ” the elections for the state’s governor and the mayor of Los Angeles. The justice department sent a federal prosecutor to observe the ballot-counting process in Los Angeles this week. Continue reading...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/06/california-slow-vote-count",
-      "pubDate": "2026-06-06T14:00:08.000Z",
-      "sourceId": "guardian",
-      "imageUrl": "https://i.guim.co.uk/img/media/a041b100930d1d8a83078327ac6cf061922d46f9/152_0_4226_3383/master/4226.jpg?width=140&quality=85&auto=format&fit=max&s=8f5d3c5c81a7f04c2a21c3610c015b23"
-    },
-    {
-      "id": "https://www.theguardian.com/media/2026/jun/06/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
-      "title": "‘Free of the shackles’: Michael Grade’s GB News defence raises concerns over relaxing of Ofcom rules",
-      "summary": "Former figures at regulator voice disquiet after series of provocative interviews by recently departed chair Regulators are not generally known for courting controversy. When the day job involves making delicate, legally fraught decisions, they tend to be a circumspect bunch. However, since stepping down as chair of Ofcom, one of Britain’s most scrutinised watchdogs, the Conservative peer Michael Grade has been doing his best to buck that stereotype. “I’m free of the shackles,” he recently said. Continue reading...",
-      "link": "https://www.theguardian.com/media/2026/jun/06/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
-      "pubDate": "2026-06-06T14:00:05.000Z",
-      "sourceId": "guardian",
-      "imageUrl": "https://i.guim.co.uk/img/media/714545f3a9fbfb7391395702dd71fea7833a1797/592_0_4976_3981/master/4976.jpg?width=140&quality=85&auto=format&fit=max&s=b6103a90af0d3c0a29913029f1211468"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687465.ece",
-      "title": "Trotz geltender Waffenruhe: USA und Iran greifen sich in der Golfregion erneut an",
-      "summary": "Trotz vereinbarter Feuerpause geht der gegenseitige Beschuss zwischen den USA und dem Iran weiter. In Bahrain und Kuwait gab es Raketenalarm. Ein Ende nicht in Sicht.",
-      "link": "https://www.tagesspiegel.de/internationales/trotz-geltender-waffenruhe-usa-und-iran-greifen-sich-in-der-golfregion-erneut-an-15687465.html",
-      "pubDate": "2026-06-06T13:59:19.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687466/alternates/BASE_4_3_W220/1780753807000/spannungen-am-persischen-golf.jpeg"
-    },
-    {
-      "id": "https://www.rbb24.de/politik/beitrag/2026/06/expo-bewerbung-konzept-berlin-brandenburg-wegner-brief.html",
-      "title": "Expo 2035: Berlin und Brandenburg prüfen gemeinsame Bewerbung",
-      "summary": "Auf eine Bewerbung für die Expo 2035 drängten zuletzt vor allem Wirtschaftsvertreter in Berlin und Brandenburg. Nun wollen beide Länder ein gemeinsames Konzept erarbeiten, das in einer Bewerbung münden soll.",
-      "link": "https://www.rbb24.de/politik/beitrag/2026/06/expo-bewerbung-konzept-berlin-brandenburg-wegner-brief.html",
-      "pubDate": "2026-06-06T13:55:48.000Z",
-      "sourceId": "rbb24"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15686282.ece",
-      "title": "Vier-Augen-Gespräch im Kreml: „Wir können über Schröders Draht zu Putin froh sein.“",
-      "summary": "Ex-Kanzler Gerhard Schröder ist in Moskau von Wladimir Putin empfangen worden. Die Bundesregierung gibt sich wortkarg. Lobend äußert sich SPD-Außenpolitiker Ralf Stegner",
-      "link": "https://www.tagesspiegel.de/politik/vier-augen-gesprach-im-kreml-wir-konnen-uber-schroders-draht-zu-putin-froh-sein-15686282.html",
-      "pubDate": "2026-06-06T13:53:37.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15686280/alternates/BASE_4_3_W220/1780733421000/putin-und-schroder.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687351.ece",
-      "title": "Millionenstadt unter Beschuss: Ukraine attackiert St. Petersburg mit Kampfdrohnen",
-      "summary": "Wie bereits am ersten Tag des Wirtschaftsforums hat Kyjiw die Stadt angegriffen. Auch andere russische Regionen melden Attacken.",
-      "link": "https://www.tagesspiegel.de/internationales/millionenstadt-unter-beschuss-ukraine-attackiert-st-petersburg-mit-kampfdrohnen-15687351.html",
-      "pubDate": "2026-06-06T13:43:59.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687413/alternates/BASE_4_3_W220/1780753142000/ukraine-krieg-st-petersburg.jpeg"
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cg7498kz808o#0",
-      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
-      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-06-06T13:38:07.000Z",
-      "sourceId": "bbc",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png"
-    },
-    {
-      "id": "fa4c62ba-61ab-11f1-9e7d-f70758acc75b",
-      "title": "Frappes US contre des radars iraniens, l'Iran cible le Koweït et Bahreïn",
-      "summary": "L'armée américaine a dit avoir frappé samedi des radars iraniens après ⁠avoir abattu des ​drones tirés par l'Iran en direction du détroit d'Ormuz, une escalade qui risque de compliquer les efforts déployés pour mettre fin à la guerre.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-frappes-us-contre-des-radars-iraniens-l-iran-cible-le-kowe%C3%AFt-et-bahre%C3%AFn",
-      "pubDate": "2026-06-06T13:36:31.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/f58ce57e-61ab-11f1-8776-005056a97e36/w:1024/p:16x9/FR-20260606-150523-150705-CS.jpg"
-    },
-    {
-      "id": "a79f3074-7beb-42a8-91c8-9800f8584f50",
-      "title": "Polens radikale Rechte unter Grzegorz Braun wird zum Machtfaktor",
-      "summary": "Anti-ukrainisch, anti-europäisch, pro-russisch - die \"Konföderation der polnischen Krone\" kommt in Umfragen auf Werte um zehn Prozent. Warum findet die Partei in Polen so großen Zuspruch? Von Palina Milling.",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-grzegorz-braun-102.html",
-      "pubDate": "2026-06-06T13:35:23.000Z",
-      "sourceId": "tagesschau"
-    },
-    {
-      "id": "cdf0e8a8-61ab-11f1-919a-f70758acc75b",
-      "title": "Bernadette Chirac est morte à 93 ans : d'épouse discrète à femme d'influence",
-      "summary": "Bernadette Chirac est décédée vendredi soir à l'âge de 93 ans, une personnalité saluée non pas seulement comme étant la veuve de l'ancien président Jacques Chirac mais aussi comme une femme politique indépendante et engagée dans le soutien aux malades.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-bernadette-chirac-est-morte-%C3%A0-93-ans-d-%C3%A9pouse-discr%C3%A8te-%C3%A0-femme-d-influence",
-      "pubDate": "2026-06-06T13:33:45.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/c905b27e-61ab-11f1-8399-005056bfb2b6/w:1024/p:16x9/FR-20260606-150111-150451-CS.jpg"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/jun/06/park-ranger-dies-alaska-mount-mckinley",
-      "title": "Park ranger dies after falling into a crevasse on Alaska's Mount McKinley",
-      "summary": "Robin Pendery died after she fell while climbing on patrol on the mountain known locally as Denali Sign up for the Breaking News US newsletter email A ranger in Alaska died after falling into a crevasse on North America’s tallest mountain, the US National Park Service said. Robin Pendery fell on Thursday while on climbing patrol on the mountain whose locally given name is Denali. She died despite immediate rescue efforts, the park service said. Continue reading...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/06/park-ranger-dies-alaska-mount-mckinley",
-      "pubDate": "2026-06-06T13:31:53.000Z",
-      "sourceId": "guardian",
-      "imageUrl": "https://i.guim.co.uk/img/media/85013a95ca2be8a1773b6591404a46d92c590088/70_0_1256_1004/master/1256.jpg?width=140&quality=85&auto=format&fit=max&s=e559399ba324f0bded177398a1afac87"
-    },
-    {
-      "id": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
-      "title": "Berlin-Kreuzberg: Acht Verletzte nach Unfall mit Taxi und Polizeiauto",
-      "summary": "Einsatz am frühen Morgen in Berlin-Kreuzberg: Nach einem Unfall mit einem Taxi landet ein Mannschaftswagen der Polizei auf der Seite. Es gibt acht Verletzte.",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-acht-verletzte-unfall-taxi-mannschaftswagen.html",
-      "pubDate": "2026-06-06T13:25:00.000Z",
-      "sourceId": "rbb24"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687319.ece",
-      "title": "Tödlicher Biss: Taucher stirbt bei Haiangriff vor Australiens Küste",
-      "summary": "Ein 35-jähriger Taucher stirbt nach einem Haiangriff vor der Südwestküste Australiens. Es ist bereits der dritte tödliche Vorfall in Australien innerhalb eines Monats.",
-      "link": "https://www.tagesspiegel.de/gesellschaft/panorama/todlicher-biss-taucher-stirbt-bei-haiangriff-vor-australiens-kuste-15687319.html",
-      "pubDate": "2026-06-06T13:22:21.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687318/alternates/BASE_4_3_W220/1780752141000/hai-attacke-in-australien.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687311.ece",
-      "title": "Regierungssitz: Viel Interesse am Tag der offenen Tür im Roten Rathaus",
-      "summary": "Politiker hautnah, Blick ins Amtszimmer und mobiles Bürgeramt: Tausende Berliner erkunden das Rote Rathaus. Was hinter den Kulissen geboten wird.",
-      "link": "https://www.tagesspiegel.de/berlin/regierungssitz-viel-interesse-am-tag-der-offenen-tur-im-roten-rathaus-15687311.html",
-      "pubDate": "2026-06-06T13:17:18.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687310/alternates/BASE_4_3_W220/1780751837000/tag-der-offenen-tur-im-roten-rathaus-berlin.jpeg"
-    },
-    {
-      "id": "3e6d1bb6-61a6-11f1-a6ad-03f48ab2133e",
-      "title": "Maroc : début de la 3ème édition du festival Comediablanca à Casablanca",
-      "summary": "Mimo Lazrak, humoriste, est notre invité.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-maroc-d%C3%A9but-de-la-3%C3%A8me-%C3%A9dition-du-festival-comediablanca-%C3%A0-casablanca",
-      "pubDate": "2026-06-06T13:13:51.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/39b1db84-61a6-11f1-9e4d-005056bf30b7/w:1024/p:16x9/FR-20260606-144011-144457-CS.jpg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687217.ece",
-      "title": "„Unsere Piazza ist nicht Euer Wohnzimmer“: Dua Lipa feiert millionenschwere Promi-Hochzeit in Palermo",
-      "summary": "Bis zu vier Millionen Euro soll die große Hochzeitsparty von Dua Lipa und Callum Turner gekostet haben. Eingeladen wurden große Stars – die Anwohner sind von alledem weniger begeistert.",
-      "link": "https://www.tagesspiegel.de/gesellschaft/panorama/unsere-piazza-ist-nicht-euer-wohnzimmer-dua-lipa-feiert-millionenschwere-promi-hochzeit-in-palermo-15687217.html",
-      "pubDate": "2026-06-06T13:12:15.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15683530/alternates/BASE_4_3_W220/1780750362000/dua-lipa-und-callum-turner.jpeg"
-    },
-    {
-      "id": "60db983a-61a6-11f1-baed-03f48ab2133e",
-      "title": "Le Liban annonce la mort de plusieurs militaires dans une frappe israélienne",
-      "summary": "Elena Volochine est en direct de Beyrouth au Liban.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-le-liban-annonce-la-mort-de-plusieurs-militaires-dans-une-frappe-isra%C3%A9lienne",
-      "pubDate": "2026-06-06T13:10:12.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/5ba643ba-61a6-11f1-8ebd-005056bfb2b6/w:1024/p:16x9/FR-20260606-140506-140704-CS.jpg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687297.ece",
-      "title": "Partei spricht von „Schmach“: Aktivisten servieren der AfD Hakenkreuz aus veganem Hack",
-      "summary": "Beim Hotelfrühstück vor dem Landesparteitag taucht ein Hakenkreuz aus Hack auf. Serviert von Aktivisten, garniert mit Gurken und scharfer Botschaft.",
-      "link": "https://www.tagesspiegel.de/politik/partei-spricht-von-schmach-aktivisten-servieren-der-afd-hakenkreuz-aus-veganem-hack-15687297.html",
-      "pubDate": "2026-06-06T13:06:43.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687305/alternates/BASE_4_3_W220/1780751073000/afd-landesparteitag-baden-wurttemberg.jpeg"
-    },
-    {
-      "id": "03b83faa-61a6-11f1-9e44-8fed63f46430",
-      "title": "Le \"parti des cafards\" en Inde : \"la jeunesse n'aura plus peur\"",
-      "summary": "Alban Alvarez décrypte la situation.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-le-parti-des-cafards-en-inde-la-jeunesse-n-aura-plus-peur",
-      "pubDate": "2026-06-06T13:05:55.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/fef23ff2-61a5-11f1-81a1-005056a97e36/w:1024/p:16x9/FR-20260606-143612-144011-CS.jpg"
-    },
-    {
-      "id": "cf0d6c6c-61a5-11f1-980d-8fed63f46430",
-      "title": "Ebola : près de 500 cas confirmés en Afrique centrale selon l'OMS",
-      "summary": "Donat Mupapa Kibadi, virologue et médecin urgentiste franco-congolais, est notre invité.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-ebola-pr%C3%A8s-de-500-cas-confirm%C3%A9s-en-afrique-centrale-selon-l-oms",
-      "pubDate": "2026-06-06T13:03:29.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/c9e2d3d0-61a5-11f1-86e9-005056a90284/w:1024/p:16x9/FR-20260606-140729-141554-CS.jpg"
-    },
-    {
-      "id": "8c882198-61a5-11f1-bf96-03f48ab2133e",
-      "title": "Décès de Bernardette Chirac, veuve de Jacques Chirac, femme politique et engagée",
-      "summary": "Bernadette Chirac est décédée vendredi soir à l'âge de 93 ans, une personnalité saluée non pas seulement comme étant la veuve de l'ancien président Jacques Chirac mais aussi comme une femme politique indépendante et engagée dans le soutien aux malades.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-d%C3%A9c%C3%A8s-de-bernardette-chirac-veuve-de-jacques-chirac-femme-politique-et-engag%C3%A9e",
-      "pubDate": "2026-06-06T13:01:23.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/86ca5398-61a5-11f1-bdec-005056bf30b7/w:1024/p:16x9/FR-20260606-140214-140504-CS.jpg"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/jun/06/trial-killing-2025-texas-high-school-track-meet",
-      "title": "All-white jury selected in murder trial over killing at 2025 Texas high school",
-      "summary": "Karmelo Anthony, who is Black, is accused of stabbing Austin Metcalf, who was white, at track meet in an affluent Dallas suburb Sign up for the Breaking News US newsletter email After a 2025 high school track meet in Frisco, Texas , ended with one student dead and another accused of murder, Karmelo Anthony, then 17, was indicted on first-degree murder in the fatal stabbing of Austin Metcalf, 17. Social media posts about the death divided the case into racial lines, sparking national outrage. Anthony, who is being tried as an adult, is Black; Metcalf was white. This week marked the beginning of Anthony’s murder trial. Continue reading...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/06/trial-killing-2025-texas-high-school-track-meet",
-      "pubDate": "2026-06-06T13:00:06.000Z",
-      "sourceId": "guardian",
-      "imageUrl": "https://i.guim.co.uk/img/media/55934a1eb990311e5b37547a6ce7bc1a696c9433/585_0_4032_3225/master/4032.jpg?width=140&quality=85&auto=format&fit=max&s=6ce5699d0c424b58d9595deb77cfc425"
-    },
-    {
-      "id": "35e55612-61a5-11f1-94af-8fed63f46430",
-      "title": "L'Ukraine frappe un dépôt pétrolier russe à Krasnodar et une base militaire à Saint-Pétersbourg",
-      "summary": "Le président ukrainien, Volodymyr Zelensky, a déclaré, samedi, que des ​drones ukrainiens avaient frappé un dépôt pétrolier de la ​région russe ‌de Krasnodar et une base militaire ⁠proche de Saint-Pétersbourg (Nord).",
-      "link": "https://www.france24.com/fr/europe/20260606-l-ukraine-frappe-un-d%C3%A9p%C3%B4t-p%C3%A9trolier-russe-%C3%A0-krasnodar-et-une-base-militaire-%C3%A0-saint-p%C3%A9tersbourg",
-      "pubDate": "2026-06-06T12:45:25.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/23fbc6d0-61a4-11f1-8129-005056bf30b7/w:1024/p:16x9/AP26154693400872.jpg"
-    },
-    {
-      "id": "https://www.rbb24.de/kultur/beitrag/2026/06/taenzerinnen-brunnen-georg-kolbe-museum.html",
-      "title": "Tänzerinnen-Brunnen von Georg Kolbe geht in die USA",
-      "summary": "Der Brunnen mit der zierlichen Tänzerin stand einst vor der Villa des Versicherungsdirektors Heinrich Stahl in Berlin. Er kam im KZ ums Leben, das Kunstwerk wurde NS-Raubgut. Nun geht es in die USA.",
-      "link": "https://www.rbb24.de/kultur/beitrag/2026/06/taenzerinnen-brunnen-georg-kolbe-museum.html",
-      "pubDate": "2026-06-06T12:45:09.000Z",
-      "sourceId": "rbb24"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687211.ece",
-      "title": "WM-Mission gestartet: DFB-Frauen lösen Ticket nach Brasilien",
-      "summary": "Mit einem 2:0 gegen Norwegen sichern sich die deutschen Fußballerinnen das Ticket für die WM 2027 in Brasilien. Besonders eine Debütantin sorgt für Aufsehen im Kölner Stadion.",
-      "link": "https://www.tagesspiegel.de/sport/wm-mission-gestartet-dfb-frauen-losen-ticket-nach-brasilien-15687211.html",
-      "pubDate": "2026-06-06T12:42:16.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687267/alternates/BASE_4_3_W220/1780749929000/fifa-women-s-world-cup-uefa-qualifiers-group-a4-germany-v-norway.jpeg"
-    },
-    {
-      "id": "f3ea4416-619f-11f1-bd0f-8fed63f46430",
-      "title": "En Inde, le premier rassemblement du \"Parti du peuple des cafards\"",
-      "summary": "Des centaines d'étudiants se sont rassemblés dans la capitale New Delhi, pour la première manifestation d'un nouveau mouvement dit \"Parti du peuple des cafards\", afin d'exiger la démission du ministre de l'Education.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-en-inde-le-premier-rassemblement-du-parti-du-peuple-des-cafards",
-      "pubDate": "2026-06-06T12:38:36.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/ef6f4a30-619f-11f1-984b-005056a97e36/w:1024/p:16x9/FR-20260606-131227-131412-CS.jpg"
-    },
-    {
-      "id": "a5e824da-61a0-11f1-ab18-8fed63f46430",
-      "title": "Premier rassemblement du \"parti des cafards\" à New Delhi : la colère de la Gen Z",
-      "summary": "Jean-Luc Racine, directeur de recherche émérite CNRS, est notre invité.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-premier-rassemblement-du-parti-des-cafards-%C3%A0-new-delhi-la-col%C3%A8re-de-la-gen-z",
-      "pubDate": "2026-06-06T12:34:45.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/a150a76c-61a0-11f1-9297-005056a90284/w:1024/p:16x9/FR-20260606-131413-132548-CS.jpg"
-    },
-    {
-      "id": "bb736f5e-619f-11f1-93b6-b39d622e70e2",
-      "title": "Léon XIV à Madrid, une visite centrée sur les questions migratoires et sociales",
-      "summary": "Maud Petit-Jové est en direct de Madrid.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-l%C3%A9on-xiv-%C3%A0-madrid-une-visite-centr%C3%A9e-sur-les-questions-migratoires-et-sociales",
-      "pubDate": "2026-06-06T12:32:00.000Z",
-      "sourceId": "france24",
-      "imageUrl": "https://s.france24.com/media/display/b66a75d4-619f-11f1-9000-005056bf30b7/w:1024/p:16x9/FR-20260606-120853-121147-CS.jpg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687035.ece",
-      "title": "Zeitweise Evakuierung der ISS: Die Lecks an der Raumstation waren zu erwarten",
-      "summary": "Nach Lecks an einem Modul mussten Astronauten die Internationale Raumstation ISS vorübergehend verlassen. Experten sind nicht überrascht.",
-      "link": "https://www.tagesspiegel.de/wissen/zeitweise-evakuierung-der-iss-die-lecks-an-der-raumstation-waren-zu-erwarten-15687035.html",
-      "pubDate": "2026-06-06T12:31:42.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687106/alternates/BASE_4_3_W220/1780748142000/reparations-en-cours-dans-l-iss-des-astronautes-mis-a-l-abri.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687145.ece",
-      "title": "Kleinkind ausgebüxt: Polizei findet Dreijährigen in riesigem Saftfass",
-      "summary": "Als die Suche nach dem von zu Hause weggelaufenen Sohn erfolglos bleibt, ruft der Vater die Polizei – und dann klopft es aus einem Saftfass.",
-      "link": "https://www.tagesspiegel.de/gesellschaft/panorama/kleinkind-ausgebuxt-polizei-findet-dreijahrigen-in-riesigem-saftfass-15687145.html",
-      "pubDate": "2026-06-06T12:29:21.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15651145/alternates/BASE_4_3_W220/1780481955000/polizei.jpeg"
-    },
-    {
-      "id": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-niederschoenhausen-verkehrsunfall-frau-tot.html",
-      "title": "Unfall in Berlin-Niederschönhausen: 85-jährige Fußgängerin stirbt",
-      "summary": "",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-polizei-niederschoenhausen-verkehrsunfall-frau-tot.html",
-      "pubDate": "2026-06-06T12:24:55.000Z",
-      "sourceId": "rbb24"
-    },
-    {
-      "id": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-ebola-patient-aus-charite-entlassen.html",
-      "title": "Ebola-Patient aus Berliner Charité entlassen",
-      "summary": "Ein US-Mediziner steckte sich mit dem gefährlichen Ebola-Virus an. Er wurde unter besonderen Bedingungen an der Berliner Charité behandelt - mit Erfolg.",
-      "link": "https://www.rbb24.de/panorama/beitrag/2026/06/berlin-ebola-patient-aus-charite-entlassen.html",
-      "pubDate": "2026-06-06T12:22:14.000Z",
-      "sourceId": "rbb24"
-    },
-    {
-      "id": "1ac5a762-1233-4927-89c6-d22cbe7c0243",
-      "title": "Libanesische Soldaten bei Angriff Israels getötet",
-      "summary": "Im Libanon gehen die Kämpfe zwischen Israel und der Hisbollah-Miliz weiter. Mehrere libanesische Soldaten wurden laut Angaben des Militärs bei einem israelischen Angriff getötet. Dabei ist die Armee nicht Kriegspartei.",
-      "link": "https://www.tagesschau.de/ausland/asien/krieg-libanon-100.html",
-      "pubDate": "2026-06-06T12:21:05.000Z",
-      "sourceId": "tagesschau"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15685289.ece",
-      "title": "Welche Serie dürfen Sie diesen Sommer nicht verpassen?: Mit diesem Test finden Sie es heraus",
-      "summary": "Drachenkriege, alte Freunde im Urlaub und der netteste Fußballtrainer der Welt: Mit diesen neuen Serien wird der Sommer auch drinnen schön.",
-      "link": "https://www.tagesspiegel.de/kultur/welche-serie-durfen-sie-diesen-sommer-nicht-verpassen-mit-diesem-test-finden-sie-es-heraus-15685289.html",
-      "pubDate": "2026-06-06T12:17:42.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15685278/alternates/BASE_4_3_W220/1780675928000/fourseasons-203-251015-ea-00243-r.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15681852.ece",
-      "title": "Oberbürgermeisterwahl in Aue-Bad Schlema : Lenkt hier bald ein Neonazi die Geschicke der Stadt?",
-      "summary": "Im Erzgebirge stehen die „Freien Sachsen“ vor ihrem größten Triumph. Der letzte demokratische Strohhalm: ein unbekannter Politik-Neuling der CDU. Eine Annäherung an Auer Zustände.",
-      "link": "https://www.tagesspiegel.de/politik/oberburgermeisterwahl-in-aue-bad-schlema-lenkt-hier-bald-ein-neonazi-die-geschicke-der-stadt-15681852.html",
-      "pubDate": "2026-06-06T12:14:58.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15682594/alternates/BASE_4_3_W220/1780657647000/adobestock-610121247-editorial-use-only.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15686910.ece",
-      "title": "Deutsches Theater: Schauspieler reisten für Stück über Messerstecherei in die Antarktis",
-      "summary": "Auf einer Forschungsstation kam es 2018 zu einer Messerstecherei. „Polaris“ erzählt die wahre Geschichte. Der Trip an den Pol hat sich aber nur bedingt gelohnt.",
-      "link": "https://www.tagesspiegel.de/kultur/deutsches-theater-schauspieler-reisten-fur-stuck-uber-messerstecherei-in-die-antarktis-15686910.html",
-      "pubDate": "2026-06-06T12:12:17.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687020/alternates/BASE_4_3_W220/1780747319000/dt-presse-polaris2-c-aurin-61028m.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687038.ece",
-      "title": "Verkehr: Rentnerin stirbt nach Unfall auf Zebrastreifen",
-      "summary": "Schwerer Unfall in Berlin-Niederschönhausen: Eine 85-jährige Fußgängerin wird von einem Auto erfasst - mit fatalen Folgen.",
-      "link": "https://www.tagesspiegel.de/berlin/verkehr-rentnerin-stirbt-nach-unfall-auf-zebrastreifen-15687038.html",
-      "pubDate": "2026-06-06T12:05:59.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687037/alternates/BASE_4_3_W220/1780747559000/polizei-und-krankenwagen.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687027.ece",
-      "title": "Kriminalität: Mann bei Streit durch Stich verletzt",
-      "summary": "In Berlin-Haselhorst eskaliert ein Streit in einer Wohnung. Ein 24-Jähriger wird am Bein verletzt.",
-      "link": "https://www.tagesspiegel.de/berlin/kriminalitat-mann-bei-streit-durch-stich-verletzt-15687027.html",
-      "pubDate": "2026-06-06T12:02:11.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687026/alternates/BASE_4_3_W220/1780747331000/polizei.jpeg"
-    },
-    {
-      "id": "https://www.tagesspiegel.de/article15687015.ece",
-      "title": "Papst: Papst mahnt in Spanien „Treue zum Völkerrecht“ an",
-      "summary": "Zum Auftakt seiner Reise ruft Leo XIV. zu Frieden und Dialog auf. In Madrid will er Hunderttausende treffen. Zuvor schon spricht er Klartext zum Ukraine-Krieg und politischen Spannungen.",
-      "link": "https://www.tagesspiegel.de/internationales/papst-papst-mahnt-in-spanien-treue-zum-volkerrecht-an-15687015.html",
-      "pubDate": "2026-06-06T12:00:31.000Z",
-      "sourceId": "tagesspiegel",
-      "imageUrl": "https://www.tagesspiegel.de/images/15687014/alternates/BASE_4_3_W220/1780747230000/papst-leo-xiv-reist-nach-spanien.jpeg"
-    },
-    {
-      "id": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
-      "title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
-      "summary": "Cold storage and logistics body warns food supplies at risk from fuel shortages, cyber attacks and extreme weather Ministers have been accused of being complacent about the risks to vital supplies of food into the UK amid concerns over fuel shortages, cyber attacks and extreme weather. The trade body for cold storage and logistics has urged the government to make potential disruption to the UK’s food system an “immediate national priority”. Continue reading...",
-      "link": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
-      "pubDate": "2026-06-06T12:00:27.000Z",
-      "sourceId": "guardian",
-      "imageUrl": "https://i.guim.co.uk/img/media/3beb2bfa470f1263e44539cfaf3b993be5206f00/1144_0_5705_4563/master/5705.jpg?width=140&quality=85&auto=format&fit=max&s=1e152a839ee3cdf58bb90f9c4612fb7a"
-    },
-    {
-      "id": "https://www.theguardian.com/uk-news/2026/jun/06/norfolk-mass-grave-119-sailors-exhumed-coastal-erosion",
-      "title": "Grave in Norfolk of 119 sailors may be exhumed due to coastal erosion threat",
-      "summary": "Bodies were buried in Happisburgh after HMS Invincible sank in 1801 on way to join Nelson at Battle of Copenhagen A mass grave for 119 sailors who drowned more than 200 years ago could be exhumed to avoid their remains being exposed by coastal erosion. HMS Invincible sank off the Norfolk coast in 1801 on its way to join Horatio Nelson’s fleet at the Battle of Copenhagen . The recovered bodies of those who drowned were buried at St Mary’s church in Happisburgh, the nearest village to the shipwreck. Continue reading...",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/06/norfolk-mass-grave-119-sailors-exhumed-coastal-erosion",
-      "pubDate": "2026-06-06T12:00:04.000Z",
-      "sourceId": "guardian",
-      "imageUrl": "https://i.guim.co.uk/img/media/c5b00fbb7dc27daf53264a8e5fe4f21a09a2b503/665_0_6617_5297/master/6617.jpg?width=140&quality=85&auto=format&fit=max&s=ffbdee21d1fc1f399547b08c8c924e08"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/jun/06/new-york-datacenter-temporary-ban",
-      "title": "‘We should not have to sacrifice’: New York could become first state to temporarily ban large datacenters",
-      "summary": "Kristen Gonzalez, a state senator who authored the bill, said moratorium would target ‘hyperscale’ datacenters over 20MW New York moved closer toward becoming the first US state to enact a moratorium on large datacenters this week. On Thursday, the state legislature approved a one-year ban on the facilities powering the AI boom. The measure now heads to Kathy Hochul, the governor, who will decide whether to sign it into law. The Guardian spoke to a state senator in the wake of the historic vote about authoring the bill and the wider US backlash against datacenters. Continue reading...",
-      "link": "https://www.theguardian.com/us-news/2026/jun/06/new-york-datacenter-temporary-ban",
-      "pubDate": "2026-06-06T12:00:04.000Z",
-      "sourceId": "guardian",
-      "imageUrl": "https://i.guim.co.uk/img/media/46220c650589099f91e2d8734928255c847d145e/402_0_4427_3543/master/4427.jpg?width=140&quality=85&auto=format&fit=max&s=bf789cace56d82a7ca7275e3417308d3"
-    },
-    {
-      "id": "17102474",
-      "title": "El proyecto Cedia de Cáritas, próxima parada del primer día de León XIV en España",
-      "summary": "",
-      "link": "https://www.rtve.es/noticias/20260606/visita-papa-madrid-directo-ultima-hora-hoy-resumen-6-junio/17102474.shtml",
-      "pubDate": "2026-06-06T12:00:00.000Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/i/?w=800&amp;i=01780760224675.jpg"
-    },
-    {
-      "id": "17101864",
-      "title": "León XIV inicia su viaje a España con un mensaje a favor de la paz y contra la \"cultura del enfrentamiento\"",
-      "summary": "",
-      "link": "https://www.rtve.es/noticias/20260606/visita-papa-leon-xiv-madrid-cronica-dia-6/17101864.shtml",
-      "pubDate": "2026-06-06T12:00:00.000Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/i/?h=300&amp;i=01780740138093.jpg"
-    },
-    {
-      "id": "17103822",
-      "title": "Emoción a las puertas del Palacio Real: \"Tenemos mucha esperanza, viene el sucesor de san Pedro\"",
-      "summary": "",
-      "link": "https://www.rtve.es/noticias/20260606/emocion-a-puertas-del-palacio-real-por-visita-del-papa-tenemos-mucha-esperanza-viene-sucesor-pedro/17103822.shtml",
-      "pubDate": "2026-06-06T12:00:00.000Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/n/17103822?h=300"
-    },
-    {
-      "id": "17103893",
-      "title": "Claves: el papa pide huir de \"ideologías prefabricadas\" y elogia a España por su compromiso con el derecho internacional",
-      "summary": "",
-      "link": "https://www.rtve.es/noticias/20260606/visita-papa-madrid-claves-discurso-leon-xiv/17103893.shtml",
-      "pubDate": "2026-06-06T12:00:00.000Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/v/17103886?h=200"
-    },
-    {
-      "id": "17103998",
-      "title": "El rey lamenta el \"dolor\" por los abusos en la Iglesia y agradece al papa su \"claridad y firmeza\"",
-      "summary": "",
-      "link": "https://www.rtve.es/noticias/20260606/rey-lamenta-dolor-por-abusos-iglesia-agradece-papa-su-claridad-firmeza/17103998.shtml",
-      "pubDate": "2026-06-06T12:00:00.000Z",
-      "sourceId": "rtve",
-      "imageUrl": "https://img.rtve.es/v/17104069?h=200"
+      "id": "https://news.bnt.bg/news/evropeiska-nosht-na-muzeite-–-kakva-programa-e-podgotvila-obshtina-varna-1394756news.html",
+      "title": "Европейска нощ на музеите – каква програма е подготвила Община Варна",
+      "summary": "Днес е Европейската нощ на музеите, културни институции в цялата страна ще приемат посетители свободно, без билети. В инициативата за поредна година се включва и Варна.&#13; Регионалният исторически музеи...",
+      "link": "https://news.bnt.bg/news/evropeiska-nosht-na-muzeite-–-kakva-programa-e-podgotvila-obshtina-varna-1394756news.html",
+      "pubDate": "2026-05-23T06:49:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1394/eb51d17d03ede70daa6377a84311fda9.jpeg"
     }
   ]
 }

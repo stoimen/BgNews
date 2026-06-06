@@ -1,7 +1,7 @@
 {
-  "name": "world-news",
+  "name": "bg-news",
   "version": "0.1.0",
-  "description": "A world news aggregator for selected public news feeds.",
+  "description": "A Bulgarian news aggregator for selected public news feeds.",
   "private": true,
   "type": "module",
   "scripts": {

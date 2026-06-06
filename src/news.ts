@@ -36,11 +36,11 @@ export const filterItems = (
   selectedSource: NewsState["selectedSource"],
   rawQuery: string,
 ) => {
-  const query = rawQuery.trim().toLocaleLowerCase();
+  const query = rawQuery.trim().toLocaleLowerCase("bg-BG");
 
   return items.filter((item) => {
     const matchesSource = selectedSource === "all" || item.sourceId === selectedSource;
-    const haystack = `${item.title} ${item.summary}`.toLocaleLowerCase();
+    const haystack = `${item.title} ${item.summary}`.toLocaleLowerCase("bg-BG");
     const matchesQuery = query.length === 0 || haystack.includes(query);
     return matchesSource && matchesQuery;
   });

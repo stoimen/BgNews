@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { mapFeed, mapRtvePage, mergeSourceResults, stripHtml } from "../scripts/generate-news";
+import { mapFeed, mergeSourceResults, stripHtml } from "../scripts/generate-news";
 import { sources } from "../src/sources";
 import type { NewsItem, NewsPayload } from "../src/types";
 
@@ -76,11 +76,11 @@ describe("mapFeed", () => {
       <rss version="2.0">
         <channel>
           <item>
-            <title>Enclosure title</title>
+            <title>BNT title</title>
             <link>https://news.bnt.bg/news/story-1394712news.html</link>
             <guid>https://news.bnt.bg/news/story-1394712news.html</guid>
             <pubDate>Fri, 22 May 2026 21:21:00 +0300</pubDate>
-            <description>Enclosure summary</description>
+            <description>BNT summary</description>
             <enclosure url="https://news.bnt.bg/f/news/m/1394/8fe05fe0ba4464dbe4d5e58d33c901cf.jpeg" type="vary: User-Agent" length="x-content-type-options: nosniff"/>
           </item>
         </channel>
@@ -90,7 +90,7 @@ describe("mapFeed", () => {
 
     expect(items).toHaveLength(1);
     expect(items[0]).toMatchObject({
-      title: "Enclosure title",
+      title: "BNT title",
       imageUrl: "https://news.bnt.bg/f/news/m/1394/8fe05fe0ba4464dbe4d5e58d33c901cf.jpeg",
     });
   });
@@ -147,53 +147,26 @@ describe("mapFeed", () => {
   });
 });
 
-describe("mapRtvePage", () => {
-  it("maps RTVE article cards from the news page", () => {
-    const rtve = sources.find((source) => source.id === "rtve") ?? sources[0];
-    const items = mapRtvePage(
-      `<article class="cell" data-noi="17102641">
-        <figure><img src="https://img.rtve.es/i/17102641?w=300" alt="Cuba"/></figure>
-        <h3>
-          <a href="https://www.rtve.es/noticias/20260606/turismo-cuba-hundimiento-salvavidas-economia/17102641.shtml">
-            <span class="maintitle">Turismo en Cuba: &quot;un salvavidas&quot;</span>
-          </a>
-        </h3>
-      </article>`,
-      rtve,
-    );
-
-    expect(items).toHaveLength(1);
-    expect(items[0]).toMatchObject({
-      id: "17102641",
-      title: 'Turismo en Cuba: "un salvavidas"',
-      link: "https://www.rtve.es/noticias/20260606/turismo-cuba-hundimiento-salvavidas-economia/17102641.shtml",
-      pubDate: "2026-06-06T12:00:00.000Z",
-      sourceId: "rtve",
-      imageUrl: "https://img.rtve.es/i/17102641?w=300",
-    });
-  });
-});
-
 describe("mergeSourceResults", () => {
-  const cachedBbcItem: NewsItem = {
+  const cachedBntItem: NewsItem = {
     id: "cached",
-    title: "Cached BBC",
+    title: "Cached BNT",
     summary: "Cached summary",
-    link: "https://www.bbc.com/news/world/cached",
+    link: "https://news.bnt.bg/news/cached.html",
     pubDate: "2026-05-23T10:00:00.000Z",
-    sourceId: "bbc",
+    sourceId: "bnt",
   };
 
   const previousPayload: NewsPayload = {
     generatedAt: "2026-05-23T10:00:00.000Z",
     sources: [...sources],
     errors: [],
-    items: [cachedBbcItem],
+    items: [cachedBntItem],
   };
 
   it("uses cached items without creating a visible feed error", () => {
     const settled = sources.map((source): PromiseSettledResult<NewsItem[]> => {
-      if (source.id === "bbc") {
+      if (source.id === "bnt") {
         return { status: "rejected", reason: new Error("403 Forbidden") };
       }
 
@@ -202,11 +175,11 @@ describe("mergeSourceResults", () => {
 
     const result = mergeSourceResults(settled, previousPayload);
 
-    expect(result.items).toEqual([cachedBbcItem]);
+    expect(result.items).toEqual([cachedBntItem]);
     expect(result.errors).toEqual([]);
     expect(result.warnings).toEqual([
       {
-        sourceId: "bbc",
+        sourceId: "bnt",
         message: "403 Forbidden; using 1 cached items",
       },
     ]);
@@ -214,7 +187,7 @@ describe("mergeSourceResults", () => {
 
   it("creates a visible feed error when no cached items are available", () => {
     const settled = sources.map((source): PromiseSettledResult<NewsItem[]> => {
-      if (source.id === "bbc") {
+      if (source.id === "bnt") {
         return { status: "rejected", reason: new Error("403 Forbidden") };
       }
 
@@ -227,7 +200,7 @@ describe("mergeSourceResults", () => {
     expect(result.warnings).toEqual([]);
     expect(result.errors).toEqual([
       {
-        sourceId: "bbc",
+        sourceId: "bnt",
         message: "403 Forbidden",
       },
     ]);
