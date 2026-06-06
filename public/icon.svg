@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Bulgarian News icon</title>
-  <desc id="desc">A dark app tile with a folded newspaper and Bulgarian flag accents.</desc>
+  <title id="title">World News icon</title>
+  <desc id="desc">A dark app tile with a folded newspaper and international news accents.</desc>
   <defs>
     <linearGradient id="tile" x1="80" y1="48" x2="440" y2="472" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#172033" />
@@ -16,8 +16,8 @@
   </defs>
 
   <rect width="512" height="512" fill="url(#tile)" />
-  <path d="M0 352h512v48H0z" fill="#00966e" />
-  <path d="M0 400h512v112H0z" fill="#d62612" />
+  <path d="M0 352h512v48H0z" fill="#009fe3" />
+  <path d="M0 400h512v112H0z" fill="#7c3aed" />
   <path d="M64 104h384v184c-64 19-128 9-192-30s-128-49-192-30V104Z" fill="#ffffff" opacity=".08" />
 
   <g filter="url(#shadow)">
@@ -25,12 +25,12 @@
     <path d="M326 130v43c0 9 7 15 15 15h43l-58-58Z" fill="#cbd5e1" />
     <path d="M326 130v43c0 9 7 15 15 15h43" fill="none" stroke="#94a3b8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
 
-    <rect x="132" y="176" width="96" height="18" rx="9" fill="#00966e" />
+    <rect x="132" y="176" width="96" height="18" rx="9" fill="#009fe3" />
     <rect x="132" y="214" width="156" height="16" rx="8" fill="#94a3b8" />
     <rect x="132" y="248" width="216" height="16" rx="8" fill="#cbd5e1" />
     <rect x="132" y="282" width="188" height="16" rx="8" fill="#cbd5e1" />
-    <rect x="132" y="332" width="216" height="18" rx="9" fill="#d62612" />
+    <rect x="132" y="332" width="216" height="18" rx="9" fill="#7c3aed" />
   </g>
 
-  <text x="257" y="394" fill="#172033" font-family="Inter, Arial, sans-serif" font-size="94" font-weight="800" letter-spacing="0" text-anchor="middle">BG</text>
+  <text x="257" y="394" fill="#172033" font-family="Inter, Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="0" text-anchor="middle">WN</text>
 </svg>

@@ -79,7 +79,7 @@ const renderCard = (item: NewsItem) => {
 app.innerHTML = `<main>
   <header class="topbar">
     <div>
-      <p class="eyebrow">Bulgarian News</p>
+      <p class="eyebrow">World News</p>
     </div>
     <button class="refresh-button" id="refresh" type="button" aria-label="Refresh news">
       <span aria-hidden="true">↻</span>

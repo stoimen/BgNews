@@ -1,7 +1,7 @@
 {
-  "name": "Bulgarian News",
-  "short_name": "BG News",
-  "description": "A Bulgarian news aggregator for selected public news feeds.",
+  "name": "World News",
+  "short_name": "World News",
+  "description": "A world news aggregator for selected public news feeds.",
   "id": "./",
   "start_url": "./",
   "scope": "./",

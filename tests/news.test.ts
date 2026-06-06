@@ -9,7 +9,7 @@ const items: NewsItem[] = [
     summary: "Market news",
     link: "https://example.com/1",
     pubDate: "2026-05-15T10:00:00.000Z",
-    sourceId: "capital",
+    sourceId: "guardian",
   },
   {
     id: "2",
@@ -17,13 +17,13 @@ const items: NewsItem[] = [
     summary: "Football result",
     link: "https://example.com/2",
     pubDate: "2026-05-15T11:00:00.000Z",
-    sourceId: "nova",
+    sourceId: "bbc",
   },
 ];
 
 describe("filterItems", () => {
   it("filters by source", () => {
-    expect(filterItems(items, "capital", "")).toEqual([items[0]]);
+    expect(filterItems(items, "guardian", "")).toEqual([items[0]]);
   });
 
   it("filters by query across title and summary", () => {
@@ -31,6 +31,6 @@ describe("filterItems", () => {
   });
 
   it("combines source and query filters", () => {
-    expect(filterItems(items, "capital", "football")).toEqual([]);
+    expect(filterItems(items, "guardian", "football")).toEqual([]);
   });
 });

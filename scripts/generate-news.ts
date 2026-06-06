@@ -7,7 +7,7 @@ import { sources } from "../src/sources.js";
 import type { NewsItem, NewsPayload, NewsSource } from "../src/types.js";
 
 const execFileAsync = promisify(execFile);
-const userAgent = "Mozilla/5.0 (compatible; BgNews/1.0; +https://github.com/stoimen/BgNews)";
+const userAgent = "Mozilla/5.0 (compatible; WorldNews/1.0; +https://github.com/stoimen/WorldNews)";
 const fetchTimeoutMs = 10_000;
 
 const parser = new XMLParser({
@@ -50,7 +50,10 @@ export const stripHtml = (html: XmlNode = "") =>
     .replace(/&nbsp;/g, " ")
     .replace(/&amp;/g, "&")
     .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
     .replace(/&#39;/g, "'")
+    .replace(/&#(\d+);/g, (_, code: string) => String.fromCodePoint(Number(code)))
+    .replace(/&#x([\da-f]+);/gi, (_, code: string) => String.fromCodePoint(Number.parseInt(code, 16)))
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
     .replace(/\s+/g, " ")
@@ -144,6 +147,42 @@ export const mapFeed = (xml: string, source: NewsSource): NewsItem[] => {
     .filter((item) => item.title && item.link && item.pubDate);
 };
 
+export const mapRtvePage = (html: string, source: NewsSource, now = new Date()): NewsItem[] => {
+  const seen = new Set<string>();
+  const items: NewsItem[] = [];
+  const articlePattern = /<article\b[\s\S]*?<\/article>/gi;
+  const baseUrl = "https://www.rtve.es";
+
+  for (const [article] of html.matchAll(articlePattern)) {
+    const id = article.match(/\bdata-[an]oi="([^"]+)"/i)?.[1];
+    const title = stripHtml(article.match(/<span class="maintitle">([\s\S]*?)<\/span>/i)?.[1]);
+    const rawLink = article.match(/<a\b[^>]*href="([^"]+)"/i)?.[1];
+
+    if (!id || !title || !rawLink || seen.has(id)) continue;
+
+    const link = new URL(rawLink, baseUrl).href;
+    const ymd = link.match(/\/(20\d{2})(\d{2})(\d{2})\//);
+    const pubDate = ymd
+      ? new Date(Date.UTC(Number(ymd[1]), Number(ymd[2]) - 1, Number(ymd[3]), 12)).toISOString()
+      : now.toISOString();
+    const rawImageUrl = article.match(/<img\b[^>]*src="([^"]+)"/i)?.[1];
+    const imageUrl = rawImageUrl ? new URL(rawImageUrl, baseUrl).href : undefined;
+
+    seen.add(id);
+    items.push({
+      id,
+      title,
+      summary: "",
+      link,
+      pubDate,
+      sourceId: source.id,
+      imageUrl,
+    });
+  }
+
+  return items;
+};
+
 const fetchWithTimeout = async (url: string) => {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), fetchTimeoutMs);
@@ -159,6 +198,13 @@ const fetchWithTimeout = async (url: string) => {
   } finally {
     clearTimeout(timeout);
   }
+};
+
+const fetchRtvePage = async (source: NewsSource) => {
+  const response = await fetchWithTimeout(source.feedUrl);
+  if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+
+  return mapRtvePage(new TextDecoder("iso-8859-1").decode(await response.arrayBuffer()), source);
 };
 
 const fetchWithCurl = async (url: string) => {
@@ -183,6 +229,8 @@ const parseSourceXml = (xml: string, source: NewsSource) => {
 };
 
 const fetchSource = async (source: NewsSource): Promise<NewsItem[]> => {
+  if (source.id === "rtve") return fetchRtvePage(source);
+
   let firstError: unknown;
 
   try {
