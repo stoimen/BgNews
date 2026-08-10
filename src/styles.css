@@ -81,6 +81,17 @@ main {
   padding-bottom: 16px;
 }
 
+.app-footer {
+  padding: 24px 0 4px;
+  color: #64748b;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.app-footer p {
+  margin: 0;
+}
+
 .search-wrap {
   display: flex;
   align-items: center;
