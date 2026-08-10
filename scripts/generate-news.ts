@@ -7,7 +7,8 @@ import { sources } from "../src/sources.js";
 import type { NewsItem, NewsPayload, NewsSource } from "../src/types.js";
 
 const execFileAsync = promisify(execFile);
-const userAgent = "Mozilla/5.0 (compatible; BgNews/1.0; +https://github.com/stoimen/BgNews)";
+const userAgent =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36";
 const fetchTimeoutMs = 10_000;
 
 const parser = new XMLParser({
@@ -153,6 +154,7 @@ const fetchWithTimeout = async (url: string) => {
       signal: controller.signal,
       headers: {
         accept: "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+        "accept-language": "bg,en;q=0.9",
         "user-agent": userAgent,
       },
     });
@@ -164,7 +166,16 @@ const fetchWithTimeout = async (url: string) => {
 const fetchWithCurl = async (url: string) => {
   const { stdout } = await execFileAsync(
     "curl",
-    ["-fsSL", "-A", userAgent, "-H", "Accept: application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8", url],
+    [
+      "-fsSL",
+      "-A",
+      userAgent,
+      "-H",
+      "Accept: application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+      "-H",
+      "Accept-Language: bg,en;q=0.9",
+      url,
+    ],
     {
       maxBuffer: 10 * 1024 * 1024,
     },
