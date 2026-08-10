@@ -97,6 +97,10 @@ app.innerHTML = `<main>
   </section>
 
   <section class="content" id="content" aria-live="polite"></section>
+
+  <footer class="app-footer">
+    <p>Bulgarian News © ${new Date().getFullYear()}</p>
+  </footer>
 </main>`;
 
 const searchInput = document.querySelector<HTMLInputElement>("#search");
