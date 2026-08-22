@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T19:29:57.754Z",
+  "generatedAt": "2026-08-22T19:50:24.673Z",
   "sources": [
     {
       "id": "boulevard",
@@ -54,6 +54,24 @@
   "errors": [],
   "items": [
     {
+      "id": "https://www.bta.bg/bg/news/sport/1190244-valensiya-i-selta-vigo-napraviha-nulevo-ravenstvo-v-la-liga",
+      "title": "Валенсия и Селта Виго направиха нулево равенство в Ла Лига",
+      "summary": "Отборите на Валенсия и Селта Виго завършиха 0:0 в мач от втория кръг на испанската Ла Лига. Двете най-чисти положения в мача бяха за гостите от Селта. В 49-ата минута се откри чудесна възможност пред Хавиер Родригес, но вратарят на домакините Столе Димитриевски направи страхотно спасяване. В последната минута на редовното време Маркос Алонсо от тима от Виго стреля от удобна позиция, като топката мина на сантиметри от десния страничен стълб на вратата. Това беше първи мач за двата отбора, в който те спечелиха по точка. Мачове от испанската Ла Лига, втори кръг: Атлетик Билбао - Севиля - 1:3 Валенсия - Селта Виго - 0:0 по-късно днес: Еспаньол - Реал Мадрид утре: Атлетико Мадрид - Виляреал Хетафе - Расинг Сантандер Елче - Барселона Осасуна - Леванте Малага - Депортиво Ла Коруня от петък: Бетис - Реал Сосиедад - 1:0 от четвъртък: Райо Валекано - Алавес - 1:1",
+      "link": "https://www.bta.bg/bg/news/sport/1190244-valensiya-i-selta-vigo-napraviha-nulevo-ravenstvo-v-la-liga",
+      "pubDate": "2026-08-22T19:32:47.000Z",
+      "sourceId": "bta",
+      "imageUrl": "https://www.bta.bg/upload/13451035/62c335a1a33a489299791ec67fa834d6--0--d6e87fcfde0c4b44a8533a355aa67eec.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/postepenno-ponizhenie-na-temperaturite-predstoi-prez-novata-sedmica-1409129news.html",
+      "title": "Постепенно понижение на температурите предстои през новата седмица",
+      "summary": "Постепенно понижение на температурите предстои през новата седмица, по-съществено в сряда и четвъртък, когато се очакват валежи, на места интензивни, с гръмотевични бури и условия за градушки.&#13; Изолир...",
+      "link": "https://bntnews.bg/news/postepenno-ponizhenie-na-temperaturite-predstoi-prez-novata-sedmica-1409129news.html",
+      "pubDate": "2026-08-22T19:28:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/bf75cef42647b1952494f1f9adf7385a.jpg"
+    },
+    {
       "id": "http://nova.bg/news/view/2026/08/22/548647/",
       "title": "Въоръжени мъже отвлякоха над 60 души от джамия в Нигерия",
       "summary": "Нападателите са атакували поклонниците по време на петъчната молитва в щата Нигер",
@@ -61,6 +79,15 @@
       "pubDate": "2026-08-22T19:27:25.000Z",
       "sourceId": "nova",
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1787412344.jpg"
+    },
+    {
+      "id": "https://bntnews.bg/news/iliyana-yotova-kam-balgarite-ot-rsm-nyama-da-vi-predadem-nyama-da-se-otrechem-ot-vas-1409125news.html",
+      "title": "Илияна Йотова към българите от РСМ: Няма да ви предадем, няма да се отречем от вас!",
+      "summary": "На Петрова нива президентът Йотова отбеляза с колко много омраза и с колко много разделение днес се говори за българите в Република Северна Македония",
+      "link": "https://bntnews.bg/news/iliyana-yotova-kam-balgarite-ot-rsm-nyama-da-vi-predadem-nyama-da-se-otrechem-ot-vas-1409125news.html",
+      "pubDate": "2026-08-22T19:25:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/019bb65ecc04ea3a419861b7274495e6.jpg"
     },
     {
       "id": "https://www.bta.bg/bg/news/sport/1190243-rb-layptsig-premina-bezproblemno-parviya-krag-za-kupata-na-germaniya",
@@ -180,10 +207,10 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1787413086.jpg"
     },
     {
-      "id": "https://bntnews.bg/news/sled-proval-v-targovskite-pregovori-novo-naprezhenie-po-ostta-sasht-kanada-1409121news.html",
-      "title": "След провал в търговските преговори: Ново напрежение по остта САЩ-Канада",
-      "summary": "Провал на търговските преговори между Съединените щати и Канада - в сила са нови мита от 50% на редица канадски стоки. Отава обяви реципрочни ставки „долар за долар\", които ще влязат в сила на 8 септе...",
-      "link": "https://bntnews.bg/news/sled-proval-v-targovskite-pregovori-novo-naprezhenie-po-ostta-sasht-kanada-1409121news.html",
+      "id": "https://bntnews.bg/news/sledva-proval-v-targovskite-pregovori-novo-naprezhenie-varhu-osta-sasht-kanada-1409121news.html",
+      "title": "Следва провал в търговските преговори: Ново напрежение върху оста САЩ - Канада",
+      "summary": "Провал на търговските преговори между Съединените щати и Канада - в сила са нови мита от 50% на редица канадски стоки. Отава обяви реципрочни ставки „долар за долар“, които ще влязат в сила на 8 септе...",
+      "link": "https://bntnews.bg/news/sledva-proval-v-targovskite-pregovori-novo-naprezhenie-varhu-osta-sasht-kanada-1409121news.html",
       "pubDate": "2026-08-22T18:25:00.000Z",
       "sourceId": "bnt",
       "imageUrl": "https://news.bnt.bg/f/news/m/1409/cbdd0b5b7b3199418f04695253c83990.jpg"
@@ -335,7 +362,7 @@
     {
       "id": "https://bntnews.bg/news/balgariya-chestva-149-godini-ot-shipchenskata-epopeya-1409106news.html",
       "title": "България чества 149 години от Шипченската епопея",
-      "summary": "България чества 149 години от Шипченската епопея. Стотици се отправиха към връх „Свети Никола“, за да сведат глави в знак на почит към саможертвата на героите. Една от най-героичните и решаващи битки...",
+      "summary": "България чества 149 години от Шипченската епопея. Стотици се отправиха към връх Свети Никола, за да сведат глави в знак на почит към саможертвата на героите. Една от най-героичните и решаващи битки в...",
       "link": "https://bntnews.bg/news/balgariya-chestva-149-godini-ot-shipchenskata-epopeya-1409106news.html",
       "pubDate": "2026-08-22T17:40:00.000Z",
       "sourceId": "bnt",
@@ -412,15 +439,6 @@
       "pubDate": "2026-08-22T17:25:42.000Z",
       "sourceId": "bta",
       "imageUrl": "https://www.bta.bg/upload/13612584/f1273a0b42774f84a6b64a43c48c965b--0--667ff6103b2c455fb4b9832b0a1e7f96.jpg"
-    },
-    {
-      "id": "https://www.bta.bg/bg/news/sport/1190199-keydan-spensar-ostana-shesti-na-finala-na-visilka-na-evropeyskoto-parvenstvo-po-",
-      "title": "Кейдън Спенсър остана шести на финала на висилка на Европейското първенство по спортна гимнастика в Загреб",
-      "summary": "30 години след европейската титла на Красимир Дунев на висилка България не успя да се поздрави със злато на този уред от първенство на Стария континент. Дебютантът в националния отбор Кейдън Спенсър завърши шести на финала на шампионата в Загреб (Хърватия). Българският гимнастик получи оценка от 12.700 точки за изпълнението си. Шампион на този уред стана Джо Фрейзър (Великобритания) с 14.300 точки. Така гимнастиците завършват участието си в Хърватия с четвърто място на кон с гривни на Давид Иванов, пето място на прескок на Даниел Трифонов и шеста позиция на висилка на Кейдън Спенсър. Трифонов и Кевин Пенев спечелиха и квоти за Световното първенство в Ротердам през месец октомври.",
-      "link": "https://www.bta.bg/bg/news/sport/1190199-keydan-spensar-ostana-shesti-na-finala-na-visilka-na-evropeyskoto-parvenstvo-po-",
-      "pubDate": "2026-08-22T17:24:00.000Z",
-      "sourceId": "bta",
-      "imageUrl": "https://www.bta.bg/upload/13787487/viber_image_2026-08-22_20-23-07-102.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548657/",
@@ -1114,24 +1132,6 @@
       "pubDate": "2026-08-22T09:30:11.000Z",
       "sourceId": "economic",
       "imageUrl": "https://www.economic.bg/web/files/articles/155411/narrow_image/depositphotos-2429914-l.jpg"
-    },
-    {
-      "id": "http://nova.bg/news/view/2026/08/22/548618/",
-      "title": "САЩ и Иран продължават да си разменят остри послания",
-      "summary": "Според Доналд Тръмп Техеран не е готов да сключи „правилната сделка“",
-      "link": "https://nova.bg/news/view/2026/08/22/548618/%D1%81%D0%B0%D1%89-%D0%B8-%D0%B8%D1%80%D0%B0%D0%BD-%D0%BF%D1%80%D0%BE%D0%B4%D1%8A%D0%BB%D0%B6%D0%B0%D0%B2%D0%B0%D1%82-%D0%B4%D0%B0-%D1%81%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D0%BD%D1%8F%D1%82-%D0%BE%D1%81%D1%82%D1%80%D0%B8-%D0%BF%D0%BE%D1%81%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F/",
-      "pubDate": "2026-08-22T09:29:36.000Z",
-      "sourceId": "nova",
-      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1787391173.jpeg"
-    },
-    {
-      "id": "https://bntnews.bg/news/iliyana-yotova-shipka-e-merilo-rodolyubie-i-simvol-na-badeshteto-1409089news.html",
-      "title": "Илияна Йотова: Шипка е мерило родолюбие и символ на бъдещето",
-      "summary": "В огнените дни на 1877 г. българските опълченци мислеха за свободата и за родината си, заяви президентът",
-      "link": "https://bntnews.bg/news/iliyana-yotova-shipka-e-merilo-rodolyubie-i-simvol-na-badeshteto-1409089news.html",
-      "pubDate": "2026-08-22T09:18:00.000Z",
-      "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1409/563cbb79e6e8f1917d6c8513e042b314.jpg"
     }
   ]
 }
