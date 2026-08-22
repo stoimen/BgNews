@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T21:51:25.049Z",
+  "generatedAt": "2026-08-22T22:32:10.838Z",
   "sources": [
     {
       "id": "boulevard",
@@ -54,6 +54,15 @@
   "errors": [],
   "items": [
     {
+      "id": "https://www.bta.bg/bg/news/world/1190256-chili-zatvarya-posolstvoto-si-v-iran-po-ikonomicheski-prichini-i-ot-saobrazheniy",
+      "title": "Чили затваря посолството си в Иран по икономически причини и от съображения за сигурност",
+      "summary": "Властите в Чили обявиха, че в края на този месец ще затворят посолството на страната в Иран по икономически причини и от съображения за сигурност, без обаче да прекъсват дипломатическите отношения с Техеран, предаде Франс прес. В изявление чилийското министерство на външните работи обясни вчера това решение с необходимостта от \"оперативна реорганизация\", целяща по-доброто разпределяне \"на наличните ресурси\", както и с отчитането на \"фактори, свързани със сигурността в Близкия изток\". Правителството подчерта, че затварянето на чилийското дипломатическо представителство няма да доведе до прекратяване на дипломатическите връзки между двете страни, установени през 1942 г. Откакто през март пое президентския пост, крайнодесният политик Хосе Антонио Каст се стреми да укрепи отношенията със САЩ, въпреки че Вашингтон наложи мита до 12% върху чилийските стоки. \"Чили трябва винаги да бъде съюзник на държавите, които насърчават свободата и демокрацията\" и осъжда \"безразборните атаки на иранския режим срещу редица страни в региона“. подчерта в изявление Каст.",
+      "link": "https://www.bta.bg/bg/news/world/1190256-chili-zatvarya-posolstvoto-si-v-iran-po-ikonomicheski-prichini-i-ot-saobrazheniy",
+      "pubDate": "2026-08-22T21:35:00.000Z",
+      "sourceId": "bta",
+      "imageUrl": "https://www.bta.bg/upload/303925/Chile_flag.jpg"
+    },
+    {
       "id": "https://www.bta.bg/bg/news/sport/1190257-otborite-na-gartsiya-i-chehiya-ot-grupata-na-balgariya-zapisaha-pobedi-na-evrope",
       "title": "Отборите на Гърция и Чехия от групата на България записаха победи на Европейското първенство по волейбол за жени",
       "summary": "Бъдещите съперници на България на Европейското първенство по волейбол за жени - Гърция и Чехия, записаха победи в Група \"B\". Гърция се наложи над Украйна с 3:2 (25:23, 23:25, 12:25, 25:22, 15:10). Гъркините обаче минаха през петгеймова драма за ,успеха и сигурно ще бъдат по-изморени утре, когато се срещат срещу тима на България на Марчело Абонданца. Домакините от Чехия нямаха проблем срещу аутсайдера в групата Австрия и се наложиха с 3:0 (25:16, 25:17, 25:17). Именно чехкините и отборът на Сърбия са фаворитите в групата и най-високо поставените отбори. Един от фаворитите в целия турнир - тимът на Италия, победи Черна гора с 3:0 (25:13, 25:20, 25:19). Словения се наложи над Германия със същия резултат - 3:0 (25:22, 25:21, 25:20). Полша надигра Унгария също чисто - 3:0 (25:12, 26:24, 25:20). Имаше и три много оспорвани мачове в останалите групи. Домакините от Швеция надиграха Словакия с 3:2 (25:22, 25:16, 14:25, 22:25, 15:6) в Група \"D\". Белгия победи драматично Испания с 3:2 (25:15, 18:25, 23:25, 25:17, 15:8). Нидерландия постигна успех срещу Румъния също в пет гейма - 3:2 (25:21, 26:28, 25:15, 22:25, 15:9).",
@@ -87,7 +96,7 @@
       "link": "https://bntnews.bg/news/predstoi-pochti-palno-lunno-zatamnenie-koeto-shte-se-nablyudava-nai-dobre-ot-severna-i-yuzhna-amerika-1409094news.html",
       "pubDate": "2026-08-22T20:50:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/deb5c0fc74e9e9d81096541e81c013fc.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/deb5c0fc74e9e9d81096541e81c013fc.jpeg"
     },
     {
       "id": "https://www.bta.bg/bg/news/sport/1190254-yasen-petrov-se-izvini-na-fenovete-na-spartak-varna-za-tezhkoto-porazhenie-ot-",
@@ -105,7 +114,7 @@
       "link": "https://bntnews.bg/news/more-muzika-i-kauza-nai-dalgata-vecherya-na-plazha-sabra-stotici-vav-varna-snimki-1409135news.html",
       "pubDate": "2026-08-22T20:35:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/9e7fcfaea427cbd97f25872b737a7a1f.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/9e7fcfaea427cbd97f25872b737a7a1f.jpeg"
     },
     {
       "id": "https://dariknews.bg/novini/sviat/vzaimni-udari-s-dronove-zaginali-i-raneni-v-odesa-i-sevastopol-2464379",
@@ -163,12 +172,12 @@
     },
     {
       "id": "https://bntnews.bg/news/sled-goreshtinite-prolivni-dazhdove-v-italiya-i-ispaniya-1409133news.html",
-      "title": "След горещините проливни дъждове в Италия и Испания",
+      "title": "След горещините - проливни дъждове в Италия и Испания",
       "summary": "След горските пожари и топлинните вълни - проливни дъждове и гръмотевични бури обхванаха Испания и Италия.&#13; В испанската провинция Терагона бяха ранени трима души, а други 200 бяха евакуирани. На мест...",
       "link": "https://bntnews.bg/news/sled-goreshtinite-prolivni-dazhdove-v-italiya-i-ispaniya-1409133news.html",
       "pubDate": "2026-08-22T20:15:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/954861bb2d809846d0c1ab867778c255.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/954861bb2d809846d0c1ab867778c255.jpeg"
     },
     {
       "id": "https://www.bta.bg/bg/news/sport/1190250-levski-postigna-ubeditelna-pobeda-sreshtu-spartak-varna-v-mach-ot-parva-liga",
@@ -200,11 +209,11 @@
     {
       "id": "https://bntnews.bg/news/festival-v-pomorie-organizatorite-ochakvat-8000-posetiteli-1409132news.html",
       "title": "Фестивал в Поморие: Организаторите очакват 8000 посетители",
-      "summary": "Завършваме с кадри от първото издание на музикалния Sunset Port Festival в рибарското пристанище в Поморие.&#13; Знакови български изпълнители и световни звезди радваха публиката тази вечер. А утре на сце...",
+      "summary": "В рибарското пристанище в Поморие се провежда първото издание на музикалния Sunset Port Festival.&#13; Знакови български изпълнители и световни звезди радваха публиката тази вечер. А утре на сцената изли...",
       "link": "https://bntnews.bg/news/festival-v-pomorie-organizatorite-ochakvat-8000-posetiteli-1409132news.html",
       "pubDate": "2026-08-22T20:05:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/a30bcdcac7961afc0928dea6121a678e.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/a30bcdcac7961afc0928dea6121a678e.jpeg"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/goliam-pozhar-na-mladezhkiia-hylm-v-plovdiv-2464377",
@@ -312,7 +321,7 @@
       "link": "https://bntnews.bg/news/postepenno-ponizhenie-na-temperaturite-predstoi-prez-novata-sedmica-1409129news.html",
       "pubDate": "2026-08-22T19:28:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/bf75cef42647b1952494f1f9adf7385a.jpg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/bf75cef42647b1952494f1f9adf7385a.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548647/",
@@ -330,7 +339,7 @@
       "link": "https://bntnews.bg/news/iliyana-yotova-kam-balgarite-ot-rsm-nyama-da-vi-predadem-nyama-da-se-otrechem-ot-vas-1409125news.html",
       "pubDate": "2026-08-22T19:25:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/019bb65ecc04ea3a419861b7274495e6.jpg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/019bb65ecc04ea3a419861b7274495e6.jpg"
     },
     {
       "id": "https://www.bta.bg/bg/news/sport/1190243-rb-layptsig-premina-bezproblemno-parviya-krag-za-kupata-na-germaniya",
@@ -405,22 +414,13 @@
       "imageUrl": "https://www.bta.bg/upload/13787762/3585944f573545779a6d48ba2e27f396--0--e1c920ed628e4cd782dafb6bbc46b981.jpg"
     },
     {
-      "id": "https://www.bta.bg/bg/news/sport/1190236-brentford-pobedi-totnam-no-propusna-da-go-razgromi",
-      "title": "Брентфорд победи Тотнъм, но пропусна да го разгроми",
-      "summary": "Брентфорд победи с 3:0 Тотнъм в мач от първия кръг на Висшата лига, като това бе най-малката разлика, с която можеха да спечелят \"пчеличките\", които имаха смазващо превъзходство над своя градски съперник. Головете за победителите вкараха Кийн Люис-Потър, Витали Янел и Майкъл Кайоде, а бившият футболист на Лудогорец Игор Тиаго пропусна дузпа. Бразилецът, който има и български паспорт, уцели и греда през първата част, а единствено късметът и добрите намеси на Антонин Кински спасиха \"шпорите\" от още по-тежко поражение. Брентфорд откри в 12-ата минута чрез Люис-Потър, а двадесет по-късно Янелт покачи на 2:0. Между двете попадения дойде и първата греда на Тиаго в мача, който той уцели с изстрел с глава. Проблемите за Тотнъм станаха много сериозни в 49-ата минута, когато Майкъл Кайоде покачи на 3:0, реагирайки първи след изстрел на Мамаду Сангаре. В 54-тата минута домакините получиха и дузпа, но гредата - този път страничната - за втори път спря Игор Тиаго. В 77-мата минута той имаше още една възможност да се разпише, но тогава топката мина на сантиметри от вратата на Кински. Първенство на Англия по футбол, срещи от първия кръг: Хъл Сити - Манчестър Юнайтед 2:0 Евертън - Кристъл Палас 2:0 Ипсуич - Съндърланд 2:1 Нотингам - Лийдс 0:1 Брентфорд - Тотнъм 3:0 в неделя: Брайтън - Астън Вила Манчестър Сити - Борнемут Нюкасъл - Ливърпул в понеделник: Фулъм - Челси от петък: Арсенал - Ковънтри 3:0",
-      "link": "https://www.bta.bg/bg/news/sport/1190236-brentford-pobedi-totnam-no-propusna-da-go-razgromi",
-      "pubDate": "2026-08-22T18:35:13.000Z",
-      "sourceId": "bta",
-      "imageUrl": "https://www.bta.bg/upload/13787628/5f987dbc7cb749838a88043bb112cbbe--0--57b15908e6bf4cbab5d54fd14f3579b4.jpg"
-    },
-    {
       "id": "https://bntnews.bg/news/tramp-za-ormuzkiya-protok-prezidentat-na-sasht-nareche-morskiya-pat-amerikanska-teritoriya-1409122news.html",
       "title": "Тръмп за Ормузкия проток: Президентът на САЩ нарече морския път „американска територия“",
       "summary": "Американският президент Доналд Тръмп обяви Ормузкия проход за американска територия.&#13; По думите на държавната глава Иран е спрян успешно и никога няма да има ядрено оръжие. &#13; За понеделник е планирано...",
       "link": "https://bntnews.bg/news/tramp-za-ormuzkiya-protok-prezidentat-na-sasht-nareche-morskiya-pat-amerikanska-teritoriya-1409122news.html",
       "pubDate": "2026-08-22T18:35:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/69f7a33fcd3b7320ca3f067c49ff0e0c.jpg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/69f7a33fcd3b7320ca3f067c49ff0e0c.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548648/",
@@ -438,7 +438,7 @@
       "link": "https://bntnews.bg/news/sled-proval-v-targovskite-pregovori-novo-naprezhenie-po-osta-sasht-kanada-1409121news.html",
       "pubDate": "2026-08-22T18:25:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/cbdd0b5b7b3199418f04695253c83990.jpg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/cbdd0b5b7b3199418f04695253c83990.jpg"
     },
     {
       "id": "https://dariknews.bg/novini/sviat/silen-trus-razliulia-iaponskiia-ostrov-honshu-useti-se-i-v-tokio-2464371",
@@ -465,7 +465,7 @@
       "link": "https://bntnews.bg/news/bezvodieto-v-dunav-kak-se-otrazyava-na-ribarite-1409118news.html",
       "pubDate": "2026-08-22T18:10:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/539c166f27ae745da82cab172f96021c.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/539c166f27ae745da82cab172f96021c.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548659/",
@@ -492,7 +492,7 @@
       "link": "https://bntnews.bg/news/gonka-s-migranti-v-burgas-zadarzhani-sa-moldovec-i-marokanec-1409095news.html",
       "pubDate": "2026-08-22T17:55:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/c39265e034ff439ff9bd2b8aad4e746e.jpg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/c39265e034ff439ff9bd2b8aad4e746e.jpg"
     },
     {
       "id": "https://bntnews.bg/news/zhegata-zabavya-dvizhenieto-na-vlakovete-u-nas-1409117news.html",
@@ -501,7 +501,7 @@
       "link": "https://bntnews.bg/news/zhegata-zabavya-dvizhenieto-na-vlakovete-u-nas-1409117news.html",
       "pubDate": "2026-08-22T17:54:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/89c5e996f6905f2f016b1ece4c1e631e.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/89c5e996f6905f2f016b1ece4c1e631e.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/nameriha-li-monetarnicata-na-ivan-shishman-na-trapezica-svitaci-sreshtu-nezhit-i-drugi-otkritiya-ot-bolyarskiya-halm-1409061news.html",
@@ -510,7 +510,7 @@
       "link": "https://bntnews.bg/news/nameriha-li-monetarnicata-na-ivan-shishman-na-trapezica-svitaci-sreshtu-nezhit-i-drugi-otkritiya-ot-bolyarskiya-halm-1409061news.html",
       "pubDate": "2026-08-22T17:50:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/cb1497360481e7562f9e69e73851624f.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/cb1497360481e7562f9e69e73851624f.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/franciya-i-germaniya-obeshtaha-oshte-pomosht-na-kiev-1409116news.html",
@@ -519,7 +519,7 @@
       "link": "https://bntnews.bg/news/franciya-i-germaniya-obeshtaha-oshte-pomosht-na-kiev-1409116news.html",
       "pubDate": "2026-08-22T17:46:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/245206c155c3f78618c4a15eb89b4991.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/245206c155c3f78618c4a15eb89b4991.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548658/",
@@ -537,7 +537,7 @@
       "link": "https://bntnews.bg/news/balgariya-chestva-149-godini-ot-shipchenskata-epopeya-1409106news.html",
       "pubDate": "2026-08-22T17:40:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/702ebb9541a68600901ede6d61faa262.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/702ebb9541a68600901ede6d61faa262.jpeg"
     },
     {
       "id": "tag:boulevardbulgaria.bg,2005:Article/47535",
@@ -564,7 +564,7 @@
       "link": "https://bntnews.bg/news/iztochniyat-flang-na-nato-shte-se-zapazi-li-broyat-na-amerikanskite-voenni-v-evropa-1409114news.html",
       "pubDate": "2026-08-22T17:35:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/f03ec67ddf3e1a32654de56cc722acc0.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/f03ec67ddf3e1a32654de56cc722acc0.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548650/",
@@ -591,7 +591,7 @@
       "link": "https://bntnews.bg/news/situaciyata-v-bezmer-horata-sa-dovolni-ot-zaminavaneto-na-cisternite-1409115news.html",
       "pubDate": "2026-08-22T17:20:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/b95ed4111025e6268a4ab8c8d96b50ec.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/b95ed4111025e6268a4ab8c8d96b50ec.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-bulgaria/chasti-dva-drona-byaha-otkriti-albena-i-varna",
@@ -618,7 +618,7 @@
       "link": "https://bntnews.bg/news/amerikanskite-samoleti-napusnaha-bezmer-misiyata-priklyuchi-1409100news.html",
       "pubDate": "2026-08-22T17:06:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/5265b3df13592b9bf337d2a4d8ac2cf8.jpg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/5265b3df13592b9bf337d2a4d8ac2cf8.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548649/",
@@ -636,7 +636,7 @@
       "link": "https://bntnews.bg/news/otkriha-dva-novi-drona-krai-varna-obektite-sa-obezvredeni-ot-specialisti-1409112news.html",
       "pubDate": "2026-08-22T17:02:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/433a4d66abe8dc876494f41714d430f8.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/433a4d66abe8dc876494f41714d430f8.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548655/",
@@ -654,7 +654,7 @@
       "link": "https://bntnews.bg/news/zaglushitelyat-v-sofiya-pretarsvaniya-v-kv-dragalevci-i-v-s-kapitan-andreevo-1409110news.html",
       "pubDate": "2026-08-22T16:50:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/2b617d586bae7da8ccd3c21b9235533a.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/2b617d586bae7da8ccd3c21b9235533a.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548654/",
@@ -681,7 +681,7 @@
       "link": "https://bntnews.bg/news/borbata-sreshtu-narkoticite-sreshtna-mitnichesko-kuche-i-kuche-robot-snimki-1409108news.html",
       "pubDate": "2026-08-22T16:22:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/6dec32574d46315f32e9c1e3fa291de2.jpg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/6dec32574d46315f32e9c1e3fa291de2.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548653/",
@@ -735,7 +735,7 @@
       "link": "https://bntnews.bg/news/vodnite-atrakcioni-pod-lupa-ima-li-dostatachno-kontrol-po-moreto-1409102news.html",
       "pubDate": "2026-08-22T15:45:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/6273ba6cbc60f142f109b3a5fb493e5c.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/6273ba6cbc60f142f109b3a5fb493e5c.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548646/",
@@ -753,7 +753,7 @@
       "link": "https://bntnews.bg/news/voennomorskite-sili-izpalniha-zadachi-po-transportirane-na-chasti-ot-bezpilotni-letatelni-aparati-1409104news.html",
       "pubDate": "2026-08-22T15:24:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/e7b5bce42136358963454d36a3f98a8c.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/e7b5bce42136358963454d36a3f98a8c.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548645/",
@@ -789,7 +789,7 @@
       "link": "https://bntnews.bg/news/risk-za-sigurnostta-v-slovakiya-ruski-kameri-v-slovashki-radarni-sistemi-1409099news.html",
       "pubDate": "2026-08-22T14:50:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/fa95716ee790cf985e6fa66f10c46dd4.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/fa95716ee790cf985e6fa66f10c46dd4.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548644/",
@@ -807,7 +807,7 @@
       "link": "https://bntnews.bg/news/-voenen-uikend-za-civilni-inovativni-strategii-za-nabirane-na-voinici-1409096news.html",
       "pubDate": "2026-08-22T14:32:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/7b11738ba4fa25b3665ce385aac7a9f8.jpg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/7b11738ba4fa25b3665ce385aac7a9f8.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548643/",
@@ -942,7 +942,7 @@
       "link": "https://bntnews.bg/news/zadarzhaha-kanaljiya-sled-policeisko-presledvane-v-burgas-izdirvat-nelegalni-migranti-snimki-1409093news.html",
       "pubDate": "2026-08-22T13:25:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/bc309a11a3465bc5bda3f5e41d3b9007.jpeg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/bc309a11a3465bc5bda3f5e41d3b9007.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548636/",
@@ -1077,7 +1077,7 @@
       "link": "https://bntnews.bg/news/opasno-visoki-temperaturi-i-dnes-1409087news.html",
       "pubDate": "2026-08-22T10:55:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/8e61e1c421b43de40261c48e161c7faf.png"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/8e61e1c421b43de40261c48e161c7faf.png"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548628/",
@@ -1104,7 +1104,7 @@
       "link": "https://bntnews.bg/news/probiv-v-naukata-nova-vaksina-sreshtu-onkologichni-zabolyavaniya-1409084news.html",
       "pubDate": "2026-08-22T10:32:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/m/1409/37a77e1edd2575aaebe6f722706fa5fe.png"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/37a77e1edd2575aaebe6f722706fa5fe.png"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/22/548627/",
