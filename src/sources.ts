@@ -21,11 +21,11 @@ export const sources = [
     feedUrl: "https://nova.bg/rss/latest",
   },
   {
-    id: "capital",
-    name: "Capital",
-    shortName: "Capital",
+    id: "bta",
+    name: "BTA",
+    shortName: "BTA",
     color: "#0f766e",
-    feedUrl: "https://www.capital.bg/rss/",
+    feedUrl: "https://www.bta.bg/bg/rss/free",
   },
   {
     id: "darik",
