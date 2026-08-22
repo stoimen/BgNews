@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:34:12.925Z",
+  "generatedAt": "2026-08-22T20:55:59.793Z",
   "sources": [
     {
       "id": "boulevard",
@@ -53,6 +53,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "https://bntnews.bg/news/predstoi-pochti-palno-lunno-zatamnenie-koeto-shte-se-nablyudava-nai-dobre-ot-severna-i-yuzhna-amerika-1409094news.html",
+      "title": "Предстои почти пълно лунно затъмнение, което ще се наблюдава най-добре от Северна и Южна Америка",
+      "summary": "След като Америка остана извън обсега на пълното слънчево затъмнение този месец, този път Северна и Южна Америка имат най-добрите места за наблюдение, когато сянката на Земята за кратко обгърне Луната...",
+      "link": "https://bntnews.bg/news/predstoi-pochti-palno-lunno-zatamnenie-koeto-shte-se-nablyudava-nai-dobre-ot-severna-i-yuzhna-amerika-1409094news.html",
+      "pubDate": "2026-08-22T20:50:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/deb5c0fc74e9e9d81096541e81c013fc.jpeg"
+    },
+    {
+      "id": "https://www.bta.bg/bg/news/sport/1190254-yasen-petrov-se-izvini-na-fenovete-na-spartak-varna-za-tezhkoto-porazhenie-ot-",
+      "title": "Ясен Петров се извини на феновете на Спартак (Варна) за тежкото поражение от Левски",
+      "summary": "Треньорът на Спартак (Варна) Ясен Петров се извини на феновете на отбора за тежката загуба от Левски. \"Помогнахме много да стане днес лесно Левски. Много неприятна загуба и в съчетание с червен картон, останахме с човек по-малко. В последните минути допуснахме два гола. Аз лично се извинявам на всички привърженици на отбора на Спартак (Варна) за продукцията, която дадохме днес\", каза бившият треньор на Левски и национален селекционер Петров. \"Първите два удара във вратата ни влязоха. Планът ни беше друг, от една атака всичко се обърка\", добави той. \"Надявам се да се завърнат защитници. Петършило вече води нормален тренировъчен процес. С Димо Кръстев е малко по-сложна историята, но мисля, че до седмица и той ще е в строя. Ще направим всичко възможно да възстановим футболистите и да спечелим следващите два мача във Варна\", каза още Ясен Петров.",
+      "link": "https://www.bta.bg/bg/news/sport/1190254-yasen-petrov-se-izvini-na-fenovete-na-spartak-varna-za-tezhkoto-porazhenie-ot-",
+      "pubDate": "2026-08-22T20:38:45.000Z",
+      "sourceId": "bta",
+      "imageUrl": "https://www.bta.bg/upload/13787874/BKK_1497.JPG"
+    },
+    {
+      "id": "https://bntnews.bg/news/more-muzika-i-kauza-nai-dalgata-vecherya-na-plazha-sabra-stotici-vav-varna-snimki-1409135news.html",
+      "title": "Море, музика и кауза: „Най-дългата вечеря на плажа“ събра стотици във Варна (СНИМКИ)",
+      "summary": "Плаж, море, много приятели и богата музикално-артистична програма. Всичко това – на Аспаруховия плаж във Варна тази вечер. За дванадесета поредна година стотици варненци и гости на града станаха част...",
+      "link": "https://bntnews.bg/news/more-muzika-i-kauza-nai-dalgata-vecherya-na-plazha-sabra-stotici-vav-varna-snimki-1409135news.html",
+      "pubDate": "2026-08-22T20:35:00.000Z",
+      "sourceId": "bnt",
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/9e7fcfaea427cbd97f25872b737a7a1f.jpeg"
+    },
+    {
+      "id": "https://dariknews.bg/novini/sviat/vzaimni-udari-s-dronove-zaginali-i-raneni-v-odesa-i-sevastopol-2464379",
+      "title": "Взаимни удари с дронове: загинали и ранени в Одеса и Севастопол",
+      "summary": "Трима души са ранени, сред които непълнолетно дете, при масирана атака в Одеска област привечер, съобщи председателят на Одеската областна военна администрация Олег Кипер в канала си в Телеграм. Одеска област бе подложена на комбинирана атака",
+      "link": "https://dariknews.bg/novini/sviat/vzaimni-udari-s-dronove-zaginali-i-raneni-v-odesa-i-sevastopol-2464379",
+      "pubDate": "2026-08-22T20:32:00.000Z",
+      "sourceId": "darik",
+      "imageUrl": "https://m.netinfo.bg/media/images/51321/51321795/990-552-ukrajna.jpg"
+    },
     {
       "id": "https://www.bta.bg/bg/news/sport/1190251-bayern-myunhen-specheli-za-12-i-pat-superkupata-na-germaniya",
       "title": "Байерн Мюнхен спечели за 12-и път Суперкупата на Германия",
@@ -414,15 +450,6 @@
       "imageUrl": "https://m.netinfo.bg/media/images/50980/50980778/990-552-zemetresenie.jpg"
     },
     {
-      "id": "https://www.bta.bg/bg/news/bulgaria/1190228-kmetovete-na-oryahovo-i-dabuleni-podpisaha-sporazumenie-za-pobratimyavane-na-dva",
-      "title": "Кметовете на Оряхово и Дъбулени подписаха споразумение за побратимяване на двата града",
-      "summary": "Кметът на Оряхово Росен Добрев и кметът на Дъбулени (Румъния) инж. Нану Мариан-Виорел подписаха споразумение за побратимяване на двата града. В сградата на Историческия музей в Оряхово беше подписан документът в присъствието на общински съветници, гости от румънския град, граждани. Председателят на Общински съвет Оряхово Румяна Декова представи пред аудиторията решението на Общински съвет, според което се подкрепя с пълно единодушие споразумението за партньорство между двата града. Нека нашите добри междусъседски отношения да се надградят с годините, добави Декова. Вярвам, че побратимяването ще даде възможности да правим общи проекти, и това ще бъде в полза и на двата града, каза и кметът на Дъбулени инж. Нану Мариан-Виорел. Днес е паметен ден и думата \"побратимяване\" е натоварена с голяма отговорност да пазим вече изградените добри отношения между нас, каза и кметът на Оряхово Росен Добрев. Не го правим проформа, а от сърце, добави той. В края на церемонията Росен Добрев връчи официално поздравления към две дами, които са били дългогодишни директори на образователни институции в общината и се пенсионират. Ето с това се гордее Оряхово – с отношението си към образованието, културата и персонално към хората, каза в края на събитието секретарят на общината Христина Цонева. БТА припомня, че гости от румънския град бяха в Оряхово през ноември 2025 година, а месец по-рано Общинският съвет в града взе решение за побратимяване.",
-      "link": "https://www.bta.bg/bg/news/bulgaria/1190228-kmetovete-na-oryahovo-i-dabuleni-podpisaha-sporazumenie-za-pobratimyavane-na-dva",
-      "pubDate": "2026-08-22T18:15:00.000Z",
-      "sourceId": "bta",
-      "imageUrl": "https://www.bta.bg/upload/13787703/20260822_190911.jpg"
-    },
-    {
       "id": "tag:boulevardbulgaria.bg,2005:Article/47536",
       "title": "Хаос и безредици - над 100 души пострадаха след меле на мач в Германия",
       "summary": "",
@@ -765,15 +792,6 @@
       "imageUrl": "https://news.bnt.bg/f/news/m/1409/fa95716ee790cf985e6fa66f10c46dd4.jpeg"
     },
     {
-      "id": "https://dariknews.bg/novini/sviat/novi-udari-v-ukrajna-i-rusiia-zaginali-i-desetki-raneni-2464366",
-      "title": "Нови удари в Украйна и Русия – загинали и десетки ранени",
-      "summary": "Най-малко трима души бяха убити, а 15 - ранени в Украйна, след като руските сили атакуваха Запорожка област в югоизточната част на страната, където се намира най-голямата атомна електроцентрала в Европа, предаде ДПА. Русия атакува областта с ба",
-      "link": "https://dariknews.bg/novini/sviat/novi-udari-v-ukrajna-i-rusiia-zaginali-i-desetki-raneni-2464366",
-      "pubDate": "2026-08-22T14:50:00.000Z",
-      "sourceId": "darik",
-      "imageUrl": "https://m.netinfo.bg/media/images/51256/51256652/990-552-ukrajna-dronove.jpg"
-    },
-    {
       "id": "http://nova.bg/news/view/2026/08/22/548644/",
       "title": "Четири хеликоптера от ЕС се включиха в борбата с пожарите в Сърбия",
       "summary": "Румъния изпрати 69 пожарникари и техника",
@@ -1114,24 +1132,6 @@
       "pubDate": "2026-08-22T10:13:58.000Z",
       "sourceId": "nova",
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1787393666.jpg"
-    },
-    {
-      "id": "http://nova.bg/news/view/2026/08/22/548620/",
-      "title": "Честваме 149 години от Шипченската епопея (ВИДЕО+СНИМКИ)",
-      "summary": "Стотици се отправиха към връх Свети Никола",
-      "link": "https://nova.bg/news/view/2026/08/22/548620/%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%D0%BC%D0%B5-149-%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B8-%D0%BE%D1%82-%D1%88%D0%B8%D0%BF%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%82%D0%B0-%D0%B5%D0%BF%D0%BE%D0%BF%D0%B5%D1%8F-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8/",
-      "pubDate": "2026-08-22T10:10:47.000Z",
-      "sourceId": "nova",
-      "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1787391587.jpg"
-    },
-    {
-      "id": "https://www.segabg.com/hot/category-bulgaria/voenniyat-ministur-samoletite-cisterni-na-sasht-napusnaha-bulgariya",
-      "title": "Военният министър: Самолетите цистерни на САЩ напуснаха България",
-      "summary": "Вчера самолетите цистерни на военновъздушните сили на САЩ напуснаха базата в Безмер и отлетяха от България. Това каза пред журналисти министърът на отбраната Димитър Стоянов, който участва в отбелязването на 149-ата годишнина от Шипченската епопея на едноименния връх.",
-      "link": "https://www.segabg.com/hot/category-bulgaria/voenniyat-ministur-samoletite-cisterni-na-sasht-napusnaha-bulgariya",
-      "pubDate": "2026-08-22T10:04:36.000Z",
-      "sourceId": "sega",
-      "imageUrl": "https://www.segabg.com/sites/default/files/_sega//styles/focal_medium/public/2026/08/viber_image_2026-08-22_13-03-24-096.png"
     }
   ]
 }
