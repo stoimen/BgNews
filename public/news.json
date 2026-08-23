@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:54:02.514Z",
+  "generatedAt": "2026-08-23T23:29:59.085Z",
   "sources": [
     {
       "id": "boulevard",
@@ -54,6 +54,15 @@
   "errors": [],
   "items": [
     {
+      "id": "https://www.bta.bg/bg/news/world/1190528-siriya-potvardi-provezhdaneto-na-razgovori-na-visoko-ravnishte-s-izrael-v-yordan",
+      "title": "Сирия потвърди провеждането на разговори на високо равнище с Израел в Йордания",
+      "summary": "Сирия потвърди провеждането на разговори на високо равнище с Израел в Йордания, насочени към деескалация на напрежението след последните израелски удари на сирийска територия, предаде Франс прес. Сирийската информационна агенция САНА цитира представител от Министерството на външните работи в Дамаск, според когото сирийски и израелски делегации са провели разговори под егидата на САЩ \"като част от усилията за деескалация след неотдавнашните израелски бомбардировки на сирийска територия\". По-рано АФП съобщи за провеждането на разговори между сирийския външен министър и шефът на \"Мосад\" в Йордания. Обсъжданията са били насочени и към предотвратяване на разпространяването на напрежението между Израел и Турция върху територията на Сирия. Според сирийското външно министерство двете страни са обсъдили и \"усилията за сближаване на Турция и Израел\".",
+      "link": "https://www.bta.bg/bg/news/world/1190528-siriya-potvardi-provezhdaneto-na-razgovori-na-visoko-ravnishte-s-izrael-v-yordan",
+      "pubDate": "2026-08-23T22:52:00.000Z",
+      "sourceId": "bta",
+      "imageUrl": "https://www.bta.bg/upload/13711578/184d4772d27743c2b178bdd12441ff2b--1--847f5d2e66814e8da8eb70ec795ec6df.jpg"
+    },
+    {
       "id": "https://www.bta.bg/bg/news/world/1190527-ukrainskiyat-ministar-na-otbranata-evgen-hmara-se-sreshtna-v-kiev-s-amerikanskiy",
       "title": "Украинският министър на отбраната Евген Хмара се срещна в Киев с американския сенатор Ричард Блументал",
       "summary": "Украинският министър на отбраната Евген Хмара и американският сенатор Ричард Блументал обсъдиха по-нататъшните усилия за изграждане на дългосрочни и взаимноизгодни отношения между Украйна и САЩ по време на среща в Киев, предаде Укринформ. Хмара благодари на Блументал за подкрепата и личните му усилия за постигане на справедлив мир за Украйна, се казва в съобщение на украинското министерство в социалните мрежи. Министърът подчерта, че съвременната война се променя изключително бързо и че Украйна е натрупала уникален опит в адаптирането към промените на бойното поле и разработването на решения, които могат бързо да бъдат внедрявани. \"Готови сме да споделим тези разработки с нашите партньори\", заяви Хмара. Той информира американския сенатор за ситуацията на фронта, актуалните заплахи и промените, които Украйна предприема за повишаване на ефективността си в противодействието на руската агресия. Хмара подчерта критичното значение на американската подкрепа за защитата на украинското население. По думите му САЩ могат да помогнат за прекратяване на започнатата от Русия война при условия, приемливи за Украйна. Министърът акцентира и върху необходимостта от продължаване на ограниченията върху финансовите възможности на Русия, тъй като това пряко влияе върху способността ѝ да финансира войната. Междувременно в Киев пристигнаха чуждестранни гости, включително ръководители на няколко държави и правителства, по повод Деня на независимостта на Украйна.",
@@ -96,7 +105,7 @@
       "link": "https://bntnews.bg/news/izsledvane-pokazva-che-povishavaneto-na-vaglerodniya-dioksid-v-atmosferata-stimulira-rastezha-na-trevite-v-afrikanskite-sava-1409194news.html",
       "pubDate": "2026-08-23T20:45:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/da782cff5d248f1df6ca0fa85efd068a.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/da782cff5d248f1df6ca0fa85efd068a.jpg"
     },
     {
       "id": "https://www.bta.bg/bg/news/world/1190524-upravlyavashtata-partiya-v-kazahstan-pecheli-ubeditelno-predsrochnite-parlamenta",
@@ -168,7 +177,7 @@
       "link": "https://bntnews.bg/news/ognenata-stihiya-krai-haskovo-voenen-helikopter-se-vklyuchi-v-gaseneto-1409246news.html",
       "pubDate": "2026-08-23T19:46:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/945fe01dd6a0f705d97435b03492fb83.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/945fe01dd6a0f705d97435b03492fb83.jpeg"
     },
     {
       "id": "https://www.bta.bg/bg/news/sport/1190520-hetafe-pobedi-rasing-santander-v-mach-ot-la-liga",
@@ -285,7 +294,7 @@
       "link": "https://bntnews.bg/news/ukraina-otricha-uchastie-vav-vzrivyavaneto-na-severen-potok-1409247news.html",
       "pubDate": "2026-08-23T19:05:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/c861bbfe914b9d46343e14073de65de1.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/c861bbfe914b9d46343e14073de65de1.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-foreign-country/sustoyanieto-na-kralya-na-norvegiya-se-e-vloshilo-ryazko",
@@ -342,15 +351,6 @@
       "imageUrl": "https://www.bta.bg/upload/13790959/b26f5b7fabf84cf38db6ea540cce12e3--2--b9b1b10f4fd1467fba9f8ed2301f0335.jpg"
     },
     {
-      "id": "https://www.bta.bg/bg/news/bulgaria/1190498-nyakolko-pozhara-plamnaha-v-stranata-v-haskovsko-sa-zasegnati-okolo-5000-dekara",
-      "title": "Няколко пожара пламнаха в страната, в Хасковско са засегнати около 5000 декара",
-      "summary": "Голям пожар пламна днес между селата Динево и Любеново в община Хасково. По предварителни данни засегнатата площ е около 5000 декара. В гасителните действия се включи и хеликоптер „Кугър“ от авиобаза \"Крумово\" и 17 военнослужещи с четири единици техника. На терен са 17 екипа на Регионална дирекция \"Пожарна безопасност и защита на населението\" - Хасково с около 60 огнеборци и осем спомагателни автомобила. Първоначално на терен бяха изпратени 11 пожарни екипа. В действията участват и служители на горските стопанства, доброволци и земеделски производители със земеделска техника, които подпомагат изграждането на просеки и ограничаването на разпространението на огъня. Пожар имаше и в община Симеоновград при землището на село Троян. Сигналът беше подаден около 15:00 ч., пожарът бе локализиран два часа по-късно. В гасенето на пожара се включи и земеделска техника от „Агро Бали“ – трактори и цистерна с вода, които оказаха съдействие за овладяването на огъня. На терен бяха и служители на Община Симеоновград. Пожар днес имаше и в района на село Гърмен, облат Благоевград. Той обхвана около 90 дка горска територия – предимно издънков дъб и култури от бял и черен бор. Огънят вече е напълно потушен. На място ще останат дежурни екипи на ДГС – Гърмен, за да следят огънят да не пламне отново. Сигналът за пожара е бил получен малко след 13:00 часа. Служители на Държавно горско стопанство – Гърмен, пожарникари и доброволци са участвали в потушаването на пожара, който е пламнал между гърменските села Сребатно и Балдево, ). Огънят е възникнал в труднодостъпен район. През почивните дни служители и техника на Югозападно държавно предприятие (ЮЗДП) са били мобилизирани заради няколко пожара. В петък следобед са получени сигнали за възникнали пожари над село Тишаново, община Невестино, както и в района на село Клисура, община Благоевград. Тази сутрин заради пожар временно бе ограничено движението на автомагистрала \"Тракия\" между км 26 до км 27, в посока София. Пламнала е растителност до пътя. Към 12:20 ч. пожарът е ликвидиран, съобщиха за БТА от Главна дирекция \"Пожарна безопасност и защита на населението\".",
-      "link": "https://www.bta.bg/bg/news/bulgaria/1190498-nyakolko-pozhara-plamnaha-v-stranata-v-haskovsko-sa-zasegnati-okolo-5000-dekara",
-      "pubDate": "2026-08-23T18:45:00.000Z",
-      "sourceId": "bta",
-      "imageUrl": "https://www.bta.bg/upload/13790130/IMG_1691.jpg"
-    },
-    {
       "id": "http://nova.bg/news/view/2026/08/23/548731/",
       "title": "Най-малко 30 загинаха при свличане на сметище в Гвинея",
       "summary": "Проливни дъждове предизвикаха инцидента",
@@ -384,7 +384,7 @@
       "link": "https://bntnews.bg/news/zahlazhdane-buri-i-gradushki-kakvo-vreme-ni-ochakva-prez-novata-sedmica-1409241news.html",
       "pubDate": "2026-08-23T18:30:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/6f8b42649243b598b14ec83066904fd9.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/6f8b42649243b598b14ec83066904fd9.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548726/",
@@ -402,7 +402,7 @@
       "link": "https://bntnews.bg/news/dvama-sa-zadarzhani-za-pozhara-izpepelil-2000-dekara-krai-sliven-1409239news.html",
       "pubDate": "2026-08-23T18:20:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/8449c62dff7d331bd42929538e1a777e.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/8449c62dff7d331bd42929538e1a777e.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548701/",
@@ -420,7 +420,7 @@
       "link": "https://bntnews.bg/news/predi-vota-v-germaniya-vazhod-na-alternativa-za-germaniya-1409236news.html",
       "pubDate": "2026-08-23T17:56:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/f30726e20e2f1b9aa7adc8442b7455a8.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/f30726e20e2f1b9aa7adc8442b7455a8.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/tramp-s-ostar-ton-kam-kanada-parvi-komentari-sled-provalenite-targovski-pregovori-1409233news.html",
@@ -429,7 +429,7 @@
       "link": "https://bntnews.bg/news/tramp-s-ostar-ton-kam-kanada-parvi-komentari-sled-provalenite-targovski-pregovori-1409233news.html",
       "pubDate": "2026-08-23T17:50:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/3f9fccf1741c1a459305a267a00ea127.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/3f9fccf1741c1a459305a267a00ea127.jpg"
     },
     {
       "id": "https://dariknews.bg/novini/biznes/tyrgovska-vojna-mezhdu-kanada-i-sasht-mita-udriat-miliardi-i-kliuchovi-sektori-2464413",
@@ -456,7 +456,7 @@
       "link": "https://bntnews.bg/news/volodimir-zelenski-izbori-sega-shte-razdelyat-stranata-1409231news.html",
       "pubDate": "2026-08-23T17:40:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/7ca7c0e535c1abc142b78df54be809d3.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/7ca7c0e535c1abc142b78df54be809d3.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/sled-seriyata-incidenti-vav-voenni-predpriyatiya-telegraf-rusiya-organizira-sabotazhi-v-evropa-1409230news.html",
@@ -465,7 +465,7 @@
       "link": "https://bntnews.bg/news/sled-seriyata-incidenti-vav-voenni-predpriyatiya-telegraf-rusiya-organizira-sabotazhi-v-evropa-1409230news.html",
       "pubDate": "2026-08-23T17:33:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/2b7da079bcd9156dc755bdd7988d493d.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/2b7da079bcd9156dc755bdd7988d493d.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-foreign-country/somaliyskite-pirati-otnovo-otvlichat-korabi",
@@ -501,7 +501,7 @@
       "link": "https://bntnews.bg/news/kakvo-y-e-na-trabata-v-zlatna-ribka-i-zashto-sozopol-shte-iska-pomosht-ot-mrrb-1409225news.html",
       "pubDate": "2026-08-23T17:15:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/26e122e2c246a67304b181b5e4dd1d10.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/26e122e2c246a67304b181b5e4dd1d10.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/ognena-stihiya-balkanite-i-saedinenite-shtati-se-boryat-s-pozhari-1409224news.html",
@@ -510,7 +510,7 @@
       "link": "https://bntnews.bg/news/ognena-stihiya-balkanite-i-saedinenite-shtati-se-boryat-s-pozhari-1409224news.html",
       "pubDate": "2026-08-23T17:10:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/6190da5a9fa28cdcb91f6e59c2d4b228.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/6190da5a9fa28cdcb91f6e59c2d4b228.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548723/",
@@ -564,7 +564,7 @@
       "link": "https://bntnews.bg/news/prezidentat-yotova-se-vklyuchi-v-chestvaniyata-po-vreme-na-21-viya-ikonografski-sabor-v-bachkovskiya-manastir-1409222news.html",
       "pubDate": "2026-08-23T16:35:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/4f1bcb6755244b3d70ed2f5da806a07f.JPG"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/4f1bcb6755244b3d70ed2f5da806a07f.JPG"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548712/",
@@ -600,7 +600,7 @@
       "link": "https://bntnews.bg/news/vasil-naidenov-za-novata-si-pesen-i-golemite-koncerti-1409220news.html",
       "pubDate": "2026-08-23T16:20:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/cb81a3b3a7591a4e4b8496a64a5e1c2c.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/cb81a3b3a7591a4e4b8496a64a5e1c2c.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548720/",
@@ -645,7 +645,7 @@
       "link": "https://bntnews.bg/news/eksperti-zaglushiteli-se-prodavat-svobodno-u-nas-nuzhna-e-regulaciya-1409216news.html",
       "pubDate": "2026-08-23T16:00:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/604a246de44ed999263506ff8e640c87.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/604a246de44ed999263506ff8e640c87.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548718/",
@@ -672,7 +672,7 @@
       "link": "https://bntnews.bg/news/potushen-e-pozharat-krai-selo-skrebatno-1409215news.html",
       "pubDate": "2026-08-23T15:37:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/6d396b4be0627e65bae0884c3ba8aa0b.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/6d396b4be0627e65bae0884c3ba8aa0b.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-bulgaria/vlak-deraylira-zaradi-zhegite-kray-gorna-banya",
@@ -690,7 +690,7 @@
       "link": "https://bntnews.bg/news/teheran-zaplashi-darzhavite-koito-podkrepyat-amerikanskite-sankcii-1409213news.html",
       "pubDate": "2026-08-23T15:35:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/07f80c0455faccf2f230a9b4da0d41a1.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/07f80c0455faccf2f230a9b4da0d41a1.jpg"
     },
     {
       "id": "https://www.segabg.com/hot/category-bulgaria/pozhar-na-poligona-koren-zaplashi-tri-sela",
@@ -717,7 +717,7 @@
       "link": "https://bntnews.bg/news/cenite-po-moreto-klientite-vav-varna-s-novi-navici-1409207news.html",
       "pubDate": "2026-08-23T15:20:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/aa66bdd74fe65f84509d78b26dc20dca.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/aa66bdd74fe65f84509d78b26dc20dca.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548716/",
@@ -744,7 +744,7 @@
       "link": "https://bntnews.bg/news/aec-paksh-vazstanovyava-palniya-si-kapacitet-sled-rekordno-niskoto-nivo-na-dunav-1409210news.html",
       "pubDate": "2026-08-23T15:12:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/f618776294ea83e3829fab4c9c0a55d4.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/f618776294ea83e3829fab4c9c0a55d4.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548714/",
@@ -789,7 +789,7 @@
       "link": "https://bntnews.bg/news/snoshti-goryaha-suhi-trevi-na-mladezhkiya-halm-v-plovdiv-1409206news.html",
       "pubDate": "2026-08-23T14:45:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/d2b38d1cb306e174443f8e096b7a0e6b.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/d2b38d1cb306e174443f8e096b7a0e6b.jpg"
     },
     {
       "id": "https://bntnews.bg/news/krasivi-umove-deca-ot-yugozapada-s-medali-ot-oksford-1409204news.html",
@@ -798,7 +798,7 @@
       "link": "https://bntnews.bg/news/krasivi-umove-deca-ot-yugozapada-s-medali-ot-oksford-1409204news.html",
       "pubDate": "2026-08-23T14:40:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/6b9a09fb6b65a3f2d3b95837dfc2a1da.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/6b9a09fb6b65a3f2d3b95837dfc2a1da.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-foreign-country/bunt-centur-za-migranti-kray-bulgarskata-granica",
@@ -834,7 +834,7 @@
       "link": "https://bntnews.bg/news/naprezhenie-vav-varna-zaradi-novata-biletna-sistema-v-gradskiya-transport-1409200news.html",
       "pubDate": "2026-08-23T14:36:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/b95af4db176f42d5cff451f691742c10.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/b95af4db176f42d5cff451f691742c10.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548707/",
@@ -879,7 +879,7 @@
       "link": "https://bntnews.bg/news/verizhna-katastrofa-s-chetiri-avtomobila-na-am-trakiya-nyama-postradali-1409203news.html",
       "pubDate": "2026-08-23T14:04:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/a042a6c8b3dd62c34c5d074d0abff7fe.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/a042a6c8b3dd62c34c5d074d0abff7fe.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/signali-za-narusheniya-v-zavedenie-v-sozopol-bivshi-sluzhiteli-tvardyat-che-ne-sa-poluchili-dogovorenoto-zaplashtane-1409197news.html",
@@ -888,7 +888,7 @@
       "link": "https://bntnews.bg/news/signali-za-narusheniya-v-zavedenie-v-sozopol-bivshi-sluzhiteli-tvardyat-che-ne-sa-poluchili-dogovorenoto-zaplashtane-1409197news.html",
       "pubDate": "2026-08-23T14:02:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/3b8adf88c0cffc35a0f218a5827ca502.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/3b8adf88c0cffc35a0f218a5827ca502.jpg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548709/",
@@ -924,7 +924,7 @@
       "link": "https://bntnews.bg/news/pozhar-gori-v-trudnodostapna-mestnost-mezhdu-gocedelchevskite-sela-baldevo-i-skrebotno-1409201news.html",
       "pubDate": "2026-08-23T13:45:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/4fd94118bdc589e4d5846e87e047cc97.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/4fd94118bdc589e4d5846e87e047cc97.jpg"
     },
     {
       "id": "https://www.segabg.com/hot/category-economy/durzhavata-shte-poema-zaplati-i-osigurovki-na-roditeli-malki-deca",
@@ -969,7 +969,7 @@
       "link": "https://bntnews.bg/news/17-ekipa-gasyat-pozhar-krai-haskovskite-sela-dinevo-i-koren-1409199news.html",
       "pubDate": "2026-08-23T13:23:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/040ebbe62518ceda0879994f0992b971.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/040ebbe62518ceda0879994f0992b971.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/08/23/548702/",
@@ -996,7 +996,7 @@
       "link": "https://bntnews.bg/news/novi-opiti-za-telefonni-izmami-v-pazarjishko-1409195news.html",
       "pubDate": "2026-08-23T13:00:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/955ef2deb67f89b77c6e7d3b8ff00532.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/955ef2deb67f89b77c6e7d3b8ff00532.jpg"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/zhenata-zaginala-pri-tragichniia-incident-v-rila-e-uvazhavan-lekar-i-prepodavatel-2464401",
@@ -1041,7 +1041,7 @@
       "link": "https://bntnews.bg/news/dete-na-11-godini-e-postradalo-tezhko-pri-padane-s-elektricheska-trotinetka-v-montana-1409192news.html",
       "pubDate": "2026-08-23T12:35:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://bntnews.bg/f/news/b/1409/719af47738777f1dac2ebd86d3894215.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1409/719af47738777f1dac2ebd86d3894215.jpeg"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/tezhyk-incident-s-trotinetka-kraj-berkovica-dete-e-s-opasnost-za-zhivota-2464400",
