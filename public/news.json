@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T22:27:43.607Z",
+  "generatedAt": "2026-09-10T00:31:55.487Z",
   "sources": [
     {
       "id": "boulevard",
@@ -53,6 +53,33 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "https://www.bta.bg/bg/news/world/1201085-trevoga-zaradi-dron-vav-vazdushnoto-prostranstvo-na-moldova-zabavi-zaminavaneto-",
+      "title": "Тревога заради дрон във въздушното пространство на Молдова забави заминаването на Зеленски за Норвегия, съобщи молдовското правителство",
+      "summary": "Заминаването от Молдова на самолет, транспортиращ украинския президент Володимир Зеленски към Норвегия, беше забавено, след като властите затвориха въздушното пространство на страната поради нахлуване на дрон, съобщи говорител на молдовското правителство, цитиран от Ройтерс. Самолетът на президента получил разрешение за излитане, след като било установено, че руски дрон е паднал на територията на Молдова, каза говорителят. Общо три излитания и четири кацания са били забавени, докато въздушното пространство на Молдова е било затворено. Два руски дрона навлязоха във въздушното пространство на Молдова, съобщиха молдовски официални представители във вторник. Единият падна в поле на север от столицата, предизвиквайки пожар, докато вторият продължи към румънското въздушно пространство. Молдовският президент Мая Санду осъди нахлуването на дроновете като „сериозна заплаха за живота на хората“ и осъди руска атака с дрон срещу граничен пункт с Украйна, при която бяха убити двама души. Зеленски пътуваше към Осло за погребението на краля на Норвегия. Норвежкият премиер Йонас Гар Стьоре снощи заяви пред обществената телевизия Ен Ер Ко, че самолетът на Зеленски е бил на косъм от сблъсък с дрон. „Самолетът му е бил на косъм от сблъсък с дрон, точно когато се готвел да излети от Молдова. Това е реалността, с която той се сблъсква“, каза Стьоре, който обаче не посочи източника на информацията си, нито колко близо се е приближил дронът. Зеленски снощи присъства на погребението на крал Харалд Пети от Норвегия заедно с други държавни глави в центъра на Осло. Той напусна Норвегия скоро след края на погребението.",
+      "link": "https://www.bta.bg/bg/news/world/1201085-trevoga-zaradi-dron-vav-vazdushnoto-prostranstvo-na-moldova-zabavi-zaminavaneto-",
+      "pubDate": "2026-09-10T00:19:42.000Z",
+      "sourceId": "bta",
+      "imageUrl": "https://www.bta.bg/upload/13847167/4c77d9f345d9431089c3234a48c7e5a1--0--6c3c72e696db49f89dd9813fc9896cd8.jpg"
+    },
+    {
+      "id": "https://www.bta.bg/bg/news/world/1201084-kralstvo-v-uganda-izbra-televizionen-vodesht-za-nov-monarh-koyto-da-nasledi-pok",
+      "title": "Кралство в Уганда избра телевизионен водещ за нов монарх, който да наследи покойния крал Ойо Нимба",
+      "summary": "Традиционното кралство в Уганда Тооро снощи избра телевизионен водещ на новините за наследник на крал Ойо Нимба, който почина миналия месец на 34 години, предаде Ройтерс. Ойо Нимба почина на 27 август в САЩ, където се лекуваше от рак. Въпреки че Уганда е конституционна република, Ойо Нимба управляваше кралството Тооро в западната част на страната. То е едно от традиционните древни кралства на бившата британска колония и все още има значително културно и социално влияние. На пресконференция в столицата на кралството Форт Портал комитетът по унаследяването на кралския клан обяви, че е избрал за монарх принц Едуард Рукиди Киджанангома, водещ на новините и редактор в държавната телевизия. Според \"Книгата на рекордите на Гинес\" Ойо Нимба става „най-младият действащ монарх“ през 1995 г., когато е коронован на 3-годишна възраст. На кадри от видеозапис от коронацията му се вижда как малко момче седи на трона и си играе с играчка. Тялото на Ойо Нимба беше върнато в Уганда от САЩ миналия петък и в момента тече подготовката за погребението му в кралската гробница близо до двореца във Форт Портал.",
+      "link": "https://www.bta.bg/bg/news/world/1201084-kralstvo-v-uganda-izbra-televizionen-vodesht-za-nov-monarh-koyto-da-nasledi-pok",
+      "pubDate": "2026-09-09T23:43:36.000Z",
+      "sourceId": "bta",
+      "imageUrl": "https://www.bta.bg/upload/13805199/48b39efa784a43b290f23aa79d8489ec--0--fc6526ecf65b42fcbcf41f843a2b6350.jpg"
+    },
+    {
+      "id": "https://www.bta.bg/bg/news/world/1201075-rubio-zayavi-che-shte-se-opita-da-osiguri-45-miliona-dolara-za-finansirane-na-m",
+      "title": "Рубио заяви, че ще се опита да осигури 45 милиона долара за финансиране на мерки за сигурност в Еквадор",
+      "summary": "Американският държавен секретар Марко Рубио заяви по време на посещението си в Еквадор снощи, че ще се опита да осигури допълнително финансиране на стойност 45 милиона долара за мерки за сигурност в латиноамериканската страна, както и допълнително оборудване, в контекста на засилените мерки на Вашингтон срещу трафика на наркотици, предаде Ройтерс. САЩ определиха еквадорската организирана престъпна групировка „Лос Тигеронес“ за „чуждестранна терористична организация“ като част от усилията си за борба срещу трафика на наркотици в Латинска Америка. „Не става дума за обикновена мафия, не става дума за престъпници, а за терористи“, заяви Рубио в еквадорската столица Кито, където се очаква да се срещне с президента Даниел Нобоа, който е близък съюзник на американския президент Доналд Тръмп.",
+      "link": "https://www.bta.bg/bg/news/world/1201075-rubio-zayavi-che-shte-se-opita-da-osiguri-45-miliona-dolara-za-finansirane-na-m",
+      "pubDate": "2026-09-09T22:54:00.000Z",
+      "sourceId": "bta",
+      "imageUrl": "https://www.bta.bg/upload/13848427/a2ead0d953f54abcabe9d6dfb0e09ee8--1--b40d9d7306164d929a21a67a7aea4f7f.jpg"
+    },
     {
       "id": "https://www.bta.bg/bg/news/world/1201078-apartamentat-na-vodeshtiya-kandidat-na-sotsialistite-za-mestnite-izbori-v-berlin",
       "title": "Апартаментът на водещия кандидат на социалистите за местните избори в Берлин бе претърсен от полицията дни преди изборите",
@@ -132,7 +159,7 @@
       "link": "https://bntnews.bg/news/silni-buri-i-prolivni-dazhdove-v-sloveniya-izdaden-e-oranzhev-kod-za-opasnost-1411680news.html",
       "pubDate": "2026-09-09T20:24:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/0726cbc6921810f4a6837c0d50856d56.jpg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/0726cbc6921810f4a6837c0d50856d56.webp"
     },
     {
       "id": "https://www.bta.bg/bg/news/lik/1201077-komediyata-ne-zalagay-na-anglichanite-e-nay-novoto-zaglavie-v-afisha-na-teata",
@@ -177,7 +204,7 @@
       "link": "https://bntnews.bg/news/samoletat-na-zelenski-edva-ne-e-bil-udaren-ot-dron-pri-izlitaneto-ot-moldova-za-norvegiya-1411677news.html",
       "pubDate": "2026-09-09T19:58:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/57b2097b1bd0fcaa3951ca01f23ac718.jpg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/57b2097b1bd0fcaa3951ca01f23ac718.webp"
     },
     {
       "id": "https://dariknews.bg/novini/sviat/korabche-s-bylgari-se-sblyska-s-ribolovna-lodka-kraj-zakintos-2466056",
@@ -204,7 +231,7 @@
       "link": "https://bntnews.bg/news/vnezapno-pochina-grackiyat-pevec-yorgos-mazonakis-1411678news.html",
       "pubDate": "2026-09-09T19:44:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/c9d97cb22cbf87d65c1f19c6191fa6c7.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/c9d97cb22cbf87d65c1f19c6191fa6c7.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550787/",
@@ -222,7 +249,7 @@
       "link": "https://bntnews.bg/news/sreshta-na-varha-po-vaprosite-na-kosmosa-v-parizh-1411676news.html",
       "pubDate": "2026-09-09T19:27:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/6020718862ba8050a40316ab09b02dfd.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/6020718862ba8050a40316ab09b02dfd.webp"
     },
     {
       "id": "https://www.bta.bg/bg/news/lik/1201072-dzhim-kaviyzal-ot-strastite-hristovi-shte-uchastva-vav-filma-za-stoichkov",
@@ -279,33 +306,6 @@
       "imageUrl": "https://nstatic.nova.bg/public/pics/nova/article/396x223_1788979998.jpg"
     },
     {
-      "id": "https://www.bta.bg/bg/news/world/1201071-rusiya-i-vietnam-se-dogovoriha-da-zasilyat-satrudnichestvoto-po-reditsa-napravle",
-      "title": "Русия и Виетнам се договориха да засилят сътрудничеството по редица направления",
-      "summary": "Русия и Виетнам възнамеряват да засилят сътрудничеството в борбата с екстремизма и радикализацията, особено сред младото поколение. Това се посочва в съвместно изявление на двете страни след разговорите между президентите Владимир Путин и То Лам, състояли се в Москва, предаде ТАСС. Отбелязва се, че в този контекст Русия и Виетнам подчертават необходимостта от засилване на взаимодействието между компетентните органи на двете страни, включително чрез обмен на добри практики и опит. „Страните ще продължат да координират усилията си за противодействие на използването на информационни и комуникационни технологии (ИКТ) за терористични, екстремистки и други престъпни цели, както и за намеса във вътрешните работи на държавите и подкопаване на техния суверенитет“, се казва в изявлението. Освен това Русия и Виетнам ще засилят обмена на информация и опит в областта на противодействието на замислите и дейността на недружелюбни държави и техните специални служби, насочени към намеса във вътрешните работи, както и към оказване на влияние върху държавните, политическите и законодателните институции. Уточнява се, че страните възнамеряват да установят практическо сътрудничество в областта на информационните технологии, включително чрез насърчаване на инициативата за създаване на регионален център за борба с киберпрестъпността в Азиатско-тихоокеанския регион под егидата на Службата на ООН по наркотиците и престъпността. Русия и Виетнам също така подчертаха значението на разработването под егидата на ООН на универсални правно обвързващи норми с цел изграждане на справедлива и равноправна система за международна информационна сигурност. „Страните са готови да разширят взаимодействието в областта на предотвратяването и борбата с престъпността във всичките ѝ форми и проявления, включително престъпленията, извършвани с използването на ИКТ, както и да продължат сътрудничеството между правоохранителните органи на двете страни“, се отбелязва в изявлението. Президентите на Русия и Виетнам Владимир Путин и То Лам приеха след двустранните си разговори съвместно изявление за по-нататъшното укрепване на руско-виетнамските отношения. Документът е публикуван на сайта на Кремъл. Изявлението съдържа три раздела. Първият раздел включва пет точки и описва основите, целите и принципите за развитие на отношенията между двете страни. Вторият раздел е посветен на основните направления на двустранното сътрудничество. По-специално внимание се отделя на политиката и дипломацията, отбраната и сигурността, търговията и икономиката, горивно-енергийния комплекс, транспортния сектор, промишлеността и селското стопанство, науката, технологиите, образованието, подготовката на кадри, здравеопазването и хуманитарното сътрудничество. Третият раздел е посветен на основните направления на международното сътрудничество. Общо изявлението съдържа 50 точки. Сътрудничеството между Русия и Виетнам в областта на отбраната и сигурността не е насочено срещу трети страни и се осъществява в пълно съответствие с международното право. Това се посочва в съвместно изявление на двете страни след разговорите между президентите Владимир Путин и То Лам. Отбелязва се, че Русия и Виетнам са се договорили да активизират обмена на делегации, преди всичко на високо равнище, да укрепват сътрудничеството между видовете и родовете въоръжени сили, както и в областта на хуманитарното разминиране, гарантирането на морската сигурност и безопасността на корабоплаването, подготовката на кадри и повишаването на квалификацията на специалисти. Двете страни възнамеряват да развиват сътрудничеството и в областта на науката и техниката, както и във военните технологии в нови направления. Русия и Виетнам изразиха също така дълбока загриженост, че конфликтът в Украйна води до жертви сред цивилното население, и призоваха международната общност да се откаже от доставките на оръжие за тази страна. Това се посочва в съвместно изявление на двете държави след разговорите между президентите Владимир Путин и То Лам.",
-      "link": "https://www.bta.bg/bg/news/world/1201071-rusiya-i-vietnam-se-dogovoriha-da-zasilyat-satrudnichestvoto-po-reditsa-napravle",
-      "pubDate": "2026-09-09T19:17:48.000Z",
-      "sourceId": "bta",
-      "imageUrl": "https://www.bta.bg/upload/13848224/96ebe8cefbbc4a738bff09be3304022f--0--7da4570abc2f413cb8deb4c78d7e7c1d.jpg"
-    },
-    {
-      "id": "https://www.bta.bg/bg/news/bulgaria/1201064-do-95-protsenta-ot-sredstvata-v-nyakoi-obshtini-v-razgradsko-se-razhodvat-v-prot",
-      "title": "До 95 процента от средствата в някои общини в Разградско се разходват в процедури без реална конкуренция, показва анализ на сдружение",
-      "summary": "Между 52 и 95 процента от средствата в различните общини в област Разград се разходват чрез процедури с един кандидат, без реална конкуренция. Това заяви изпълнителният директор на Сдружение „Център за съзидателно правосъдие“ Георги Милков на пресконференция в Националния пресклуб на БТА в Разград на тема „Как функционират обществените поръчки в област Разград: данни, тенденции, рискове“. В пресконференцията участва и председателят на Управителния съвет на сдружението адв. Димо Борисов. По думите на Милков екипът на сдружението е анализирал над 200 обществени поръчки на обща стойност 33 млн. евро в седемте общини в областта. Той посочи, че според данни от националната платформа СИГМА 31,7 процента от обществените поръчки в страната се провеждат с един кандидат. Според Милков установените показатели за област Разград сочат устойчив модел, който създава риск за европейските фондове, общинските бюджети и публичния интерес. Като общини с критично високи нива на риск в анализа са посочени Исперих, Кубрат, Лозница, Завет и Цар Калоян, а среден риск е отчетен за Разград и Самуил. Милков заяви, че анализът показва и масово отстраняване на кандидати от процедурите при обществени поръчки на стойност над 1 млн. евро. Адв. Димо Борисов каза, че в анализа са откроени и случаи, при които е избран кандидат, предложил цена с 25 000 евро по-висока от тази на конкурент. По думите му това е възможно заради методиката за оценка на офертите. Анализът отчита и повтаряемост на едни и същи членове в комисиите за избор на изпълнители. Според представителите на сдружението това може да бъде индикатор за административен контрол. „Данните показват устойчив модел, който се повтаря в различни общини, при различни комисии и при различни видове обществени поръчки“, посочи Борисов. Като основни рискове той определи ограничаването на конкуренцията, възможното надплащане, предрешените резултати, концентрацията на публични средства в малък брой фирми, както и риска за европейските фондове и общинските бюджети. От Сдружение „Център за съзидателно правосъдие“ препоръчват на прокуратурата да извърши проверки за евентуални длъжностни престъпления, предварителни договорки и масово отстраняване на кандидати. На Сметната палата сдружението препоръчва да извърши одит на обществените поръчки на стойност над 500 хил. евро, на европейските средства и на комисиите за избор на изпълнители.",
-      "link": "https://www.bta.bg/bg/news/bulgaria/1201064-do-95-protsenta-ot-sredstvata-v-nyakoi-obshtini-v-razgradsko-se-razhodvat-v-prot",
-      "pubDate": "2026-09-09T19:15:27.000Z",
-      "sourceId": "bta",
-      "imageUrl": "https://www.bta.bg/upload/13847412/1.jpg"
-    },
-    {
-      "id": "https://www.bta.bg/bg/news/sport/1201070-ima-veroyatnost-da-igraem-sreshtu-monako-na-noviya-stadion-kaza-tehnicheskiyat-",
-      "title": "Има вероятност да играем срещу Монако на новия стадион, каза техническият директор на ЦСКА Михаил Александров",
-      "summary": "Техническият директор на ЦСКА Михаил Александров призна, че \"червените\" може да изиграят първия мач на новия си стадион срещу Монако в основната фаза в Лигата на конференциите на 15 октомври. Един от ръководителите в клуба говори по различни теми след победата на \"червените\" с 4:2 срещу Левски в мача за Суперкупата на България. \"Благодаря на всички в клуба, най-вече на треньора. Със сигурност първото полувреме не беше нашето, не след това показахме това на което сме способни. Второто показахме какъв отбор е ЦСКА. Напълно заслужена Суперкупа. Вероятност има мача с Монако да се играе на новия на стадион. Не искам да давам крайни оценки и крайни дати. Нека бъдем смирени за още няколко дни. Има и други процедури, който трябва да минат, освен акт 16. Правим всичко възможно да влезем колко се може по-бързо на \"Армията\" не само в шампионата, но и в Европа. Тестов мач така или иначе трябва да има по регулациите на УЕФА, за да може да се уверят, че всички системи работят. Трябва да се определи само правилната дата за такъв мач. За да не излиза информация от клуба, значи все още не сме готови да я дадем\", коментира Александров.",
-      "link": "https://www.bta.bg/bg/news/sport/1201070-ima-veroyatnost-da-igraem-sreshtu-monako-na-noviya-stadion-kaza-tehnicheskiyat-",
-      "pubDate": "2026-09-09T19:12:00.000Z",
-      "sourceId": "bta",
-      "imageUrl": "https://www.bta.bg/upload/9993529/1000185646.jpg"
-    },
-    {
       "id": "http://nova.bg/news/view/2026/09/09/550828/",
       "title": "Андрю и Тристан Тейт остават в ареста в САЩ",
       "summary": "Те се борят срещу екстрадирането си в Обединеното кралство",
@@ -339,7 +339,7 @@
       "link": "https://bntnews.bg/news/velichie-izdiga-kandidaturata-na-ivelin-mihailov-za-prezident-i-na-yuliana-mateeva-za-viceprezident-1411669news.html",
       "pubDate": "2026-09-09T18:52:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/340d3f8964b5b6721917b58afa0fdc37.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/340d3f8964b5b6721917b58afa0fdc37.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550784/",
@@ -366,7 +366,7 @@
       "link": "https://bntnews.bg/news/kabinetat-predlaga-oblekchavane-na-dostapa-do-semeini-pomoshti-1411670news.html",
       "pubDate": "2026-09-09T18:39:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/9b0ef08a4c5e7e698fd6658d1606c4ae.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/9b0ef08a4c5e7e698fd6658d1606c4ae.webp"
     },
     {
       "id": "https://www.segabg.com/hot/category-the-war/samoletut-na-zelenski-edva-se-e-razminal-udar-dron-moldova",
@@ -393,7 +393,7 @@
       "link": "https://bntnews.bg/news/ministerskiyat-savet-prie-reshenie-za-aktualizaciya-na-patnata-karta-za-zavarshvane-na-am-struma-1411668news.html",
       "pubDate": "2026-09-09T18:26:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/5864d97b13333e03984e7641b194c7c9.JPG"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/5864d97b13333e03984e7641b194c7c9.JPG"
     },
     {
       "id": "https://dariknews.bg/novini/sviat/samoletyt-na-zelenski-edva-ne-e-bil-udaren-ot-dron-v-moldova-2466052",
@@ -420,7 +420,7 @@
       "link": "https://bntnews.bg/news/promyana-na-vremeto-zahlazhdane-valezhi-i-gramotevichni-buri-v-kraya-na-sedmicata-1411660news.html",
       "pubDate": "2026-09-09T18:14:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/f225d57d5d946d564820c08f77602b35.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/f225d57d5d946d564820c08f77602b35.webp"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/zabrana-za-legalnite-bonus-za-nelegalnite-populizmyt-zad-novata-ataka-sreshtu-hazarta-kojto-oshtetiava-samo-bylgarskite-kompanii-2466051",
@@ -465,7 +465,7 @@
       "link": "https://bntnews.bg/news/kucheta-nahapaha-6-godishno-dete-vav-vraca-zhivotnite-sa-domashni-i-sa-bili-pusnati-svobodno-1411643news.html",
       "pubDate": "2026-09-09T17:52:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/f81850ca10dfe5d5c8668dfca80df902.png"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/f81850ca10dfe5d5c8668dfca80df902.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550825/",
@@ -501,7 +501,7 @@
       "link": "https://bntnews.bg/news/ima-li-zadarzhani-za-palezhite-na-avtomobili-v-stolichnite-kvartali-lagera-i-hipodruma-1411657news.html",
       "pubDate": "2026-09-09T17:44:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/9d2828468ab2e5970db12b057f59c00b.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/9d2828468ab2e5970db12b057f59c00b.webp"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/ivelin-mihajlov-i-iuliana-mateeva-sa-kandidatite-na-velichie-za-prezident-2466049",
@@ -528,7 +528,7 @@
       "link": "https://bntnews.bg/news/iliyana-yotova-sahranenieto-na-ezika-i-identichnostta-na-balgarskata-obshtnost-v-moldova-e-ot-vzaimen-interes-1411664news.html",
       "pubDate": "2026-09-09T17:30:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/30f31056370880f6af4cd04b5d856eb4.jpg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/30f31056370880f6af4cd04b5d856eb4.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550823/",
@@ -546,7 +546,7 @@
       "link": "https://bntnews.bg/news/posledno-sbogom-s-kralya-na-norvegiya-harald-v-1411654news.html",
       "pubDate": "2026-09-09T17:27:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/c649d17df566756bd2c19d63a01705bf.jpg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/c649d17df566756bd2c19d63a01705bf.webp"
     },
     {
       "id": "https://www.segabg.com/hot/category-bulgaria/policiya-obiskira-dulgogodishen-kmet-gerb",
@@ -564,7 +564,7 @@
       "link": "https://bntnews.bg/news/pisa-2025-koi-sa-dobrite-primeri-za-uspeshna-obrazovatelna-sistema-1411636news.html",
       "pubDate": "2026-09-09T17:21:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/e61f2ad842807ef270d6dcc61082eac8.png"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/e61f2ad842807ef270d6dcc61082eac8.webp"
     },
     {
       "id": "https://bntnews.bg/news/zadalbochavane-na-dvustrannite-otnosheniya-obsadiha-vicepremierat-ivo-hristov-i-vanshniyat-ministar-na-moldova-nihai-popshoi-1411663news.html",
@@ -573,7 +573,7 @@
       "link": "https://bntnews.bg/news/zadalbochavane-na-dvustrannite-otnosheniya-obsadiha-vicepremierat-ivo-hristov-i-vanshniyat-ministar-na-moldova-nihai-popshoi-1411663news.html",
       "pubDate": "2026-09-09T17:12:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/1f794cb85c36d2640074e5a058a82b0a.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/1f794cb85c36d2640074e5a058a82b0a.webp"
     },
     {
       "id": "https://bntnews.bg/news/podpisaha-nacionalniya-ramkov-dogovor-za-kakvo-shte-plashta-zdravnata-kasa-do-2028-godina-1411656news.html",
@@ -582,7 +582,7 @@
       "link": "https://bntnews.bg/news/podpisaha-nacionalniya-ramkov-dogovor-za-kakvo-shte-plashta-zdravnata-kasa-do-2028-godina-1411656news.html",
       "pubDate": "2026-09-09T17:08:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/dc3e5e92f0b899fcf436e190fc808905.jpg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/dc3e5e92f0b899fcf436e190fc808905.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550821/",
@@ -663,7 +663,7 @@
       "link": "https://bntnews.bg/news/zaradi-signal-za-zloupotrebi-s-proekti-po-pvu-obiski-v-obshtina-brusarci-i-razpit-na-kmeticata-1411659news.html",
       "pubDate": "2026-09-09T16:54:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/2f9f52b527535537b9f5c0e116752dea.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/2f9f52b527535537b9f5c0e116752dea.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550820/",
@@ -699,7 +699,7 @@
       "link": "https://bntnews.bg/news/ek-aktualizira-pravilata-za-obshtestveni-porachki-v-es-1411652news.html",
       "pubDate": "2026-09-09T16:46:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/f3bd6fc8ba46da5c9f78d426dcdbe42b.JPG"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/f3bd6fc8ba46da5c9f78d426dcdbe42b.JPG"
     },
     {
       "id": "https://bntnews.bg/news/letishtata-vav-velikobritaniya-sled-tehnicheskiya-sriv-–-ochakva-se-doklad-za-prichinite-za-haosa-1411649news.html",
@@ -708,7 +708,7 @@
       "link": "https://bntnews.bg/news/letishtata-vav-velikobritaniya-sled-tehnicheskiya-sriv-–-ochakva-se-doklad-za-prichinite-za-haosa-1411649news.html",
       "pubDate": "2026-09-09T16:38:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/d342f4d134e1ea3b9647202819fed8a7.jpg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/d342f4d134e1ea3b9647202819fed8a7.webp"
     },
     {
       "id": "tag:boulevardbulgaria.bg,2005:Article/47913",
@@ -753,7 +753,7 @@
       "link": "https://bntnews.bg/news/cik-do-15-oktomvri-shte-se-izvarshi-remont-i-profilaktika-na-vsichki-mashini-s-koito-razpolaga-darzhavata-1411646news.html",
       "pubDate": "2026-09-09T16:19:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/ee3edabcfee11788dbb84a152bda4fcf.png"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/ee3edabcfee11788dbb84a152bda4fcf.webp"
     },
     {
       "id": "https://bntnews.bg/news/sofiya-i-sandanski-s-shans-za-evropeiski-stolici-na-turizma-2027-1411631news.html",
@@ -762,7 +762,7 @@
       "link": "https://bntnews.bg/news/sofiya-i-sandanski-s-shans-za-evropeiski-stolici-na-turizma-2027-1411631news.html",
       "pubDate": "2026-09-09T16:15:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/f681b6d74bee9b7f4055c4d8f5e78e54.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/f681b6d74bee9b7f4055c4d8f5e78e54.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550807/",
@@ -816,7 +816,7 @@
       "link": "https://bntnews.bg/news/bozhidar-bozhanov-db-prezidentat-tryabva-da-bade-protivotezhest-na-vlastta-1411648news.html",
       "pubDate": "2026-09-09T15:52:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/5954dc80ddc641a2e49efe204b6eaddb.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/5954dc80ddc641a2e49efe204b6eaddb.webp"
     },
     {
       "id": "tag:boulevardbulgaria.bg,2005:Article/47912",
@@ -861,7 +861,7 @@
       "link": "https://bntnews.bg/news/nov-evropeiski-zakon-shte-stimulira-inovaciite-1411632news.html",
       "pubDate": "2026-09-09T15:41:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/e5e1d5bc5e056d3f4b7a884ddf40a97e.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/e5e1d5bc5e056d3f4b7a884ddf40a97e.webp"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/pp-nominira-andrej-iankulov-emil-dechev-i-oshte-petima-za-chlenove-na-vss-2466038",
@@ -888,7 +888,7 @@
       "link": "https://bntnews.bg/news/shofyorat-obvinen-za-katastrofata-s-tri-zhertvi-na-am-trakiya-prez-yuni-e-osvoboden-ot-aresta-1411642news.html",
       "pubDate": "2026-09-09T15:30:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/f573a82fa5cff592fbb92ffbb47e2ea4.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/f573a82fa5cff592fbb92ffbb47e2ea4.webp"
     },
     {
       "id": "https://bntnews.bg/news/deistviyata-na-instituciite-za-prevenciya-na-navodneniyata-byaha-obsadeni-na-sreshta-v-ministerskiya-savet-1411640news.html",
@@ -897,7 +897,7 @@
       "link": "https://bntnews.bg/news/deistviyata-na-instituciite-za-prevenciya-na-navodneniyata-byaha-obsadeni-na-sreshta-v-ministerskiya-savet-1411640news.html",
       "pubDate": "2026-09-09T15:28:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/f379c0aacfcecccf3e01235d29504067.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/f379c0aacfcecccf3e01235d29504067.webp"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/vlastta-gotvi-merki-sreshtu-navodneniiata-sled-trevozhen-doklad-2466037",
@@ -942,7 +942,7 @@
       "link": "https://bntnews.bg/news/prodalzhavame-promyanata-predlaga-7-kandidati-za-vss-1411635news.html",
       "pubDate": "2026-09-09T15:23:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/65aea484e7b649effcefeeadbbcf0bc7.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/65aea484e7b649effcefeeadbbcf0bc7.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550805/",
@@ -960,7 +960,7 @@
       "link": "https://bntnews.bg/news/cenite-na-gorivata-u-nas-poskapvat-li-dizelat-i-benzinat-1411628news.html",
       "pubDate": "2026-09-09T15:16:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/981e2ba88ea7e15d6e02d2a97a08e150.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/981e2ba88ea7e15d6e02d2a97a08e150.webp"
     },
     {
       "id": "https://www.economic.bg/bg/a/view/vecherni-novini-api-napredva-s-tunela-pod-petrohan-sofija-tegli-367-mln-evro-zaem",
@@ -978,7 +978,7 @@
       "link": "https://bntnews.bg/news/reforma-v-patnite-strukturi-darzhavata-sazdava-ia-avtomobilen-transporten-operator-1411622news.html",
       "pubDate": "2026-09-09T15:00:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/8d487fe9569a5168d4ef97ddd3d01e6b.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/8d487fe9569a5168d4ef97ddd3d01e6b.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550801/",
@@ -1014,7 +1014,7 @@
       "link": "https://bntnews.bg/news/izteche-srokat-za-podavane-na-zayavleniya-na-partii-i-koalicii-za-uchastie-v-prezidentskite-izbori-1411629news.html",
       "pubDate": "2026-09-09T14:52:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/aff2495d96269399eea7acb08a80f84e.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/aff2495d96269399eea7acb08a80f84e.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550799/",
@@ -1041,7 +1041,7 @@
       "link": "https://bntnews.bg/news/ek-odobri-proekt-za-letni-lageri-za-deca-v-bednost-1411630news.html",
       "pubDate": "2026-09-09T14:47:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/c95c013d5bd3be3ebce9f5607665d287.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/c95c013d5bd3be3ebce9f5607665d287.webp"
     },
     {
       "id": "https://www.economic.bg/bg/a/view/poshtenska-banka-vliza-vyv-varnenskata-c-soft-no-s-uslovija",
@@ -1086,7 +1086,7 @@
       "link": "https://bntnews.bg/news/-progresivna-balgariya-vnese-nominaciite-si-za-chlenove-na-vss-1411627news.html",
       "pubDate": "2026-09-09T14:34:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/a57c8ad5ae4863ec013fd43966bdf9fa.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/a57c8ad5ae4863ec013fd43966bdf9fa.webp"
     },
     {
       "id": "http://nova.bg/news/view/2026/09/09/550792/",
@@ -1113,7 +1113,7 @@
       "link": "https://bntnews.bg/news/na-mezhdunarodno-sastezanie-kakvi-sa-prichinite-za-smartta-na-paraplanerista-v-stara-planina-1411617news.html",
       "pubDate": "2026-09-09T14:30:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/012daaf79b835b17a5c4ddb0b7542d04.jpg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/012daaf79b835b17a5c4ddb0b7542d04.webp"
     },
     {
       "id": "https://bntnews.bg/news/sasht-udryat-tankeri-na-iran-cenata-na-petrola-udari-100-dolara-za-barel-1411624news.html",
@@ -1122,7 +1122,7 @@
       "link": "https://bntnews.bg/news/sasht-udryat-tankeri-na-iran-cenata-na-petrola-udari-100-dolara-za-barel-1411624news.html",
       "pubDate": "2026-09-09T14:27:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/m/1411/7ce101c47a07195d880f5c65b7715762.jpeg"
+      "imageUrl": "https://bntnews.bg/f/news/b/1411/7ce101c47a07195d880f5c65b7715762.webp"
     },
     {
       "id": "https://www.economic.bg/bg/a/view/novijat-akt-za-inovaciite-se-pricelva-v-slabostta-na-es-mnogo-idei-malko-mashtab",
