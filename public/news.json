@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:50:04.288Z",
+  "generatedAt": "2026-10-25T00:14:12.304Z",
   "sources": [
     {
       "id": "boulevard",
@@ -54,13 +54,31 @@
   "errors": [],
   "items": [
     {
+      "id": "https://www.bta.bg/bg/news/world/1231980-sto-dushi-sa-arestuvani-po-vreme-bezreditsi-v-barselona",
+      "title": "Сто души са арестувани по време безредици в Барселона",
+      "summary": "Общо сто души за били арестувани в Барселона в събота, след като участници в антисистемна демонстрация са разграбили магазини и са подпалили публична собственост около централния площад „Каталуня“, съобщи Ройтерс. Министърът на вътрешните работи на испанския регион Каталония Нурия Парлон съобщи, че около 25 процента от задържаните са непълнолетни. Той допълни, че са били причинени над 30 пожара, а 14 магазина са били вандализирани в района, който е популярен сред туристите, както и сред местните жители за покупки през уикенда. Демонстрантите във втория по големина град на Испания са били призовани на протест с публикации в социалните мрежи за „движение срещу системата“ и с лозунги, познати от протестите на ученици във Франция през последните седмици. Видеоклипове в социалните мрежи показват хора, блокирани в магазини, сред които и универсалния магазин „Корте Инглес“, след като ролетните щори са били спуснати, за да предотвратят разграбване. В други публикации се виждат демонстранти с качулки, които разбиват витрини и бягат със стоки, понякога насърчавани от онлайн наблюдатели. Кметът на Барселона Жауме Колбони заяви, че вандализмът в града „няма да остане ненаказан“, като заплаши с правни последствия и за настойниците на непълнолетните, свързани с безредиците.",
+      "link": "https://www.bta.bg/bg/news/world/1231980-sto-dushi-sa-arestuvani-po-vreme-bezreditsi-v-barselona",
+      "pubDate": "2026-10-24T23:03:38.000Z",
+      "sourceId": "bta",
+      "imageUrl": "https://www.bta.bg/upload/14003368/1729c083b3b04d6b9635bed1ff38864c--0--ea0a792052474f5d97b5f8c486b4457e.jpg"
+    },
+    {
+      "id": "https://www.bta.bg/bg/news/world/1231885-tramp-potvardi-che-obmislya-da-premesti-prestsentara-na-beliya-dom-na-drugo-mya",
+      "title": "Тръмп потвърди, че обмисля да премести пресцентъра на Белия дом на друго място",
+      "summary": "Президентът на САЩ Доналд Тръмп потвърди, че обмисля да премести пресцентъра на Белия дом на друго място, предаде Ройтерс. В публикация в социалните мрежи Тръмп отхвърли информация, че планира да премахне залата за брифинги на Белия дом и да възстанови на нейно място исторически плувен басейн. Той заяви, че никога дори не му е „минавало през ума да направи нещо толкова глупаво“. Президентът обаче посочи, че може да премести журналистите от сегашното им място в Белия дом. „Може да преместя фалшивите новини на по-малко дразнещо място“, написа Тръмп. Във вторник в. „Ню Йорк таймс“ съобщи, че през август Тръмп е настоявал тогавашната говорителка на Белия дом Карълайн Левит да премести пресконференциите от залата за брифинги „Джеймс С. Брейди“ в Белия дом, но идеята така и не е била осъществена. Според публикацията президентът е казал на свои сътрудници, че предпочита на това място да има закрит терапевтичен басейн, изграден по време на управлението на Франклин Делано Рузвелт. Администрацията на Ричард Никсън обаче премахва басейна и на негово място е обособена залата за брифинги. Тръмп редовно обвинява американските медии, че отразяват несправедливо дейността на неговата администрация. Миналия месец Тръмп временно забрани на журналисти от Си Ен Ен, Ем Ес Нау и „Политико“ да влизат на територията на Белия дом, като заяви, че подобни ограничения могат да бъдат наложени и на други медии. Защитници на свободата на словото заявиха, че тази мярка нарушава гаранциите за свободата на печата, залегнали в Първата поправка на Конституцията на САЩ. Впоследствие Белият дом възстанови достъпа на журналистите след разпореждане на федерален съдия, който прецени, че забраната вероятно е противоконституционна. Администрацията на Тръмп обаче продължава да оспорва съдебното решение.",
+      "link": "https://www.bta.bg/bg/news/world/1231885-tramp-potvardi-che-obmislya-da-premesti-prestsentara-na-beliya-dom-na-drugo-mya",
+      "pubDate": "2026-10-24T22:11:39.000Z",
+      "sourceId": "bta",
+      "imageUrl": "https://www.bta.bg/upload/14017248/66c1bc6313104cc2a5b7aec9aa78b1bf--0--c9dbfc98537d4043a2be4b935c225747.jpg"
+    },
+    {
       "id": "https://bntnews.bg/news/prokurorite-ne-izbraha-chlenove-na-vss-glasuvaneto-prodalzhava-na-25-oktomvri-1418628news.html",
       "title": "Прокурорите не избраха членове на ВСС, гласуването продължава на 25 октомври",
       "summary": "Избирателната комисия обяви, че няма избрани членове на ВСС, тъй като нито един от кандидатите не е получил повече от половината от действителните гласове.&#13; Така изборът продължава на 25 октомври 2026...",
       "link": "https://bntnews.bg/news/prokurorite-ne-izbraha-chlenove-na-vss-glasuvaneto-prodalzhava-na-25-oktomvri-1418628news.html",
       "pubDate": "2026-10-24T21:37:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/ae6c6c2130a37e16c744aa4480c4b934.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/ae6c6c2130a37e16c744aa4480c4b934.jpeg"
     },
     {
       "id": "http://nova.bg/news/view/2026/10/25/556506/",
@@ -105,7 +123,7 @@
       "link": "https://bntnews.bg/news/astronomi-otkriha-v-kosmosa-drakonovo-yayce-ranen-etap-ot-razhdaneto-na-masivna-zvezda-1418632news.html",
       "pubDate": "2026-10-24T20:49:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/b4c80b2ba66761813700834cd9ad5e78.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/b4c80b2ba66761813700834cd9ad5e78.jpeg"
     },
     {
       "id": "https://www.bta.bg/bg/news/world/1231803-kiodo-visokopostaven-amerikanski-predstavitel-prizova-yaponiya-da-saglasuva-svo",
@@ -177,7 +195,7 @@
       "link": "https://bntnews.bg/news/masovi-protesti-vav-franciya-410-000-izlyazoha-na-ulicata-sblasaci-s-policiyata-v-parizh-1418629news.html",
       "pubDate": "2026-10-24T20:02:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/52d877089a7d06e3252ba427ed956644.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/52d877089a7d06e3252ba427ed956644.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/hutite-s-novi-udari-po-rafinerii-v-sauditska-arabiya-1418626news.html",
@@ -186,7 +204,7 @@
       "link": "https://bntnews.bg/news/hutite-s-novi-udari-po-rafinerii-v-sauditska-arabiya-1418626news.html",
       "pubDate": "2026-10-24T19:42:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/c3ada4df263cb71cf4b4ec61196a50cd.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/c3ada4df263cb71cf4b4ec61196a50cd.jpg"
     },
     {
       "id": "https://dariknews.bg/novini/liubopitno/vania-i-svetlin-sa-pyrvite-polufinalisti-v-zvezdnata-nadprevara-na-igri-na-voliata-2470047",
@@ -312,7 +330,7 @@
       "link": "https://bntnews.bg/news/slanchevo-vreme-utre-s-magli-sutrin-i-zahlazhdane-v-nachaloto-na-sedmicata-1418625news.html",
       "pubDate": "2026-10-24T18:55:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/8d5be850c6a48ce11a3f5df0b09240a4.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/8d5be850c6a48ce11a3f5df0b09240a4.jpg"
     },
     {
       "id": "https://bntnews.bg/news/balgarski-tradicii-v-sarceto-na-london-1418623news.html",
@@ -321,25 +339,7 @@
       "link": "https://bntnews.bg/news/balgarski-tradicii-v-sarceto-na-london-1418623news.html",
       "pubDate": "2026-10-24T18:50:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/66201d9da71a71a653d8c6affe4a7b93.webp"
-    },
-    {
-      "id": "https://www.bta.bg/bg/news/sport/1231963-borusiya-dortmund-se-nalozhi-nad-ayntraht-i-oglavi-klasiraneto-v-bundesligata",
-      "title": "Борусия Дортмунд се наложи над Айнтрахт и оглави класирането в Бундеслигата",
-      "summary": "Борусия Дортмунд победи с 1:0 Айнтрахт Франкфурт в среща от 7-ия кръг на Бундеслигата. Победното попадение за “жълто-черните” падна в 80-ата минута, когато резервата Максимилиан Байер вкара красив гол след асистенция на Джоуб Белингам. Преди това отборът на Нико Ковач имаше и удари две греди. Така Борусия след две поредни равенства се върна към победите, като със 17 точки излезе начело в класирането, но шампионът Байерн Мюнхен е с мач по-малко. Айнтрахт остава с 8 точки и заема 13-а позиция. Срещи от седмия кръг на футболното първенство на Германия: Борусия Дортмунд - Айнтрахт Франкфурт – 1:0 РБ Лайпциг – Елферсберг – 4:0 Аугсбург - Унион Берлин – 1:1 Майнц 05 - Вердер Бремен – 2:3 Кьолн - Шалке 04 – 0:0 Падерборн - Хамбургер ШФ – 1:0 от петък: Щутгарт - Борусия Мьонхенгладбах - 2:3 в неделя: Хофенхайм - Байер Леверкузен Фрайбург - Байерн Мюнхен В класирането води Борусия Дортмунд 17 точки, пред Байерн Мюнхен с 14, но с мач по-малко, Фрайбург и Байер Леверкузен с по 13, РБ Лайпциг и Вердер Бремен с по 12, Майнц и Елферсберг с по 10 и други.",
-      "link": "https://www.bta.bg/bg/news/sport/1231963-borusiya-dortmund-se-nalozhi-nad-ayntraht-i-oglavi-klasiraneto-v-bundesligata",
-      "pubDate": "2026-10-24T18:49:00.000Z",
-      "sourceId": "bta",
-      "imageUrl": "https://www.bta.bg/upload/14029373/24ee518d3fbd457bb3665f80b677923a--0--5dcdfbce44814c25823db43e0d9be6bd.jpg"
-    },
-    {
-      "id": "https://www.bta.bg/bg/news/world/1231957-riyad-saobshti-che-otlomki-ot-raketi-na-husite-izstrelyani-po-meka-i-medina-s",
-      "title": "Рияд съобщи, че отломки от ракети на хусите, изстреляни по Мека и Медина, са паднали в Джеда, Таиф и Рабиг; хусите отричат да са атакували светините",
-      "summary": "Саудитската Гражданска отбрана съобщи днес, че е прехванала две балистични ракети, изстреляни от йеменските хуси в посока на Мека и Медина, като отломки от ракетите са паднали на няколко места, включително в Джеда, Таиф и Рабиг, предаде Ройтерс. \"В района на Мека и на Медина Гражданската отбрана реагира след падането на отломки от прехванати две балистични ракети, изстреляни от терористичната милиция на хусите\", съобщи саудитската организация в мрежата Екс, като уточни, че част от отломките са паднали в Уади Мугамас, в околностите на Мека, посочва Франс прес. Хусите отрекоха да се вземали на прицел двата свещени за мюсюлманите града. Групировката заяви, че операциите й са насочени срещу саудитски петролни обекти и военни бази и че обявява тези атаки, когато те бъдат извършени. По-рано йеменските бунтовници съобщиха, че предприели атаки срещу петролни обекти и летища в Саудитска Арабия, в това число обект на саудитската петролна компания \"Сауди Арамко\" (Saudi Aramco) в Янбу, петролната рафинерия в Рабиг и международното летище \"Крал Халид\" в Рияд. Военен говорител на групировката каза, че са били атакувани също международното летище \"Крал Фахд\" в Дамам, летището в Наджран и авиобаза в Хамис Мушаит.",
-      "link": "https://www.bta.bg/bg/news/world/1231957-riyad-saobshti-che-otlomki-ot-raketi-na-husite-izstrelyani-po-meka-i-medina-s",
-      "pubDate": "2026-10-24T18:42:00.000Z",
-      "sourceId": "bta",
-      "imageUrl": "https://www.bta.bg/upload/13973944/b493ffffbe134d8f9a188bc08e83ba8f--0--130143c57253471bbeea6636820d544a.jpg"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/66201d9da71a71a653d8c6affe4a7b93.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/ima-li-problemi-predi-vota-v-burgasko-1418621news.html",
@@ -348,7 +348,7 @@
       "link": "https://bntnews.bg/news/ima-li-problemi-predi-vota-v-burgasko-1418621news.html",
       "pubDate": "2026-10-24T18:40:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/24baee912b0e60a061fd3fa44de86fd5.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/24baee912b0e60a061fd3fa44de86fd5.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-economy/shefut-na-ryanair-predupredi-za-20-po-skupi-bileti-prez-2027-g",
@@ -366,7 +366,7 @@
       "link": "https://bntnews.bg/news/predi-vota-v-malorad-v-seloto-glasuvat-ednovremenno-za-kmet-i-prezident-1418618news.html",
       "pubDate": "2026-10-24T18:20:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/ebee497bf2ece448271ff141c3246856.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/ebee497bf2ece448271ff141c3246856.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/kak-se-gotvyat-da-glasuvat-v-belica-1418617news.html",
@@ -375,7 +375,7 @@
       "link": "https://bntnews.bg/news/kak-se-gotvyat-da-glasuvat-v-belica-1418617news.html",
       "pubDate": "2026-10-24T18:09:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/c09214d25e6acd365c19f78e0773d316.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/c09214d25e6acd365c19f78e0773d316.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/rekordna-izbiratelna-aktivnost-sred-prokurorite-koito-izbirat-predstaviteli-vav-vss-1418616news.html",
@@ -384,7 +384,7 @@
       "link": "https://bntnews.bg/news/rekordna-izbiratelna-aktivnost-sred-prokurorite-koito-izbirat-predstaviteli-vav-vss-1418616news.html",
       "pubDate": "2026-10-24T18:03:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/e354dfaa5599bc91b1a264093d23603c.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/e354dfaa5599bc91b1a264093d23603c.jpg"
     },
     {
       "id": "https://bntnews.bg/news/kak-se-glasuva-s-mashina-1418552news.html",
@@ -393,7 +393,7 @@
       "link": "https://bntnews.bg/news/kak-se-glasuva-s-mashina-1418552news.html",
       "pubDate": "2026-10-24T17:55:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/2019b15dd7315b12c4eed87d15f0b680.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/2019b15dd7315b12c4eed87d15f0b680.jpg"
     },
     {
       "id": "https://bntnews.bg/news/predsrochni-izbori-v-sarbiya-predizborno-malchanie-i-nastroeniya-1418614news.html",
@@ -402,7 +402,7 @@
       "link": "https://bntnews.bg/news/predsrochni-izbori-v-sarbiya-predizborno-malchanie-i-nastroeniya-1418614news.html",
       "pubDate": "2026-10-24T17:35:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/8905409435e7c0e79a2a5806b23ad1db.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/8905409435e7c0e79a2a5806b23ad1db.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/v-italiya-se-stigna-do-sblasaci-i-nasilie-mezhdu-protestirashti-i-policiya-1418612news.html",
@@ -411,7 +411,7 @@
       "link": "https://bntnews.bg/news/v-italiya-se-stigna-do-sblasaci-i-nasilie-mezhdu-protestirashti-i-policiya-1418612news.html",
       "pubDate": "2026-10-24T17:23:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/2972c3e6680e7e33bad720aeb4cdd8c3.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/2972c3e6680e7e33bad720aeb4cdd8c3.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-foreign-country/nad-400-000-dushi-se-vklyuchiha-dnes-protestite-vuv-franciya",
@@ -429,7 +429,7 @@
       "link": "https://bntnews.bg/news/vodni-oradiya-i-sblasaci-protestite-v-parizh-ot-parvo-lice-1418611news.html",
       "pubDate": "2026-10-24T17:15:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/b49559fcd39d9b1589efd5d5321ab584.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/b49559fcd39d9b1589efd5d5321ab584.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/koi-e-slavi-binev-1418610news.html",
@@ -438,7 +438,7 @@
       "link": "https://bntnews.bg/news/koi-e-slavi-binev-1418610news.html",
       "pubDate": "2026-10-24T17:06:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/aa94ecc512049e69e03d56f5978822b9.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/aa94ecc512049e69e03d56f5978822b9.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/neuredeni-finansovi-otnosheniya-e-vodeshtata-versiya-za-ubiystvoto-na-slavi-binev-1418609news.html",
@@ -447,7 +447,7 @@
       "link": "https://bntnews.bg/news/neuredeni-finansovi-otnosheniya-e-vodeshtata-versiya-za-ubiystvoto-na-slavi-binev-1418609news.html",
       "pubDate": "2026-10-24T17:04:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/22319525544e2120848769420ac62408.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/22319525544e2120848769420ac62408.png"
     },
     {
       "id": "https://www.segabg.com/hot/category-sport/cska-obyavi-zavrushtaneto-si-na-stadion-bulgarska-armiya",
@@ -465,7 +465,7 @@
       "link": "https://bntnews.bg/news/demonstraciya-v-madrid-250-000-dushi-v-zashtita-na-pensionnata-sistema-1418605news.html",
       "pubDate": "2026-10-24T16:18:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/5f08308c1b6d7312d255148d711ad340.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/5f08308c1b6d7312d255148d711ad340.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/votat-v-turciya-3-pati-poveche-sekcii-no-po-malko-zayavleniya-1418599news.html",
@@ -474,7 +474,7 @@
       "link": "https://bntnews.bg/news/votat-v-turciya-3-pati-poveche-sekcii-no-po-malko-zayavleniya-1418599news.html",
       "pubDate": "2026-10-24T16:10:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/81dcff6b60eb7d7f55da96886c2ad078.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/81dcff6b60eb7d7f55da96886c2ad078.jpg"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/zimata-mozhe-da-podnese-goliama-iznenada-poliarniiat-vihyr-e-zaplashen-ot-razcepvane-2470039",
@@ -492,7 +492,7 @@
       "link": "https://bntnews.bg/news/votat-vav-velikobritaniya-po-golyam-broi-sekcii-v-sravnenie-s-april-1418598news.html",
       "pubDate": "2026-10-24T15:35:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/74e6fd2902fe783137c48dc4612504da.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/74e6fd2902fe783137c48dc4612504da.jpeg"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/pod-zasilena-ohrana-dokaraha-v-sdvr-zapodozrenite-za-smyrtta-na-slavi-binev-2470038",
@@ -519,7 +519,7 @@
       "link": "https://bntnews.bg/news/kak-si-predstavyat-chetvartoklasnici-prezidenta-na-balgariya-1418593news.html",
       "pubDate": "2026-10-24T15:20:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/3fbed838db95dc826514d09c5f37d63c.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/3fbed838db95dc826514d09c5f37d63c.jpg"
     },
     {
       "id": "https://bntnews.bg/news/transportiraha-mazh-s-medicinski-helikopter-sled-tezhak-incident-s-atv-v-stranja-1418595news.html",
@@ -528,7 +528,7 @@
       "link": "https://bntnews.bg/news/transportiraha-mazh-s-medicinski-helikopter-sled-tezhak-incident-s-atv-v-stranja-1418595news.html",
       "pubDate": "2026-10-24T15:09:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/45adbc5574d7c05ab0388562dfa9f984.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/45adbc5574d7c05ab0388562dfa9f984.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-bulgaria/prokurorite-glasuvaha-masovo-na-izborite-za-vss",
@@ -564,7 +564,7 @@
       "link": "https://bntnews.bg/news/chernomorski-hab-za-sigurnost-shte-bade-obosoben-vav-varna-i-konstanca-1418584news.html",
       "pubDate": "2026-10-24T14:45:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/8dd4cfaab41ea1371486244cf55a4f43.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/8dd4cfaab41ea1371486244cf55a4f43.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/lovec-zastrelya-gabar-v-gorata-nad-gorno-dryanovo-mazhat-e-pochinal-1418590news.html",
@@ -573,7 +573,7 @@
       "link": "https://bntnews.bg/news/lovec-zastrelya-gabar-v-gorata-nad-gorno-dryanovo-mazhat-e-pochinal-1418590news.html",
       "pubDate": "2026-10-24T14:15:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/4085a56feef10301250458245242deb3.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/4085a56feef10301250458245242deb3.jpg"
     },
     {
       "id": "https://bntnews.bg/news/ukraina-vrazkata-sas-starlink-i-starshiyld-e-vazstanovena-1418588news.html",
@@ -582,7 +582,7 @@
       "link": "https://bntnews.bg/news/ukraina-vrazkata-sas-starlink-i-starshiyld-e-vazstanovena-1418588news.html",
       "pubDate": "2026-10-24T14:04:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/bbac1137112d20d28d09e8d3541c856f.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/bbac1137112d20d28d09e8d3541c856f.jpeg"
     },
     {
       "id": "https://www.economic.bg/bg/a/view/poluchavate-otgovori-ot-ai-bezplatno-koj-naistina-plashta-smetkata",
@@ -609,7 +609,7 @@
       "link": "https://bntnews.bg/news/samolet-se-razbi-v-dvora-na-kashta-krai-pleven-1418587news.html",
       "pubDate": "2026-10-24T13:50:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/8a5e9a8950d3f785bff2e35861b8df88.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/8a5e9a8950d3f785bff2e35861b8df88.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/zadarzhaha-zapodozryan-za-pozhar-v-orlovo-gnezdo-bivshata-rezidenciya-na-hitler-1418585news.html",
@@ -618,7 +618,7 @@
       "link": "https://bntnews.bg/news/zadarzhaha-zapodozryan-za-pozhar-v-orlovo-gnezdo-bivshata-rezidenciya-na-hitler-1418585news.html",
       "pubDate": "2026-10-24T13:43:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/fd2fa5083486563a8603206096d01743.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/fd2fa5083486563a8603206096d01743.jpg"
     },
     {
       "id": "https://dariknews.bg/regioni/pleven/malyk-ucheben-samolet-padna-v-dvor-kraj-pleven-pilotyt-e-zaginal-snimki-2470035",
@@ -663,7 +663,7 @@
       "link": "https://bntnews.bg/news/mazh-i-zhena-postradaha-pri-sbivane-v-petrich-ima-zadarzhan-1418582news.html",
       "pubDate": "2026-10-24T13:07:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/9017061378c72ac7be8e3a15fd3acfff.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/9017061378c72ac7be8e3a15fd3acfff.jpeg"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/kamera-zasne-trimata-zadyrzhani-za-ubijstvoto-na-slavi-binev-v-pavlovo-video-2470033",
@@ -717,7 +717,7 @@
       "link": "https://bntnews.bg/news/ekskluzivno-za-bnt-kadri-ot-ohranitelnite-kameri-na-gostite-na-binev-zapodozreni-za-negovoto-ubiystvo-1418574news.html",
       "pubDate": "2026-10-24T11:55:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/9ccff57eab772a81e354e80b4949d1a4.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/9ccff57eab772a81e354e80b4949d1a4.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/razdadoha-izbornite-knizha-v-smolyan-1418572news.html",
@@ -726,7 +726,7 @@
       "link": "https://bntnews.bg/news/razdadoha-izbornite-knizha-v-smolyan-1418572news.html",
       "pubDate": "2026-10-24T11:40:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/1fd564e944e4d501163f42ea3bc31b4d.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/1fd564e944e4d501163f42ea3bc31b4d.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/zapochna-razdavaneto-na-izbornite-knizha-v-obshtina-belica-1418571news.html",
@@ -735,7 +735,7 @@
       "link": "https://bntnews.bg/news/zapochna-razdavaneto-na-izbornite-knizha-v-obshtina-belica-1418571news.html",
       "pubDate": "2026-10-24T11:36:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/b8abf61710ae5485ce1dd632c6bab3bd.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/b8abf61710ae5485ce1dd632c6bab3bd.jpeg"
     },
     {
       "id": "https://www.segabg.com/hot/category-economy/api-chupi-novi-rekordi-stroi-1-kilometur-za-40-mln-evro",
@@ -780,7 +780,7 @@
       "link": "https://bntnews.bg/news/kade-sa-zadarzhani-zapodozrenite-za-ubiystvoto-na-slavi-binev-snimki-1418566news.html",
       "pubDate": "2026-10-24T10:23:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/cab023b6337911258a70ef11d24643ec.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/cab023b6337911258a70ef11d24643ec.jpeg"
     },
     {
       "id": "https://www.economic.bg/bg/a/view/karta-na-bezraboticata-v-es-i-mjastoto-na-bylgarija-grafika",
@@ -798,7 +798,7 @@
       "link": "https://bntnews.bg/news/sutreshnata-magla-v-poslednata-nedelya-za-oktomvri-1418563news.html",
       "pubDate": "2026-10-24T09:57:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/eeea890c744c28d51f7bcb1c37c7e0ad.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/eeea890c744c28d51f7bcb1c37c7e0ad.png"
     },
     {
       "id": "tag:boulevardbulgaria.bg,2005:Article/49008",
@@ -816,7 +816,7 @@
       "link": "https://bntnews.bg/news/noviyat-vss-izbirat-chlenovete-ot-prokurorskata-kvota-1418557news.html",
       "pubDate": "2026-10-24T09:35:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/50a2b0eda8008292d2e56b5faa82ca8a.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/50a2b0eda8008292d2e56b5faa82ca8a.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/trima-sa-zadarzhani-za-ubiystvoto-na-slavi-binev-saobshti-glavniyat-sekretar-na-mvr-1418562news.html",
@@ -825,7 +825,7 @@
       "link": "https://bntnews.bg/news/trima-sa-zadarzhani-za-ubiystvoto-na-slavi-binev-saobshti-glavniyat-sekretar-na-mvr-1418562news.html",
       "pubDate": "2026-10-24T09:28:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/77fab463a4824076549bee5272cf29cd.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/77fab463a4824076549bee5272cf29cd.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/kakva-e-podgotovkata-za-glasuvane-na-balgarite-v-turciya-1418559news.html",
@@ -834,7 +834,7 @@
       "link": "https://bntnews.bg/news/kakva-e-podgotovkata-za-glasuvane-na-balgarite-v-turciya-1418559news.html",
       "pubDate": "2026-10-24T09:19:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/67a1b72f3dbeedae66352e08ebbe5c64.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/67a1b72f3dbeedae66352e08ebbe5c64.png"
     },
     {
       "id": "tag:boulevardbulgaria.bg,2005:Article/49007",
@@ -852,7 +852,7 @@
       "link": "https://bntnews.bg/news/predizborno-malchanie-predi-predsrochniya-vot-v-sarbiya-1418546news.html",
       "pubDate": "2026-10-24T09:11:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/269309ed8b41751d813105834ad1d3d2.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/269309ed8b41751d813105834ad1d3d2.png"
     },
     {
       "id": "https://www.segabg.com/hot/category-bulgaria/slavi-binev-be-zastrelyan-sofiya",
@@ -879,7 +879,7 @@
       "link": "https://bntnews.bg/news/sreshta-na-vanshnite-ministri-na-balgariya-i-franciya-dvamata-obsadiha-vav-varna-sigurnostta-v-cherno-more-1418558news.html",
       "pubDate": "2026-10-24T08:56:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/533f87aa09c089139999e1029c575dca.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/533f87aa09c089139999e1029c575dca.png"
     },
     {
       "id": "tag:boulevardbulgaria.bg,2005:Article/49006",
@@ -906,7 +906,7 @@
       "link": "https://bntnews.bg/news/ukraina-saobshti-che-barzata-vrazka-sas-starlink-e-vazstanovena-1418556news.html",
       "pubDate": "2026-10-24T08:23:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/b83a6dfb3f526b531f53ff7ccf652114.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/b83a6dfb3f526b531f53ff7ccf652114.jpeg"
     },
     {
       "id": "https://dariknews.bg/novini/bylgariia/koj-e-slavi-binev-biografiia-2470027",
@@ -942,7 +942,7 @@
       "link": "https://bntnews.bg/news/pozharnikari-i-dobrovolci-provedoha-uchenie-za-gorski-pozhar-v-burgas-1418551news.html",
       "pubDate": "2026-10-24T07:45:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/7a966303eb59324b3c1f604c6dcb0f32.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/7a966303eb59324b3c1f604c6dcb0f32.jpeg"
     },
     {
       "id": "https://www.economic.bg/bg/a/view/lipsvashtite-2-7-km-ot-struma-kraj-simitli-veche-imat-izpylniteli-sreshtu-93-mln-evro",
@@ -960,7 +960,7 @@
       "link": "https://bntnews.bg/news/zapochna-razdavaneto-na-izbornite-knizha-v-sik-blagoevgrad-1418550news.html",
       "pubDate": "2026-10-24T07:39:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/852d9c9d22fde4685670126605f37273.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/852d9c9d22fde4685670126605f37273.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/653-mashini-shte-badat-izpolzvani-v-burgaska-oblast-za-izborite-v-nedelya-1418549news.html",
@@ -969,7 +969,7 @@
       "link": "https://bntnews.bg/news/653-mashini-shte-badat-izpolzvani-v-burgaska-oblast-za-izborite-v-nedelya-1418549news.html",
       "pubDate": "2026-10-24T07:33:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/5b081616327488b6883bcacb24857fb9.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/5b081616327488b6883bcacb24857fb9.jpeg"
     },
     {
       "id": "tag:boulevardbulgaria.bg,2005:Article/49002",
@@ -987,7 +987,7 @@
       "link": "https://bntnews.bg/news/zapochvat-proslushvaniyata-za-rolyata-na-jeims-bond-koi-shte-bade-noviyat-agent-007-1418544news.html",
       "pubDate": "2026-10-24T07:31:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/ab22e16a4a7605ab946f520350e909e3.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/ab22e16a4a7605ab946f520350e909e3.png"
     },
     {
       "id": "tag:boulevardbulgaria.bg,2005:Article/48948",
@@ -1032,7 +1032,7 @@
       "link": "https://bntnews.bg/news/bivshiyat-nachalnik-na-nso-povedenieto-na-koltuklieva-ne-e-zhurnalistika-1418540news.html",
       "pubDate": "2026-10-24T06:51:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/458baa52c069dfb02b01b0a3566252db.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/458baa52c069dfb02b01b0a3566252db.png"
     },
     {
       "id": "tag:boulevardbulgaria.bg,2005:Article/48999",
@@ -1095,7 +1095,7 @@
       "link": "https://bntnews.bg/news/sbivane-mezhdu-dve-vrazhduvashti-grupi-v-petrich-zavarshi-s-dvama-postradali-i-edin-zadarzhan-1418538news.html",
       "pubDate": "2026-10-24T05:51:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/4c5e4d553ddc3af7aff91c2350d1bb58.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/4c5e4d553ddc3af7aff91c2350d1bb58.jpg"
     },
     {
       "id": "https://bntnews.bg/news/podgotovkata-za-vota-v-blagoevgradska-oblast-1418532news.html",
@@ -1104,7 +1104,7 @@
       "link": "https://bntnews.bg/news/podgotovkata-za-vota-v-blagoevgradska-oblast-1418532news.html",
       "pubDate": "2026-10-24T05:07:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/d6cbad030463983bc59707d79bd07c12.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/d6cbad030463983bc59707d79bd07c12.jpg"
     },
     {
       "id": "https://bntnews.bg/news/transportirani-sa-mashinite-za-glasuvane-vav-varna-za-utreshniya-vot-1418531news.html",
@@ -1113,7 +1113,7 @@
       "link": "https://bntnews.bg/news/transportirani-sa-mashinite-za-glasuvane-vav-varna-za-utreshniya-vot-1418531news.html",
       "pubDate": "2026-10-24T05:05:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/8fe39f42970a5c20d376f84cfb626112.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/8fe39f42970a5c20d376f84cfb626112.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/s-1-chas-nazad-tazi-nosht-se-vrashtame-kam-astronomicheskoto-chasovo-vreme-1417929news.html",
@@ -1122,7 +1122,7 @@
       "link": "https://bntnews.bg/news/s-1-chas-nazad-tazi-nosht-se-vrashtame-kam-astronomicheskoto-chasovo-vreme-1417929news.html",
       "pubDate": "2026-10-24T05:03:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1417/4941475eacfd77267683d9f78c7e1b26.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1417/4941475eacfd77267683d9f78c7e1b26.jpeg"
     },
     {
       "id": "https://bntnews.bg/news/franciya-se-gotvi-za-nov-den-na-protesti-1418530news.html",
@@ -1131,7 +1131,7 @@
       "link": "https://bntnews.bg/news/franciya-se-gotvi-za-nov-den-na-protesti-1418530news.html",
       "pubDate": "2026-10-24T04:46:00.000Z",
       "sourceId": "bnt",
-      "imageUrl": "https://news.bnt.bg/f/news/b/1418/eb2f7be4944913a7c798f1caf50e2681.webp"
+      "imageUrl": "https://news.bnt.bg/f/news/m/1418/eb2f7be4944913a7c798f1caf50e2681.jpeg"
     }
   ]
 }
