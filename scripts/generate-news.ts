@@ -4,7 +4,11 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 import { promisify } from "node:util";
 import { sources } from "../src/sources.js";
+import { analyzeStories } from "../src/stories.js";
 import type { NewsItem, NewsPayload, NewsSource } from "../src/types.js";
+
+/** A parsed feed item, plus the outlet's own <category> labels used for classification. */
+export type FeedItem = NewsItem & { rssCategories?: string[] };
 
 const execFileAsync = promisify(execFile);
 const userAgent =
@@ -43,12 +47,30 @@ export const textOf = (value: XmlNode): string => {
   return "";
 };
 
+const namedEntities: Record<string, string> = {
+  nbsp: " ",
+  hellip: "…",
+  ndash: "–",
+  mdash: "—",
+  bdquo: "„",
+  ldquo: "“",
+  rdquo: "”",
+  laquo: "«",
+  raquo: "»",
+};
+
+/** Numeric character references; control characters (e.g. &#13;) become spaces. */
+const decodeCodePoint = (code: number) =>
+  code < 32 || code > 0x10ffff || Number.isNaN(code) ? " " : String.fromCodePoint(code);
+
 export const stripHtml = (html: XmlNode = "") =>
   textOf(html)
     .replace(/<script[\s\S]*?<\/script>/gi, " ")
     .replace(/<style[\s\S]*?<\/style>/gi, " ")
     .replace(/<[^>]+>/g, " ")
-    .replace(/&nbsp;/g, " ")
+    .replace(/&#(\d+);/g, (_, code: string) => decodeCodePoint(Number(code)))
+    .replace(/&#x([\da-f]+);/gi, (_, code: string) => decodeCodePoint(parseInt(code, 16)))
+    .replace(/&(nbsp|hellip|ndash|mdash|bdquo|ldquo|rdquo|laquo|raquo);/g, (_, name: string) => namedEntities[name])
     .replace(/&amp;/g, "&")
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
@@ -99,14 +121,22 @@ const toIsoDate = (value: XmlNode) => {
   return Number.isNaN(date.getTime()) ? new Date(0).toISOString() : date.toISOString();
 };
 
-export const mapFeed = (xml: string, source: NewsSource): NewsItem[] => {
+/** RSS <category>text</category> or Atom <category term="..."/> labels. */
+const categoryLabels = (value: XmlNode) => {
+  const labels = asArray(value)
+    .map((entry) => (isRecord(entry) && typeof entry.term === "string" ? entry.term : stripHtml(entry)))
+    .filter(Boolean);
+  return labels.length ? { rssCategories: labels } : {};
+};
+
+export const mapFeed = (xml: string, source: NewsSource): FeedItem[] => {
   const feed = parser.parse(xml) as XmlObject;
   const atomFeed = feed.feed;
 
   if (isRecord(atomFeed) && atomFeed.entry) {
     return asArray(atomFeed.entry)
       .filter(isRecord)
-      .map((entry): NewsItem => {
+      .map((entry): FeedItem => {
         const link = firstLink(entry.link);
         const summary = entry.summary ?? entry.content ?? "";
 
@@ -118,6 +148,7 @@ export const mapFeed = (xml: string, source: NewsSource): NewsItem[] => {
           pubDate: toIsoDate(entry.published ?? entry.updated),
           sourceId: source.id,
           imageUrl: mediaImage(entry),
+          ...categoryLabels(entry.category),
         };
       })
       .filter((item) => item.title && item.link && item.pubDate);
@@ -130,7 +161,7 @@ export const mapFeed = (xml: string, source: NewsSource): NewsItem[] => {
 
   return asArray(items)
     .filter(isRecord)
-    .map((item): NewsItem => {
+    .map((item): FeedItem => {
       const link = textOf(item.link);
       return {
         id: textOf(item.guid) || link,
@@ -140,6 +171,7 @@ export const mapFeed = (xml: string, source: NewsSource): NewsItem[] => {
         pubDate: toIsoDate(item.pubDate ?? item["dc:date"]),
         sourceId: source.id,
         imageUrl: mediaImage(item),
+        ...categoryLabels(item.category ?? item["dc:subject"]),
       };
     })
     .filter((item) => item.title && item.link && item.pubDate);
@@ -193,7 +225,7 @@ const parseSourceXml = (xml: string, source: NewsSource) => {
   return items;
 };
 
-const fetchSource = async (source: NewsSource): Promise<NewsItem[]> => {
+const fetchSource = async (source: NewsSource): Promise<FeedItem[]> => {
   let firstError: unknown;
 
   try {
@@ -221,11 +253,11 @@ const readPreviousPayload = async () =>
 const errorMessage = (error: unknown) => (error instanceof Error ? error.message : String(error));
 
 export const mergeSourceResults = (
-  settled: PromiseSettledResult<NewsItem[]>[],
+  settled: PromiseSettledResult<FeedItem[]>[],
   previousPayload: NewsPayload | null,
 ) => {
   const errors: NewsPayload["errors"] = [];
-  const items: NewsItem[] = [];
+  const items: FeedItem[] = [];
   const warnings: NewsPayload["errors"] = [];
 
   settled.forEach((result, index) => {
@@ -259,11 +291,13 @@ export const generateNews = async () => {
 
   items.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
 
+  const generatedAt = new Date();
   const payload: NewsPayload = {
-    generatedAt: new Date().toISOString(),
+    generatedAt: generatedAt.toISOString(),
     sources: [...sources],
     errors,
-    items: items.slice(0, 120),
+    // Analyse the newest stories (categories, cross-outlet grouping, importance) and keep 120 of them.
+    items: analyzeStories(items.slice(0, 160), generatedAt.getTime()).slice(0, 120),
   };
 
   await mkdir("public", { recursive: true });
