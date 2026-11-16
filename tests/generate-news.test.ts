@@ -9,6 +9,12 @@ describe("stripHtml", () => {
   it("removes markup and decodes common entities", () => {
     expect(stripHtml("<p>One&nbsp;&amp;&nbsp;<strong>two</strong></p>")).toBe("One & two");
   });
+
+  it("decodes numeric and typographic entities", () => {
+    expect(stripHtml("Едно.&#13; Две &#8222;три&#8220; &bdquo;четири&ldquo;&hellip; &#x41;")).toBe(
+      "Едно. Две „три“ „четири“… A",
+    );
+  });
 });
 
 describe("mapFeed", () => {
